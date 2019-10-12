@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>判断显示内容是否存在省略号</title>
+</head>
+
+<body>
+	<div>=========</div>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script>
+        // 谷歌浏览器在访问本地文件时 存在跨域问题
+         $(function () {
+             $.ajax({
+                 url: 'dddd.json',
+                 type: 'get',
+                 success: function (res) {
+                     console.log(res);
+                     //console.log((JSON.stringify(res.pro[0].name)));
+                 }
+             })
+         })
+    </script>
+     <!-- // 可以使用jsonp进行跨域 不过jsonp只支持get请求 -->
+ 
+     <script>
+     function demo(res){
+         console.log(res)
+     }
+     </script>
+      <!-- 注意：引入的文件名需要和json文件中的函数名需要相同 并且引入的json文件需要写在定义函数之上 否则会读取json文件失败 -->
+     <script src="http://jsonjs.com//info.js?callback=jsonpCallback"></script>
+</body>
+</html>
