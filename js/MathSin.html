@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Document</title>
+<style>
+#box{width:30px;height:30px;background:red;position:absolute;top:400px;left:400px;border-radius:15px;}
+</style>
+</head>
+<body>
+<div id="box"></div>
+</body>
+
+<script>
+var obox = document.getElementById('box');
+var r=100;
+document.onmousemove=function(ev){
+var oev = ev||event;
+console.log(obox);
+//计算对边和斜边
+var x = Math.abs(oev.clientX-obox.offsetLeft);
+var y = Math.abs(oev.clientY-obox.offsetTop);
+//用atan求弧度
+var angle = Math.atan(y/x);
+var cx=0;
+var cy=0;
+//判断移动方向和象限，求deltaX和deltaY
+if(oev.clientX>=obox.offsetLeft && oev.clientY<=obox.offsetTop){
+cx = Math.cos(angle)*r;
+cy = Math.sin(angle)*-r;
+}
+if(oev.clientX<obox.offsetLeft && oev.clientY<obox.offsetTop){
+cx = Math.cos(angle)*-r;
+cy = Math.sin(angle)*-r;
+}
+if(oev.clientX<obox.offsetLeft && oev.clientY>obox.offsetTop){
+cx = Math.cos(angle)*-r;
+cy = Math.sin(angle)*r;
+}
+if(oev.clientX>obox.offsetLeft && oev.clientY>obox.offsetTop){
+cx = Math.cos(angle)*r;
+cy = Math.sin(angle)*r;
+}
+//进行数值实时改变
+obox.style.top = 400+cy+'px';
+obox.style.left = 400+cx+'px';
+}
+</script>
+</html>
