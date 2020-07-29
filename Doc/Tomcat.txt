@@ -1,3 +1,84 @@
-Console乱码
+Console乱码：
 打开cof/logging.properties文件，找到文件中的java.util.logging.ConsoleHandler.encoding = UTF-8改为GBK
---------------
+======================
+server端DOS窗口布局：
+1280  800
+180  40
+====================
+同一台服务器Tomcat上配置多个IP地址，对应多个APP的映射路径：
+ <Host name="192.168.100.205"  appBase="webapps"
+            unpackWARs="true" autoDeploy="true"
+            xmlValidation="false" xmlNamespaceAware="false">
+            <Context path="" docBase="C:\Tomcat6\webapps\jidu" debug="0" />            
+ </Host>
+    
+  <Host name="192.168.100.204"  appBase="webapps"
+            unpackWARs="true" autoDeploy="true"
+            xmlValidation="false" xmlNamespaceAware="false">
+            <Context path="" docBase="C:\Tomcat6\webapps\lasa" debug="0" />            
+  </Host>
+=========================
+  内存优化：
+  Windows下：
+    在文件/bin/catalina.bat里找/ JAVA_OPTS
+设置  JAVA_OPTS="-Xms 1024m –Xmx 1520m"（依据实际内存调整）
+Linux下：
+    在文件/bin/catalina.sh里
+# OS specific support. $var _must_ be set to either true or false.
+# 修改JVM内存大小
+#JAVA_OPTS=’-Xms【初始化最小内存】 -Xmx【可以使用的最大内存】 -XX:PermSize=【内存永久保留区域】 -XX:MaxPermSize=【内存最大永久保留区域】’
+JAVA_OPTS="-Dfile.encoding=UTF-8 -server -Xms2048m -Xmx2048m 
+-XX:NewSize=512m -XX:MaxNewSize=1024m -XX:PermSize=256m -XX:MaxPermSize=256m -XX:MaxTenuringThreshold=10 -XX:NewRatio=2 -XX:+DisableExplicitGC"
+  检测：重启tomcat
+sudo lsof -i:9027    得到进程号
+sudo jmap – heap 12222    查看MaxHeapSize 等参数
+========================
+Tomcat并发优化 server.xml/连接器connector并发：
+　　maxThreads 客户请求最大线程数 
+　　minSpareThreads Tomcat初始化时创建的 socket 线程数 
+　　maxSpareThreads Tomcat连接器的最大空闲 socket 线程数 
+　　enableLookups 若设为true, 则支持域名解析，可把 ip 地址解析为主机名 
+　　redirectPort 在需要基于安全通道的场合，把客户请求转发到基于SSL 的 redirectPort 端口 
+　　acceptAccount 监听端口队列最大数，满了之后客户请求会被拒绝（不能小于maxSpareThreads ） 
+　　connectionTimeout 连接超时 
+　　minProcessors 服务器创建时的最小处理线程数 
+　　maxProcessors 服务器同时最大处理线程数 
+　　URIEncoding URL统一编码　
+//-------------------------------------
+　　<Connector port="9027"
+　　protocol="HTTP/1.1"
+　　maxHttpHeaderSize="8192"
+　　maxThreads="1000"
+　　minSpareThreads="100"
+　　maxSpareThreads="1000"
+　　minProcessors="100"
+　　maxProcessors="1000"
+　　enableLookups="false"
+　　URIEncoding="utf-8"
+　　acceptCount="1000"
+　　redirectPort="8443"
+　　disableUploadTimeout="true"/>
+----------------------------------------------------
+<Executorname="tomcatThreadPool"namePrefix="catalina-exec-"maxThreads="500"
+minSpareThreads="100" prestartminSpareThreads = "true" maxQueueSize = "100"/>
+===============================
+//--------------300万并发线程池更改-------------------
+　　<Connector port="9027"
+　　protocol="HTTP/1.1"
+　　maxHttpHeaderSize="8192"
+　　maxThreads="1000"
+　　minSpareThreads="100"
+　　maxSpareThreads="1000"
+　　minProcessors="100"
+　　maxProcessors="1000"
+　　enableLookups="false"
+　　compression="on"
+　　compressionMinSize="2048"
+　　compressableMimeType="text/html,text/xml,text/javascript,text/css,text/plain"
+　　connectionTimeout="20000"
+　　URIEncoding="utf-8"
+　　acceptCount="1000"
+　　redirectPort="8443"
+　　disableUploadTimeout="true"/>
+  ================
+  
