@@ -1,0 +1,54 @@
+默认搜索引擎：
+https://www.baidu.com/s?ie=utf-8&wd=%s 百度
+https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
+自定义搜索引擎（默认）：
+b|ba|baidu: https://www.baidu.com/s?ie=utf-8&wd=%s Baidu
+bi|bing: https://www.bing.com/search?q=%s Bing
+g|go|gg|google: https://www.google.com/search?q=%s Google
+js\:|Js: javascript:\ $S; JavaScript
+w|wiki:\
+  https://www.wikipedia.org/w/index.php?search=%s Wikipedia
+v.m|v\:math: vimium://math\ $S re= Calculate
+
+# More examples.
+#
+# (Vimium C supports search completion Google, Wikipedia,
+# and so on, as above, and for these.)
+#
+# l: https://www.google.com/search?q=%s&btnI I'm feeling lucky
+# y: https://www.youtube.com/results?search_query=%s YouTube
+# gm: https://www.google.com/maps?q=%s Google maps
+# d: https://duckduckgo.com/?q=%s DuckDuckGo
+# az: https://www.amazon.com/s/?field-keywords=%s Amazon
+# qw: https://www.qwant.com/?q=%s Qwant
+
+自定义搜索引擎（修改的）：
+g: https://www.google.com/search?q=%s Google
+G: https://www.google.com/search?q=%s Google
+zh: https://www.zhihu.com/search?type=content&q=%s 知乎
+ZH: https://www.zhihu.com/search?type=content&q=%s 知乎
+tb https://s.taobao.com/search?q=%s 淘宝
+TB https://s.taobao.com/search?q=%s 淘宝
+jd https://search.jd.com/Search?keyword=%s 京东
+JD https://search.jd.com/Search?keyword=%s 京东
+bd: https://www.baidu.com/s?wd=%s 百度
+BD: https://www.baidu.com/s?wd=%s 百度
+bz https://search.bilibili.com/all?keyword=%s b站
+BZ https://search.bilibili.com/all?keyword=%s b站
+az: https://www.amazon.com/s/?field-keywords=%s Amazon
+AZ: https://www.amazon.com/s/?field-keywords=%s Amazon
+aqy https://so.iqiyi.com/so/q_%s 爱奇艺
+AQY https://so.iqiyi.com/so/q_%s 爱奇艺
+tm https://list.tmall.com/search_product.htm?q=%s 天猫
+TM https://list.tmall.com/search_product.htm?q=%s 天猫
+yk https://so.youku.com/search_video/q_%s 优酷
+YK https://so.youku.com/search_video/q_%s 优酷
+db https://www.douban.com/search?q=%s 豆瓣
+DB https://www.douban.com/search?q=%s 豆瓣
+y: https://www.youtube.com/results?search_query=%s Youtube
+Y: https://www.youtube.com/results?search_query=%s Youtube
+# l: https://www.google.com/search?q=%s&btnI I'm feeling lucky...
+# gm: https://www.google.com/maps?q=%s Google maps
+# b: https://www.bing.com/search?q=%s Bing
+# d: https://duckduckgo.com/?q=%s DuckDuckGo
+# qw: https://www.qwant.com/?q=%s Qwant
