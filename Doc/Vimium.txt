@@ -1,3 +1,25 @@
+自定义快捷键：
+#insert your preferred key mappings here.
+map w scrollUp
+map s scrollDown
+map a scrollPageUp
+map d scrollPageDown
+
+======参考=====
+#上下左右
+map w scrollUp
+map s scrollDown
+map a scrollLeft
+map d scrollRight
+#半页滚动-h/l
+map l scrollPageDown
+map h scrollPageUp
+#后退/前进-j/k
+map j goBack
+map k goForward
+
+
+2020.7.30
 默认搜索引擎：
 https://www.baidu.com/s?ie=utf-8&wd=%s 百度
 https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
