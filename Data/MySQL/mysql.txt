@@ -1,0 +1,41 @@
+#前提：配置了path；或者进入mysql文件bin目录下执行
+--DOS操作--
+mysql -h localhost -u root -p
+===============
+mysql(客户端程序) -u(用户) root -p(密码)
+ - mysql -u root -p;
+ - use ***
+ - show databases;
+ - show tables;
+ - select user();
+ - user();
+ - status 
+ - select now();
+ - ? functions
+ - ? ....
+-------设置root密码------
+mysql> use mysql;
+mysql> update mysql.user set authentication_string=password('rensi') where user='root'; 
+mysql> flush privileges;
+mysql> quit
+--查看所有用户
+mysql> SELECT DISTINCT CONCAT('User: ''',user,'''@''',host,''';') AS query FROM mysql.user;
+------设置字符集----------
+--查看
+show variables like '%char%';	查看系统所有设置字符集
+SHOW CHARACTER SET;
+SHOW COLLATION;
+ SHOW VARIABLES LIKE ‘character%’;
+ SHOW VARIABLES LIKE ‘collation%’;
+set names utf8;
+--设置字符集
+– character_set_server：默认的内部操作字符集
+– character_set_client：客户端来源数据使用的字符集
+– character_set_connection：连接层字符集
+– character_set_results：查询结果字符集
+– character_set_database：当前选中数据库的默认字符集
+– character_set_system：系统元数据(字段名等)字符集
+     mysql> SET character_set_client = utf8 ;
+     mysql> SET character_set_connection = utf8 ;
+     mysql> SET character_set_database = utf8 ;
+     m
