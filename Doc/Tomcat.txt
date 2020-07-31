@@ -1,11 +1,30 @@
-Console乱码：
+========自动提示设置>>========
+window-->preferences-->java -->editor --> Content Assist
+找Auto activation trigger for java：. 改为 .abc
+file --> export --> general --> preferences  到桌面
+打开文件找到.abc 改为 .abcdefghijklmnopqrstuvwxyz
+file --> inport   .abcdefghijklmnopqrstuvwxyz
+=======Tomcat热加载>web.xml>>=====
+        <servlet-class>org.apache.catalina.servlets.DefaultServlet</servlet-class>
+		<init-param>
+			<param-name>development</param-name>
+			<param-value>true</param-value>
+		</init-param>
+        <init-param>
+            <param-name>debug</param-name>
+            <param-value>0</param-value>
+        </init-param>
+=========项目路径重复web.xml>>=======
+  <context-param>
+  	<param-name>webAppRootKey</param-name>
+  	<param-value>app.root</param-value>
+  </context-param>
+=======Console乱码========
 打开cof/logging.properties文件，找到文件中的java.util.logging.ConsoleHandler.encoding = UTF-8改为GBK
-======================
-server端DOS窗口布局：
+=========server端DOS窗口布局==========
 1280  800
 180  40
-====================
-同一台服务器Tomcat上配置多个IP地址，对应多个APP的映射路径：
+=======同一台服务器Tomcat上配置多个IP地址，对应多个APP的映射路径=============
  <Host name="192.168.100.205"  appBase="webapps"
             unpackWARs="true" autoDeploy="true"
             xmlValidation="false" xmlNamespaceAware="false">
@@ -17,8 +36,7 @@ server端DOS窗口布局：
             xmlValidation="false" xmlNamespaceAware="false">
             <Context path="" docBase="C:\Tomcat6\webapps\lasa" debug="0" />            
   </Host>
-=========================
-  内存优化：
+===========内存优化==============
   Windows下：
     在文件/bin/catalina.bat里找/ JAVA_OPTS
 设置  JAVA_OPTS="-Xms 1024m –Xmx 1520m"（依据实际内存调整）
@@ -32,8 +50,7 @@ JAVA_OPTS="-Dfile.encoding=UTF-8 -server -Xms2048m -Xmx2048m
   检测：重启tomcat
 sudo lsof -i:9027    得到进程号
 sudo jmap – heap 12222    查看MaxHeapSize 等参数
-========================
-Tomcat并发优化 server.xml/连接器connector并发：
+==========Tomcat并发优化 server.xml/连接器connector并发==============
 　　maxThreads 客户请求最大线程数 
 　　minSpareThreads Tomcat初始化时创建的 socket 线程数 
 　　maxSpareThreads Tomcat连接器的最大空闲 socket 线程数 
@@ -61,8 +78,7 @@ Tomcat并发优化 server.xml/连接器connector并发：
 ----------------------------------------------------
 <Executorname="tomcatThreadPool"namePrefix="catalina-exec-"maxThreads="500"
 minSpareThreads="100" prestartminSpareThreads = "true" maxQueueSize = "100"/>
-===============================
-//--------------300万并发线程池更改-------------------
+=============300万并发线程池更改==================
 　　<Connector port="9027"
 　　protocol="HTTP/1.1"
 　　maxHttpHeaderSize="8192"
@@ -80,5 +96,4 @@ minSpareThreads="100" prestartminSpareThreads = "true" maxQueueSize = "100"/>
 　　acceptCount="1000"
 　　redirectPort="8443"
 　　disableUploadTimeout="true"/>
-  ================
-  
+  =======================
