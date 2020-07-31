@@ -1,124 +1,124 @@
---³õÊ¼»¯
-git config ¨Cglobal user.name ¡®xxxxx¡¯ 
-git config ¨Cglobal user.email ¡®xxx@xx.xxx¡¯
-ssh-keygen -t rsa -C ¡®ÉÏÃæµÄÓÊÏä¡¯
-Ö¸¶¨Ä¿Â¼£º   C:\MykeysForGit\
-²âÊÔ£º    ssh -T git@github.com 
---£¡£¡£¡¹ØÁªÔ¶³Ì²Ö¿â(SSH)£º
-  ÏÈ²é¿´
+--åˆå§‹åŒ–
+git config â€“global user.name â€˜xxxxxâ€™ 
+git config â€“global user.email â€˜xxx@xx.xxxâ€™
+ssh-keygen -t rsa -C â€˜ä¸Šé¢çš„é‚®ç®±â€™
+æŒ‡å®šç›®å½•ï¼š   C:\MykeysForGit\id_rsa
+æµ‹è¯•ï¼š    ssh -T git@github.com 
+--ï¼ï¼ï¼å…³è”è¿œç¨‹ä»“åº“(SSH)ï¼š
+  å…ˆæŸ¥çœ‹
 git remote -v
---Ìí¼Ó¶à¸öremote  URL
-git remote add origin <url>	//Ìí¼ÓµÚÒ»¸öµØÖ·
-git remote set-url --add origin https://github.com/AmbroseRen/databases.git   //Ìí¼ÓµÚ¶ş¸öµØÖ·
---É¾³ıĞŞ¸ÄURL
+--æ·»åŠ å¤šä¸ªremote  URL
+git remote add origin <url>	//æ·»åŠ ç¬¬ä¸€ä¸ªåœ°å€
+git remote set-url --add origin https://github.com/AmbroseRen/databases.git   //æ·»åŠ ç¬¬äºŒä¸ªåœ°å€
+--åˆ é™¤ä¿®æ”¹URL
 git remote rm origin
 git remote set-url origin https://github.com/AmbroseRen/databases.git
---ÍÆËÍµ½GitHubÉÏ£º 
---×¼±¸¹¤×÷£º 
+--æ¨é€åˆ°GitHubä¸Šï¼š 
+--å‡†å¤‡å·¥ä½œï¼š 
 git init
 git add .
-git commit -m "Ìá½»×¢ÊÍ"
-git push origin master	//ÍÆËÍËùÓĞÎÄ¼ş
---ÍÆËÍµ½Ö¸¶¨¿â
+git commit -m "æäº¤æ³¨é‡Š"
+git push origin master	//æ¨é€æ‰€æœ‰æ–‡ä»¶
+--æ¨é€åˆ°æŒ‡å®šåº“
 git push -u origin Hike
---Í¬²½£º
+--åŒæ­¥ï¼š
 git pull --rebase origin master
-///////ÊÖ¶¯ĞŞ¸ÄÅäÖÃÎÄ¼ş
-vi git/config	vim±à¼­Æ÷Ä£Ê½
+///////æ‰‹åŠ¨ä¿®æ”¹é…ç½®æ–‡ä»¶
+vi git/config	vimç¼–è¾‘å™¨æ¨¡å¼
 
-git branch -v<¿É¿´µ½Ã¿¸ö·ÖÖ§×îºóÒ»´ÎÌá½»>  ²é¿´·ÖÖ§
-git rebase origin  ´´½¨ĞÂ·ÖÖ§±£´æ/ºÏ²¢·ÖÖ§
-git add filename  ×·¼ÓÌá½»³åÍ»ÎÄ¼ş-
-git rebase --continue  ¼ÌĞøºÏ²¢
-git merge [alias][/branch]  À­È¡·ÖÖ§µ½µ±Ç°·ÖÖ§
-git branch -d(branchname)  É¾³ı·ÖÖ§
-git init  ³õÊ¼»¯Ò»¸ö.gitÎÄ¼ş¼Ğ
-git clone [url]  ¿ËÂ¡Ö¸¶¨²Ö¿â
-cd git -start  ½øÈë²Ö¿â
-git remote -v<Ö»ÏÔÊ¾URL>  ²é¿´Ô¶³Ì·şÎñÆ÷¼òĞ´
-git reflog  ¼ÇÂ¼·ÖÖ§±ä»¯»òHEADÒıÓÃ±ä»¯<HEAD@{0}Îªµ±Ç°Öµ£¬HEAD@{3}´ú±í3´Î±ä»¯Ö®Ç°µÄÖµ> 
+git branch -v<å¯çœ‹åˆ°æ¯ä¸ªåˆ†æ”¯æœ€åä¸€æ¬¡æäº¤>  æŸ¥çœ‹åˆ†æ”¯
+git rebase origin  åˆ›å»ºæ–°åˆ†æ”¯ä¿å­˜/åˆå¹¶åˆ†æ”¯
+git add filename  è¿½åŠ æäº¤å†²çªæ–‡ä»¶-
+git rebase --continue  ç»§ç»­åˆå¹¶
+git merge [alias][/branch]  æ‹‰å–åˆ†æ”¯åˆ°å½“å‰åˆ†æ”¯
+git branch -d(branchname)  åˆ é™¤åˆ†æ”¯
+git init  åˆå§‹åŒ–ä¸€ä¸ª.gitæ–‡ä»¶å¤¹
+git clone [url]  å…‹éš†æŒ‡å®šä»“åº“
+cd git -start  è¿›å…¥ä»“åº“
+git remote -v<åªæ˜¾ç¤ºURL>  æŸ¥çœ‹è¿œç¨‹æœåŠ¡å™¨ç®€å†™
+git reflog  è®°å½•åˆ†æ”¯å˜åŒ–æˆ–HEADå¼•ç”¨å˜åŒ–<HEAD@{0}ä¸ºå½“å‰å€¼ï¼ŒHEAD@{3}ä»£è¡¨3æ¬¡å˜åŒ–ä¹‹å‰çš„å€¼> 
          
-git remote show [remote-name]  ²é¿´Ô¶³Ì²Ö¿â
-git fetch [remote-name]  À­È¡Ô¶³Ì²Ö¿âÊı¾İ
-git push origen master  ×ÜÍÆËÍ
-git push [remote-name] [branch-name]  ÍÆËÍµ½ÉÏÓÎ
-git pull [remote-name] [branch-name]  À­È¡µ½±¾µØ
-git remote rename [name] [newname]  Ô¶³Ì²Ö¿âÖØÃüÃû
---Õ»¿ìÕÕ
-git stash [save[--patch][] ] "message"  °Ñµ±Ç°µÄ¸Ä¶¯Ñ¹ÈëÒ»¸öÕ»
-git stash list  ÏÔÊ¾Ôİ´æÕ»µÄÄ¿Â¼
-git stash apply [<stash>]@[--index]  È¡³öÕ»ÎÄ¼şµ«²»É¾³ıÎÄ¼ş
-git stash apply stash@{0}  È¡³öÕ»ÖĞÏîÄ¿  
-git stash pop [<stash>]@[--index]  É¾³ıÕ»ÖĞ±êÇ©ÇÒ»Ö¸´½ø¶È
+git remote show [remote-name]  æŸ¥çœ‹è¿œç¨‹ä»“åº“
+git fetch [remote-name]  æ‹‰å–è¿œç¨‹ä»“åº“æ•°æ®
+git push origen master  æ€»æ¨é€
+git push [remote-name] [branch-name]  æ¨é€åˆ°ä¸Šæ¸¸
+git pull [remote-name] [branch-name]  æ‹‰å–åˆ°æœ¬åœ°
+git remote rename [name] [newname]  è¿œç¨‹ä»“åº“é‡å‘½å
+--æ ˆå¿«ç…§
+git stash [save[--patch][] ] "message"  æŠŠå½“å‰çš„æ”¹åŠ¨å‹å…¥ä¸€ä¸ªæ ˆ
+git stash list  æ˜¾ç¤ºæš‚å­˜æ ˆçš„ç›®å½•
+git stash apply [<stash>]@[--index]  å–å‡ºæ ˆæ–‡ä»¶ä½†ä¸åˆ é™¤æ–‡ä»¶
+git stash apply stash@{0}  å–å‡ºæ ˆä¸­é¡¹ç›®  
+git stash pop [<stash>]@[--index]  åˆ é™¤æ ˆä¸­æ ‡ç­¾ä¸”æ¢å¤è¿›åº¦
 git stash pop stash@{0}
-git stash drop stash@{1}  É¾³ı´æ´¢Îª1µÄ½ø¶È<Ä¬ÈÏ×îĞÂ½ø¶ÈÎª0>
-git stash branch<branchname><stash>  É¾³ı·ÖÖ§´æ´¢½ø¶È
-git stash clear  Çå¿ÕÕ»
---ÈÕÖ¾
-git log [url] --pretty=format:"%h - %an, %ar : %s"  --graph  Í¼ĞÎ»¯ÏÔÊ¾·ÖÖ§ºÏ²¢ÀúÊ·
-git log -p<ÏÔÊ¾Ã¿´ÎÌá½»µÄÄÚÈİ²îÒì> -num<½öÏÔÊ¾×î½üÌá½»>
-git log --pretty=oneline   ½«Ã¿¸öÌá½»·ÅÔÚÒ»ĞĞÏÔÊ¾<Ìá½»ÊıºÜ´óÊ±ÓÃ>
-git log --pretty=format:"%h %an, %ar : %s"  ¿ÍÖÆ¶¨gitÏÔÊ¾¸ñÊ½
-git log --stat  ²é¿´Ìá½»µÄ¼òÂÔÍ³¼Æ
-git log --since=2.weeks  ÏŞÖÆ×î½üÁ½ÖÜÄÚµÄÌá½»
+git stash drop stash@{1}  åˆ é™¤å­˜å‚¨ä¸º1çš„è¿›åº¦<é»˜è®¤æœ€æ–°è¿›åº¦ä¸º0>
+git stash branch<branchname><stash>  åˆ é™¤åˆ†æ”¯å­˜å‚¨è¿›åº¦
+git stash clear  æ¸…ç©ºæ ˆ
+--æ—¥å¿—
+git log [url] --pretty=format:"%h - %an, %ar : %s"  --graph  å›¾å½¢åŒ–æ˜¾ç¤ºåˆ†æ”¯åˆå¹¶å†å²
+git log -p<æ˜¾ç¤ºæ¯æ¬¡æäº¤çš„å†…å®¹å·®å¼‚> -num<ä»…æ˜¾ç¤ºæœ€è¿‘æäº¤>
+git log --pretty=oneline   å°†æ¯ä¸ªæäº¤æ”¾åœ¨ä¸€è¡Œæ˜¾ç¤º<æäº¤æ•°å¾ˆå¤§æ—¶ç”¨>
+git log --pretty=format:"%h %an, %ar : %s"  å®¢åˆ¶å®šgitæ˜¾ç¤ºæ ¼å¼
+git log --stat  æŸ¥çœ‹æäº¤çš„ç®€ç•¥ç»Ÿè®¡
+git log --since=2.weeks  é™åˆ¶æœ€è¿‘ä¸¤å‘¨å†…çš„æäº¤
 git log --pretty="%h - %s" --author=gitster --since="2008-10-01" \
-   --before="2008-11-01" --no-merges -- t/  ²éÑ¯×÷ÕßÎª***08Äê10ÔÂ--11ÔÂÄÚµÄÌá½»
-  <ÍË³ö°´Q¼ü>
---³£ÓÃÕ¼Î»·ûĞ´·¨¼°Æä´ú±íº¬Òå
-Ñ¡Ïî	 ËµÃ÷
-%H	Ìá½»¶ÔÏó£¨commit£©µÄÍêÕû¹şÏ£×Ö´®
-%h	Ìá½»¶ÔÏóµÄ¼ò¶Ì¹şÏ£×Ö´®
-%T	Ê÷¶ÔÏó£¨tree£©µÄÍêÕû¹şÏ£×Ö´®
-%t	Ê÷¶ÔÏóµÄ¼ò¶Ì¹şÏ£×Ö´®
-%P	¸¸¶ÔÏó£¨parent£©µÄÍêÕû¹şÏ£×Ö´®
-%p	¸¸¶ÔÏóµÄ¼ò¶Ì¹şÏ£×Ö´®
-%an	×÷Õß£¨author£©µÄÃû×Ö
-%ae	×÷ÕßµÄµç×ÓÓÊ¼şµØÖ·
-%ad	×÷ÕßĞŞ¶©ÈÕÆÚ£¨¿ÉÒÔÓÃ -date= Ñ¡Ïî¶¨ÖÆ¸ñÊ½£©
-%ar	×÷ÕßĞŞ¶©ÈÕÆÚ£¬°´¶à¾ÃÒÔÇ°µÄ·½Ê½ÏÔÊ¾
-%cn	Ìá½»Õß(committer)µÄÃû×Ö
-%ce	Ìá½»ÕßµÄµç×ÓÓÊ¼şµØÖ·
-%cd	Ìá½»ÈÕÆÚ
-%cr	Ìá½»ÈÕÆÚ£¬°´¶à¾ÃÒÔÇ°µÄ·½Ê½ÏÔÊ¾
-%s	Ìá½»ËµÃ÷
-Ñ¡Ïî ËµÃ÷
--p °´²¹¶¡¸ñÊ½ÏÔÊ¾Ã¿¸ö¸üĞÂÖ®¼äµÄ²îÒì¡£
---stat ÏÔÊ¾Ã¿´Î¸üĞÂµÄÎÄ¼şĞŞ¸ÄÍ³¼ÆĞÅÏ¢¡£
---shortstat Ö»ÏÔÊ¾ --stat ÖĞ×îºóµÄĞĞÊıĞŞ¸ÄÌí¼ÓÒÆ³ıÍ³¼Æ¡£
---name-only ½öÔÚÌá½»ĞÅÏ¢ºóÏÔÊ¾ÒÑĞŞ¸ÄµÄÎÄ¼şÇåµ¥¡£
---name-status ÏÔÊ¾ĞÂÔö¡¢ĞŞ¸Ä¡¢É¾³ıµÄÎÄ¼şÇåµ¥¡£
---abbrev-commit ½öÏÔÊ¾ SHA-1 µÄÇ°¼¸¸ö×Ö·û£¬¶ø·ÇËùÓĞµÄ 40 ¸ö×Ö·û¡£
---relative-date Ê¹ÓÃ½Ï¶ÌµÄÏà¶ÔÊ±¼äÏÔÊ¾£¨±ÈÈç£¬¡°2 weeks ago¡±£©¡£
---graph ÏÔÊ¾ ASCII Í¼ĞÎ±íÊ¾µÄ·ÖÖ§ºÏ²¢ÀúÊ·¡£
---pretty Ê¹ÓÃÆäËû¸ñÊ½ÏÔÊ¾ÀúÊ·Ìá½»ĞÅÏ¢¡£¿ÉÓÃµÄÑ¡Ïî°üÀ¨ oneline£¬short£¬full£¬fuller ºÍ format£¨ºó¸úÖ¸¶¨¸ñÊ½£©¡£
-Ñ¡Ïî ËµÃ÷
--(n)	½öÏÔÊ¾×î½üµÄ n ÌõÌá½»
---since, --after ½öÏÔÊ¾Ö¸¶¨Ê±¼äÖ®ºóµÄÌá½»¡£
---until, --before ½öÏÔÊ¾Ö¸¶¨Ê±¼äÖ®Ç°µÄÌá½»¡£
---author ½öÏÔÊ¾Ö¸¶¨×÷ÕßÏà¹ØµÄÌá½»¡£
---committer ½öÏÔÊ¾Ö¸¶¨Ìá½»ÕßÏà¹ØµÄÌá½»¡£
---×´Ì¬
-git status  ²éÑ¯stashÕ»ÄÚµÄÎÄ¼ş
+   --before="2008-11-01" --no-merges -- t/  æŸ¥è¯¢ä½œè€…ä¸º***08å¹´10æœˆ--11æœˆå†…çš„æäº¤
+  <é€€å‡ºæŒ‰Qé”®>
+--å¸¸ç”¨å ä½ç¬¦å†™æ³•åŠå…¶ä»£è¡¨å«ä¹‰
+é€‰é¡¹	 è¯´æ˜
+%H	æäº¤å¯¹è±¡ï¼ˆcommitï¼‰çš„å®Œæ•´å“ˆå¸Œå­—ä¸²
+%h	æäº¤å¯¹è±¡çš„ç®€çŸ­å“ˆå¸Œå­—ä¸²
+%T	æ ‘å¯¹è±¡ï¼ˆtreeï¼‰çš„å®Œæ•´å“ˆå¸Œå­—ä¸²
+%t	æ ‘å¯¹è±¡çš„ç®€çŸ­å“ˆå¸Œå­—ä¸²
+%P	çˆ¶å¯¹è±¡ï¼ˆparentï¼‰çš„å®Œæ•´å“ˆå¸Œå­—ä¸²
+%p	çˆ¶å¯¹è±¡çš„ç®€çŸ­å“ˆå¸Œå­—ä¸²
+%an	ä½œè€…ï¼ˆauthorï¼‰çš„åå­—
+%ae	ä½œè€…çš„ç”µå­é‚®ä»¶åœ°å€
+%ad	ä½œè€…ä¿®è®¢æ—¥æœŸï¼ˆå¯ä»¥ç”¨ -date= é€‰é¡¹å®šåˆ¶æ ¼å¼ï¼‰
+%ar	ä½œè€…ä¿®è®¢æ—¥æœŸï¼ŒæŒ‰å¤šä¹…ä»¥å‰çš„æ–¹å¼æ˜¾ç¤º
+%cn	æäº¤è€…(committer)çš„åå­—
+%ce	æäº¤è€…çš„ç”µå­é‚®ä»¶åœ°å€
+%cd	æäº¤æ—¥æœŸ
+%cr	æäº¤æ—¥æœŸï¼ŒæŒ‰å¤šä¹…ä»¥å‰çš„æ–¹å¼æ˜¾ç¤º
+%s	æäº¤è¯´æ˜
+é€‰é¡¹ è¯´æ˜
+-p æŒ‰è¡¥ä¸æ ¼å¼æ˜¾ç¤ºæ¯ä¸ªæ›´æ–°ä¹‹é—´çš„å·®å¼‚ã€‚
+--stat æ˜¾ç¤ºæ¯æ¬¡æ›´æ–°çš„æ–‡ä»¶ä¿®æ”¹ç»Ÿè®¡ä¿¡æ¯ã€‚
+--shortstat åªæ˜¾ç¤º --stat ä¸­æœ€åçš„è¡Œæ•°ä¿®æ”¹æ·»åŠ ç§»é™¤ç»Ÿè®¡ã€‚
+--name-only ä»…åœ¨æäº¤ä¿¡æ¯åæ˜¾ç¤ºå·²ä¿®æ”¹çš„æ–‡ä»¶æ¸…å•ã€‚
+--name-status æ˜¾ç¤ºæ–°å¢ã€ä¿®æ”¹ã€åˆ é™¤çš„æ–‡ä»¶æ¸…å•ã€‚
+--abbrev-commit ä»…æ˜¾ç¤º SHA-1 çš„å‰å‡ ä¸ªå­—ç¬¦ï¼Œè€Œéæ‰€æœ‰çš„ 40 ä¸ªå­—ç¬¦ã€‚
+--relative-date ä½¿ç”¨è¾ƒçŸ­çš„ç›¸å¯¹æ—¶é—´æ˜¾ç¤ºï¼ˆæ¯”å¦‚ï¼Œâ€œ2 weeks agoâ€ï¼‰ã€‚
+--graph æ˜¾ç¤º ASCII å›¾å½¢è¡¨ç¤ºçš„åˆ†æ”¯åˆå¹¶å†å²ã€‚
+--pretty ä½¿ç”¨å…¶ä»–æ ¼å¼æ˜¾ç¤ºå†å²æäº¤ä¿¡æ¯ã€‚å¯ç”¨çš„é€‰é¡¹åŒ…æ‹¬ onelineï¼Œshortï¼Œfullï¼Œfuller å’Œ formatï¼ˆåè·ŸæŒ‡å®šæ ¼å¼ï¼‰ã€‚
+é€‰é¡¹ è¯´æ˜
+-(n)	ä»…æ˜¾ç¤ºæœ€è¿‘çš„ n æ¡æäº¤
+--since, --after ä»…æ˜¾ç¤ºæŒ‡å®šæ—¶é—´ä¹‹åçš„æäº¤ã€‚
+--until, --before ä»…æ˜¾ç¤ºæŒ‡å®šæ—¶é—´ä¹‹å‰çš„æäº¤ã€‚
+--author ä»…æ˜¾ç¤ºæŒ‡å®šä½œè€…ç›¸å…³çš„æäº¤ã€‚
+--committer ä»…æ˜¾ç¤ºæŒ‡å®šæäº¤è€…ç›¸å…³çš„æäº¤ã€‚
+--çŠ¶æ€
+git status  æŸ¥è¯¢stashæ ˆå†…çš„æ–‡ä»¶
 git status -s  
 git status --short  
-git add  Ìá½»µ½stashÔİ´æÇø
-git diff --cached/staged  ¶Ô±È±¾µØºÍÒÑÔİ´æÇøµÄ²îÒì
---Õ»²Ù×÷
-git reset HEAD filename  È¡ÏûstashÄÚµÄÔİ´æÎÄ¼ş
-git checkout (branchname)<»áÉ¾³ıÎÄ¼şÖĞÃ»ÓĞÔİ´æºÍÌá½»µÄ¸Ä¶¯>  ÇĞ»»µ½Ò»¸ö·ÖÖ§
-git checkout -b (branchname)  ´´½¨²¢ÇĞ»»µ½ĞÂµÄ·ÖÖ§
-git revert  HEAD  ³·Ïú×î½üµÄÌá½»
-git rm file ´ÓstashÒÆ³ıÎÄ¼şÇÒÒÆ³ı¹¤×÷Ä¿Â¼
-     rm --cached  ´ÓstashÒÆ³ıÎÄ¼şµ«±£ÁôÔÚ¹¤×÷¿Õ¼ä
+git add  æäº¤åˆ°stashæš‚å­˜åŒº
+git diff --cached/staged  å¯¹æ¯”æœ¬åœ°å’Œå·²æš‚å­˜åŒºçš„å·®å¼‚
+--æ ˆæ“ä½œ
+git reset HEAD filename  å–æ¶ˆstashå†…çš„æš‚å­˜æ–‡ä»¶
+git checkout (branchname)<ä¼šåˆ é™¤æ–‡ä»¶ä¸­æ²¡æœ‰æš‚å­˜å’Œæäº¤çš„æ”¹åŠ¨>  åˆ‡æ¢åˆ°ä¸€ä¸ªåˆ†æ”¯
+git checkout -b (branchname)  åˆ›å»ºå¹¶åˆ‡æ¢åˆ°æ–°çš„åˆ†æ”¯
+git revert  HEAD  æ’¤é”€æœ€è¿‘çš„æäº¤
+git rm file ä»stashç§»é™¤æ–‡ä»¶ä¸”ç§»é™¤å·¥ä½œç›®å½•
+     rm --cached  ä»stashç§»é™¤æ–‡ä»¶ä½†ä¿ç•™åœ¨å·¥ä½œç©ºé—´
 git mv file_from_file_to
-git clean  ´Ó¹¤×÷Ä¿Â¼ÒÆ³ıÃ»ÓĞtrackµÄÎÄ¼ş
---Ìá½»
-git tag -a v1.0  Ìí¼Ó°æ±¾·¢²¼µÄĞÅÏ¢
-git commit -m "memo"  Ìá½»add¸Ä¶¯µ½±¾µØ²Ö¿â
-git add forgoten_file  ×·¼Ó
-git commit --amend  ×·¼Ó´úÌæµÚÒ»´ÎÌá½»
-^n  Îª^1~^n¼´1~n¸öÌá½»
---ºöÂÔÎÄ¼ş
+git clean  ä»å·¥ä½œç›®å½•ç§»é™¤æ²¡æœ‰trackçš„æ–‡ä»¶
+--æäº¤
+git tag -a v1.0  æ·»åŠ ç‰ˆæœ¬å‘å¸ƒçš„ä¿¡æ¯
+git commit -m "memo"  æäº¤addæ”¹åŠ¨åˆ°æœ¬åœ°ä»“åº“
+git add forgoten_file  è¿½åŠ 
+git commit --amend  è¿½åŠ ä»£æ›¿ç¬¬ä¸€æ¬¡æäº¤
+^n  ä¸º^1~^nå³1~nä¸ªæäº¤
+--å¿½ç•¥æ–‡ä»¶
 $ cat .gitignore
 *.[memo]
-*~  ºöÂÔÀàËÆ½áÎ²ÎÄ¼ş
+*~  å¿½ç•¥ç±»ä¼¼ç»“å°¾æ–‡ä»¶
