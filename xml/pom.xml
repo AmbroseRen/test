@@ -16,6 +16,10 @@
 		<java.version>1.8</java.version>
 	</properties>
 	
+	<!-- <language default="zh_CN">
+    		<prop name="zh_CN">简体中文</prop>
+    		<prop name="en_US">English</prop>
+	</language> -->
 	
 	<dependencies>
 
