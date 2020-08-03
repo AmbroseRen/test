@@ -1,0 +1,3 @@
+=======#plugins========
+http://activiti.org/designer/update/  --Activiti插件（BPM工作流管理）
+
