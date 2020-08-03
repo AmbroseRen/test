@@ -1,5 +1,5 @@
 =======Config========
-Editor.Color Schema.General.Text.Default.Background.RGB[19,19,20]==>RGB[199,237,204]  --编辑背景色修改
+Editor.Color Schema.General.Text.Default.Background.RGB[19,19,20]==>RGB[0,98,128]--RGB[199,237,204]  --编辑背景色修改
 
 ====#Plugins备忘录=========
 CodeGlance --sublime code view
