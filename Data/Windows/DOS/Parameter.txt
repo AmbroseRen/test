@@ -1,0 +1,5 @@
+
+=====Windows环境变量修改备份====
+Path删除：
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+
