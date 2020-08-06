@@ -22,3 +22,26 @@ _config.yml URL:C:\Windows\System32\blog
 
 #files issue
 C:\Windows\System32\blog\source
+
+#themes add
+blog/__config.yml --文件中添加
+# yilia主题所需新增内容
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
+
