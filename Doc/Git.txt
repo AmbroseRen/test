@@ -1,24 +1,31 @@
-#关联推送空项目
-git init 
-git remote add origin git@github.com:[proj URL]
+安装步骤：
+1.下载客户端
+git init  ---初始化本地工作空间
 
---配置查询
-#查看系统配置
-git config --system --list
-
-#查看当前用户配置
-git config --global  --list
-
-#查看当前仓库配置信息
-git config --local  --list
-
+2.配置参数
 vi ~/.gitconfig;  ---文本直接修改
 --初始化
 git config –global user.name ‘xxxxx’ 
 git config –global user.email ‘xxx@xx.xxx’
+##配置查询##
+#查看系统配置
+git config --system --list
+#查看当前用户配置
+git config --global  --list
+#查看当前仓库配置信息
+git config --local  --list
+
+
+3.生成rsa文件
 ssh-keygen -t rsa -C ‘上面的邮箱’
 指定目录：   C:\MykeysForGit\id_rsa
 测试：    ssh -T git@github.com 
+success
+
+#关联推送空项目
+git init 
+git remote add origin git@github.com:[proj URL]
+
 --！！！关联远程仓库(SSH)：
   先查看
 git remote -v
