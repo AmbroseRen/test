@@ -12,6 +12,7 @@ git config --global  --list
 #查看当前仓库配置信息
 git config --local  --list
 
+vi ~/.gitconfig;  ---文本直接修改
 --初始化
 git config –global user.name ‘xxxxx’ 
 git config –global user.email ‘xxx@xx.xxx’
