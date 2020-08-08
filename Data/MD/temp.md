@@ -1,9 +1,14 @@
 ---
 title: 
+
 top: true
+
 cover: false
+
 toc: true
+
 mathjax: true
+
 date: 2020-02-16 15:09:23
 password:
 summary: 预览
@@ -24,8 +29,11 @@ categories:
 ## 性质汇总
 
 > 如果发现表中有错误，请留言告知。
+
 |列一|列二|列三|
+
 |行一|++++|++++|
+
 |行二|++++|++++|
 
 **冒泡排序**  
