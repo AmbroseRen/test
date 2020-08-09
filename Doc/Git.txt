@@ -24,7 +24,14 @@ success
 
 #关联推送空项目
 git init 
-git remote add origin git@github.com:[proj URL]
+git add .
+git commit -m "first commit"
+
+git remote add origin 你的远程库地址  // 把本地库与远程库关联
+git push -u origin master    // 第一次推送时
+git push origin master  // 第一次推送后，直接使用该命令即可推送修改
+
+#git remote add origin git@github.com:[proj URL]
 
 --！！！关联远程仓库(SSH)：
   先查看
