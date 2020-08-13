@@ -1,0 +1,10 @@
+/*跨域访问iframe子对象*/
+、、、
+<iframe src ="/index.html" id="ifr1" name="ifr1" scrolling="yes">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<script type="text/javascript">
+	console.log(window.frames['ifr1'].window);
+console.dir(document.getElementById("ifr1").contentWindow);
+</script>
+、、、
