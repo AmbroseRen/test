@@ -1,0 +1,10 @@
+			<div class="ui-layout-center" style="width:73%;position: absolute;right: -839px;top: 63px;">
+				<iframe id="mainAdd" name="mainAdd" class="ui-layout-content p0"
+						src="${ctx}/zjsj_sys_user/zjsjSysUser/form"
+						style="width: 390px;height: 400px"></iframe>
+			</div>
+      
+      <script>
+        document.getElementById("mainAdd").src = "${ctx}/zjsj_sys_user/zjsjSysUser/form?id="+id;
+        document.getElementById("mainAdd").contentWindow.document.getElementById("user_userName").value=str["user.userName"];
+      </script>
