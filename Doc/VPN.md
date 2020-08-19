@@ -1,4 +1,4 @@
-#h osts method
+# hosts method
 
 编辑C:\WINDOWS\system32\drivers\etc\hosts文件,增加如下站点
 
