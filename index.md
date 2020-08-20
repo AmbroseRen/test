@@ -18,7 +18,7 @@ Categories
 
 [js](/js/index.md)
 
-[test](https://raw.githubusercontent.com/AmbroseRen/test/master/test/index.html)
+[test](/test/index.md)
 
 [util](/util/index.md)
 
