@@ -8,4 +8,4 @@
 
 [Windows/DOS](/DOS/DOS命令.txt)
 
-[Windows/virus](/virus/mkdirs.bat)
+[Windows/virus/mkdirs.bat](/virus/mkdirs.bat.txt)
