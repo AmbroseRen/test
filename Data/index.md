@@ -1,13 +1,13 @@
-[MD](/MD/temp.md)
+[MD/temp.md](/MD/temp.md)
 
-[Maven](/Maven/setting.xml)
+[Maven/setting.xml](/Maven/setting.xml)
 
-[MySQL](/MySQL/mysql.txt)
+[MySQL/mysql.txt](/MySQL/mysql.txt)
 
-[Oracle](/Oracle/sql.txt)
+[Oracle/sql.txt](/Oracle/sql.txt)
 
-[Windows/DOS/DOS命令](Windows/DOS/DOS命令.txt)
+[Windows/DOS/DOS命令.txt](Windows/DOS/DOS命令.txt)
 
-[Windows/DOS/DOS](Windows/DOS/DOS.txt)
+[Windows/DOS/DOS.txt](Windows/DOS/DOS.txt)
 
 [Windows/virus/mkdirs.bat](Windows/virus/mkdirs.bat.txt)
