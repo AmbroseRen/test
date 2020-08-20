@@ -1,1 +1,1 @@
-[MD](/temp.md)
+[MD](/MD/temp.md)
