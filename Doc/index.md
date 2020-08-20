@@ -4,4 +4,4 @@
 
 [Tools/Git.txt](/Tools/Git.txt)
 
-[article/AttibuteOfTranslation](/article/AttibuteOfTranslation.txt)
+[article/AttibuteOfTranslation](/article/AttitudeOfTranslation.txt)
