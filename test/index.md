@@ -1,6 +1,6 @@
 # TestList  [Home](../index.md)
 
-[MyBlogger](/ambroseren.blogspot.com)
+[MyBlogger](https://ambroseren.blogspot.com/)
 
 [elseBook](https://ebook2.lorefree.com)
 
