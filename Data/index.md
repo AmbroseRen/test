@@ -4,7 +4,7 @@
 
 [MySQL](/MySQL/mysql.txt)
 
-[Oracle](/Oracle/sql.sql)
+[Oracle](/Oracle/sql.md)
 
 [Windows/DOS](/DOS/DOS命令.txt)
 
