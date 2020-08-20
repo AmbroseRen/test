@@ -6,6 +6,6 @@
 
 [Oracle](/Oracle/sql.sql)
 
-[Windows](/DOS/DOS命令.txt)
+[Windows/DOS](/DOS/DOS命令.txt)
 
-[Windows](/virus/mkdirs.bat)
+[Windows/virus](/virus/mkdirs.bat)
