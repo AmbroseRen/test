@@ -18,7 +18,7 @@ Categories
 
 [js](/js/index.md)
 
-[test](/test/index.md)
+[test](/test/index.html)
 
 [util](/util/index.md)
 
