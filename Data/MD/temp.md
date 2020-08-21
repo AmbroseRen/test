@@ -18,6 +18,7 @@ tags:
 categories:
 - 编程算法
 ---
+！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = anuraghazra＆show_icons = true＆theme = radical）
 > 关注公众号【AmbroseRen】，集结号！
 ## 前言
 
