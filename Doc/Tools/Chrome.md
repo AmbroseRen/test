@@ -8,4 +8,6 @@
 
 Windows.Bookmarks.URL:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default
 
+Chrome.Extention:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Extensions
+
 # Plugins
