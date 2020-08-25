@@ -1,0 +1,37 @@
+Library
+
+	Finance
+		经济学原理
+		经济学讲义（薛兆丰）
+		政治经济学概论
+	Society
+		心理学入门-格尔德·米策尔.mobi()
+		
+	History
+		中央情报局出版物《世界概况》
+		康奈尔大学图书馆出版物《All About Birds》
+		《Chambers Biographical Dictionary》
+	Technology
+		Method
+			[如何阅读一本书.（美）艾德勒，（美）范多伦.pdf](2020.08~2020.xx)
+			[美]莫提默·J·艾德勒 查尔斯·范多伦()
+		IT
+			java编程思想——thinking in java;工具书
+	Literature
+		Poem
+		Prose
+		Novel
+		《白鹿原》--陈忠实--从历史命运看人性悲剧
+		《平凡的世界》--路遥--
+		《智慧之旅》
+		Science
+			刘慈欣
+			《三体》
+			《黑暗森林》
+			《死神永生》
+		《星际浪子》——叼！黄易-作
+		《超级战士》
+		《时空浪族》
+		《神龙》
+		《太空漫游》——阿瑟.克拉克
+		
