@@ -1,3 +1,3 @@
 # ImgList  [Home](../index.md)
 
-[One](https://ambroseren.github.io)
+[MyFigureBed](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/)
