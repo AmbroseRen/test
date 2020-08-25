@@ -1,4 +1,4 @@
-Library		[返回](../)
+Library		[返回](index.md)
 
 	Finance
 		
