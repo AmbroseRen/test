@@ -53,20 +53,30 @@
  _ _ _
 
 链接
+
   行内式
+  
     [内容](https://www.baidu.com)
+    
   参数式
+  
     [name]: https://www.baidu.com/name "名称"
+    
     [home]: https://www.baidu.com/home "首页"
 
 图片
+
   行内式
+  
     ![我是图片](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg)
+    
   链接式
+  
     [我是图片]: https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg
 
 代码框
   单行
+  
 `
 <p>单行</p>
 `
@@ -93,15 +103,21 @@
   小明|Y|75
   
 强调
+
   字体倾斜
+  
     *倾斜*
+    
   字体加粗
+  
     _加粗_
 
 删除线
+
   ~删除线~
 
 视频引用
+
 ```
 <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
     <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
@@ -109,6 +125,7 @@
 ```
 
 音频引用
+
 ```
 <audio id="audio" controls="" preload="none">
     <source id="mp3" src="http://qiniu.cloud.fandong.me/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
@@ -117,6 +134,7 @@
 
 Star自己仓库
   参数:user:用户名;repo:仓库名称;type:star;count:数量.
+  
 ```
 <iframe
   style="margin-left: 2px; margin-bottom:-5px;"
