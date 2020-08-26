@@ -1,6 +1,6 @@
 # DataLists             [Home](../index.md)
 
-[MD/temp.md](/MD/temp.md)
+[MD](/MD/index.md)
 
 [Maven/setting.xml](/Maven/setting.xml)
 
