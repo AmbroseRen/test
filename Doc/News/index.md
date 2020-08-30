@@ -2,7 +2,7 @@
 
   | site | URL | describe |
   |:---:|:---:|:---:|
-  | Medium | [Medium](https://medium.com) | fq |
-  | lucy | 25 | X |
+  | news | [Medium](https://medium.com) | fq |
+  | file | [AboutGoogle](AboutGoogle.md) | google |
 
-[AboutGoogle](AboutGoogle.md)
+
