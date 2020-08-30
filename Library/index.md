@@ -1,5 +1,7 @@
 # List Books                                          [Home](../index.md)
 
+[BookSearch](BookSearch.md)
+
 [BookLists](/BookLists.md)
 
 [如何阅读一本书.（美）艾德勒，（美）范多伦.pdf]
