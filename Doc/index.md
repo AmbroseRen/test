@@ -6,6 +6,6 @@
 
 [Tools/Git.txt](/Tools/Git.txt)
 
-[Article](/article/index.md)
+[Article](article/index.md)
 
 [Diary/notes](/Diary/notes.md)
