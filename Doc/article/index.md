@@ -1,5 +1,5 @@
-# Article File [..](../index.md)
+# Article File [←](../index.md)
 
-[article/AttibuteOfTranslation](AttitudeOfTranslation.md)
+[AttibuteOfTranslation](AttitudeOfTranslation.md)
 
-[article/ILikeStart](ILikeStart.md)
+[ILikeStart](ILikeStart.md)
