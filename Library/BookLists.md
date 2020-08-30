@@ -49,7 +49,6 @@ Librarys
 	Technology
 		Method
 			[如何阅读一本书.（美）艾德勒，（美）范多伦.pdf](2020.08~2020.xx)
-			[如何阅读一本书:(https://www.baidu.com)]
 		IT
 			java编程思想——thinking in java;工具书
 			《x86汇编语言》
