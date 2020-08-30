@@ -3,18 +3,23 @@ Librarys
 	Finance
 		经济学原理
 		经济学讲义（薛兆丰）
-		
+		财富的起源
+		资本论
+		货币战争
 		政治经济学概论
+		摩尔神话
 	Society
 		心理学入门-格尔德·米策尔.mobi()
 		弗里德曼在1971年出版的《通向奴役之路》
 		《自由及其背叛——人类自由的六个敌人》
 		《人类误判心理学》
 		《对伪心理学说不》
+		《见识》--吴军
 	History
 		中央情报局出版物《世界概况》
 		康奈尔大学图书馆出版物《All About Birds》
 		《Chambers Biographical Dictionary》
+		人类简史
 	Technology
 		Method
 			[如何阅读一本书.（美）艾德勒，（美）范多伦.pdf](2020.08~2020.xx)
