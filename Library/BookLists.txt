@@ -3,6 +3,7 @@ Librarys
 	Finance
 		经济学原理
 		经济学讲义（薛兆丰）
+		
 		政治经济学概论
 	Society
 		心理学入门-格尔德·米策尔.mobi()
