@@ -26,6 +26,11 @@ Librarys
 			[美]莫提默·J·艾德勒 查尔斯·范多伦()
 		IT
 			java编程思想——thinking in java;工具书
+			《x86汇编语言》
+			数据结构与C程序设计
+			单片机原理与技术
+			计算机网络原理
+			高级语言汇编
 	Literature
 		Poem
 		Prose
