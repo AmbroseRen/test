@@ -6,6 +6,8 @@ Categories
 
 [Doc](/Doc/index.md)
 
+[Art](/Art/index.md)
+
 [Library](/Library/index.md)
 
 [css](/css/index.md)
