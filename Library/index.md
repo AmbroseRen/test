@@ -1,5 +1,7 @@
 # List Books                                          [Home](../index.md)
 
+> 我就是我，是颜色不一样的烟火。天空海阔，要做最坚强的泡沫。
+
 [BookSearch](BookSearch.md)
 
 [BookLists](/BookLists.md)
