@@ -1,4 +1,4 @@
 # Diary File [←](../index.md)
 
-[diary](diary.txt)
+[notes](notes.md)
 
