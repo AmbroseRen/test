@@ -4,7 +4,7 @@
 
 [Law](Law/index.md)
 
-[Tools](Tools/index.txt)
+[Tools](Tools/index.md)
 
 [Article](article/index.md)
 
