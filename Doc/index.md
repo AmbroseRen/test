@@ -1,11 +1,11 @@
 # DocList   [Home](../index.md)
 
-[News/AboutGoogle.md](News/AboutGoogle.md)
+[News](News/index.md)
 
 [Law](Law/index.md)
 
-[Tools/Git.txt](Tools/Git.txt)
+[Tools](Tools/index.txt)
 
 [Article](article/index.md)
 
-[Diary/notes](Diary/notes.md)
+[Diary](Diary/index.md)
