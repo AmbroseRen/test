@@ -2,12 +2,10 @@
 
 [News/AboutGoogle.md](/News/AboutGoogle.md)
 
-[Law](/index.md)
+[Law](/Law/index.md)
 
 [Tools/Git.txt](/Tools/Git.txt)
 
-[article/AttibuteOfTranslation](/article/AttitudeOfTranslation.md)
-
-[article/ILikeStart](/article/ILikeStart.md)
+[article](/article/index.md)
 
 [Diary/notes](/Diary/notes.md)
