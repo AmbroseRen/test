@@ -137,15 +137,15 @@
 ### 水平浮动排列
 <div>
 
-<div style="position：relative;float:left;width:33%;">w2</div>
+<div style="position：relative;float:left;width:33%;height:35px;">w2</div>
 
-<div style="position：relative;float:left;width:33%;">w3</div>
+<div style="position：relative;float:left;width:33%;height:35px;">w3</div>
 
-<div style="position：relative;float:left;width:33%;">w4</div>
+<div style="position：relative;float:left;width:33%;height:35px;">w4</div>
 
-<div style="position：relative;float:left;width:33%;">w5</div>
+<div style="position：relative;float:left;width:33%;height:35px;">w5</div>
 
-<div style="position：relative;float:left;width:33%;">w6</div>
+<div style="position：relative;float:left;width:33%;height:35px;">w6</div>
 
 <div>w7</div>
 
