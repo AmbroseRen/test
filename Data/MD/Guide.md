@@ -95,13 +95,19 @@
 | toy | 26 | Y |
 | lucy | 25 | X |
 
+</br>
+
   表头1 | 表头2
   ------|-----
   C1    | C2
   
+</br>
+  
   学号|姓名|分数
   -|-|-
   小明|Y|75
+  
+</br>
   
 <table style="width:100%">
   <tr>
@@ -125,6 +131,23 @@
     <td>80</td>
   </tr>
 </table>
+
+</br>
+
+### 水平浮动排列
+<div>
+
+<div style="position：relative;float:left;width:33%;">w2</div>
+
+<div style="position：relative;float:left;width:33%;">w3</div>
+
+<div style="position：relative;float:left;width:33%;">w4</div>
+
+<div style="position：relative;float:left;width:33%;">w5</div>
+
+</div>
+
+</br>
   
 强调
 
