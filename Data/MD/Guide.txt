@@ -1,11 +1,11 @@
 
-# 一级标题(h1~h6  只有一级标题下面有横线  #号后面有空格) #(闭合标签可省略)
+# 一级标题(h1~h6 #号后面有空格) #(闭合标签可省略) [←](..)
 ## 二级标题 ##
-...
 ####### 七级标题 #######
 
 另一种h1
 ===================
+
 另一种h2
 -------------------
 
@@ -36,54 +36,78 @@
    
  嵌套引用
    列:
- > 一级嵌套
- >> 二级嵌套
- >>> 三级嵌套
- >>>> 四级嵌套
- >>>>> 五级嵌套
- >>>>>> 六级嵌套
+
+> 一级嵌套
+>> 二级嵌套
+>>> 三级嵌套
+>>>> 四级嵌套
+>>>>> 五级嵌套
+>>>>>> 六级嵌套
  
  分割线(三个为一组，无需连续)
+ 
  ***
+ 
  ---
+ 
  _ _ _
 
 链接
+
   行内式
+  
     [内容](https://www.baidu.com)
+    
   参数式
+  
     [name]: https://www.baidu.com/name "名称"
+    
     [home]: https://www.baidu.com/home "首页"
 
 图片
+
   行内式
+  
     ![我是图片](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg)
+    
   链接式
+  
     [我是图片]: https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg
 
 代码框
   单行
-    、<p>单行</p>、
+  
+`
+<p>单行</p>
+`
+
   多行
-    ```
+```
     <p>单行1</p>
     <p>单行2</p>
     <p>单行3</p>
-    ```
+```
 
 表格
-  | name | age | sex |
-  |:---:|:---|---:|
-  | toy | 26 | Y |
-  | lucy | 25 | X |
-  
+
+| name | age | sex |
+|:---:|:---|---:|
+| toy | 26 | Y |
+| lucy | 25 | X |
+
+---
+
   表头1 | 表头2
   ------|-----
   C1    | C2
   
+---
+  
   学号|姓名|分数
   -|-|-
   小明|Y|75
+  
+---
   
 <table style="width:100%">
   <tr>
@@ -107,19 +131,56 @@
     <td>80</td>
   </tr>
 </table>
-  
-强调
+
+---
+
+### 水平浮动排列
+<div>
+
+  <div style="position：relative;float:left;width:33%;height:35px;">
+    w2
+  </div>
+
+  <div style="position：relative;float:left;width:33%;height:35px;">
+    w3
+  </div>
+
+  <div style="position：relative;float:left;width:33%;height:35px;">
+    w4
+  </div>
+
+  <div style="position：relative;float:left;width:33%;height:35px;">
+    w5
+  </div>
+
+  <div style="position：relative;float:left;width:33%;height:35px;">
+    w6
+  </div>
+
+  <div>w7</div>
+
+</div>
+ 
+### 强调
+
   字体倾斜
-    *倾斜*
     _倾斜_
+    *倾斜*
+    
   字体加粗
-    **加粗**
     __加粗__
+    **加粗**
 
 删除线
+
   ~~删除线~~
 
+HTML兼容测试
+
+  <font size=8>我是放大字</font>
+
 视频引用
+
 ```
 <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
     <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
@@ -127,6 +188,7 @@
 ```
 
 音频引用
+
 ```
 <audio id="audio" controls="" preload="none">
     <source id="mp3" src="http://qiniu.cloud.fandong.me/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
@@ -135,6 +197,7 @@
 
 Star自己仓库
   参数:user:用户名;repo:仓库名称;type:star;count:数量.
+  
 ```
 <iframe
   style="margin-left: 2px; margin-bottom:-5px;"
@@ -142,7 +205,6 @@ Star自己仓库
   src="https://ghbtns.com/github-btn.html?user=AmbroseRen&repo=ambroseren.github.io&type=star&count=true" >
 </iframe>
 ```
-
 
 
 
