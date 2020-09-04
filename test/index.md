@@ -4,4 +4,4 @@
 
 [elseBook](https://ebook2.lorefree.com)
 
-[index.html](https://raw.githubusercontent.com/AmbroseRen/test/master/test/indexOne.html)
+[index.html](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/test/indexOne.html)
