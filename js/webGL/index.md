@@ -1,3 +1,3 @@
-# WebGL JS [../index.md]
+# WebGL JS [←](../index.md)
 
 [EventDispatcher.js](EventDispatcher.js)
