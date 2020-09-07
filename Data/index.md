@@ -8,5 +8,7 @@
 
 [Oracle](Oracle/index.md)
 
+[python](python/index.md)
+
 [Windows](Windows/index.md)
 
