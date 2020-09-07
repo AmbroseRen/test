@@ -4,8 +4,8 @@
 
 [sql.txt](sql.txt)
 
-[mysql.txt](mysql.txt)
+[mysql.txt](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Data/Oracle/mysql.txt)
 
 [jdbc.properties](jdbc.properties)
 
-[常用正则表达式](常用正则表达式.txt)
+[regex](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Data/Oracle/regex.txt)
