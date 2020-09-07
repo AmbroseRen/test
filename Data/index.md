@@ -10,8 +10,3 @@
 
 [Windows](Windows/index.md)
 
-[Windows/DOS/DOS命令.txt](Windows/DOS/DOS命令.txt)
-
-[Windows/DOS/DOS.txt](Windows/DOS/DOS.txt)
-
-[Windows/virus/mkdirs.bat](Windows/virus/mkdirs.bat.txt)
