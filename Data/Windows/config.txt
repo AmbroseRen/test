@@ -1,0 +1,3 @@
+# chrome extensions location for windows
+C:\Users\User_Name\AppData\Local\Google\Chrome\User Data\Default\Extensions.
+
