@@ -2,7 +2,7 @@
 
 [MD](MD/index.md)
 
-[Maven/settings.xml](Maven/settings.xml.txt)
+[Maven](Maven/index.md)
 
 [MySQL](MySQL/index.md)
 
