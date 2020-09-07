@@ -31,7 +31,7 @@ TCL(事物控制):Data Transaction Language
 DQL(数据查询):Data  Language
    - select:SELECT * FROM amb 
    - DESC  查询表结构  
-------------------NUMBER数值类型--------------------------
+------------------NUMBER数值类型--------------------------
    ----NUMBER(precision,scale)
 - number(5,2)
 -------NUMBER的变种数据类型：内部实现NUMBER，可以将其理解为NUMBER的别名
