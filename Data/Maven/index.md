@@ -1,3 +1,3 @@
 # Myven Lists [←](../index.md)
 
-[settings.xml.txt](settings.xml.txt) >Maven中文版settings配置
+[settings.xml](settings.xml.txt) Maven中文版settings配置
