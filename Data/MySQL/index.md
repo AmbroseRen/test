@@ -1,3 +1,3 @@
-# MySQL Lists [../index.md]
+# MySQL Lists [←](../index.md)
 
 [mysql.txt](mysql.txt)
