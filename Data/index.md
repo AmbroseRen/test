@@ -4,9 +4,9 @@
 
 [Maven/settings.xml](Maven/settings.xml.txt)
 
-[MySQL/mysql.txt](MySQL/mysql.txt)
+[MySQL](MySQL/index.md)
 
-[Oracle/sql.txt](Oracle/sql.txt)
+[Oracle](Oracle/index.md)
 
 [Windows](Windows/index.md)
 
