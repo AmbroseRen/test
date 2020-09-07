@@ -1,0 +1,111 @@
+-------------------------------------------------------------------
+http://itpub.net
+http://mysql.com
+http://oracle.com
+alibaba/druid:为监控而诞生的数据库连接池
+http://github.com - 开源项目
+前端框架：bootStrap-AdminLTE,EasyUI(过时)
+	10:14 2017/10/10
+1.项目目标？
+1)掌握旅游业务管理系统的需求及相关核心业务
+2)掌握旅游业务管理系统的核心架构及基本实现
+3)掌握旅游业务管理系统中的核心技术及基本实现.
+
+2.课程安排？
+1)熟练掌握SSM技术架构(SpringMVC+ Spring+MyBatis)
+2)熟练掌握业务系统核心模块的设计及实现.
+3)了解业务系统中的权限设计及shiro框架的应用
+
+3.项目需求？
+1)需求调研(与甲方或客户进行业务沟通)
+2)需求分析(伴随一些用例图的实现):UML(ROSE)
+3)原型设计(表现形式是一些静态页面)
+4)需求评审(需求确认)
+ 
+4.项目设计？
+1)非功能设计(硬件,软件,....)
+2)功能设计(产品模块,销售模块,财务模块,系统模块,......)
+
+5.项目实现？
+1)架构(B/S)
+2)编码(所学知识点的综合运用)
+3)测试(我们选用JUNIT做单元测试)
+
+软件=程序+文档
+程序=数据结构+算法
+软件解决
+
+6.项目上线
+1)项目运行
+2)项目维护
+---------------------------------------------------
+Day01-03 MySQL 基本应用
+
+1.MySQL 是什么?
+1)软件(Software)
+2)数据库管理系统(DBMS)
+2.1)关系型数据库管理系统(Oracle,SQLServer,DB2,MySQL)
+2.2)非关系型数据库管理系统(NoSQL):了解
+3)关系型数据库管理系统(RDBMS)
+
+2.MySQL 的特点?
+1)简单(尤其是安装,当然使用也相对比较简单)
+2)功能强大
+3)有开放版本
+
+3.MySQL 应用场景?
+1)创业型公司
+2)互联网公司
+
+4.MySQL 应用架构(基于C/S架构)?
+1)Server
+2)Client
+
+通讯协议:TCP/IP
+
+
+5.MySQL登录?
+mysql(客户端程序) -u(用户) root -p(密码)
+ - mysql -u root -p;
+ - use ***
+ - show databases;
+ - show tables;
+ - select user();
+ - user();
+ - status 
+ - select now();
+ - ? functions
+ - ? ....
+ - create database if not exists ** character set utf8;
+-----使用或打开数据库--------
+ - use ***;使用某数据库
+ - show databases;
+ - show global variables like 'port';查端口号
+ - select schema()/database();
+----删除数据库------
+ - drop database *** if exists ***;
+ - 
+------创建表（？ create table）--------
+ - create table amb(id int primary key auto_increment,
+                                name varchar(100) not null
+                                )
+---------删除表------------
+ - drop table ***;
+--------desc ***(显示表结构)------------
+----------分页查询------------- 
+ - limit a,b;           查b行，从a+1开始
+ - limit b offset a; 查b行，从*开始
+select * from dual limit 3 offset 18;
+------------------------------------
+执行source指令：
+0)首先登陆数据库
+   设置控制台编码(需要与.sql文件编码一致)
+   例：set names utf8;
+1)在**.sql里面写mysql语句
+2)执行source指令 
+    source d:/tts/day01/**.sql
+ 或\s d:/tts/day01/**.sql
+
+
+
+
