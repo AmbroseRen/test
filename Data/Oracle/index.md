@@ -1,6 +1,6 @@
 # Oracle Lists [←](../index.md)
 
-[DDL.sql](DDL.sql)
+[DDL.sql](DDL.sql.txt)
 
 [sql.txt](sql.txt)
 
