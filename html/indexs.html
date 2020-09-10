@@ -15,6 +15,32 @@
 <body>
   <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
   
+  <div style="padding:5px ;position:relative" class="col-sm-5">
+      <span style="position:absolute;top:-28px;left:105px;overflow:hidden;width:240px;height:30px;">
+        <!--这个是个多选框，用onchange事件的时候 ，将这个select的id传进去-->
+      <select name="trains"  class="form-control" id="duty1" style="height:30px;outline:0;">
+           <!--<option value="审计局管理员" style="display: none">审计局管理员</option>-->
+           <option value="局长" style="display: block">局长</option>
+           <option value="副局长" style="display: block">副局长</option>
+           <option value="科长" style="display: block">科长</option>
+           <option value="科员" style="display: block">科员</option>
+           <option value="外审" style="display: block">外审</option>
+      </select>
+
+      </span>
+        <span style="position:absolute;top:-25px;left:106px;margin-top:1px;margin-left:1px;width:220px;height:28px;border-radius:5px;">
+        <!--这里是input框，定位到select的上面-->
+        <#form:input path="post" id="duty" class="form-control required" style="width:80%;height:24px;border:0pt;border-radius:5px;outline:0" />
+      </span>
+  </div>  
+  
   <script src="../js/hammer.min.js"></script>
 </body>
+<script>
+  $('#duty1').on('change', function(){
+	document.getElementById("duty").value =this.value;
+  
+  
+});
+</script>
 </html>
