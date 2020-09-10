@@ -1,3 +1,4 @@
+# Vimium插件配置
 自定义快捷键：
 #insert your preferred key mappings here.
 map w scrollUp
