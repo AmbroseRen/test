@@ -14,7 +14,26 @@
 
 <body>
   <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
-  
+
+<!--  多选下拉复合框：原生+bootstrap -->	
+<div style="padding:5px ;position:relative" class="col-sm-4">
+    <span style="position:absolute;top:5px;overflow:hidden;width:95%;height:32px;">
+	<!--这个是个多选框，用onchange事件的时候 ，将这个select的id传进去-->
+	       <select name="trains" οnchange="qlcTrainS('qlc_zdz1')" class="form-control" id="duty1" style="height:30px;outline:0;">
+		   <option value="test1">test1</option>
+		   <option value="test2">test2</option>
+		   <option value="test3">test3</option>
+		   <option value="test4">test4</option>
+		   <option value="test5">test5</option>
+	       </select>
+
+    </span>
+    <span style="position:absolute;top:7px;left:10px;margin-top:1px;margin-left:1px;width:80%;height:28px;border-radius:5px;">
+	<!--这里是input框，定位到select的上面-->
+	      <input type="text" name="ccdd" id="duty" class="ccdd" placeholder="可选择也可输入的下拉框" style="width:80%;height:24px;border:0pt;border-radius:5px;outline:0">
+    </span>
+</div>
+	
   <!-- 多选下拉复合框：原生+bootstrap+jeesite -->
   <div style="padding:5px ;position:relative" class="col-sm-5">
       <span style="position:absolute;top:-28px;left:105px;overflow:hidden;width:240px;height:30px;">
@@ -39,9 +58,7 @@
 </body>
 <script>
   $('#duty1').on('change', function(){
-	document.getElementById("duty").value =this.value;
-  
-  
-});
+    document.getElementById("duty").value =this.value;
+  });
 </script>
 </html>
