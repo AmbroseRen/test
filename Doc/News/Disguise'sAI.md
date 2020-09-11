@@ -10,9 +10,13 @@
 ======================
 
 内容翻译自http://waitbutwhy.com
+
 原文地址：
+
 The AI Revolution: Road to Superintelligence
+
 The AI Revolution: Our Immortality or Extinction
+
 转载请保留原文链接和翻译者 知乎 @谢熊猫君
 =======================
 
@@ -1055,13 +1059,13 @@ Kaj Sotala and Roman V. Yampolskiy – Responses to Catastrophic AGI Risk: A Su
 
 Jeremy Howard TED Talk – The wonderful and terrifying implications of computers that can learn
 
-
-
-
-
 ---------------------
 作者：大熊随想
+
 来源：CSDN
+
 原文：https://blog.csdn.net/ennaymonkey/article/details/78216110
+
 版权声明：本文为作者原创文章，转载请附上博文链接！
+
 内容解析By：CSDN,CNBLOG博客文章一键转载插件
