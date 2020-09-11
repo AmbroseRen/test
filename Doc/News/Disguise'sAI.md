@@ -982,44 +982,77 @@ Bostrom等认为第一个超人工智能出现后，最可能的情况是这个�
 
 ======================
 相关阅读：
+
 如何用通俗的语言来解释「费米悖论」？
+
 假如把一个人粉碎成原子再组合，这个人还是原来的人吗？
 
 
 
 相关来源：
+
 The most rigorous and thorough look at the dangers of AI:
+
 Nick Bostrom – Superintelligence: Paths, Dangers, Strategies
 
 The best overall overview of the whole topic and fun to read:
+
 James Barrat – Our Final Invention
 
 Controversial and a lot of fun. Packed with facts and charts and mind-blowing future projections:
+
 Ray Kurzweil – The Singularity is Near
 
 Articles and Papers:
-J. Nils Nilsson – The Quest for Artificial Intelligence: A History of Ideas and AchievementsSteven Pinker – How the Mind WorksVernor Vinge – The Coming Technological Singularity: How to Survive in the Post-Human Era
+
+J. Nils Nilsson – The Quest for Artificial Intelligence: A History of Ideas and AchievementsSteven Pinker – How the Mind WorksVernor Vinge – The Coming Technological 
+
+Singularity: How to Survive in the Post-Human Era
+
 Nick Bostrom – Ethical Guidelines for A SuperintelligenceNick Bostrom – How Long Before Superintelligence?
+
 Nick Bostrom – Future Progress in Artificial Intelligence: A Survey of Expert Opinion
-Moshe Y. Vardi – Artificial Intelligence: Past and FutureRuss Roberts, EconTalk – Bostrom Interview and Bostrom Follow-UpStuart Armstrong and Kaj Sotala, MIRI – How We’re Predicting AI—or Failing ToSusan Schneider – Alien MindsStuart Russell and Peter Norvig – Artificial Intelligence: A Modern ApproachTheodore Modis – The Singularity Myth
+
+Moshe Y. Vardi – Artificial Intelligence: Past and FutureRuss Roberts, EconTalk – Bostrom Interview and Bostrom Follow-UpStuart Armstrong and Kaj Sotala, MIRI – How We’re 
+
+Predicting AI—or Failing ToSusan Schneider – Alien MindsStuart Russell and Peter Norvig – Artificial Intelligence: A Modern ApproachTheodore Modis – The Singularity Myth
+
 Gary Marcus – Hyping Artificial Intelligene, Yet Again
+
 Steven Pinker – Could a Computer Ever Be Conscious?
+
 Carl Shulman – Omohundro’s “Basic AI Drives” and Catastrophic Risks
+
 World Economic Forum – Global Risks 2015
+
 John R. Searle – What Your Computer Can’t Know
+
 Jaron Lanier – One Half a Manifesto
+
 Bill Joy – Why the Future Doesn’t Need Us
+
 Kevin Kelly – Thinkism
+
 Paul Allen – The Singularity Isn’t Near (and Kurzweil’s response)
+
 Stephen Hawking – Transcending Complacency on Superintelligent Machines
+
 Kurt Andersen – Enthusiasts and Skeptics Debate Artificial Intelligence
+
 Terms of Ray Kurzweil and Mitch Kapor’s bet about the AI timeline
+
 Ben Goertzel – Ten Years To The Singularity If We Really Really Try
+
 Arthur C. Clarke – Sir Arthur C. Clarke’s Predictions
+
 Hubert L. Dreyfus – What Computers Still Can’t Do: A Critique of Artificial Reason
+
 Stuart Armstrong – Smarter Than Us: The Rise of Machine Intelligence
+
 Ted Greenwald – X Prize Founder Peter Diamandis Has His Eyes on the Future
+
 Kaj Sotala and Roman V. Yampolskiy – Responses to Catastrophic AGI Risk: A Survey
+
 Jeremy Howard TED Talk – The wonderful and terrifying implications of computers that can learn
 
 
