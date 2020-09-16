@@ -2,14 +2,24 @@
 
 cmd
 
-regedit
+control
+  sysdm.cpl
 
 mstsc
 
-msconfig.exe
+regedit
+
+gpedit.msc
+
+compmgmt.msc
+
+services.msc
 
 calc
 
-sysdm.cpl
+msconfig.exe
+
+msconfig.exe
+
 
 
