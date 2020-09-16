@@ -15,7 +15,8 @@ pip install django
 
 /*
 包文档说明
-https://pandas.pydata.org/pandas-docs/version/0.15.2/install.html
+- https://pandas.pydata.org/pandas-docs/version/0.15.2/install.html
+- https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 */
 ```
 pip pip install pandas
