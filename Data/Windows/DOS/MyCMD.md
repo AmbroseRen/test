@@ -3,6 +3,7 @@
 cmd
 
 control
+  
   sysdm.cpl
 
 mstsc
