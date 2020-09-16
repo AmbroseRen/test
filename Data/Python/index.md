@@ -1,5 +1,7 @@
 # Python Lists [←](../index.md)
 
-[Guide](Guide.txt)
+[Guide](Guide.md)
 
 [get-pip.py](get-pip.py)
+
+[test](test.py)
