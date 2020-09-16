@@ -4,7 +4,11 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 ```
 
 # Libs
-/*网络批次请求爬取数据*/
+/*
+文档链接：
+https://requests.readthedocs.io/en/master/
+网络批次请求爬取数据
+*/
 ```
 pip install requests
 ```
