@@ -4,4 +4,4 @@
 
 [get-pip.py](get-pip.py)
 
-[test](test.py)
+[test](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/test.py)
