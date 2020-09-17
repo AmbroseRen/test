@@ -1,6 +1,6 @@
 ======Idea常用快捷键=======
 Theme：
-Ctrl + `
+Ctrl + `:Theme>Darcula + Color Scheme>High contrast # so beautiful
 
 
 ========断点调试======
