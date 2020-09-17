@@ -61,3 +61,25 @@ Excel操作
 ```
 pip install openpyxl
 ```
+
+from DecryptLogin import login
+
+模拟登录
++ 文档链接：
+- https://httpsgithubcomcharlespikachudecryptlogin.readthedocs.io/zh/latest/LOGIN.html
+```
+pip install DecryptLogin --upgrade
+```
+
+# 离线安装步骤
+
+e.g
+
+git clone https://github.com/CharlesPikachu/DecryptLogin.git
+
+cd DecryptLogin
+
+python setup.py install
+
+---
+
