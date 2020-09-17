@@ -5,7 +5,7 @@
 74.125.71.94 drive.google.com
 
 # Config
-##chrome://flags/
+## chrome://flags/
 >Tab Hover Cards：Disabled
 
 # URL
