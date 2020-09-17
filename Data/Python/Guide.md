@@ -36,6 +36,7 @@ pip install CDNDrive
 ```
 
 from bs4 import BeautifulSoup
+
 从HTML和XML文件中提取数据
 + 文档链接：
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
