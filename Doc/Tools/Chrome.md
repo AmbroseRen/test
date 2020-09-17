@@ -4,6 +4,13 @@
 
 74.125.71.94 drive.google.com
 
+# Config
+chrome://flags/
+
+Tab Hover Cards：Disabled
+
+
+
 # URL
 
 Windows.Bookmarks.URL:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default
