@@ -45,7 +45,7 @@ from bs4 import BeautifulSoup
 pip install beautifulsoup4
 ```
 
-from openpxml import Workbook
+from openpyxl import Workbook
 
 Excel操作
 + 文档链接：
