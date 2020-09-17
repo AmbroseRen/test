@@ -5,6 +5,8 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 
 # Libs
 /*
+import requests
+import re
 网络批次请求爬取数据
 + 文档链接：
 - https://requests.readthedocs.io/en/master/
@@ -32,10 +34,20 @@ pip install CDNDrive
 ```
 
 /*
+from bs4 import BeautifulSoup
 从HTML和XML文件中提取数据
 + 文档链接：
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 */
 ```
 pip install beautifulsoup4
+```
+
+/*
+from openpxml import Workbook
++ 文档链接：
+- https://openpyxl.readthedocs.io/en/stable/
+*/
+```
+pip install 
 ```
