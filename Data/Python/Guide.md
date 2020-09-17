@@ -67,6 +67,7 @@ from DecryptLogin import login
 模拟登录
 + 文档链接：
 - https://httpsgithubcomcharlespikachudecryptlogin.readthedocs.io/zh/latest/LOGIN.html
+- https://mp.weixin.qq.com/s/_82U7luG6jmV-xb8-Qkiew
 ```
 pip install DecryptLogin --upgrade
 ```
