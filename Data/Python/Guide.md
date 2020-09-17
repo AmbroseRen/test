@@ -50,6 +50,10 @@ from openpyxl import Workbook
 Excel操作
 + 文档链接：
 - https://openpyxl.readthedocs.io/en/stable/
++ 手册
+- https://pypi.org/project/openpyxl/
++ 案例
+- http://zetcode.com/python/openpyxl/
 
 ```
 pip install openpyxl
