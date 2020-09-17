@@ -2,7 +2,7 @@
 
 [Guide](Guide.md)
 
-[demoOne](index.md)
+[demoOne](demoOne/index.md)
 
 [get-pip.py](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/get-pip.py)
 
