@@ -7,6 +7,7 @@
 # Config
 ## chrome://flags/
 >Tab Hover Cards：Disabled
+>Omnibox UI Reveal Steady-State URL Path, Query, and Ref On Hover:
 
 # URL
 
