@@ -7,6 +7,8 @@ control
 
 mstsc
 
+optionalFeatures
+
 regedit
 
 gpedit.msc
