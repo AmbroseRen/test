@@ -50,5 +50,5 @@ from openpxml import Workbook
 - https://openpyxl.readthedocs.io/en/stable/
 
 ```
-pip install 
+pip install openpyxl
 ```
