@@ -74,12 +74,12 @@ pip install DecryptLogin --upgrade
 # 离线安装步骤
 
 e.g
-
+```
 git clone https://github.com/CharlesPikachu/DecryptLogin.git
 
 cd DecryptLogin
 
 python setup.py install
-
+```
 ---
 
