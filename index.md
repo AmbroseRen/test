@@ -24,7 +24,7 @@ Categories
 
 [util](util/index.md)
 
-[demoTest](demo.md)
+[EverythingIsTheme](demo.md)
 
 [demoOneTest](demoOne.md)
 
