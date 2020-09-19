@@ -21,4 +21,5 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 stylus
 > google
 >> https://userstyles.org/styles/123499/dishonored-google-theme
+>> https://userstyles.org/styles/166972/animation-google
 >> 
