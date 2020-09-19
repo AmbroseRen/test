@@ -17,3 +17,8 @@ Windows.Bookmarks.URL:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Defaul
 Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Extensions
 
 # Plugins
+
+stylus
+> google
+>> https://userstyles.org/styles/123499/dishonored-google-theme
+>> 
