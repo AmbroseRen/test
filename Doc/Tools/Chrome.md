@@ -29,3 +29,12 @@ stylus
 >> https://userstyles.org/styles/114437/matrix-en-windows-10-google
 
 >> 
+
+>github
+>> https://userstyles.org/styles/126131/github-dark-wide-transparent
+
+>> https://userstyles.org/styles/120866/github-dark-blues-wide
+
+>> https://userstyles.org/styles/168511/github-ice-dark-updated
+
+>> 
