@@ -14,6 +14,7 @@
 body {
     /*background: transparent url(https://ikurumi.com/wallpaper.php) center top fixed !important;*/
     background: transparent url(https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/ikurumi/girlOne.jpg) center top fixed !important;
+    /*background: transparent url(https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/gold.jpg) center top fixed !important;*/
     /*background: transparent url(https://i.imgur.com/8pKZKWK.jpg) center top fixed !important;*/
     background-size: cover !important
 }
