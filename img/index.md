@@ -2,4 +2,4 @@
 
 [MyFigureBed](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/)
 
-[gold](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/gold.jpgimg/gold.jpg)
+[gold](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/gold.jpg)
