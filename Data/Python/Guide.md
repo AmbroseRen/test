@@ -239,7 +239,7 @@ from lxml import etree
 ```
 
 + 文档：
-- 
+- https://lxml.de/build.html
 
 ```
 pip install lxml
