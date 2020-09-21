@@ -8,6 +8,7 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 # Libs
 
 __web请求库__
+
 import requests
 
 import re
@@ -19,20 +20,26 @@ import re
 ```
 pip install requests
 ```
+
 - - -
+
 
 ```
 pip install django
 ```
+
 - - -
+
 + 文档链接：
 - https://pandas.pydata.org/pandas-docs/version/0.15.2/install.html
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 ```
 pip pip install pandas
 ```
+
 - - -
-支持任意文件的全速上传与下载
+
+__支持任意文件的全速上传与下载__
 
 + 文档链接：
 - https://pypi.org/project/CDNDrive/
@@ -43,8 +50,11 @@ pip pip install pandas
 ```
 pip install CDNDrive
 ```
+
 - - -
+
 __从HTML和XML文件中提取数据__
+
 from bs4 import BeautifulSoup
 
 + 文档链接：
@@ -52,7 +62,9 @@ from bs4 import BeautifulSoup
 ```
 pip install beautifulsoup4
 ```
+
 - - -
+
 __Excel操作__
 from openpyxl import Workbook
 
@@ -65,7 +77,9 @@ from openpyxl import Workbook
 ```
 pip install openpyxl
 ```
+
 - - -
+
 __模拟登录__
 from DecryptLogin import login
 
@@ -75,6 +89,8 @@ from DecryptLogin import login
 ```
 pip install DecryptLogin --upgrade
 ```
+
+- - -
 
 # 离线安装步骤
 
@@ -86,5 +102,6 @@ cd DecryptLogin
 
 python setup.py install
 ```
----
+
+- - -
 
