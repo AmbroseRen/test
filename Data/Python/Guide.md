@@ -7,6 +7,8 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 
 # Libs
 
+- - -
+__web请求库__
 import requests
 
 import re
@@ -18,11 +20,12 @@ import re
 ```
 pip install requests
 ```
+- - -
 
 ```
 pip install django
 ```
-
+- - -
 + 文档链接：
 - https://pandas.pydata.org/pandas-docs/version/0.15.2/install.html
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
