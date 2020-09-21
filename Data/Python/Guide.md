@@ -55,12 +55,14 @@ pip install django
 
 __数据分析和科学计算__
 
+```
 from pandas import *
-
 import numpy as np
 
-> examples
->> randn = np.random.randn
+# examples
+randn = np.random.randn
+
+```
 
 + 文档链接：
 - https://pandas.pydata.org/pandas-docs/version/0.15.2/install.html
