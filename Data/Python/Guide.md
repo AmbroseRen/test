@@ -134,6 +134,34 @@ pip install DecryptLogin --upgrade
 
 - - -
 
+__Python Web框架和异步网络库__
+
+```
+import tornado.ioloop
+import tornado.web
+
+class MainHandler(tornado.web.RequestHandler):
+    def get(self):
+        self.write("Hello, world")
+
+def make_app():
+    return tornado.web.Application([
+        (r"/", MainHandler),
+    ])
+
+if __name__ == "__main__":
+    app = make_app()
+    app.listen(8888)
+    tornado.ioloop.IOLoop.current().start()
+```
++ 文档链接
+- https://www.tornadoweb.org/en/stable/
+```
+pip install tornado
+```
+
+- - -
+
 # 示例
 
 - [douban_book](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/douban_book.py)
