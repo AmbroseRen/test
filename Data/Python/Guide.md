@@ -224,6 +224,7 @@ reactor.run()
 
 + 文档：
 - https://twistedmatrix.com/trac/
+- https://twisted.readthedocs.io/en/twisted-18.4.0/core/howto/tutorial/index.html
 
 ```
 pip install Twisted
