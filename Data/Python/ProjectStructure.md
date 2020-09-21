@@ -27,4 +27,4 @@
 
 12，requirements.txt：用于存放整个应用依赖的外部Python包列表
 
-[^1]: 参考
+[^1]: [参考一](https://segmentfault.com/a/1190000021730113)
