@@ -204,6 +204,32 @@ pip install bottle
 
 - - -
 
+__事件驱动的网络引擎__
+
+```
+from twisted.internet import protocol, reactor, endpoints
+
+class Echo(protocol.Protocol):
+    def dataReceived(self, data):
+        self.transport.write(data)
+
+class EchoFactory(protocol.Factory):
+    def buildProtocol(self, addr):
+        return Echo()
+
+endpoints.serverFromString(reactor, "tcp:1234").listen(EchoFactory())
+reactor.run()
+```
+
+
++ 文档：
+- https://twistedmatrix.com/trac/
+
+```
+pip install Twisted
+```
+- - -
+
 # 示例
 
 - [douban_book](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/douban_book.py)
