@@ -21,12 +21,46 @@ pip install requests
 
 - - -
 
+__数据库交互工具库__
+
+
+```
+from django.db import models
+
+class Reporter(models.Model):
+    full_name = models.CharField(max_length=70)
+
+    def __str__(self):
+        return self.full_name
+
+class Article(models.Model):
+    pub_date = models.DateField()
+    headline = models.CharField(max_length=200)
+    content = models.TextField()
+    reporter = models.ForeignKey(Reporter, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.headline
+```
+
++ 文档链接
+- https://www.djangoproject.com/start/
+- https://docs.djangoproject.com/en/3.1/intro/overview/
 
 ```
 pip install django
 ```
 
 - - -
+
+__数据分析和科学计算__
+
+from pandas import *
+
+import numpy as np
+
+> examples
+>> randn = np.random.randn
 
 + 文档链接：
 - https://pandas.pydata.org/pandas-docs/version/0.15.2/install.html
