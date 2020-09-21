@@ -231,6 +231,15 @@ pip install Twisted
 ```
 - - -
 
+__Python处理XML和HTML__
+
+
+```
+git clone https://github.com/lxml/lxml.git lxml
+```
+
+- - -
+
 # 示例
 
 - [douban_book](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/douban_book.py)
