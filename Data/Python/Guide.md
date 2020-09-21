@@ -154,10 +154,52 @@ if __name__ == "__main__":
     app.listen(8888)
     tornado.ioloop.IOLoop.current().start()
 ```
-+ 文档链接
++ 文档链接：
 - https://www.tornadoweb.org/en/stable/
 ```
 pip install tornado
+```
+
+- - -
+
+WSGI Web
+
+```
+from flask import Flask, escape, request
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    name = request.args.get("name", "World")
+    return f'Hello, {escape(name)}!'
+```
+
++ 文档链接：
+- https://flask.palletsprojects.com/en/1.1.x/
+```
+pip install Flask
+```
+
+- - -
+
+WSGI Web
+
+```
+from bottle import route, run, template
+
+@route('/hello/<name>')
+def index(name):
+    return template('<b>Hello {{name}}</b>!', name=name)
+
+run(host='localhost', port=8080)
+
+```
+
++ 文档：
+- https://bottlepy.org/docs/dev/
+```
+pip install bottle
 ```
 
 - - -
