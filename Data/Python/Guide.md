@@ -9,6 +9,7 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 
 - [语法](https://www.runoob.com/python/python-tutorial.html)
 - [标准库](https://docs.python.org/zh-cn/3/library/) 
+- [依赖库搜索](https://pypi.org/project/lxml/)
 
 # Libs
 
@@ -233,9 +234,15 @@ pip install Twisted
 
 __Python处理XML和HTML__
 
+```
+from lxml import etree
+```
+
++ 文档：
+- 
 
 ```
-git clone https://github.com/lxml/lxml.git lxml
+pip install lxml
 ```
 
 - - -
