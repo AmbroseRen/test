@@ -21,8 +21,9 @@ pip install requests
 
 - - -
 
-__数据库交互工具库__
+__Python web MVC__
 
+__*数据库交互部分*__
 
 ```
 from django.db import models
