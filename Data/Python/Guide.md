@@ -7,7 +7,6 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 
 # Libs
 
-- - -
 __web请求库__
 import requests
 
@@ -32,7 +31,7 @@ pip install django
 ```
 pip pip install pandas
 ```
-
+- - -
 支持任意文件的全速上传与下载
 
 + 文档链接：
@@ -44,19 +43,19 @@ pip pip install pandas
 ```
 pip install CDNDrive
 ```
-
+- - -
+__从HTML和XML文件中提取数据__
 from bs4 import BeautifulSoup
 
-从HTML和XML文件中提取数据
 + 文档链接：
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 ```
 pip install beautifulsoup4
 ```
-
+- - -
+__Excel操作__
 from openpyxl import Workbook
 
-Excel操作
 + 文档链接：
 - https://openpyxl.readthedocs.io/en/stable/
 + 手册
@@ -66,10 +65,10 @@ Excel操作
 ```
 pip install openpyxl
 ```
-
+- - -
+__模拟登录__
 from DecryptLogin import login
 
-模拟登录
 + 文档链接：
 - https://httpsgithubcomcharlespikachudecryptlogin.readthedocs.io/zh/latest/LOGIN.html
 - https://mp.weixin.qq.com/s/_82U7luG6jmV-xb8-Qkiew
