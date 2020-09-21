@@ -26,13 +26,19 @@
 
 ## Scrapy
 
+...
+
 ## selenium
+
+...
 
 + 数据可视化
 - 工具：JMP
 
 ## matplotlib
 
+...
+
 ## seaborn
 
-
+...
