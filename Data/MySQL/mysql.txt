@@ -39,3 +39,11 @@ set names utf8;
      mysql> SET character_set_connection = utf8 ;
      mysql> SET character_set_database = utf8 ;
      m
+
+FAQ:
+# mysql services run fail
+进入bin目录
+$ mysqld --initialize
+$ net start MySQL
+OK
+
