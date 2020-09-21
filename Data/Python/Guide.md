@@ -7,7 +7,7 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 
 # python基础文档
 
-- https://www.runoob.com/python/python-tutorial.html 
+- [语法](https://www.runoob.com/python/python-tutorial.html)
 - [标准库](https://www.runoob.com/python/python-tutorial.html) 
 
 # Libs
