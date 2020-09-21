@@ -1,7 +1,8 @@
 # Python Porject Structure
 
 [ProjectStructure](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/pythonStructure.jpg)
-[^参考]
+[参考一]
+[参考二]
 
 1，bin目录：是整个应用程序的执行文件目录，其中start.py文件是启动入口
 
@@ -27,4 +28,5 @@
 
 12，requirements.txt：用于存放整个应用依赖的外部Python包列表
 
-[^参考]: https://segmentfault.com/a/1190000021730113
+[参考一]: https://segmentfault.com/a/1190000021730113
+[参考二]: https://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html
