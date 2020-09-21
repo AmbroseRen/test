@@ -48,6 +48,7 @@ $ net start MySQL
 # 获取临时密码
 grep 'temporary password' /var/log/mysqld.log
 # ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
+# TM现在改密码都这样了吗？？？
 ALTER USER 'root'@'localhost' IDENTIFIED  BY 'MYSQL_ROOT_PASSWORD';
 OK
 
