@@ -91,4 +91,6 @@ halt
 
 [Windows7电脑装ubuntu系统成双系统，使用easyBCD建立引导而不使用U盘和使用U盘来进行启动安装](https://blog.csdn.net/yangdashi888/article/details/64122481)
 
+[windows10安装ubuntu双系统教程（绝对史上最详细](https://www.cnblogs.com/masbay/p/10745170.html)
+
 后记：作为以后重装手册之用。
