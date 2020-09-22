@@ -93,4 +93,6 @@ halt
 
 [windows10安装ubuntu双系统教程](https://www.cnblogs.com/masbay/p/10745170.html)
 
+[磁盘分区定位参考](https://www.phpfans.net/article/htmls/201009/MzA0NDM4.html)
+
 后记：作为以后重装手册之用。
