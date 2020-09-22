@@ -100,3 +100,5 @@ halt
 [磁盘分区定位参考](https://www.phpfans.net/article/htmls/201009/MzA0NDM4.html)
 
 后记：作为以后重装手册之用。
+
+2020-9-22 17:51:28 +0000
