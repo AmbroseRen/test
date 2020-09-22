@@ -73,3 +73,15 @@ halt
     <td>sdb12</td>
   </tr>
 </table>
+
+- 6.设置时区
+- 7.初始化账号
+- 8.重启电脑
+
+参考：
+
+[win7引导安装ubuntu无需U盘启动](https://blog.csdn.net/beautiful_girl_love/article/details/78999359)
+
+[Windows7电脑装ubuntu系统成双系统，使用easyBCD建立引导而不使用U盘和使用U盘来进行启动安装](https://blog.csdn.net/yangdashi888/article/details/64122481)
+
+后记：作为以后重装手册之用。
