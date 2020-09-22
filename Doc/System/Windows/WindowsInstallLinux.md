@@ -37,6 +37,7 @@ halt
 
 <table style="width:100%">
   <tr>
+    <th>分配目录</th>
     <th>/.</th>
     <th>/boot</th> 
     <th>/tmp</th>
@@ -48,6 +49,7 @@ halt
     <th>/hoom</th>
   </tr>
   <tr>
+    <td>分配空间</td>
     <td>20G</td>
     <td>1G</td>
     <td>1G</td>
@@ -59,6 +61,7 @@ halt
     <td>20G</td>
   </tr>
   <tr>
+    <td>磁盘挂载点</td>
     <td>sdb3</td>
     <td>sdb5</td>
     <td>sdb6</td>
