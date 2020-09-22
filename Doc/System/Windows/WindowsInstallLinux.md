@@ -25,8 +25,15 @@ title halt
 halt
 ```
 
-- 4.找到解压文件夹：casper，并复制到C盘根目录；复制：casper/vmlinuz.efi(有的文件没有后缀格式，配置就不要后缀格式，如这样：casper/vmlinuz.efi)到C盘根目录；
-复制：casper/initrd.lz到C盘根目录；将已下载镜像如：ubuntu-14.04-desktop-amd64.iso复制到C盘根目录(配置文件需与自己文件名一致)。引导配置准备就绪。
+- 4.找到解压文件夹：casper，并复制到C盘根目录；
+
+复制：casper/vmlinuz.efi(有的文件没有后缀格式，配置就不要后缀格式，如这样：casper/vmlinuz.efi)到C盘根目录；
+
+复制：casper/initrd.lz到C盘根目录；
+
+复制：ubuntu-14.04-desktop-amd64.iso到C盘根目录(配置文件需与自己文件名一致)。
+
+引导配置准备就绪。
 
 ## 引导安装Ubuntu
 - 1.重启电脑，选择：NeoGrub引导加载器
