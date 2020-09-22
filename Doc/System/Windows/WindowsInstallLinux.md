@@ -1,5 +1,9 @@
 # Windows不用U盘引导，用easyBCD引导工具安装Linux双系统
 
+## 前言
+
+话说又一次坠到BigData的框架研究中来了...看能研究出什么样的应用！！！
+
 ## 准备工作
 - 1.win + R : compmgmt.msc
 
