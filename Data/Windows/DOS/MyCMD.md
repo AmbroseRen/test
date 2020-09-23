@@ -23,7 +23,7 @@ msconfig.exe
 
 msconfig.exe
 
-- VMware虚拟化
+VMware虚拟化
 
 bcdedit /set hypervisorlaunchtype off
 
