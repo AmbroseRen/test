@@ -1,38 +1,38 @@
 # 跨系统、跨平台临时转存文件和资料
 
-- [1]()
+- [引导](https://blog.csdn.net/gitchat/article/details/78341484)
 
-- [2]()
+- [八爪鱼视频采集](https://www.bazhuayu.com/tutorial/videotutorial/videoxsrm)
 
-- [3]()
+- [hadoop搭建](https://blog.csdn.net/hliq5399/article/details/78193113)
 
-- [4]()
-
-- - -
-
-- [5]()
-
-- [6]()
-
-- [7]()
-
-- [8]()
-
-- [9]()
-
-- [10]()
+- [CSDN_Hadoop](https://edu.csdn.net/course/detail/3027)
 
 - - -
 
-- [11]()
+- [HadoopToturail](http://hadoop.apache.org/docs/r1.0.4/cn/mapred_tutorial.html)
 
-- [12]()
+- [Hive+Spark安装](https://blog.csdn.net/dst1213/article/details/52195809)
 
-- [13]()
+- [kafka+storm安装](http://www.panchengming.com/2018/01/26/pancm70/)
 
-- [14]()
+- [StormDemo搭建](https://blog.csdn.net/qazwsxpcm/article/details/79586255)
 
-- [15]()
+- [Scala语法](https://www.runoob.com/scala/scala-tutorial.html)
+
+- [Scala测试](https://www.lanqiao.cn/courses/490)
+
+- - -
+
+- [Spark语法](https://vimsky.com/article/285.html#resilient-distributed-datasets-rdds)
+
+- [Hive语法](https://www.yiibai.com/hive/hiveql_group_by.html)
+
+- [WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
+
+- [R图形数据分析软件](https://cran.r-project.org/web/views/)
+
+- [kafka框架介绍](https://www.infoq.cn/article/apache-kafka/#idp_register)
 
 - - -
 
