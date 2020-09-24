@@ -248,9 +248,12 @@ jps查看是否有namenode进程
 jps查看从节点是否有datanode进程
 ```
 
-- 3.3
+- 3.3启动yarn集群
 ```
-启动yarn集群
+start-yarn.sh
+同样使用jps查看进程
+主节点：resourcemanager
+从节点：nodemanager
 ```
 
 - 4.查看集群web端口(windows下使用浏览器，推荐Google，并且修改Windows下的hosts ip映射文件)
