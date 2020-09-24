@@ -27,7 +27,11 @@
 
 照此步骤做三遍，虚拟三台主机(当场猝死！！！)
 
-## 每台主机配置参数,[参考](https://blog.csdn.net/murphyZ/article/details/88570243)
+## 每台主机配置参数
+
+[参考一](https://blog.csdn.net/murphyZ/article/details/88570243)
+
+[参考二](https://blog.csdn.net/xiaoyw71/article/details/53282945)
 
 - 1.1修改主机名
 ```
