@@ -269,4 +269,8 @@ node01:50070
 node0:8088
 ```
 
+- 4.1验证
+
+[参考一](https://www.yiibai.com/hadoop/hadoop_enviornment_setup.html)
+
 后记：
