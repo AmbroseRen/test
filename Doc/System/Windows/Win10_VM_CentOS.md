@@ -275,4 +275,4 @@ node0:8088
 
 [参考一](https://www.yiibai.com/hadoop/hadoop_enviornment_setup.html)
 
-后记：
+后记：说实话，我有点怀疑其研究价值，毕竟需要去搭建如此庞大的集群仅仅只是掌握其原理，而真正生产需要去搭建的是极其少数需求。
