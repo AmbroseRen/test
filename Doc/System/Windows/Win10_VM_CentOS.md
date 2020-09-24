@@ -33,6 +33,8 @@
 
 [参考二](https://blog.csdn.net/xiaoyw71/article/details/53282945)
 
+[参考三hadoop部分](https://blog.csdn.net/hliq5399/article/details/78193113)
+
 - 1.1修改主机名
 ```
 vi /etc/hostname
