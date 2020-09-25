@@ -1,5 +1,0 @@
-# 常用正则匹配规则
-
-s = '<a class=gb_yb href=[^>]+>'
-
-s = '<link href=[^>]+>'
