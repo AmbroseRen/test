@@ -134,7 +134,8 @@ ssh-copy-id hadoop@node03
 
 - 2.1安装JDK
 > 需先安装VMware Tools让宿主机<->虚拟机文件可互传，才能安装JDK和hadoop(本人CentOS6.10自带了JDK，安装VMware Tools卡了两个多小时)
->> 安装完.iso镜像，只是进入了CentOS光盘安装引导界面，需继续进行CentOS的安装，才能看到VMware文件夹下的Linux.iso即VMware Tools文件。
+>> 安装完.iso镜像，只是进入了CentOS光盘安装引导界面，需继续进行CentOS的安装(ctlr + shift + T)进入Install安装界面！！！(命令行安装方法：<忘了>)，
+才能看到VMware文件夹下的Linux.iso即VMware Tools文件。
 >> [安装VMware Tools](https://blog.csdn.net/dwj901125/article/details/11200401)
 >> 宿主机共享传输文件在虚拟机上的位置：/mnt/hgfs/
 >> 至此才能文件互传(2020-9-24 16:21:06 +0000).
