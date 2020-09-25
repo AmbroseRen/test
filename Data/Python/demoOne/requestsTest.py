@@ -1,4 +1,16 @@
+import re
 import requests
-r = requests.get('https://www.qiushibaike.com/text/') # 打开网址，一般我们会设置 请求头，来更逼真的模拟浏览器，下文有介绍
-r.text
-print(r.text)
+
+# s = '<a class=gb_yb href=[^>]+>'
+#s = '<link href=[\'"]?([^\'" >]+>'
+s = '<link href=[^>]+>'
+#s = '<link title=[RSS]+>'
+#r = requests.get('https://www.google.com/?q=python')
+#r = requests.get('https://www.baidu.com/s?wd=python')
+r = requests.get('https://cn.bing.com/search?q=python')
+#print(r.text)
+#result = re.search(s, r.text)
+result = re.findall(s, r.text)
+
+for i in result:
+    print(i)
