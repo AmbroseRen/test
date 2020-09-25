@@ -9,3 +9,5 @@
 [jdbc.properties](jdbc.properties)
 
 [regex](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Data/Oracle/regex.txt)
+
+[regexOne](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Data/Oracle/regexOne.txt)
