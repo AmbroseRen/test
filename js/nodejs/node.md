@@ -8,5 +8,9 @@ npm install cli-js -g
 ```
 npm install
 npm init
+npm run build
+npm run serve
 
+npm run test
+npm run lint
 ```
