@@ -36,3 +36,8 @@ nginx添加proxy
 			proxy_cache_bypass $http_upgrade;			
         }
 ```
+
+run
+```
+node server.js
+```
