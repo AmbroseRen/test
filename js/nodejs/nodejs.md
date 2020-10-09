@@ -1,5 +1,4 @@
 # nginx+nodejs构建webpack项目
-
 ```
 start nginx
 
@@ -9,7 +8,6 @@ npm i express
 ```
 
 create server.js
-
 ```
 const express = require('express')
 const app = express()
@@ -22,7 +20,6 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 nginx添加proxy
 > root/conf/nginx.conf
-
 ```
         location / {
             root   html;
