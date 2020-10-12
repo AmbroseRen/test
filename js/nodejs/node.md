@@ -15,3 +15,10 @@ npm run serve
 npm run test
 npm run lint
 ```
+
+```react
+npm start
+npm build
+npm test
+npm eject
+```
