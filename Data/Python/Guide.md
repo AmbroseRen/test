@@ -11,6 +11,12 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 - [标准库](https://docs.python.org/zh-cn/3/library/) 
 - [依赖库搜索](https://pypi.org/project/lxml/)
 
+# pip安装python依赖库 - 常用列表
+```
+pip install matplotlib  - from matplotlib import pyplot as plt
+
+```
+
 # Libs
 
 __web请求库__
