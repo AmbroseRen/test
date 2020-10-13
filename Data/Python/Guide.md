@@ -13,6 +13,7 @@ C:\Users\DELL\AppData\Local\Programs\Python\Python38-32\Scripts
 
 # pip安装python依赖库 - 常用列表
 ```
+安装                      引用
 pip install matplotlib  - from matplotlib import pyplot as plt
 
 ```
