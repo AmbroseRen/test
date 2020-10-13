@@ -1,5 +1,5 @@
 # DOS - 以python3为基础的机器学习库
-- 文档![https://scikit-learn.org/stable/]
+- 文档[https://scikit-learn.org/stable/]
 - 安装scikit-learn
 ```python
 pip install -U scikit-learn
