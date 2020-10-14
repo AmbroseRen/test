@@ -1,7 +1,7 @@
 # DOS
 
 + 环境准备
-- [开启go modules功能](https://blog.csdn.net/Ambrose_Ren/article/details/109065319)，[不开报错](https://ambroseren.github.io/test/Doc/Temp/0000.txt)
+- [开启go modules功能](https://blog.csdn.net/Ambrose_Ren/article/details/109065319)，~[不开报错](https://ambroseren.github.io/test/Doc/Temp/0000.txt)~
 ```
 go get github.com/go-sql-driver/mysql
 ```
