@@ -14,4 +14,4 @@ go build xxx.go
 ```
 
 + 参考链接
-[七牛云go代理](https://goproxy.cn/)~remote不咋好使哦~
+- [七牛云go代理](https://goproxy.cn/)~remote不咋好使哦~
