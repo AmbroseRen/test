@@ -13,7 +13,7 @@ cd C:\Hugo\Sites
 hugo new site example.com
 ```
 
-- 主题安装
+- 主题安装,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
 ```
 cd themes/
 git clone https://github.com/matcornic/hugo-theme-learn.git
