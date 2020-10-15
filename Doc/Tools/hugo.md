@@ -1,7 +1,7 @@
 # dos
 
 - [参考文档](https://gohugo.io/getting-started/installing/)
-- 配置系统路径
+- Windows配置系统全局变量
 - 检测安装
 ```
 hugo help
@@ -9,6 +9,7 @@ hugo help
 
 - 生成主站
 ```
+cd C:\Hugo\Sites
 hugo new site example.com
 ```
 
