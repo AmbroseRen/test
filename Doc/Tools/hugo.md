@@ -1,6 +1,6 @@
 # dos
 
-- [参考文档]（https://gohugo.io/getting-started/installing/）
+- [参考文档](https://gohugo.io/getting-started/installing/)
 - 配置系统路径
 - 检测安装
 ```
