@@ -17,5 +17,6 @@ hugo new site example.com
 ```
 cd themes/
 git clone https://github.com/matcornic/hugo-theme-learn.git
+git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git
 ```
 
