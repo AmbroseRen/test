@@ -1,0 +1,7 @@
+# Git爬坑之路 -被坑问题列表
+
+- 初始化无法提交 2020-10-16 16:16:15
+git pull --rebase origin master
+
+git push origin master
+
