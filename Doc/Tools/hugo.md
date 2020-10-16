@@ -1,4 +1,4 @@
-# dos
+# hugo手册
 
 - [参考文档](https://gohugo.io/getting-started/installing/)
 - Windows配置系统全局变量
@@ -20,3 +20,18 @@ git clone https://github.com/matcornic/hugo-theme-learn.git
 git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git
 ```
 
+- 发布文章
+```
+hugo new post/new-post.md
+```
+
+- 启动
+```
+hugo
+hugo server
+```
+
+- 访问
+```
+http://localhost:1313/
+```
