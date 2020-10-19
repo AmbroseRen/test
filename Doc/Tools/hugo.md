@@ -1,3 +1,10 @@
+# gitlab推送
+```
+git add .gitlab-ci.yml
+git commit -m "Add .gitlab-ci.yml"
+git push origin master
+```
+
 # hugo手册
 
 - [参考文档](https://gohugo.io/getting-started/installing/)
@@ -33,5 +40,5 @@ hugo server
 
 - 访问
 ```
-http://localhost:1313/
+http://localhost:1313/.
 ```
