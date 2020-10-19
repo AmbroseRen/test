@@ -210,7 +210,7 @@ That’s it! You can now follow the CI agent building your page at https://gitla
 After the build has passed, your new website is available at https://<YourUsername>.gitlab.io/<your-hugo-site>/.
   
 >Make sure your baseURL key-value in your site configuration reflects the full URL of your GitLab pages repository if you’re using the default GitLab Pages URL 
-
+```
 (e.g.,https://<YourUsername>.gitlab.io/<your-hugo-site>/) 
-  
+```
 and not a custom domain.
