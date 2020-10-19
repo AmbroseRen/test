@@ -162,6 +162,7 @@ pygmentsuseclasses         = true
 ```
 git clone https://github.com/orianna-zzo/AllinOne.git themes/AllinOne
 ```
+[pull AllinOne theme into themes directory](https://github.com/orianna-zzo/blog-hugo),thanks his toturial
 
 - Other theme install,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
 ```
