@@ -189,7 +189,7 @@ hugo server
 http://localhost:1313/yourSiteURL
 ```
 
-- git commit
+- [git commit](https://gohugo.io/hosting-and-deployment/hosting-on-gitlab/)
 ```gitlab
 # initialize new git repository
 git init
