@@ -158,7 +158,10 @@ pygmentsuseclasses         = true
   busuanzi                 = true
 ```
 
-- 主题安装,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
+- 配套主题
+git clone https://github.com/orianna-zzo/AllinOne.git themes/AllinOne
+
+- Other theme install,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
 ```
 cd themes/
 git clone https://github.com/matcornic/hugo-theme-learn.git
