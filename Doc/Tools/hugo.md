@@ -20,6 +20,144 @@ cd C:\Hugo\Sites
 hugo new site example.com
 ```
 
+- blog init
++ gitlab托管配置
+> .gitlab-ci.yml
+```
+# This file is a template, and might need editing before it works on your project.
+---
+# All available Hugo versions are listed here:
+# https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+test:
+  script:
+    - hugo
+  except:
+    - master
+
+pages:
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+
+```
+
+> config.toml
+```
+baseURL                    = "https://ambroserencn.gitlab.io/ambroserencn"
+builddrafts                = false
+languageCode               = "zh-Hans"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 5
+
+theme                      = "AllinOne"
+title                      = "AmbroseRen"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  sci-tech                 = "sci-tech/:year-:month/:slug/"
+  project                  = "project/:slug/"
+  blog                     = "blog/:year-:month/:slug/"
+  profile                  = "profile/:slug/"
+  
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Sci-Tech"
+    weight                 = 1
+    identifier             = "sci-tech"
+    url                    = "sci-tech/"
+
+  # [[menu.main]]
+  #   name                   = "Project"
+  #   weight                 = 2
+  #   identifier             = "project"
+  #   url                    = "project/"
+
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = 3
+    identifier             = "blog"
+    url                    = "blog/"
+
+  # [[menu.main]]
+  #   name                   = "Profile"
+  #   weight                 = 5
+  #   identifier             = "profile"
+  #   url                    = "profile/"
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = 9
+    identifier             = "about"
+    url                    = "about/"
+
+
+[params]
+  faviconfile              = "img/zheng.png"
+  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+  author                   = "AmbroseRen"
+  description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Hello, World!"
+  welcome_word             = "~ No Day But Today ~"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false       
+
+  # slides
+  slidesDirPath            = "static/img/header-slides"    # path to image in local dir (for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  
+
+  # highlighting 
+  highlightjs              = true
+  
+
+  # links
+  email                    = "ambroserencn@gmail.com"
+  github                   = "//github.com/AmbroseRen"
+  #linkedin                 = "//linkedin.com/in/ziouzheng"
+  facebook                 = "https://www.facebook.com/ambroserencn/"
+  # googleplus               = "//plus.google.com/u/0/114708482192918964838"
+  twitter                  = "//twitter.com/cn_ambrose"
+  # px500                    = "//px500"
+  #instagram                = "//instagram.com/seagulldreamer/"
+  include_rss              = false                         # include RSS <link> tag in <head> and show RSS icon
+
+
+  # analytics
+  googleAnalytics          = "UA-90057853-1"
+
+  # counter
+  busuanzi                 = true
+```
+
 - 主题安装,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
 ```
 cd themes/
@@ -41,4 +179,19 @@ hugo server
 - 访问
 ```
 http://localhost:1313/.
+```
+
+- git commit
+```
+# initialize new git repository
+git init
+
+# add /public directory to our .gitignore file
+echo "/public" >> .gitignore
+
+# commit and push code to master branch
+git add .
+git commit -m "Initial commit"
+git remote add origin https://gitlab.com/YourUsername/your-hugo-site.git
+git push -u origin master
 ```
