@@ -187,6 +187,9 @@ git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git
 
 ```
 hugo new post/new-post.md
+hugo new blog/new-post.md
+hugo new sci-tech/new-post.md
+hugo new about/new-post.md
 ```
 
 - 启动
