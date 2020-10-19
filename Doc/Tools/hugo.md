@@ -7,7 +7,7 @@ git push origin master
 
 # Windows + hugo + gitlab set up manual(Hugo搭建手册)
 
-time:2020-10-19 15:17:27 +0000
+Publish Date:  2020-10-19 15:19:18
 
 - [Windows参考文档](https://gohugo.io/getting-started/installing/#windows)
 - Windows配置系统全局变量
