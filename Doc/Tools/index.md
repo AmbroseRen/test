@@ -20,8 +20,8 @@
 
 - Blog
 
-[hexo + github]()
+[hexo + github](https://raw.githubusercontent.com/AmbroseRen/test/master/Doc/Tools/hexo.bat)
 
-[]()
+[hugo + gitlab](hugo.md)
 
 []()
