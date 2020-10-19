@@ -177,6 +177,7 @@ git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git
 - 发布文章
 - [模板示例](https://github.com/orianna-zzo/blog-hugo/edit/master/content/sci-tech/2018-01/blog%E5%85%BB%E6%88%90%E8%AE%B04-hugo%E4%B8%AD%E5%A2%9E%E5%8A%A0tags%E7%AD%89%E5%88%86%E7%B1%BB.md)
 - [官网自动化模板](https://gohugo.io/templates/lists/)
+- [Hugo Markup模板渲染](https://gohugo.io/getting-started/configuration-markup/)
 ```
 hugo new post/new-post.md
 ```
