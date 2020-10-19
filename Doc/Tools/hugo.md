@@ -159,8 +159,9 @@ pygmentsuseclasses         = true
 ```
 
 - 配套主题
-
+```
 git clone https://github.com/orianna-zzo/AllinOne.git themes/AllinOne
+```
 
 - Other theme install,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
 ```
