@@ -162,7 +162,8 @@ pygmentsuseclasses         = true
 ```
 git clone https://github.com/orianna-zzo/AllinOne.git themes/AllinOne
 ```
-[pull AllinOne theme into themes directory](https://github.com/orianna-zzo/blog-hugo),thanks his demo and toturial.
++ [pull AllinOne theme into themes directory](https://github.com/orianna-zzo/blog-hugo),thanks his demo and toturial.
++ [gitlab Hugo Demo Project](https://gitlab.com/pages/hugo)
 
 即：root/themes/AllinOne
 
@@ -175,6 +176,7 @@ git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git
 
 - 发布文章
 - [模板示例](https://github.com/orianna-zzo/blog-hugo/edit/master/content/sci-tech/2018-01/blog%E5%85%BB%E6%88%90%E8%AE%B04-hugo%E4%B8%AD%E5%A2%9E%E5%8A%A0tags%E7%AD%89%E5%88%86%E7%B1%BB.md)
+- [官网自动化模板](https://gohugo.io/templates/lists/)
 ```
 hugo new post/new-post.md
 ```
@@ -221,3 +223,6 @@ https://<YourUsername>.gitlab.io/<your-hugo-site>/.
 > and not a custom domain.
 
 - [gitlab构建分支管道参考](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html)
+
+- [My gitlab project](https://gitlab.com/ambroserencn/ambroserencn)
+- [My gitlab site](https://ambroserencn.gitlab.io/ambroserencn/)
