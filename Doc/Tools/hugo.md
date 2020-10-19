@@ -205,12 +205,16 @@ git push -u origin master
 ```
 
 Wait for Your Page to Build 
-That’s it! You can now follow the CI agent building your page at https://gitlab.com/<YourUsername>/<your-hugo-site>/pipelines.
-
-After the build has passed, your new website is available at https://<YourUsername>.gitlab.io/<your-hugo-site>/.
-  
->Make sure your baseURL key-value in your site configuration reflects the full URL of your GitLab pages repository if you’re using the default GitLab Pages URL 
+That’s it! You can now follow the CI agent building your page at
+```
+https://gitlab.com/<YourUsername>/<your-hugo-site>/pipelines.
+```
+After the build has passed, your new website is available at 
+```
+https://<YourUsername>.gitlab.io/<your-hugo-site>/.
+```
+> Make sure your baseURL key-value in your site configuration reflects the full URL of your GitLab pages repository if you’re using the default GitLab Pages URL 
 ```
 (e.g.,https://<YourUsername>.gitlab.io/<your-hugo-site>/) 
 ```
-and not a custom domain.
+> and not a custom domain.
