@@ -23,6 +23,7 @@ hugo new site example.com
 - blog init
 + gitlab托管配置
 > root/.gitlab-ci.yml
+
 ```
 # This file is a template, and might need editing before it works on your project.
 ---
