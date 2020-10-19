@@ -24,7 +24,7 @@ hugo new site example.com
 + gitlab托管配置
 > root/.gitlab-ci.yml
 
-```
+```yml
 # This file is a template, and might need editing before it works on your project.
 ---
 # All available Hugo versions are listed here:
@@ -52,7 +52,7 @@ pages:
 ```
 
 > root/config.toml
-```
+```toml
 baseURL                    = "https://ambroserencn.gitlab.io/ambroserencn"
 builddrafts                = false
 languageCode               = "zh-Hans"
