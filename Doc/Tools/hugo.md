@@ -5,7 +5,7 @@ git commit -m "Add .gitlab-ci.yml"
 git push origin master
 ```
 
-# hugo手册
+# Windows + hugo + gitlab set up manual(Hugo搭建手册)
 
 - [Windows参考文档](https://gohugo.io/getting-started/installing/#windows)
 - Windows配置系统全局变量
@@ -162,7 +162,7 @@ pygmentsuseclasses         = true
 ```
 git clone https://github.com/orianna-zzo/AllinOne.git themes/AllinOne
 ```
-+ [pull AllinOne theme into themes directory](https://github.com/orianna-zzo/blog-hugo),thanks his demo and toturial.
++ [pull AllinOne theme into themes directory](https://github.com/orianna-zzo/blog-hugo),thanks his demo and tutorial.
 + [gitlab Hugo Demo Project](https://gitlab.com/pages/hugo)
 
 即：root/themes/AllinOne
