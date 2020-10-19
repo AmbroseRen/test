@@ -7,7 +7,7 @@ git push origin master
 
 # hugo手册
 
-- [参考文档](https://gohugo.io/getting-started/installing/)
+- [Windows参考文档](https://gohugo.io/getting-started/installing/#windows)
 - Windows配置系统全局变量
 - 检测安装
 ```
