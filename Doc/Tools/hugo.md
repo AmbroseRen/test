@@ -51,7 +51,7 @@ pages:
 
 ```
 
-> root/config.toml
+> root/config.toml [MD渲染变形了，这是原件](https://github.com/AmbroseRen/test/edit/master/Doc/Tools/hugo.md)
 ```toml
 baseURL                    = "https://ambroserencn.gitlab.io/ambroserencn"
 builddrafts                = false
