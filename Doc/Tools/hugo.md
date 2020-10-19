@@ -22,7 +22,7 @@ hugo new site example.com
 
 - blog init
 + gitlab托管配置
-> .gitlab-ci.yml
+> root/.gitlab-ci.yml
 ```
 # This file is a template, and might need editing before it works on your project.
 ---
@@ -50,7 +50,7 @@ pages:
 
 ```
 
-> config.toml
+> root/config.toml
 ```
 baseURL                    = "https://ambroserencn.gitlab.io/ambroserencn"
 builddrafts                = false
@@ -164,6 +164,8 @@ git clone https://github.com/orianna-zzo/AllinOne.git themes/AllinOne
 ```
 [pull AllinOne theme into themes directory](https://github.com/orianna-zzo/blog-hugo),thanks his toturial
 
+即：root/themes/AllinOne
+
 - Other theme install,[Doc+Demo](https://themes.gohugo.io/hugo-theme-learn/)
 ```
 cd themes/
@@ -184,11 +186,11 @@ hugo server
 
 - 访问
 ```
-http://localhost:1313/.
+http://localhost:1313/yourSiteURL
 ```
 
 - git commit
-```
+```gitlab
 # initialize new git repository
 git init
 
@@ -201,3 +203,10 @@ git commit -m "Initial commit"
 git remote add origin https://gitlab.com/YourUsername/your-hugo-site.git
 git push -u origin master
 ```
+
+Wait for Your Page to Build 
+That’s it! You can now follow the CI agent building your page at https://gitlab.com/<YourUsername>/<your-hugo-site>/pipelines.
+
+After the build has passed, your new website is available at https://<YourUsername>.gitlab.io/<your-hugo-site>/.
+  
+>Make sure your baseURL key-value in your site configuration reflects the full URL of your GitLab pages repository if you’re using the default GitLab Pages URL (e.g., https://<YourUsername>.gitlab.io/<your-hugo-site>/) and not a custom domain.
