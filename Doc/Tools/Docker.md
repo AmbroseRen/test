@@ -18,6 +18,8 @@ Publish Date: 2020-10-20 11:09:26 +0000
 
 ```
 docker -v  --查看版本
+docker-compose -v
+docker-machine -v
 
 docker image ls --查看镜像
 docker search nginx --搜索镜像
