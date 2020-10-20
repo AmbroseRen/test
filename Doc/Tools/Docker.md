@@ -3,6 +3,10 @@ Publish Date: 2020-10-20 11:09:26 +0000
 
 - 1.[下载](https://docs.docker.com/engine/install/)
 
+> Install FAQ
+>> [Start hyper-V](https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization)
+>> [更新 WSL 2 Linux 内核](https://docs.microsoft.com/zh-cn/windows/wsl/wsl2-kernel)
+
 - 1.1[云镜像托管社区](https://hub.docker.com/)
 - 1.1.2[公有社区映像](https://hub.docker.com/search?q=&type=image)
 
