@@ -33,6 +33,9 @@ docker push arnieswap/my_repo --push镜像
 docker run -it xxx --运行本地镜像
 docker run arnieswap/my_repo --运行他人docker Hub镜像
 
+docker save verse_gapminder > verse_gapminder.tar --存档映像
+docker load --input verse_gapminder.tar --读取存档映像
+
 exit --退出
 ```
 
