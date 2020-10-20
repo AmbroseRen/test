@@ -60,6 +60,10 @@ exit --退出
 + [参考](https://www.linux.com/training-tutorials/how-use-dockerhub/)
 
 - 3.[加载测试](https://hub.docker.com/_/registry)
+```
+docker pull nginx
+docker run --name nginx -p 80:80 -d nginx --必须映射80端口
+```
 
 ```
 docker pull registry
