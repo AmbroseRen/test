@@ -42,3 +42,14 @@ exit --退出
 
 + [参考](https://www.linux.com/training-tutorials/how-use-dockerhub/)
 
+- 3.[加载测试](https://hub.docker.com/_/registry)
+
+```
+docker pull registry
+
+docker run -d -p 5000:5000 --restart always --name registry registry:2
+
+docker pull ubuntu
+docker tag ubuntu localhost:5000/ubuntu
+docker push localhost:5000/ubuntu
+```
