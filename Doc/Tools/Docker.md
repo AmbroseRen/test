@@ -4,6 +4,7 @@ Publish Date: 2020-10-20 11:09:26 +0000
 - 1.[下载](https://docs.docker.com/engine/install/)
 
 - 1.1[云镜像托管社区](https://hub.docker.com/)
+- 1.1.2[公有社区映像](https://hub.docker.com/search?q=&type=image)
 
 - 1.2[官方文档](https://docs.docker.com/engine/)
 
