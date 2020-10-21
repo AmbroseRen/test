@@ -57,6 +57,13 @@ docker load --input verse_gapminder.tar --读取存档映像
 exit --退出
 ```
 
+- 2.1进入映像Linux内壳
+
+```
+docker ps -a
+docker exec -it 5add71172a46 /bin/bash
+```
+
 + [参考](https://www.linux.com/training-tutorials/how-use-dockerhub/)
 
 - 3.[加载测试](https://hub.docker.com/_/registry)
