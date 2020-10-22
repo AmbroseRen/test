@@ -4,6 +4,11 @@
 			Calculus(微积分)
 		ML(机器学习)
 			Arithmetic(算法)
+				线性模型
+				逻辑回归
+				决策树模型
+				支持向量机
+				贝叶斯分类器
 			Classify(分类)
 				Supervised Learning(监督学习)
 			Model(模型)
