@@ -1,9 +1,11 @@
 # some direction
 
-Spring Cloud、
+Spring Cloud(微服务架构)
 
-Netty、
+ES & Solr(海量数据检索)
 
-Jersey、
+Netty(异步驱动的网络应用框架)
 
-Gradle、
+Jersey(请求服务Java框架)
+
+Gradle(构建工具)
