@@ -18,6 +18,8 @@
 
 [搜索引擎收录](SearchEngine.md)
 
+[综合门户导航](synthesize.md)
+
 [学习平台](LearnPlatform.md)
 
 [电子书格式转换工具](Tools.md)
