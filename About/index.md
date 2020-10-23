@@ -1,3 +1,3 @@
 # About Me  [Home](../index.md)
 
-待续。。。
+传奇待续！！！
