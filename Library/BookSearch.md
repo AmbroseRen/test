@@ -14,10 +14,23 @@
 | [epdf](https://epdf.pub/en/) | en-pdf | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [雅书](https://yabook.org/) | cn-pdf | X | X | X |
+| [Internet Archive](https://archive.org/) | en-互联网档案馆 | X | X | X |
+| [书单网](https://www.shudan.vip/115040.html) | 搜索引擎 | X | X | X |
+| []() | 25 | X | X | X |
+| []() | 25 | X | X | X |
+| []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 
 ## 友链
 
+[readfree](http://einverne.github.io/post/2018/02/free-online-books.html)
+
 [SaltyLoe](https://tstrs.me/1475.html)
+
+[]()
+
+[]()
+
+[]()
