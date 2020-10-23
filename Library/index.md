@@ -4,6 +4,8 @@
 
 [BookSearch](BookSearch.md)
 
+[AcademicSearch](AcademicSearch.md)
+
 [MyBookLists](BookLists.md)
 
 [OtherBookLists](OtherBookLists.md)
