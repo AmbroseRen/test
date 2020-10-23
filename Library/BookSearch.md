@@ -18,6 +18,6 @@
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 
-- 友链
+## 友链
 
 [SaltyLoe](https://tstrs.me/1475.html)
