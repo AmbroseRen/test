@@ -1,4 +1,4 @@
-# Search Engine Record(搜索引擎收录)
+# Search Engine Record(搜索引擎收录)  [←](index.md)
 
 | 传送门 | 描述 | 特点 |
 |:---:|:---:|:---:|
