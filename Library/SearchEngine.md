@@ -3,6 +3,7 @@
 | 传送门 | 描述 | 特点 |
 |:---:|:---:|:---:|
 | [google](https://www.google.com) | 谷歌搜索·美国 | 精度高 |
+| [微软bing](https://cn.bing.com) | 微软 | 万金油 |
 | [duckduckgo](https://duckduckgo.com) | 唐老鸭·美国 | 隐匿好 |
 | [多吉搜索](https://www.dogedoge.com) | _ | 隐匿 |
 | [Qwant](https://www.qwant.com) | France | Y |
