@@ -8,6 +8,8 @@ python -m django --version
 django-admin startproject mysite
 
 python manage.py runserver
+
+# python manage.py runserver 0.0.0.0:8080 --更改服务器IP:端口号(示例)
 ```
 
 - test
