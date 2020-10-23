@@ -9,6 +9,7 @@
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
 | [掌上书苑](https://www.soepub.com/) | 现代文学 | X | X | X |
 | [少儿英语星](http://www.kindle178.com/) | 少儿故事 | X | X | X |
+| [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [pdfdrive](https://www.pdfdrive.com/) | en-pdf | X | X | X |
