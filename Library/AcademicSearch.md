@@ -11,7 +11,7 @@
 | [世纪图书馆](http://libgen.li/) | 搜索引擎 | X |
 | [电子图书馆](https://b-ok.asia/?regionChanged=&redirect) | en-zLibrary | X |
 | [CNKI](http://new.oversea.cnki.net/index/) | 中国知网 | X |
-| []() | 25 | X |
-| []() | 25 | X |
+| [考试资料网](https://www.ppkao.com/) | 搜题题库 | X |
+| [中国古典文学·豆瓣](https://tushu.docin.com/) | 25 | X |
 | []() | 25 | X |
 | []() | 25 | X |
