@@ -9,8 +9,8 @@
 | [百度文库](https://wenku.baidu.com/) | 百度文库 | Y |
 | [原创力文档](https://max.book118.com/) | 文档共享存储平台 | X |
 | [世纪图书馆](http://libgen.li/) | 搜索引擎 | X |
-| [电子图书馆](https://b-ok.asia/?regionChanged=&redirect) | en | X |
-| []() | 25 | X |
+| [电子图书馆](https://b-ok.asia/?regionChanged=&redirect) | en-zLibrary | X |
+| [CNKI](http://new.oversea.cnki.net/index/) | 中国知网 | X |
 | []() | 25 | X |
 | []() | 25 | X |
 | []() | 25 | X |
