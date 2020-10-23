@@ -16,6 +16,8 @@
 
 [书摘拾贝](excerpt.md)
 
+[搜索引擎收录](SearchEngine.md)
+
 [学习平台](LearnPlatform.md)
 
 [电子书格式转换工具](Tools.md)
