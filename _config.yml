@@ -6,6 +6,8 @@ theme: minima
 
 # remote_theme: benbalter/retlab
 
+show_excerpts: true
+
 algolia:
   application_id: '45FAXPQVEG'
   index_name: 'test_index'
