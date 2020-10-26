@@ -3,7 +3,7 @@
     {
 
       "title"    : "{{ post.title | strip_html | escape }}",
-      "url"      : "Doc/Java/Spring/Spring_Cloud.md",
+      "url"      : "{{AmbroseRen}}{{Doc/Java/Spring/Spring_Cloud.md}}",
       "category" : "{{post.categories | join: ', '}}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ date }}",
