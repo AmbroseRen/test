@@ -6,7 +6,7 @@
 
 - Plugins
 
-[Git](Git.txt)
+[Git](Git/index.md)
 
 [Docker](Docker.md)
 
