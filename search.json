@@ -2,11 +2,11 @@
 
     {
 
-      "title"    : "{{ post.title120 | strip_html | escape }}",
+      "title"    : "{{ Something about Spring Cloud Microservice }}",
       "url"      : "Doc/Java/Spring/Spring_Cloud.html",
       "category" : "{{post.categories | join: ', '}}",
       "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ date }}",
+      "date"     : "{{ Something about Spring Cloud Microservice }}",
       "discription" : "{{post.description | strip_html | strip_newlines | escape }}"
 
     }
