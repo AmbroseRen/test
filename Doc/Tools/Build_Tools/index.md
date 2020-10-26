@@ -2,7 +2,7 @@
 
 > 代理服务器
 
-[nginx](http://nginx.org/en/download.html)
+>> [nginx](http://nginx.org/en/download.html)
 
 - npm包管理工具
 
