@@ -2,7 +2,7 @@
 
 Categories
 
-[搜索页面](search.html)
+[搜索页面](search.md)
 
 [Data](Data/index.md)
 
