@@ -12,7 +12,7 @@
 
 [Tomcat](Tomcat.txt)
 
-[Idea](Idea.txt)
+[Idea](Idea/index.md)
 
 [Tools](Tools.txt)
 
