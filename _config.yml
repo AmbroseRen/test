@@ -3,3 +3,7 @@ theme: jekyll-theme-cayman
 # theme: just-the-docs
 
 # remote_theme: benbalter/retlab
+
+algolia:
+  application_id: '45FAXPQVEG'
+  index_name: 'test_index'
