@@ -2,6 +2,8 @@
 
 Categories
 
+[搜索页面](search.html)
+
 [Data](Data/index.md)
 
 [Doc](Doc/index.md)
