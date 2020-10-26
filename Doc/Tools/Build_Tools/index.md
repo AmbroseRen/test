@@ -1,6 +1,6 @@
 # Build Tools Lists  [←](../index.md)
 
-- 代理服务器
+> 代理服务器
 
 [nginx](http://nginx.org/en/download.html)
 
