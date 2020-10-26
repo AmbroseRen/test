@@ -1,5 +1,5 @@
 [
-  {% for post in site.posts %}
+
     {
 
       "title"    : "{{ post.title | strip_html | escape }}",
@@ -9,6 +9,5 @@
       "date"     : "{{ post.date }}",
       "discription" : "{{post.description | strip_html | strip_newlines | escape }}"
 
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+    }
 ]
