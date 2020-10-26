@@ -3,7 +3,7 @@
 
     {
 
-      "title"    : "{{ post.title | escape }}",
+      "title"    : "{{ Data.title | 一级 }}",
       "url"      : "",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
