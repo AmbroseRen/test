@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+theme: minima
+
+# theme: jekyll-theme-cayman
 
 # theme: just-the-docs
 
