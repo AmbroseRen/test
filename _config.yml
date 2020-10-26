@@ -1,5 +1,5 @@
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
-theme: just-the-docs
+# theme: just-the-docs
 
 # remote_theme: benbalter/retlab
