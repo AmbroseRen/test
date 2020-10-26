@@ -4,6 +4,8 @@
 
 [Law](Law/index.md)
 
+[Java](Java/index.md)
+
 [System](System/index.md)
 
 [Tools](Tools/index.md)
