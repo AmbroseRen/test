@@ -14,5 +14,13 @@
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ timeTrack }}",
       "discription" : "{{timeTrack }}"
-    }    
+    },
+    {
+      "title"    : "商鞅黑洞",
+      "url"      : "Doc/Law/商鞅黑洞.html",
+      "category" : "{{post.categories | join: ', '}}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ timeTrack }}",
+      "discription" : "{{timeTrack }}"
+    }
 ]
