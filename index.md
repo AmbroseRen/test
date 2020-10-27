@@ -2,7 +2,9 @@
 
 Categories
 
-[search](search.md)
+[Search](search.md)
+
+[SearchOne](sok.md)
 
 [Data](Data/index.md)
 
