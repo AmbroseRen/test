@@ -16,7 +16,7 @@
 <script>
 {% raw %}
 window.store = [
-	{% for post in site.posts %} {
+	 {
 		"title": {{post.title | jsonify}},
 		"artist": {{post.artist | jsonify}},
 		"link": {{ post.url | jsonify }},
@@ -33,8 +33,8 @@ window.store = [
       "date"     : "{{ timeTrack }}",
       "discription" : "{{timeTrack }}"
     }		
-	{% unless forloop.last %}, {% endunless %}
-	{% endfor %}
+	
+	
 ]
 {% endraw %}
 	
