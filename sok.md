@@ -16,7 +16,7 @@
 <script>
 {% raw %}
 window.store = [
-	 {
+	{% for post in site.posts %} {
 		"title": {{post.title | jsonify}},
 		"artist": {{post.artist | jsonify}},
 		"link": {{ post.url | jsonify }},
@@ -32,10 +32,11 @@ window.store = [
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ timeTrack }}",
       "discription" : "{{timeTrack }}"
-    }	
-
+    }		
+	{% unless forloop.last %}, {% endunless %}
+	{% endfor %}
 ]
-
+{% endraw %}
 	
 const searchform = document.querySelector('.searchform')
 const searchfield = document.querySelector('.searchfield')
