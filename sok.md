@@ -2,7 +2,7 @@
 	<div class="columns">
 		<div class="column col-6">
 		<form class="searchform" action="/sok" method="get">
-		<input type="text" id="lunr" class="form-input searchfield" placeholder="Sök album, musiker, skivbolag, taggar..." autofocus>
+		<input type="text" class="form-input searchfield" placeholder="Sök album, musiker, skivbolag, taggar..." autofocus>
 		<input type="submit" class="invisible">
 		</form>
 		</div>
@@ -12,47 +12,86 @@
 	</div>
 </div>
 
+import lunr from 'lunr'
 
 
 
-
-<!-- Html Elements for Search -->
-<div id="search-container">
-  
-<input type="text" id="search-input" placeholder="search...">
-
-<ul id="results-container"></ul>
-
-</div>
-
-<!-- Script pointing to search-script.js -->
-<script src="js/lunr-2.3.9.js" type="text/javascript"></script>
-
-<!-- Configuration -->
 <script>
-  
-var idx = lunr(function () {
-  this.field('title')
-  this.field('body')
+{% raw %}
+window.store = [
+	{% for post in site.posts %} {
+		"title": {{post.title | jsonify}},
+		"artist": {{post.artist | jsonify}},
+		"link": {{ post.url | jsonify }},
+		"label": {{ post.label | jsonify }},
+		"image": {{ post.image | jsonify }},
+		"date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
+		"excerpt": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
+	}
+	{% unless forloop.last %}, {% endunless %}
+	{% endfor %}
+]
+{% endraw %}
+	
+const searchform = document.querySelector('.searchform')
+const searchfield = document.querySelector('.searchfield')
+const resultdiv = document.querySelector('.searchcontainer')
+const searchcount = document.querySelector('.searchcount')
 
-  this.add({
-    "title": "Twelfth-Night",
-    "body": "If music be the food of love, play on: Give me excess of it…",
-    "author": "William Shakespeare",
-    "id": "1"
+const getTerm = function() {
+  searchfield.addEventListener('keyup', function(event) {
+    event.preventDefault()
+    const query = this.value    
+    doSearch(query)
   })
-})  
+}
 
-idx.search("love")
-  
-SimpleJekyllSearch({
+const doSearch = query => {
+  const result = index.search(query)
+  resultdiv.innerHTML = ''
+  searchcount.innerHTML = 'Found ${result.length} records'
+  updateUrlParameter(query)
+  showResults(result)
 
-  searchInput: document.getElementById('search-input'),
-  
-  resultsContainer: document.getElementById('results-container'),
-  
-  json: 'search.json'
-  
+}
+
+const showResults = (result) => {
+
+    for (let item of result) {
+      const ref = item.ref
+      const searchitem = document.createElement('div')
+      searchitem.className = 'searchitem'
+      searchitem.innerHTML = '<div class='card'><a class='card-link' href='${window.store[ref].link}'><div class='card-image'><div class='loading'><img class='b-lazy img-responsive' src='${window.store[ref].image}' data-src='${window.store[ref].image}' alt='${window.store[ref].title}'/></div></div><div class='card-header'><h4 class='card-title'>${window.store[ref].artist} - ${window.store[ref].title}</h4><h6 class='card-meta'>${window.store[ref].label}</h6></div></a></div>'
+
+      resultdiv.appendChild(searchitem)
+
+      setTimeout(() => {
+        bLazy.revalidate()
+      }, 300)
+}
+	
+let index = lunr(function() {
+  this.ref('id')
+  this.field('title', {boost: 10})
+  this.field('artist')
+  this.field('link')
+  this.field('image')
+  this.field('content')
+  this.field('label')
+  this.field('tags')
 })
 
+for (let key in window.store) {
+  index.add({
+    'id': key,
+    'title': window.store[key].title,
+    'artist': window.store[key].artist,
+    'link': window.store[key].link,
+    'image': window.store[key].image,
+    'content': window.store[key].content,
+    'label': window.store[key].label,
+    'tags': window.store[key].tags,
+  })
+}
 </script>
+
