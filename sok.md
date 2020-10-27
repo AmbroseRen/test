@@ -16,7 +16,7 @@
 <script>
 {% raw %}
 window.store = [
-	{% for post in site.posts %} {
+	 {
 		"title": {{post.title | jsonify}},
 		"artist": {{post.artist | jsonify}},
 		"link": {{ post.url | jsonify }},
@@ -24,11 +24,18 @@ window.store = [
 		"image": {{ post.image | jsonify }},
 		"date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
 		"excerpt": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
-	}
-	{% unless forloop.last %}, {% endunless %}
-	{% endfor %}
+	},
+    {
+      "title"    : "timeTrack",
+      "url"      : "Data/MD/2020/09/200915.html",
+      "category" : "{{post.categories | join: ', '}}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ timeTrack }}",
+      "discription" : "{{timeTrack }}"
+    }	
+
 ]
-{% endraw %}
+
 	
 const searchform = document.querySelector('.searchform')
 const searchfield = document.querySelector('.searchfield')
