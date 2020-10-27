@@ -2,7 +2,7 @@
 	<div class="columns">
 		<div class="column col-6">
 		<form class="searchform" action="/sok" method="get">
-		<input type="text" class="form-input searchfield" placeholder="Sök album, musiker, skivbolag, taggar..." autofocus>
+		<input type="text" id="lunr" class="form-input searchfield" placeholder="Sök album, musiker, skivbolag, taggar..." autofocus>
 		<input type="submit" class="invisible">
 		</form>
 		</div>
@@ -12,6 +12,25 @@
 	</div>
 </div>
 
+
+
+
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+  
+<input type="text" id="search-input" placeholder="search...">
+
+<ul id="results-container"></ul>
+
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="js/lunr-2.3.9.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+  
 var idx = lunr(function () {
   this.field('title')
   this.field('body')
@@ -22,6 +41,18 @@ var idx = lunr(function () {
     "author": "William Shakespeare",
     "id": "1"
   })
-})
+})  
 
 idx.search("love")
+  
+SimpleJekyllSearch({
+
+  searchInput: document.getElementById('lunr'),
+  
+  resultsContainer: document.getElementById('results-container'),
+  
+  json: 'search.json'
+  
+})
+
+</script>
