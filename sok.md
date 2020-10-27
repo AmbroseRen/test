@@ -17,13 +17,13 @@
 {% raw %}
 window.store = [
 	 {
-		"title":post.title,
-		"artist": {{post.artist | jsonify}},
-		"link": {{ post.url | jsonify }},
-		"label": {{ post.label | jsonify }},
-		"image": {{ post.image | jsonify }},
-		"date": {{ post.date | date: '%B %-d, %Y' | jsonify }},
-		"excerpt": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
+		"title": "post.title",
+		"artist": "",
+		"link": "",
+		"label": "",
+		"image": "",
+		"date": "",
+		"excerpt": ""
 	},
     {
       "title"    : "timeTrack",
