@@ -13,6 +13,7 @@
 </div>
 
 <script src="js/search-script.js" type="text/javascript"></script>
+<script src="js/lunr.min.js" type="text/javascript"></script>
 <script>
 {% raw %}
 window.store = [
@@ -90,6 +91,7 @@ const showResults = (result) => {
       setTimeout(() => {
         bLazy.revalidate()
       }, 300)
+    }  
 }
 
 </script>
