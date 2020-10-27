@@ -66,7 +66,7 @@ const showResults = (result) => {
       const ref = item.ref
       const searchitem = document.createElement('div')
       searchitem.className = 'searchitem'
-	  searchitem.innerHTML = "
+	  searchitem.innerHTML = `
 	  <div class="card">
 	   <a class="card-link" href="${window.store[ref].link}">
 		<div class="card-image">
@@ -78,7 +78,7 @@ const showResults = (result) => {
 		 <h4 class="card-title">${window.store[ref].artist} - ${window.store[ref].title}</h4>
 		 <h6 class="card-meta">${window.store[ref].label}</h6>
 		</div></a>
-	  </div>"      
+	  </div>`     
 
       resultdiv.appendChild(searchitem)
 
