@@ -37,7 +37,9 @@ window.store = [
 	
 ]
 {% endraw %}
-	
+</script>
+
+<script>
 const searchform = document.querySelector('.searchform')
 const searchfield = document.querySelector('.searchfield')
 const resultdiv = document.querySelector('.searchcontainer')
@@ -60,6 +62,9 @@ const doSearch = query => {
 
 }
 
+</script>
+
+<script>
 const showResults = (result) => {
 
     for (let item of result) {
@@ -86,7 +91,10 @@ const showResults = (result) => {
         bLazy.revalidate()
       }, 300)
 }
-	
+
+</script>
+
+<script>
 let index = lunr(function() {
   this.ref('id')
   this.field('title', {boost: 10})
@@ -110,5 +118,6 @@ for (let key in window.store) {
     'tags': window.store[key].tags,
   })
 }
+
 </script>
 
