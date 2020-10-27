@@ -17,7 +17,7 @@
 {% raw %}
 window.store = [
 	 {
-		"title": {{post.title | jsonify}},
+		"title":post.title,
 		"artist": {{post.artist | jsonify}},
 		"link": {{ post.url | jsonify }},
 		"label": {{ post.label | jsonify }},
