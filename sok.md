@@ -12,10 +12,7 @@
 	</div>
 </div>
 
-import lunr from 'lunr'
-
-
-
+<script src="js/search-script.js" type="text/javascript"></script>
 <script>
 {% raw %}
 window.store = [
