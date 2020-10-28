@@ -80,15 +80,40 @@
       "date"     : "MySQL List | MySQL文件列表"
     },
     {
-      "title"    : "MySQL笔记",
+      "title"    : "MySQL笔记二",
       "url"      : "Data/MySQL/index.html",
-      "date"     : "MySQL笔记"
-    },    
-    {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "date"     : "MySQL笔记二"
     },
+    {
+      "title"    : "MySQL笔记一",
+      "url"      : "Data/Oracle/mysql.txt",
+      "date"     : "MySQL笔记一"
+    },      
+    {
+      "title"    : "Oracle List",
+      "url"      : "Data/Oracle/index.html",
+      "date"     : "Oracle List | Oracle文件列表"
+    },
+    {
+      "title"    : "Oracle语法结构",
+      "url"      : "Data/Oracle/sql.txt",
+      "date"     : "Oracle语法结构"
+    }, 
+    {
+      "title"    : "Oracle DDL",
+      "url"      : "Data/Oracle/DDL.sql.txt",
+      "date"     : "Oracle DDL"
+    },
+    {
+      "title"    : "Oracle语法结构",
+      "url"      : "Data/Oracle/sql.txt",
+      "date"     : "Oracle语法结构"
+    },
+    {
+      "title"    : "Oracle语法结构",
+      "url"      : "Data/Oracle/sql.txt",
+      "date"     : "Oracle语法结构"
+    },    
     {
       "title"    : "BigData",
       "url"      : "Data/BigData/Guide.html",
