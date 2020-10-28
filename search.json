@@ -286,18 +286,23 @@
     },
     {
       "title"    : "Windows System Lists",
-      "url"      : "Doc/System/Windwos/index.html",
+      "url"      : "Doc/System/Windows/index.html",
       "date"     : "Windows System Lists | Wondows系统笔记 | Wondows系统列表"
     },
     {
       "title"    : "WindwosInstallLinux",
-      "url"      : "Doc/System/Windows/WindwosInstallLinux.html",
+      "url"      : "Doc/System/Windows/WindowsInstallLinux.html",
       "date"     : "WindwosInstallLinux | windows安装Linux双系统"
-    },    
+    },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "Win10_VM_CentOS",
+      "url"      : "Doc/System/Windows/Win10_VM_CentOS.html",
+      "date"     : "Win10_VM_CentOS | windows用VM安装CentOS"
+    },     
+    {
+      "title"    : "Tools Lists",
+      "url"      : "Doc/Tools/index.html",
+      "date"     : "Tools Lists | 工具列表文档"
     },
     {
       "title"    : "BigData",
