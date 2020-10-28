@@ -81,8 +81,8 @@
     },
     {
       "title"    : "MySQL笔记二",
-      "url"      : "Data/MySQL/index.html",
-      "date"     : "MySQL笔记二"
+      "url"      : "Data/MySQL/mysql.html",
+      "date"     : "MySQL笔记二 | sql"
     },
     {
       "title"    : "MySQL笔记一",
@@ -97,7 +97,7 @@
     {
       "title"    : "Oracle语法结构",
       "url"      : "Data/Oracle/sql.txt",
-      "date"     : "Oracle语法结构"
+      "date"     : "Oracle语法结构 | sql"
     }, 
     {
       "title"    : "Oracle DDL",
@@ -105,14 +105,19 @@
       "date"     : "Oracle DDL"
     },
     {
-      "title"    : "Oracle语法结构",
-      "url"      : "Data/Oracle/sql.txt",
-      "date"     : "Oracle语法结构 | sql"
+      "title"    : "通用连接池配置文件",
+      "url"      : "Data/Oracle/jdbc.properties",
+      "date"     : "jdbc | 通用连接池配置文件"
     },
     {
-      "title"    : "Oracle语法结构",
-      "url"      : "Data/Oracle/sql.txt",
-      "date"     : "Oracle语法结构"
+      "title"    : "正则表达式",
+      "url"      : "Data/Oracle/regex.txt",
+      "date"     : "regex | 正则表达式"
+    }, 
+    {
+      "title"    : "正则表达式一",
+      "url"      : "Data/Oracle/regexOne.txt",
+      "date"     : "regex | 正一"
     },    
     {
       "title"    : "BigData",
