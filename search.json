@@ -1,5 +1,10 @@
 [
     {
+      "title"    : "about blog",
+      "url"      : "README.html",
+      "date"     : "about blog | 关于博客"
+    },    
+    {
       "title"    : "about me",
       "url"      : "About/index.html",
       "date"     : "about me | 关于我"
@@ -305,20 +310,75 @@
       "date"     : "Tools Lists | 工具列表文档"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "Build Tools Lists",
+      "url"      : "Doc/Tools/Build_Tools/index.html",
+      "date"     : "Build Tools Lists | 构建工具列表文档"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "Git Lists",
+      "url"      : "Doc/Tools/Git/index.html",
+      "date"     : "Git Lists | Git列表文档"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "Git Guide",
+      "url"      : "Doc/Tools/Git/Git.txt",
+      "date"     : "Git Guide | Git手册"
+    }, 
+    {
+      "title"    : "Git FAQ",
+      "url"      : "Doc/Tools/Git/GitOne.txt",
+      "date"     : "Git FAQ | Git问题汇总"
+    }, 
+    {
+      "title"    : "Git Plugins",
+      "url"      : "Doc/Tools/Git/SomeGit.html",
+      "date"     : "Git Plugins | Git插件"
+    },
+    {
+      "title"    : "Vimium",
+      "url"      : "Doc/Tools/Idea/Vimium.txt",
+      "date"     : "Vimium | vim"
+    },
+    {
+      "title"    : "hugo Guide",
+      "url"      : "Doc/Tools/hugo.html",
+      "date"     : "hugo Guide"
     },    
+    {
+      "title"    : "Idea backup",
+      "url"      : "Doc/Tools/Idea/Idea.txt",
+      "date"     : "Idea backup | idea"
+    },    
+    {
+      "title"    : "article lib Lists",
+      "url"      : "Doc/article/index.html",
+      "date"     : "article lib Lists | 文章列表"
+    },
+    {
+      "title"    : "Library Lists",
+      "url"      : "Library/index.html",
+      "date"     : "Library Lists | 书库列表"
+    },
+    {
+      "title"    : "图库",
+      "url"      : "img/index.html",
+      "date"     : "MyFigureBed | 图库 | 图床"
+    },
+    {
+      "title"    : "Js lib Lists",
+      "url"      : "js/index.html",
+      "date"     : "js lib Lists"
+    },
+    {
+      "title"    : "test file Lists",
+      "url"      : "test/index.html",
+      "date"     : "test file Lists | 测试文件列表"
+    },
+    {
+      "title"    : "Util Lists",
+      "url"      : "util/index.html",
+      "date"     : "Util Lists"
+    },   
     {
       "title"    : "Something about Spring Cloud Microservice",
       "url"      : "Doc/Java/Spring/Spring_Cloud.html",
