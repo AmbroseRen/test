@@ -65,20 +65,25 @@
       "date"     : "MD article | MD文章"
     },
     {
-      "title"    : "maven",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "maven list",
+      "url"      : "Data/Maven/index.html",
+      "date"     : "maven list | maven文件列表"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "maven settings中文化配置",
+      "url"      : "Data/Maven/settings.xml.txt",
+      "date"     : "maven settings中文化配置"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "MySQL List",
+      "url"      : "Data/MySQL/index.html",
+      "date"     : "MySQL List | MySQL文件列表"
     },
+    {
+      "title"    : "MySQL笔记",
+      "url"      : "Data/MySQL/index.html",
+      "date"     : "MySQL笔记"
+    },    
     {
       "title"    : "BigData",
       "url"      : "Data/BigData/Guide.html",
