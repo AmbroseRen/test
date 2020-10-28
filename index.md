@@ -4,7 +4,7 @@ Categories
 
 [Search](search.md)
 
-[SearchOne](sok.md)
+[SearchOne](stok.md)
 
 [Data](Data/index.md)
 
