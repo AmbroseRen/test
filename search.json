@@ -125,35 +125,114 @@
       "date"     : "BigData Tree | 大数据树形图"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "Python List",
+      "url"      : "Data/Python/index.html",
+      "date"     : "Python List | Python文件列表"
     },
     {
-      "title"    : "BigData",
+      "title"    : "Python手册",
       "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "date"     : "Python Guide | Python手册"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "Python Demo List",
+      "url"      : "Data/Python/demoOne/index.html",
+      "date"     : "Python Demo List | Python示例列表"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "django",
+      "url"      : "Data/Python/django/Guide.html",
+      "date"     : "django Guide | django手册"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "skicit Guide",
+      "url"      : "Data/Python/scikitlearn/Guide.html",
+      "date"     : "skicit Guide | skicit手册"
     },
     {
-      "title"    : "BigData",
-      "url"      : "Data/BigData/Guide.html",
-      "date"     : "BigData Tree | 大数据树形图"
+      "title"    : "framework | 框架研究",
+      "url"      : "Data/Python/framework.html",
+      "date"     : "framework | 框架研究"
     },
+    {
+      "title"    : "DOS Lists",
+      "url"      : "Data/Windows/index.html",
+      "date"     : "DOS Lists | dos列表"
+    },    
+    {
+      "title"    : "DOS Lists",
+      "url"      : "Data/Windows/DOS/index.html",
+      "date"     : "DOS Lists | dos列表"
+    },
+    {
+      "title"    : "Windows DOS order",
+      "url"      : "Data/Windows/DOS/index.html",
+      "date"     : "DOS order"
+    },
+    {
+      "title"    : "Windows DOS net Lists",
+      "url"      : "Data/Windows/DOS/index.html",
+      "date"     : "DOS net order"
+    },    
+    {
+      "title"    : "My CMD",
+      "url"      : "Data/Windows/DOS/MyCMD.html",
+      "date"     : "mycmd | 我的常用dos"
+    },
+    {
+      "title"    : "CMD Lists",
+      "url"      : "Data/Windows/DOS/index.html",
+      "date"     : "cmd"
+    },
+    {
+      "title"    : "DOSPath",
+      "url"      : "Data/Windows/DOS/index.html",
+      "date"     : "DOSPath | dos路径"
+    },
+    {
+      "title"    : "Windows environment variable",
+      "url"      : "Data/Windows/DOS/index.html",
+      "date"     : "Windows environment variable | windows环境变量备份"
+    },
+    {
+      "title"    : "error log backup",
+      "url"      : "Data/Windows/DOS/log/Win_x64_JVM261.log",
+      "date"     : "log | error log backup"
+    },    
+    {
+      "title"    : "virus Lists",
+      "url"      : "Data/Windows/virus/index.html",
+      "date"     : "virus Lists | 病毒文件列表"
+    },
+    {
+      "title"    : "mkdir.bat | 目录模板命令",
+      "url"      : "Data/Windows/virus/mkdir.bat",
+      "date"     : "mkdir.bat | catalogue | 目录模板命令"
+    },
+      "title"    : "mkdir.bat.txt | 目录模板文件",
+      "url"      : "Data/Windows/virus/mkdir.bat.txt",
+      "date"     : "mkdir.bat | catalogue | 目录模板文件"
+    },    
+    {
+      "title"    : "regedit temp txt | 注册表模板txt",
+      "url"      : "Data/Windows/virus/REG_K_V.txt",
+      "date"     : "regedit temp txt | 注册表模板txt"
+    },
+    {
+      "title"    : "regedit temp reg | 注册表模板",
+      "url"      : "Data/Windows/virus/regT.reg",
+      "date"     : "regedit temp reg | 注册表模板"
+    },    
+    {
+      "title"    : "virus launch bat",
+      "url"      : "Data/Windows/virus/launch.bat",
+      "date"     : "virus launch bat | 自启动脚本"
+    },
+    {
+      "title"    : "virus copyself.bat",
+      "url"      : "Data/Windows/virus/copyself.bat",
+      "date"     : "virus copyself.bat | 自我复制脚本"
+    },    
     {
       "title"    : "BigData",
       "url"      : "Data/BigData/Guide.html",
