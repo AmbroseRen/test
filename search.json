@@ -3,6 +3,41 @@
       "title"    : "about me",
       "url"      : "About/index.html",
       "date"     : "about me | 关于我"
+    },
+    {
+      "title"    : "Animes",
+      "url"      : "Art/Animes/index.html",
+      "date"     : "Animes | 动漫"
+    },
+    {
+      "title"    : "Movies",
+      "url"      : "Art/Movies/index.html",
+      "date"     : "Movies | 电影"
+    },
+    {
+      "title"    : "Music",
+      "url"      : "Art/Music/index.html",
+      "date"     : "Music | 音乐"
+    }, 
+    {
+      "title"    : "Shoot",
+      "url"      : "Art/Shoot/index.html",
+      "date"     : "Shoot | 摄影"
+    },
+    {
+      "title"    : "BigData",
+      "url"      : "Data/BigData/index.html",
+      "date"     : "BigData | 大数据"
+    },
+    {
+      "title"    : "BigData",
+      "url"      : "Data/BigData/Guide.html",
+      "date"     : "BigData | 大数据"
+    },    
+    {
+      "title"    : "Golang",
+      "url"      : "Data/Golang/Guide.html",
+      "date"     : "Golang | go"
     },    
     {
       "title"    : "Something about Spring Cloud Microservice",
