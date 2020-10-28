@@ -1,9 +1,9 @@
 <div class="container">
 	<div class="columns">
 		<div class="column col-6">
-		<form class="searchform" action="/sok" method="get">
-		<input type="text" class="st-default-search-input" placeholder="Sök album, musiker, skivbolag, taggar..." autofocus>
-		</form>
+			<form>
+				<input type="text" class="st-default-search-input" placeholder="swiftypeSearch..." autofocus>
+			</form>
 		</div>
 		<div class="column col-6">
 			<p class="searchcount"></p>
