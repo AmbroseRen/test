@@ -7,3 +7,9 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ambroseren.github.io/test/sitemap.xml
+
+https://ambroseren.github.io/test/Data/
+
+https://ambroseren.github.io/test/Doc/
+
+https://ambroseren.github.io/test/Library/
