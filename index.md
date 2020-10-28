@@ -37,3 +37,6 @@ Categories
 [About](About/index.md)
 
 [sitemap](sitemap.xml)
+
+[robots.txt](robots.txt)
+
