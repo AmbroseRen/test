@@ -179,7 +179,7 @@
 
 Markdown将文本转换为 [HTML]。
 
-*[HTML]:   超文本标记语言
+*[HTML]:超文本标记语言
   
 ### LaTeX 数学公式
 
