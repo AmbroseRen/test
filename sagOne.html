@@ -6,9 +6,16 @@
 <link rel="stylesheet" type="text/css" href="css/sag/instantsearch.min.css">
 
 <script>
-// const instantsearch = require('js/sag/instantsearch.js');
-const search = instantsearch(options);
+const instantsearch = require('js/sag/instantsearch.js');
+// const search = instantsearch(options);
   
+const search = instantsearch({
+  appId: '45FAXPQVEG',
+  apiKey: '7d0c43617ef2a76ef50343c43900245b',
+  indexName: 'test_index',
+  routing: true
+});
+
 // initialize SearchBox
 search.addWidget(
   instantsearch.widgets.searchBox({
@@ -66,13 +73,6 @@ search.addWidget(
     }
   })
 );
-
-const searches = instantsearch({
-  appId: '45FAXPQVEG',
-  apiKey: '7d0c43617ef2a76ef50343c43900245b',
-  indexName: 'test_index',
-  routing: true
-});
 
 search.start();
 
