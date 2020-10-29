@@ -2,7 +2,7 @@
 
 Categories
 
-| _ | _ |  |
+|  |  |  |
 |:---:|:---:|:---:|
 | [Search](search.md) | [SearchOne](stok.md) |  |
 | [Data](Data/index.md) | [Doc](Doc/index.md) |  |
