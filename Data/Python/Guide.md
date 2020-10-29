@@ -19,6 +19,7 @@ pip install matplotlib  - from matplotlib import pyplot as plt
 ```
 
 # pip update 
+
 [^1]:升级pip
 
 - Linux or macOS
@@ -270,7 +271,9 @@ pip install lxml
 
 _安装 PyMongo组件连接MongoDB数据池_
 
-- 需pip升级到20.2.4 [1]
+- 需pip升级到20.2.4 
+
+[^1]
 
 ```
 python -m pip install pymongo [ snappy，gssapi，srv，tls ]
