@@ -4,7 +4,7 @@ Categories
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [Search](search.md) | [SearchOne](stok.md) | [algoliaSearch](sag.html) |
+| [JsSearch](search.md) | [SwiftypeSearch](stok.md) | [algoliaSearch](sag.html) |
 | [Data](Data/index.md) | [Doc](Doc/index.md) |  |
 | [Art](/Art/index.md) | [Library](Library/index.md) | [img](img/index.md) |
 | [html](html/index.md) | [js](js/index.md) | [css](css/index.md) |
