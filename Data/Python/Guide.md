@@ -18,6 +18,19 @@ pip install matplotlib  - from matplotlib import pyplot as plt
 
 ```
 
+# [^1]:pip update
+
+- Linux or macOS
+
+```
+pip install -U pip
+```
+
+- Windows
+```
+python -m pip install -U pip
+```
+
 # Libs
 
 __web请求库__
@@ -250,6 +263,16 @@ from lxml import etree
 
 ```
 pip install lxml
+```
+
+- - -
+
+_安装 PyMongo组件连接MongoDB数据池_
+
+- 需pip升级到20.2.4[^1]
+
+```
+python -m pip install pymongo [ snappy，gssapi，srv，tls ]
 ```
 
 - - -
