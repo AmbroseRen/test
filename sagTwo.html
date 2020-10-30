@@ -18,7 +18,7 @@
         //appId: '<APP_ID>', // Should be only included if you are running DocSearch on your own.
         // Replace inputSelector with a CSS selector
         // matching your search input
-        inputSelector: 'name',
+        inputSelector: 'site-search',
         // Set debug to true to inspect the dropdown
         debug: true,
       });
@@ -67,6 +67,10 @@
           <form>
 <!--             <input type="text" class="st-default-search-input" placeholder="DocAlgoliaSearch..." autofocus> -->
             <input type="text" id="name" name="name" required minlength="4" maxlength="8" size="10">
+            
+            <label for="site-search">Search the site:</label>
+            <input type="search" id="site-search" name="site-search" aria-label="Search through site content">
+            <button>Search</button>            
           </form>
         </div>
         <div class="column col-6">
