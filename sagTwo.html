@@ -1,22 +1,71 @@
-<!-- Before the closing </head> -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/docsearch.js@2.6.3/dist/cdn/docsearch.min.css"
-/>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Before the closing </head> -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsearch.js@2.6.3/dist/cdn/docsearch.min.css"
+    />
 
-<!-- Before the closing </body> -->
-<script src="https://cdn.jsdelivr.net/npm/docsearch.js@2.6.3/dist/cdn/docsearch.min.js"></script>
-<script>
-  docsearch({
-    // Your apiKey and indexName will be given to you once
-    // we create your config
-    apiKey: '25626fae796133dc1e734c6bcaaeac3c',
-    indexName: 'docsearch',
-    //appId: '<APP_ID>', // Should be only included if you are running DocSearch on your own.
-    // Replace inputSelector with a CSS selector
-    // matching your search input
-    inputSelector: '<YOUR_CSS_SELECTOR>',
-    // Set debug to true to inspect the dropdown
-    debug: true,
-  });
-</script>
+    <!-- Before the closing </body> -->
+    <script src="https://cdn.jsdelivr.net/npm/docsearch.js@2.6.3/dist/cdn/docsearch.min.js"></script>
+    <script>
+      docsearch({
+        // Your apiKey and indexName will be given to you once
+        // we create your config
+        apiKey: '25626fae796133dc1e734c6bcaaeac3c',
+        indexName: 'docsearch',
+        //appId: '<APP_ID>', // Should be only included if you are running DocSearch on your own.
+        // Replace inputSelector with a CSS selector
+        // matching your search input
+        inputSelector: 'searchbox',
+        // Set debug to true to inspect the dropdown
+        debug: true,
+      });
+    </script>
+    
+    <style>
+      /* Main dropdown wrapper */
+      .algolia-autocomplete .ds-dropdown-menu {
+        width: 500px;
+      }
+
+      /* Main category (eg. Getting Started) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--category-header {
+        color: darkgray;
+        border: 1px solid gray;
+      }
+
+      /* Category (eg. Downloads) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column {
+        color: gray;
+      }
+
+      /* Title (eg. Bootstrap CDN) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--title {
+        font-weight: bold;
+        color: black;
+      }
+
+      /* Description description (eg. Bootstrap currently works...) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--text {
+        font-size: 0.8rem;
+        color: gray;
+      }
+
+      /* Highlighted text */
+      .algolia-autocomplete .algolia-docsearch-suggestion--highlight {
+        color: blue;
+      }
+    </style>    
+  </head>
+  
+  <body>
+    <div class="right-panel">
+      <input class="searchbox"/>
+      <div id="searchbox" class="searchbox"></div>
+      <div id="hits"></div>
+      <div id="pagination"></div>
+    </div> 
+  </body>
+</html>
