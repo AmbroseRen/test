@@ -3,7 +3,7 @@
 const search = instantsearch({
   appId: '45FAXPQVEG',
   apiKey: '7d0c43617ef2a76ef50343c43900245b',
-  indexName: 'test_index',
+  indexName: 'test_sub_index',
 });
 
 search.addWidget(
