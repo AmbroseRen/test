@@ -108,17 +108,46 @@
   <!-- Before the closing </body> -->
   <script src="https://cdn.jsdelivr.net/npm/docsearch.js@2.6.3/dist/cdn/docsearch.min.js"></script>
   <script>
+//     docsearch({
+//       // Your apiKey and indexName will be given to you once
+//       // we create your config
+//       apiKey: '7d0c43617ef2a76ef50343c43900245b',
+//       indexName: 'test_index',   
+//       appId: '45FAXPQVEG', // Should be only included if you are running DocSearch on your own.
+//       // Replace inputSelector with a CSS selector
+//       // matching your search input
+//       inputSelector: 'input',
+//       // Set debug to true to inspect the dropdown
+//       debug: true,
+//     });
+    
     docsearch({
-      // Your apiKey and indexName will be given to you once
-      // we create your config
-      apiKey: '7d0c43617ef2a76ef50343c43900245b',
-      indexName: 'test_index',   
-      appId: '45FAXPQVEG', // Should be only included if you are running DocSearch on your own.
-      // Replace inputSelector with a CSS selector
-      // matching your search input
-      inputSelector: 'input',
-      // Set debug to true to inspect the dropdown
-      debug: true,
-    });
+      "index_name": "example",
+      "start_urls": ["https://www.example.com/doc/"],
+      "sitemap_urls": ["https://www.example.com/sitemap.xml"],
+      "stop_urls": [],
+      "selectors": {
+        "lvl0": {
+          "selector": ".DocSearch-lvl0",
+          "global": true,
+          "default_value": "Documentation"
+        },
+        "lvl1": {
+          "selector": ".DocSearch-lvl1",
+          "global": true,
+          "default_value": "Chapter"
+        },
+        "lvl2": ".DocSearch-content .DocSearch-lvl2",
+        "lvl3": ".DocSearch-content .DocSearch-lvl3",
+        "lvl4": ".DocSearch-content .DocSearch-lvl4",
+        "lvl5": ".DocSearch-content .DocSearch-lvl5",
+        "lvl6": ".DocSearch-content .DocSearch-lvl6",
+        "text": ".DocSearch-content p, .DocSearch-content li"
+      },
+      "custom_settings": {
+        "attributesForFaceting": ["language", "version"]
+      },
+      "nb_hits": "OUTPUT OF THE CRAWL"
+    });    
   </script>
 </html>
