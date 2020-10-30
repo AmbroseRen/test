@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Before the closing </head> -->
+    <link
+      rel="stylesheet"
+      href="css/sag/instantsearch.min.css"
+    />
+    
+    <style>
+      /* Main dropdown wrapper */
+      .algolia-autocomplete .ds-dropdown-menu {
+        width: 500px;
+      }
+
+      /* Main category (eg. Getting Started) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--category-header {
+        color: darkgray;
+        border: 1px solid gray;
+      }
+
+      /* Category (eg. Downloads) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column {
+        color: gray;
+      }
+
+      /* Title (eg. Bootstrap CDN) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--title {
+        font-weight: bold;
+        color: black;
+      }
+
+      /* Description description (eg. Bootstrap currently works...) */
+      .algolia-autocomplete .algolia-docsearch-suggestion--text {
+        font-size: 0.8rem;
+        color: gray;
+      }
+
+      /* Highlighted text */
+      .algolia-autocomplete .algolia-docsearch-suggestion--highlight {
+        color: blue;
+      }
+      
+      nav p.content,
+      header p.content,
+      main p.content,
+      sidebar p.content,
+      footer p.content {
+        margin: 15px;
+        padding: 10px;
+      }
+      
+      input {
+        margin: 15px;
+        padding: 10px;        
+      }
+      
+      form {
+        margin: 15px;
+        padding: 10px;        
+      }      
+      
+      :matches(input, form, nav, header, main, sidebar, footer) p:content {
+      margin: 15px;
+      padding: 10px;
+      }      
+    </style>        
+
+    
+  </head>
+  
+  <body>
+    <div class="container">
+      <div class="columns">
+        <div class="column col-6">
+          <form>
+            <input type="text" class="st-default-search-input" placeholder="DocAlgoliaSearch..." autofocus></br>
+          
+<!--             <input type="text" id="name1" name="name2" class="name3" minlength="4" maxlength="8" size="10"></br> -->
+        
+<!--             <label for="site-search">Search the site:</label>
+            <input type="search" id="site-search" name="site-search" aria-label="Search through site content">
+            <button>Search</button> </br> -->
+      
+<!--             <input type="text"
+                   id="search"
+                   autocomplete="off"
+                   autocorrect="off"
+                   autocapitalize="none"
+                   spellcheck="false" /> -->
+            
+          </form>
+        </div>
+        <div class="column col-6">
+          <p class="searchcount"></p>
+        </div>
+      </div>
+    </div>    
+    
+<!--     <div class="right-panel">
+      <input class="searchbox"/>
+      <div id="searchbox" class="searchbox"></div>
+      <div id="hits"></div>
+      <div id="pagination"></div>
+    </div>  -->
+  </body>
+
+  <!-- Before the closing </body> -->
+  <script src="js/sag/instantsearch.js"></script>
+  <script>
+    docsearch({
+      // Your apiKey and indexName will be given to you once
+      // we create your config
+      apiKey: '7d0c43617ef2a76ef50343c43900245b',
+      indexName: 'test_index',   
+      appId: '45FAXPQVEG', // Should be only included if you are running DocSearch on your own.
+      // Replace inputSelector with a CSS selector
+      // matching your search input
+      inputSelector: 'input',
+      // Set debug to true to inspect the dropdown
+      debug: true,
+    });
+  </script>
+</html>
