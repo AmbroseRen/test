@@ -1,7 +1,7 @@
 // 1. Instantiate the search
 const search = instantsearch({
-  indexName: 'instant_search',
-  searchClient: algoliasearch('latency', '6be0576ff61c053d5f9a3225e2a90f76'),
+  indexName: 'test_de',
+  searchClient: algoliasearch('45FAXPQVEG', '7d0c43617ef2a76ef50343c43900245b'),
 });
 
 search.addWidgets([
