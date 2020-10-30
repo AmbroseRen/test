@@ -2,7 +2,7 @@
 
 Categories
 
-| _ | [sagOneSearch](sagOne.html) | [algolia3Search](sag3.html) |
+| _ | _ | _ |
 |:---:|:---:|:---:|
 | [JsSearch](search.md) | [SwiftypeSearch](stok.md) | [algoliaSearch](sag.html) |
 | [Data](Data/index.md) | [Doc](Doc/index.md) | [algoliaSearchTwo](sagTwo.html) |
