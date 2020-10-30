@@ -2,9 +2,9 @@
 
 Categories
 
-| _ | _ | [sag3Search](sag3.html) |
+| _ | _ | _ |
 |:---:|:---:|:---:|
-| [JsSearch](search.md) | [SwiftypeSearch](stok.md) | [algoliaSearch](sag.html) |
+| [JsSearch](search.md) | [SwiftypeSearch](stok.md) | [sag3Search](sag3.html);[algoliaSearch](sag.html) |
 | [Data](Data/index.md) | [Doc](Doc/index.md) | [algoliaSearchTwo](sagTwo.html) |
 | [Art](/Art/index.md) | [Library](Library/index.md) | [img](img/index.md) |
 | [html](html/index.md) | [js](js/index.md) | [css](css/index.md) |
