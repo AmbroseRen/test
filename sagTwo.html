@@ -41,7 +41,26 @@
         color: blue;
       }
       
-      :matches(nav, header, main, sidebar, footer) p:content {
+      nav p.content,
+      header p.content,
+      main p.content,
+      sidebar p.content,
+      footer p.content {
+        margin: 15px;
+        padding: 10px;
+      }
+      
+      input {
+        margin: 15px;
+        padding: 10px;        
+      }
+      
+      form {
+        margin: 15px;
+        padding: 10px;        
+      }      
+      
+      :matches(input, form, nav, header, main, sidebar, footer) p:content {
       margin: 15px;
       padding: 10px;
       }      
@@ -58,7 +77,7 @@
         //appId: '<APP_ID>', // Should be only included if you are running DocSearch on your own.
         // Replace inputSelector with a CSS selector
         // matching your search input
-        inputSelector: 'algolia-autocomplete',
+        inputSelector: 'form',
         // Set debug to true to inspect the dropdown
         debug: true,
       });
