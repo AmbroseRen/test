@@ -20,5 +20,6 @@ python manage.py runserver
 > 访问：localhost:8000/admin/
 
 > 自定义模块：localhost:8000/polls/
-error
+
+>> error
 
