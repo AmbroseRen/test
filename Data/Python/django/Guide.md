@@ -1,6 +1,6 @@
 # django test
 
-+ [django光放文档参考](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
++ [django官方文档参考](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 - init
 
 ```python
