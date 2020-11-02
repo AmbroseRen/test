@@ -16,6 +16,8 @@ python manage.py runserver
 - test
 
 > 访问：127.0.0.1:8000
+
 > 访问：localhost:8000/admin/
+
 > 自定义模块：localhost:8000/polls/  error
 
