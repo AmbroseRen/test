@@ -360,6 +360,16 @@
       "date"     : "Library Lists | 书库列表"
     },
     {
+      "title"    : "Forum Lists",
+      "url"      : "Library/Forum.html",
+      "date"     : "Forum Lists | 论坛列表"
+    },
+    {
+      "title"    : "Blog Lists",
+      "url"      : "Library/Blog.html",
+      "date"     : "Blog Lists | 博客列表"
+    },    
+    {
       "title"    : "图库",
       "url"      : "img/index.html",
       "date"     : "MyFigureBed | 图库 | 图床"
