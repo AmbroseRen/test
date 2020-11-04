@@ -2,9 +2,12 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| Portal | 门户导航 | Y |
+| [技术文档](https://geekdocs.cn/?utm_source=quickapp.lovejade.cn) | 0_0 | Y |
+| []() | 0_0 | Y |
 | Art | 艺术 | Y |
 | [ZHENG Zi'ou](https://orianna-zzo.github.io/) | 音乐剧 - (Docker + hugo + github) | Y |
-| []() | 0_0 | Y |
+| [张雯莉](http://zhangwenli.com/blog/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | ACGN | 二次元 | Y |
 | [小透明·宸](https://akarin.dev/index.html) | 0_0 | Y |
@@ -26,6 +29,7 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
+| [indiehackers](https://indiehackers.net/) | 0_0 | Y |
 | [rainary](https://rainary.com/) | web | Y |
 | [Aman Mittal](https://amanhimself.dev/) | web | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
@@ -44,6 +48,8 @@
 | [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
+| [晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) | web - Tools | Y |
+| []() | 0_0 | Y |
 | [resilio](https://www.resilio.com/) | 文件同步传输工具 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
