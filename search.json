@@ -1,46 +1,46 @@
 [
     {
-      "title"    : "about blog",
+      "title"    : "about blog | 关于博客",
       "url"      : "README.md",
       "date"     : "about blog | 关于博客"
     },    
     {
-      "title"    : "about me",
+      "title"    : "about me | 关于我",
       "url"      : "About/index.html",
       "date"     : "about me | 关于我"
     },
     {
-      "title"    : "Animes",
+      "title"    : "Animes | 动漫",
       "url"      : "Art/Animes/index.html",
       "date"     : "Animes | 动漫"
     },
     {
-      "title"    : "Movies",
+      "title"    : "Movies | 电影",
       "url"      : "Art/Movies/index.html",
       "date"     : "Movies | 电影"
     },
     {
-      "title"    : "Music",
+      "title"    : "Music | 音乐",
       "url"      : "Art/Music/index.html",
       "date"     : "Music | 音乐"
     }, 
     {
-      "title"    : "Shoot",
+      "title"    : "Shoot | 摄影 | 风景图",
       "url"      : "Art/Shoot/index.html",
       "date"     : "Shoot | 摄影 | 风景图"
     },
     {
-      "title"    : "BigData",
+      "title"    : "BigData | 大数据文章列表",
       "url"      : "Data/BigData/index.html",
       "date"     : "BigData Files List | 大数据文章列表"
     },
     {
-      "title"    : "BigData",
+      "title"    : "BigData | 大数据树形图",
       "url"      : "Data/BigData/Guide.html",
       "date"     : "BigData Tree | 大数据树形图"
     },    
     {
-      "title"    : "Golang",
+      "title"    : "Golang | go手册",
       "url"      : "Data/Golang/Guide.html",
       "date"     : "Golang Guide| go手册"
     },
@@ -50,7 +50,7 @@
       "date"     : "MD Lists | MD文件列表"
     },  
     {
-      "title"    : "MD Guide",
+      "title"    : "MD Guide | MD手册",
       "url"      : "Data/MD/Guide.html",
       "date"     : "MD Guide | MD手册"
     },  
@@ -60,7 +60,7 @@
       "date"     : "MD format | MD格式提取"
     },
     {
-      "title"    : "hexo temp",
+      "title"    : "hexo temp | hexo博客模板",
       "url"      : "Data/MD/temp.html",
       "date"     : "hexo temp | hexo博客模板"
     },
@@ -125,7 +125,7 @@
       "date"     : "regex | 正一"
     },    
     {
-      "title"    : "BigData",
+      "title"    : "BigData(索引模板)",
       "url"      : "Data/BigData/Guide.html",
       "date"     : "BigData Tree | 大数据树形图"
     },
