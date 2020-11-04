@@ -6,7 +6,9 @@
 | [ZHENG Zi'ou](https://orianna-zzo.github.io/) | 音乐剧 - (Docker + hugo + github) | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
-| []() | 0_0 | Y |
+| ACGN | 二次元 | Y |
+| [小透明·宸](https://akarin.dev/index.html) | 0_0 | Y |
+| [王友元](http://www.moetuan.cn/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Life | 生活 | Y |
@@ -18,7 +20,7 @@
 | Politics | 政治 | Y |
 | [中国数字时代](https://chinadigitaltimes.net/) | GFW | Y |
 | [编程随想的博客](https://program-think.blogspot.com/) | GFW | Y |
-| []() | 0_0 | Y |
+| [新·品葱](https://pincong.rocks/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
