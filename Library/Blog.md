@@ -32,6 +32,8 @@
 | [vcjmhg](https://www.vcjmhg.top/) | 0_0 | Y |
 | [iosdevlog](https://2020.iosdevlog.com/) | 0_0 | Y |
 | [BNDong](https://blog.dbnuo.com/) | 0_0 | Y |
+| [罗康源](http://luokangyuan.com/) | 0_0 | Y |
+| [Thorsten Hans](https://thorsten-hans.com/) | MS Azure&k8s | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
