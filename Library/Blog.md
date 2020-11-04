@@ -34,7 +34,7 @@
 | [BNDong](https://blog.dbnuo.com/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
-| Tools | 0_0 | Y |
+| Tools | 工具 | Y |
 | [resilio](https://www.resilio.com/) | 文件同步传输工具 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
