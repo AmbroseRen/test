@@ -15,6 +15,8 @@
 | [大D](https://88250.b3log.org/) | b3log | Y |
 | [王丹](https://danwang.co/) | en | Y |
 | [TYPECHO](https://qqdie.com/) | 0_0 | Y |
+| [taoalpha](https://taoalpha.github.io/blog/) | 0_0 | Y |
+| [jazztips](https://jazztips.se/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Politics | 政治 | Y |
@@ -25,6 +27,7 @@
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
 | [rainary](https://rainary.com/) | web | Y |
+| [Aman Mittal](https://amanhimself.dev/) | web | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
 | [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
@@ -34,7 +37,11 @@
 | [BNDong](https://blog.dbnuo.com/) | 0_0 | Y |
 | [罗康源](http://luokangyuan.com/) | 0_0 | Y |
 | [Thorsten Hans](https://thorsten-hans.com/) | MS Azure&k8s | Y |
-| []() | 0_0 | Y |
+| [BYA](http://bya.cool/) | 0_0 | Y |
+| [geeksforgeeks](https://www.geeksforgeeks.org/) | 0_0 | Y |
+| [Jiale Han](https://zqhjl.github.io/) | web - null | Y |
+| [phodal](https://www.phodal.com/blog/) | loT | Y |
+| [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
 | [resilio](https://www.resilio.com/) | 文件同步传输工具 | Y |
