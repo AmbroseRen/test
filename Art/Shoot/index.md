@@ -1,4 +1,24 @@
 # Shoot Websites [](../index.md) [←](../index.md)
 
-[俯瞰图](https://www.skypixel.com/topics/nature)
+| 传送门 | 描述 | 摘要 |
+|:---:|:---:|:---:|
+| [pinterest](https://www.pinterest.com/) | Figure(人物、生活) | Y |
+| [吐司数字艺术](https://www.tucia.net/shots) | 人物头像、素描 | Y |
+| [Airpano](http://www.airpano.com/) | 3D全景 | Y |
+| [地域风景图](http://ww4.tiki.ne.jp/~mmurakami/setoy/map.html) | 地域风景图 | Y |
+| [unsplash](https://unsplash.com/) | 捕捉图 | Y |
+| [500px](https://500px.com/popular) | 高清远景图 | Y |
+| [天空之城](https://www.skypixel.com/topics/nature) | 俯瞰图 - 自然 | Y |
+| [1x](https://1x.com/) | 艺术插画 | Y |
+| [pmagazine](https://pmagazine.co/) | 艺人摄影杂志 | Y |
+| [pexels](https://www.pexels.com/collections/autumn-leaves-b82wn2d/) | 风景图 | Y |
+| [蜂鸟网](http://www.fengniao.com/) | 摄影爱好聚集地 | Y |
+| [必应壁纸库](https://www.todaybing.com/) | 必应壁纸库(壁纸爱好者收集自建库) | Y |
+| [wallhaven](https://wallhaven.cc/) | 场景图(赛博朋克) | Y |
+| [知乎链列表](https://www.zhihu.com/question/32762402) | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| lucy | 25 | X |
+
 
