@@ -20,6 +20,7 @@
 | [TYPECHO](https://qqdie.com/) | 0_0 | Y |
 | [taoalpha](https://taoalpha.github.io/blog/) | 0_0 | Y |
 | [jazztips](https://jazztips.se/) | 0_0 | Y |
+| [静轩之别苑](https://quickapp.lovejade.cn/links/?utm_source=ld246.com) | 0_0 | [推荐的外链](https://quickapp.lovejade.cn/links/?utm_source=ld246.com) |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Politics | 政治 | Y |
@@ -46,9 +47,11 @@
 | [Jiale Han](https://zqhjl.github.io/) | web - null | Y |
 | [phodal](https://www.phodal.com/blog/) | loT | Y |
 | [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | Y |
+| [赵云龙](https://zyl.me/) | 0_0 | Y |
+| []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
-| [晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) | web - Tools | Y |
+| [晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) | web - Tools | [推荐的外链](https://www.jeffjade.com/Links/?utm_source=ld246.com#%E7%8E%87%E6%80%A7%E6%8E%A8%E8%8D%90%EF%BC%9A) |
 | []() | 0_0 | Y |
 | [resilio](https://www.resilio.com/) | 文件同步传输工具 | Y |
 | []() | 0_0 | Y |
