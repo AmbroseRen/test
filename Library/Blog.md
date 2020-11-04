@@ -13,8 +13,8 @@
 | []() | 0_0 | Y |
 | Life | 生活 | Y |
 | [大D](https://88250.b3log.org/) | b3log | Y |
-| []() | 0_0 | Y |
-| []() | 0_0 | Y |
+| [王丹](https://danwang.co/) | en | Y |
+| [TYPECHO](https://qqdie.com/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Politics | 政治 | Y |
@@ -30,7 +30,8 @@
 | [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
 | [arrfu](https://arrfu.com/page/about.html) | 0_0 | Y |
 | [vcjmhg](https://www.vcjmhg.top/) | 0_0 | Y |
-| []() | 0_0 | Y |
+| [iosdevlog](https://2020.iosdevlog.com/) | 0_0 | Y |
+| [BNDong](https://blog.dbnuo.com/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 0_0 | Y |
