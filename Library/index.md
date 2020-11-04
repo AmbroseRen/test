@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|:---:|
 | Search | [BookSearch](BookSearch.md) | [AcademicSearch](AcademicSearch.md) | Y | Y |
 | BookList | [MyBookLists](BookLists.md) | [OtherBookLists](OtherBookLists.md) | [Literary](Literary.md) | Y |
-| ReadOnLine | [PDF Read Online](PDF.md) | [书摘拾贝](excerpt.md) | Y |
+| ReadOnLine | [blog](Blog.md) | [PDF Read Online](PDF.md) | [书摘拾贝](excerpt.md) |
 | Portal | [学习平台](LearnPlatform.md) | [搜索引擎收录](SearchEngine.md) | [综合门户导航](synthesize.md) |
 | Tools | [电子书格式转换工具](Tools.md) | Y | Y |
 |  | 26 | Y | Y |
