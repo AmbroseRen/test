@@ -16,8 +16,8 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Politics | 政治 | Y |
-| [中国数字时代](https://chinadigitaltimes.net/) | 0_0 | Y |
-| [编程随想的博客](https://program-think.blogspot.com/) | 0_0 | Y |
+| [中国数字时代](https://chinadigitaltimes.net/) | GFW | Y |
+| [编程随想的博客](https://program-think.blogspot.com/) | GFW | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
