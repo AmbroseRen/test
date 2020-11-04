@@ -8,7 +8,7 @@ or email me:
 
 ambroserencn@gmail.com
 
-or this:
+or this email:
 
 1056008502@qq.com
 
