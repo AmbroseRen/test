@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Portal | 门户导航 | Y |
-| [技术文档](https://geekdocs.cn/?utm_source=quickapp.lovejade.cn) | 0_0 | Y |
+| [极客导航](https://geekdocs.cn/?utm_source=quickapp.lovejade.cn) | 0_0 | Y |
 | []() | 0_0 | Y |
 | Art | 艺术 | Y |
 | [ZHENG Zi'ou](https://orianna-zzo.github.io/) | 音乐剧 - (Docker + hugo + github) | Y |
@@ -51,7 +51,7 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
-| [晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) | web - Tools | [推荐的外链](https://www.jeffjade.com/Links/?utm_source=ld246.com#%E7%8E%87%E6%80%A7%E6%8E%A8%E8%8D%90%EF%BC%9A) |
+| [晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) | web - Tools | [主页](https://aboutme.lovejade.cn/) - [子站](https://blog.lovejade.cn/) - [推荐的外链](https://www.jeffjade.com/Links/?utm_source=ld246.com#%E7%8E%87%E6%80%A7%E6%8E%A8%E8%8D%90%EF%BC%9A) |
 | []() | 0_0 | Y |
 | [resilio](https://www.resilio.com/) | 文件同步传输工具 | Y |
 | []() | 0_0 | Y |
