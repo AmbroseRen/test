@@ -7,6 +7,7 @@
 | [果汁排行榜](http://guozhivip.com/rank/) | 娱乐风云榜 | Y |
 | [七麦数据](https://www.qimai.cn/rank) | App风云榜 | Y |
 | [神策数据](https://www.sensorsdata.cn/) | 企业数据分析产品 | Y |
+| [西瓜数据](https://data.xiguaji.com/) | 新媒体流量监测及精准营销服务 | Y |
 | [飞瓜数据](https://www.feigua.cn/) | 短视频&直播电商数据分析 | Y |
 | [Alexa](https://www.alexa.com/topsites) | 世界网站访问排行榜 | Y |
 | [百度风云榜](http://top.baidu.com/) | O_O | Y |
