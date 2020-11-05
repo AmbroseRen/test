@@ -348,7 +348,12 @@
       "title"    : "Idea backup",
       "url"      : "Doc/Tools/Idea/Idea.txt",
       "date"     : "Idea backup | idea"
-    },    
+    },
+    {
+      "title"    : "Chrome | 谷歌",
+      "url"      : "Doc/Tools/Chrome.html",
+      "date"     : "Chrome | 谷歌 | google"
+    },     
     {
       "title"    : "article lib Lists | 文章列表",
       "url"      : "Doc/article/index.html",
