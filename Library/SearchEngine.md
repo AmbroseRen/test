@@ -10,7 +10,7 @@
 | [Ecosia](https://www.ecosia.org) | Germany | Y |
 | [Yandex](https://yandex.com) | Russia | Y |
 | []() | 26 | Y |
-| []() | 26 | Y |
+| [sylsearch](https://www.sylsearch.com/) | 企业搜索引擎服务 | Y |
 | []() | 26 | Y |
 | []() | 26 | Y |
 | lucy | 25 | X |
