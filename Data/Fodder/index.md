@@ -9,6 +9,13 @@
 | [站长素材-JQuery素材](http://sc.chinaz.com/tag_jiaoben/tupianlunbo.html) |  | Y |
 | [JQuery素材](https://www.jq22.com/) |  | Y |
 | []() |  | Y |
+| 图片设计素材网站 |  | Y |
+| [千图网](https://www.58pic.com/) |  | Y |
+| [千库网](https://588ku.com/) |  | Y |
+| [pexels](https://www.pexels.com/) | 图库 | Y |
+| [花瓣网](https://huaban.com/) | 优质 | Y |
+| [100font](https://www.100font.com/) | 字体设计 | Y |
+| []() |  | Y |
 | []() |  | Y |
 | [icon](icon.md) | favicon.icon | Y |
 | [LOGO](LOGO.md) |  | Y |
