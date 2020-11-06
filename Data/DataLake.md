@@ -12,7 +12,7 @@
 | []() |  | X |
 | [Microsoft Azure](https://azure.microsoft.com/en-us/) |  | [开发文档](https://docs.microsoft.com/zh-cn/) |
 | []() |  | X |
-| [Tencent Cloud](https://cloud.tencent.com/) |  | [人脸识别](https://cloud.tencent.com/act/event/iaidemo)-[对象存储](https://cloud.tencent.com/document/product/436/6240)-[云服务器](https://buy.cloud.tencent.com/cvm?tab=lite)-[]()-[]()-[]() |
+| [Tencent Cloud](https://cloud.tencent.com/) |  | [人脸识别](https://cloud.tencent.com/act/event/iaidemo)-[对象存储](https://cloud.tencent.com/document/product/436/6240)-[云服务器](https://buy.cloud.tencent.com/cvm?tab=lite)-[配置说明](https://cloud.tencent.com/document/product/228/41622) |
 | []() |  | X |
 | []() |  | X |
 | []() |  | X |
