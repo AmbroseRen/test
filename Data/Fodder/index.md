@@ -9,6 +9,14 @@
 | [站长素材-JQuery素材](http://sc.chinaz.com/tag_jiaoben/tupianlunbo.html) |  | Y |
 | [JQuery素材](https://www.jq22.com/) |  | Y |
 | []() |  | Y |
+| 在线设计网站 |  | Y |
+| [yeelogo](http://yeelogo.com/#/) | LOGO设计 | Y |
+| [秀米](https://xiumi.us/#/) | 图文排版 | Y |
+| [创客帖](https://www.chuangkit.com/designtools/startdesign) | 海报设计 | Y |
+| [图片背景消除](https://www.remove.bg/zh) |  | Y |
+| [GIF剪裁](https://www.tutieshi.com/cut/) |  | Y |
+| []() |  | Y |
+| []() |  | Y |
 | 图片设计素材网站 |  | Y |
 | [千图网](https://www.58pic.com/) |  | Y |
 | [千库网](https://588ku.com/) |  | Y |
