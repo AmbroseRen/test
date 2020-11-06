@@ -9,7 +9,7 @@
 | [专业官网收录](http://www.gfwz.com/) | 三门户导航 | Y |
 | [Anywhere](http://lackar.com/aa/) | 哦 | Y |
 | [龙轩导航](http://ilxdh.com/) | 26 | Y |
-| []() | 26 | Y |
+| [firefox_index](http://offlintab.firefoxchina.cn/) | 26 | Y |
 | []() | 26 | Y |
 | []() | 26 | Y |
 | []() | 26 | Y |
