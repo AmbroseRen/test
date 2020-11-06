@@ -1,4 +1,4 @@
-# Tools Lists [←](index.md)
+# Tools Lists [←](../index.md)
 
 | name | age | sex |
 |:---:|:---:|:---:|
