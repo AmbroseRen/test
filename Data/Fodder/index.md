@@ -18,7 +18,7 @@
 | []() |  | Y |
 | []() |  | Y |
 | [icon](icon.md) | favicon.icon | Y |
-| [LOGO](LOGO.md) |  | Y |
+| [LOGO](LOGO.md) | LOGO设计 | Y |
 | [3D Model](3D_model.md) | 3D 模型素材 | Y |
 | []() |  | Y |
 | []() |  | Y |
