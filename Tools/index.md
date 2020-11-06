@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Code | 代码 | Y |
-| [在线代码格式化](https://tool.oschina.net/codeformat/sql) | O_O | Y |
+| [在线代码格式化](https://tool.oschina.net/codeformat/sql) | O_O | [主站](https://tool.oschina.net/) |
 | [Json格式化](http://www.bejson.com/) | O_O | Y |
 | [站长工具](http://tool.chinaz.com/js.aspx) | 前端格式转换 | Y |
 | [在线工具](https://tool.lu/c/developer) | O_O | Y |
