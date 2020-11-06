@@ -1,4 +1,4 @@
-# MD File [←](..)
+# MD File [←](../index.md)
 
 [Guide.txt](Guide.txt)
 
