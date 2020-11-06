@@ -14,7 +14,7 @@
 | []() |  | X |
 | [Tencent Cloud](https://cloud.tencent.com/) |  | [人脸识别](https://cloud.tencent.com/act/event/iaidemo)-[对象存储](https://cloud.tencent.com/document/product/436/6240)-[云服务器](https://buy.cloud.tencent.com/cvm?tab=lite)-[配置说明](https://cloud.tencent.com/document/product/228/41622) |
 | []() |  | X |
-| []() |  | X |
+| [阿里主站](https://www.aliyun.com/) - [云站](https://ecs.console.aliyun.com/?spm=a2c4g.11186623.2.1.NTsYNx#/home) |  | [文档](https://help.aliyun.com/index.html?spm=5176.7937365.765261.484.76c75692Oarl3P&content=school) |
 | []() |  | X |
 | []() |  | X |
 | []() |  | X |
