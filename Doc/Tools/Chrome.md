@@ -49,7 +49,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | 二维码生成器 (Quick QR) |  | X |
 |  |  | X |
 |  |  | X |
-|  |  | X |
+| [Chrome插件扩展网站](https://chrome.zzzmh.cn/index#ext) |  | X |
 | lucy | 25 | X |
 
 stylus
