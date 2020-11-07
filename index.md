@@ -1,6 +1,6 @@
 ## Welcome to RenSi's Databases
 
-Categories
+<link rel="shortcut icon" href="favicon.ico">
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
