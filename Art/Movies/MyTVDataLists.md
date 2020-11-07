@@ -1,5 +1,5 @@
 # MyTVData Lists  [←](../index.md)
-Publish Data：2020-11-8 00:57:31 +0000
+Publish Date：2020-11-8 00:57:31 +0000
 
 	自然
 		地球脉动
