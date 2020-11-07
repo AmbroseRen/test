@@ -1,4 +1,4 @@
-# CoolWeb Lists  [←](idnex.md)
+# CoolWeb Lists  [←](../idnex.md)
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
