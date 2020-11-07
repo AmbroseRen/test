@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <link rel="shortcut icon" href="favicon.ico">
-
-  <title>Welcome to RenSi's Databases</title>
-</head>
-
-<body>
+## Welcome to RenSi's Databases
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
@@ -19,8 +9,3 @@
 | [java](java/index.md) | [test](test/index.md) | [util](util/index.md) |
 | [EverythingIsTheme](demo.md) | [demoOneTest](demoOne.md) | [MarkDownGuide](https://www.appinn.com/markdown/) |
 | [About](About/index.md) | [sitemap](sitemap.xml) | [robots.txt](robots.txt) |
-
-</body>
-
-</html>
-
