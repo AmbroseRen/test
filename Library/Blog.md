@@ -44,7 +44,7 @@
 | [BNDong](https://blog.dbnuo.com/) | 0_0 | Y |
 | [罗康源](http://luokangyuan.com/) | 0_0 | Y |
 | [Thorsten Hans](https://thorsten-hans.com/) | MS Azure&k8s | Y |
-| [BYA](http://bya.cool/) | 0_0 | Y |
+| [BYA](http://bya.cool/) | 0_0 | [《学习之道》 读书笔记](http://bya.cool/2019/08/29/Booknote-The-Art-of-Learning/)  |
 | [geeksforgeeks](https://www.geeksforgeeks.org/) | 0_0 | Y |
 | [Jiale Han](https://zqhjl.github.io/) | web - null | Y |
 | [phodal](https://www.phodal.com/blog/) | loT | Y |
