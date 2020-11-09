@@ -9,7 +9,7 @@
 | [Spoils system](https://en.wikipedia.org/wiki/Spoils_system) | 政党庇护制与功绩制度 | Y |
 | []() | 0_0 | Y |
 | Finance | 0_0 | Y |
-| [You are not a lottery ticket](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/6.md) | 成功、运气与能力 | [Follow the money](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/7.md) |
+| [You are not a lottery ticket](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/6.md) | 成功、运气与能力 | [Follow the money](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/7.md) - [Secrets](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/8.md) explore to moer |
 | [如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/blob/master/README.md) | 零和博弈、正和博弈、自由 | Y |
 | []() | 0_0 | Y |
 | Read | 0_0 | Y |
