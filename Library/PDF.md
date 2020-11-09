@@ -14,7 +14,6 @@
 | [心理学入门-格尔德·米策尔.mobi](心理学入门-格尔德·米策尔.mobi) | 0_0 | Y |
 | [人体的故事：进化、健康与疾病](http://www.duokan.com/reader/www/app.html?id=14675bb3a5224e0f8b9a10b191c19cc9) | health | Y |
 | [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) | 0_0 | Y |
-| [《学习之道》 读书笔记](http://bya.cool/2019/08/29/Booknote-The-Art-of-Learning/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | Data | 0_0 | Y |
 | [IBM的大数据应用分析报告](https://www.ibm.com/downloads/cas/ED0JV08Q) | 0_0 | Y |
