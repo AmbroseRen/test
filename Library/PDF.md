@@ -10,7 +10,7 @@
 | []() | 0_0 | Y |
 | Finance | 0_0 | Y |
 | [You are not a lottery ticket](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/6.md) | 成功、运气与能力 | Y |
-| [如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/blob/master/README.md) | 0_0 | Y |
+| [如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/blob/master/README.md) | 零和博弈、正和博弈、自由 | Y |
 | []() | 0_0 | Y |
 | Read | 0_0 | Y |
 | [如何阅读一本书.[美]莫提默·J·艾德勒 查尔斯·范多伦](http://www.sssch.net/Admin/ckfinder/userfiles/files/shujixiazai/shujijijin/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf) | 0_0 | Y |
