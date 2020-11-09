@@ -5,7 +5,7 @@
 | Life | 生活 | Y |
 | [陈一发儿｜孤独时代的宠儿](https://mp.weixin.qq.com/s?__biz=MzAxMTg0NzYzMg==&mid=2651515956&idx=1&sn=3dab2e8a3f24e35b5f18679c5ab2729f&chksm=80449e8bb733179d65ad47d837754fcb1929d52c1d1b678bd637007dbc39ee0f20518f404a63&mpshare=1&scene=1&srcid=0818cNbUmPxDsfeBKCH3R0Es&key=01cef8d7e5105324a7347ab85b0c19046c4d122052892b1db34f62db42d093a0ea9501a517e3082e53c82e57f0f1f6d6ffefcca23cf1cd63ae5670f8d161befc36b59655aea458647fbea684bc870e71&ascene=0&uin=MTg0NDczMTY4MQ%3D%3D&devicetype=iMac+MacBookAir6%2C1+OSX+OSX+10.10.5+build(14F2109)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=sSBHjazSJGsth72T2SsuU%2BhOcbt2tjmDf5%2FNqABNlbv5UB%2B19HGZmtycLFpRvNWV) | 90后时代缩影 | Y |
 | Politice | 政治 | Y |
-| [The Rise of the Meritocracy](https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy) | en-精英主义的兴起 | [现代贵族运动](https://en.wikipedia.org/wiki/Meritocracy) |
+| [The Rise of the Meritocracy](https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy) | en-精英主义的兴起 | [Meritocracy - 现代贵族运动](https://en.wikipedia.org/wiki/Meritocracy) |
 | [Spoils system](https://en.wikipedia.org/wiki/Spoils_system) | 政党庇护制与功绩制度 | Y |
 | []() | 0_0 | Y |
 | Finance | 0_0 | Y |
