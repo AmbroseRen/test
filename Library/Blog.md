@@ -23,6 +23,7 @@
 | [taoalpha](https://taoalpha.github.io/blog/) | 0_0 | Y |
 | [jazztips](https://jazztips.se/) | 0_0 | Y |
 | [静轩之别苑](https://quickapp.lovejade.cn/links/?utm_source=ld246.com) | 0_0 | [外链](https://quickapp.lovejade.cn/links/?utm_source=ld246.com) |
+| [blaok](https://blog.blaok.me/) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Politics | 政治 | Y |
