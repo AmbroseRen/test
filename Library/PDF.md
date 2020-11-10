@@ -22,6 +22,7 @@
 | Data | 0_0 | Y |
 | [IBM的大数据应用分析报告](https://www.ibm.com/downloads/cas/ED0JV08Q) | 0_0 | Y |
 | [联合国对中国新冠病毒肺炎评估报告](https://files.catbox.moe/3kmdal.pdf) | 0_0 | Y |
+| [人工智能时代•杰瑞·卡普兰(2015)](https://files.catbox.moe/qyc48c.pdf) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | lucy | 25 | X |
