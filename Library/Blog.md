@@ -36,6 +36,7 @@
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
 | [云玩家](https://yunist.cn/) | 优质博客搭建 | [配置你的 github pages](https://github.com/hoperyy/blog/issues/10) - [Working with GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages) - [最全hexo博客搭建](https://yunist.cn/hexo/Hexo_blog_build/#Jsdelivr-%E5%8A%A0%E9%80%9F) - [知乎相关搭建](https://zhuanlan.zhihu.com/p/111639860) |
+| []() | 0_0 | Y |
 | [韦阳博客](https://godweiyang.com/) | 算法 | [github+Hexo搭建手册](https://godweiyang.com/2018/04/13/hexo-blog/)(优质) - [相关搭建](https://zhuanlan.zhihu.com/p/35668237) - [相关主题](https://zhuanlan.zhihu.com/p/129618255) - [hexo插件优化](https://zhuanlan.zhihu.com/p/33616481) - [相关搭建手册一](https://sspai.com/post/59480) - [相关搭建手册二](https://hans2936.github.io/2018/06/06/HexoLog/) |
 | [indiehackers](https://indiehackers.net/) | 0_0 | Y |
 | [rainary](https://rainary.com/) | web | Y |
@@ -43,8 +44,11 @@
 | [智伤帝](https://fxtd-odyssey.github.io/) | CG-Tencent UI | [主页](https://cyc2018.github.io/page.html) - [Notes](https://cyc2018.github.io/CS-Notes/#/notes/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7) - [hexo博客优化](https://fxtd-odyssey.github.io/posts/260a6911.html) - [吴俊开发笔记](https://wujun234.github.io/) |
 | [ihtcboy](https://ihtcboy.com/) | 优质 | Y |
 | [shrekshao](http://shrekshao.github.io/) | 3D开发者 | [Cross Section - 模型_横断面](http://shrekshao.github.io/2016/08/27/BioDigital-Intern-Review-3-Cross-Section/) |
+| []() | 0_0 | Y |
 | [水寒](https://dp2px.com/) | 基于hugo-Android | [github_hugo](https://github.com/gohugoio/hugo) - [hugo_doc](https://gohugo.io/getting-started/) - [hugo_doc_install](https://gohugo.io/getting-started/installing/) - [Chocolatey Install](https://chocolatey.org/docs/installation#more-install-options) |
+| []() | 0_0 | Y |
 | AboutHugo | 关于hugo博客框架 | [hugo git stars](https://hugoranked.com/) - [Netlify Deploy hugo](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/) - [hugo-themes](https://themes.gohugo.io/tags/blog/) - [hugo-themes-two](https://jamstackthemes.dev/ssg/hugo/) - [hugo_github_home](https://github.com/gohugoio/) - [hugo-introduction](https://themes.gohugo.io/theme/hugo-theme-zzo/en/#) - [手册一](https://sb.sb/blog/migrate-to-hugo/) - [gitlab部署手册](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html) |
+| []() | 0_0 | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
 | [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
