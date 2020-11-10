@@ -31,7 +31,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | 谷歌访问助手 | 一代 | X |
 | Windscribe | 二代 | X |
 | ZenMate Free VPN | 二代 | X |
-| SetupVPN | 三代 | X |
+| SetupVPN | 三代 | [PDF手册](https://files.catbox.moe/pacr7n.pdf) |
 |  | 四代 | 最新技术(传播就被针对，自己找)
 |  |  | X |
 | timer | 时间段管理 | X |
