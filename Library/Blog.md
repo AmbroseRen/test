@@ -43,7 +43,7 @@
 | [智伤帝](https://fxtd-odyssey.github.io/) | CG-Tencent UI | [主页](https://cyc2018.github.io/page.html) - [Notes](https://cyc2018.github.io/CS-Notes/#/notes/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7) - [hexo博客优化](https://fxtd-odyssey.github.io/posts/260a6911.html) - [吴俊开发笔记](https://wujun234.github.io/) |
 | [ihtcboy](https://ihtcboy.com/) | 优质 | Y |
 | [shrekshao](http://shrekshao.github.io/) | 3D开发者 | [Cross Section - 模型_横断面](http://shrekshao.github.io/2016/08/27/BioDigital-Intern-Review-3-Cross-Section/) |
-| [水寒](https://dp2px.com/) | 基于hugo-Android | [github_hugo](https://github.com/gohugoio/hugo) - [hugo_doc](https://gohugo.io/getting-started/) - [hugo_doc_indtall](https://gohugo.io/getting-started/installing/) - [Chocolatey Install](https://chocolatey.org/docs/installation#more-install-options) |
+| [水寒](https://dp2px.com/) | 基于hugo-Android | [github_hugo](https://github.com/gohugoio/hugo) - [hugo_doc](https://gohugo.io/getting-started/) - [hugo_doc_install](https://gohugo.io/getting-started/installing/) - [Chocolatey Install](https://chocolatey.org/docs/installation#more-install-options) |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
 | [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
