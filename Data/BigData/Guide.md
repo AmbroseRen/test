@@ -16,3 +16,5 @@
 				MLP(机器学习)
 			Territory(领域)
 				NLP(自然语言处理)
+
+[Link Mining: A New Data Mining Challenge](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.1976&rep=rep1&type=pdf)
