@@ -47,7 +47,7 @@
 | []() | 0_0 | Y |
 | [水寒](https://dp2px.com/) | 基于hugo-Android | [github_hugo](https://github.com/gohugoio/hugo) - [hugo_doc](https://gohugo.io/getting-started/) - [hugo_doc_install](https://gohugo.io/getting-started/installing/) - [Chocolatey Install](https://chocolatey.org/docs/installation#more-install-options) |
 | []() | 0_0 | Y |
-| AboutHugo | 关于hugo博客框架 | [hugo git stars](https://hugoranked.com/) - [Netlify Deploy hugo](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/) - [hugo-themes](https://themes.gohugo.io/tags/blog/) - [hugo-themes-two](https://jamstackthemes.dev/ssg/hugo/) - [hugo_github_home](https://github.com/gohugoio/) - [hugo-introduction](https://themes.gohugo.io/theme/hugo-theme-zzo/en/#) - [手册一](https://sb.sb/blog/migrate-to-hugo/) - [gitlab部署手册](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html) |
+| AboutHugo | 关于hugo博客框架 | [hugo git stars ranks](https://hugoranked.com/) - [Netlify Deploy hugo](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/) - [hugo-themes](https://themes.gohugo.io/tags/blog/) - [hugo-themes-two](https://jamstackthemes.dev/ssg/hugo/) - [hugo_github_home](https://github.com/gohugoio/) - [hugo-introduction](https://themes.gohugo.io/theme/hugo-theme-zzo/en/#) - [手册一](https://sb.sb/blog/migrate-to-hugo/) - [gitlab部署手册](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html) |
 | []() | 0_0 | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
