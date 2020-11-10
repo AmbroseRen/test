@@ -4,6 +4,8 @@
 |:---:|:---:|:---:|
 | Portal | 门户导航 | Y |
 | [极客导航](https://geekdocs.cn/?utm_source=quickapp.lovejade.cn) | 0_0 | Y |
+| [tuna](https://github.com/tuna/blogroll) | someOtherBlogLists | Y |
+| []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Art | 艺术 | Y |
 | [ZHENG Zi'ou](https://orianna-zzo.github.io/) | 音乐剧 - (Docker + hugo + github) | Y |
