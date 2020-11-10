@@ -57,6 +57,7 @@
 | [phodal](https://www.phodal.com/blog/) | loT | Y |
 | [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | Y |
 | [赵云龙](https://zyl.me/) | 0_0 | Y |
+| [郭](https://gary5496.github.io/) | 0_0 | [Windows+github+hexo](https://gary5496.github.io/2018/03/hexo-github-setup/) |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
