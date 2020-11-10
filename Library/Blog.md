@@ -35,7 +35,7 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
-| [云玩家](https://yunist.cn/) | 优质博客搭建 | [最全hexo博客搭建](https://yunist.cn/hexo/Hexo_blog_build/#Jsdelivr-%E5%8A%A0%E9%80%9F) |
+| [云玩家](https://yunist.cn/) | 优质博客搭建 | [最全hexo博客搭建](https://yunist.cn/hexo/Hexo_blog_build/#Jsdelivr-%E5%8A%A0%E9%80%9F) - [知乎相关搭建](https://zhuanlan.zhihu.com/p/111639860) |
 | [indiehackers](https://indiehackers.net/) | 0_0 | Y |
 | [rainary](https://rainary.com/) | web | Y |
 | [Aman Mittal](https://amanhimself.dev/) | web | Y |
