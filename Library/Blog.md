@@ -38,6 +38,9 @@
 | [indiehackers](https://indiehackers.net/) | 0_0 | Y |
 | [rainary](https://rainary.com/) | web | Y |
 | [Aman Mittal](https://amanhimself.dev/) | web | Y |
+| [智伤帝](https://fxtd-odyssey.github.io/) | CG-Tencent UI | Y |
+| [ihtcboy](https://ihtcboy.com/) | 优质 | Y |
+| []() | 0_0 | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
 | [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
