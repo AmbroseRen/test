@@ -36,6 +36,7 @@
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
 | [云玩家](https://yunist.cn/) | 优质博客搭建 | [配置你的 github pages](https://github.com/hoperyy/blog/issues/10) - [Working with GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages) - [最全hexo博客搭建](https://yunist.cn/hexo/Hexo_blog_build/#Jsdelivr-%E5%8A%A0%E9%80%9F) - [知乎相关搭建](https://zhuanlan.zhihu.com/p/111639860) |
+| [韦阳博客](https://godweiyang.com/) | 算法 | [github+Hexo搭建手册](https://godweiyang.com/2018/04/13/hexo-blog/)(优质) - [相关搭建](https://zhuanlan.zhihu.com/p/35668237) - [相关主题](https://zhuanlan.zhihu.com/p/129618255)|
 | [indiehackers](https://indiehackers.net/) | 0_0 | Y |
 | [rainary](https://rainary.com/) | web | Y |
 | [Aman Mittal](https://amanhimself.dev/) | web | Y |
