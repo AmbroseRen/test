@@ -14,7 +14,7 @@
 | ACGN | 二次元 | Y |
 | [小透明·宸](https://akarin.dev/index.html) | 0_0 | Y |
 | [王友元](http://www.moetuan.cn/) | 0_0 | Y |
-| []() | 0_0 | Y |
+| [极客小站](https://gitcafe.ink/) | 网站待完善 | Y |
 | []() | 0_0 | Y |
 | Life | 生活 | Y |
 | [阮一峰](http://www.ruanyifeng.com/home.html) | 完善独立人格 | [子站](http://www.ruanyifeng.com/calvino/) - [网络文凭，你要不要](http://www.ruanyifeng.com/blog/2016/10/online_education.html) |
