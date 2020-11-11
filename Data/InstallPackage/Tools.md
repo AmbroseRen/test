@@ -56,4 +56,8 @@
 | [ddl下载](http://www.dlljia.com/) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
+| []() | O_O | Y |
+| Android | 安卓 | [安卓手机工具下载社区](https://sharecuts.cn/shortcuts) |
+| []() | O_O | Y |
+| []() | O_O | Y |
 | lucy | 25 | X |
