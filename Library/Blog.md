@@ -54,6 +54,7 @@
 | []() | 0_0 | Y |
 | AboutHugo | 关于hugo博客框架 | [hugo git stars ranks](https://hugoranked.com/) - [Netlify Deploy hugo](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/) - [hugo-themes](https://themes.gohugo.io/tags/blog/) - [hugo-themes-two](https://jamstackthemes.dev/ssg/hugo/) - [hugo_github_home](https://github.com/gohugoio/) - [hugo-introduction](https://themes.gohugo.io/theme/hugo-theme-zzo/en/#) - [手册一](https://sb.sb/blog/migrate-to-hugo/) - [gitlab部署手册](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html) |
 | []() | 0_0 | Y |
+| [懒得勤快](https://masuit.com/p?page=4&orderby=) | 综合 | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
 | [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
