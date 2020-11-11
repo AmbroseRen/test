@@ -2,6 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| Windows | 微软操作系统 | Y |
 | [腾讯软件中心](https://pc.qq.com/detail/8/detail_13068.html) | O_O | Y |
 | [mindmaster](http://www.edrawsoft.cn/mindmaster/?hmsr=zhihu&hmpl=&hmcu=&hmkw=&hmci=) | 思维导图 | Y |
 | [xmind](https://www.xmind.cn/download/) | 思维导图 | Y |
@@ -35,6 +36,15 @@
 | [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
 | [rescuetime](https://www.rescuetime.com/get_rescuetime) | 时间管理-网络浏览时间资源分析工具(一般吧) | Y |
 | [chrome](https://www.google.com/chrome/) | 浏览器 | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| MacOS | MacOS系统 | Y |
+| [awesome-mac](https://wangchujiang.com/awesome-mac/index.zh.html) | MacOS精品软件列表 | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
