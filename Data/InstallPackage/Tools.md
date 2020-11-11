@@ -40,19 +40,15 @@
 | [chrome](https://www.google.com/chrome/) | 浏览器 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
 | Linux | Linux操作系统 | Y |
 | [ubuntu](https://ubuntu.com/download/desktop) | O_O | [easyBCD安装引导工具](https://www.techspot.com/downloads/3112-easybcd.html) - [操作手册](https://blog.csdn.net/beautiful_girl_love/article/details/78999359) - [手册一](https://blog.csdn.net/yangdashi888/article/details/64122481) - [手册二](https://jingyan.baidu.com/article/e4d08ffdace06e0fd2f60d39.html) - [磁盘分割简介](https://www.phpfans.net/article/htmls/201009/MzA0NDM4.html) |
-| []() | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
+| [centos8](https://www.centos.org/download/) | O_O | [centos6.10](http://ftp.riken.jp/Linux/centos/6.10/isos/x86_64/) |
 | []() | O_O | Y |
 | MacOS | MacOS操作系统 | [Apple ID官网](https://appleid.apple.com/) - [账号云空间](https://www.icloud.com/) |
 | [awesome-mac](https://wangchujiang.com/awesome-mac/index.zh.html) | MacOS精品软件列表 | Y |
 | []() | O_O | Y |
+| []() | O_O | Y |
+| [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) | 虚拟机 | [教程](https://mp.weixin.qq.com/s?__biz=MzIwMjE1MjMyMw==&mid=502715453&idx=1&sn=f08535e26e03d71589f405b663b2ce0b&chksm=0ee174d13996fdc7523236ce503a76dd85a71cb04cfa20013bc2e1b0bdd6aa813157c2116951&scene=20&xtrack=1&key=018eb7afa591f40f9d9792f3c3acaa9be462d1443c18534efa227efac33711a5de85f78ce2cce3bcac14308be690e7ec067e277db00699a60901c476e737f6d8e754e4040c5860b72bc39215d008e05fe6f0568097b5826b6706789e5a2100ac15e4d4e893410bc3e451eb25ab1f29dbf2857e2b88105a0bbdf287b698fc7e01&ascene=1&uin=MTk5MzAzODIxOA%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AQfpmd5z%2Bpke6XdwI8%2BbbMk%3D&pass_ticket=EkuvduQnd2h4xP3ayMH4iTSgAarzLoxOSslZRKKORBeePjQqksDlX5qfNk2aBIHb&wx_header=0) - [教程二](https://my.oschina.net/u/4416988/blog/4482498) - [教程三](https://juejin.im/post/6844903715846127624) - [网络模式配置](https://blog.csdn.net/collection4u/article/details/14127671) - [VirtualBox 启动时提示“获取 VirtualBox COM 对象失败”的解决](https://www.cnblogs.com/imzhi/p/solution-to-the-failed-to-get-the-virtualbox-com-object.html) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
