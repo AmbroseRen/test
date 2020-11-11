@@ -12,6 +12,9 @@
 | [微信-windows](https://pc.weixin.qq.com/?lang=zh_CN) | O_O | Y |
 | [百度网盘](https://pan.baidu.com/download) | O_O | Y |
 | [搜狗输入法](https://pinyin.sogou.com/) | O_O | [账号中心](https://account.sogou.com/home/) |
+| [手心输入法](http://www.xinshuru.com/index.html?p=win) | 极简 | Y |
+| [GooglePinyinInstaller_x64](https://t00y.com/file/17786953-449873533) | 谷歌拼音输入法 | Y |
+| [小狼毫输入法](https://rime.im/) | 高度自定义 | [指南](https://zhuanlan.zhihu.com/p/91129641) |
 | [bitlocker](https://bitlocker.updatestar.com/) | Windows文件锁 | [专区](https://www.onlinedown.net/zt/20582/) |
 | [磁盘锁](http://xiazai.zol.com.cn/detail/31/309909.shtml) | O_O | Y |
 | [send-anywhere](https://send-anywhere.com/file-transfer) | 文件流传输工具 | Y |
