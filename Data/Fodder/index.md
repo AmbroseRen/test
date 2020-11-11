@@ -9,7 +9,7 @@
 | [站长素材-JQuery素材](http://sc.chinaz.com/tag_jiaoben/tupianlunbo.html) |  | Y |
 | [JQuery素材](https://www.jq22.com/) |  | Y |
 | []() |  | Y |
-| 在线设计网站 |  | Y |
+| 在线设计网站 | [设计软件库](https://www.fxxkmakeding.xyz/) | Y |
 | [yeelogo](http://yeelogo.com/#/) | LOGO设计 | Y |
 | [秀米](https://xiumi.us/#/) | 图文排版 | Y |
 | [创客帖](https://www.chuangkit.com/designtools/startdesign) | 海报设计 | Y |
