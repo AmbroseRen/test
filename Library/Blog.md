@@ -5,7 +5,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Portal | 门户导航 | Y |
-| [极客导航](https://geekdocs.cn/?utm_source=quickapp.lovejade.cn) | 0_0 | [毒导航](https://www.toxic.ltd/) - [心理学](https://www.toxic.ltd/books/xinlixue) - [我是个算命先生](http://wo-xiaoshipin.test.upcdn.net/suanming.html) |
+| [极客导航](https://geekdocs.cn/?utm_source=quickapp.lovejade.cn) | 0_0 | ([毒导航](https://www.toxic.ltd/) - [心理学](https://www.toxic.ltd/books/xinlixue) - [我是个算命先生](http://wo-xiaoshipin.test.upcdn.net/suanming.html)) |
 | [tuna](https://github.com/tuna/blogroll) | someOtherBlogLists | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
