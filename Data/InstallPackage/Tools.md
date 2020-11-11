@@ -3,6 +3,8 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Windows | 微软操作系统 | Y |
+| [windows7纯净版](http://www.windows7en.com/) | O_O | [windows7_64_ios](http://www.windows7en.com/Special/Win7ywb//34680.html) - ([win2008 r2简体中文版 32位/64位](http://www.xpgod.com/soft/22573.html) - [Windows Server 2008 R2激活](http://www.windows7en.com/Windows8/39868.html)) - [相关版本](http://www.xitongzhijia.net/cjbwin7/) |
+| []() | O_O | Y |
 | [腾讯软件中心](https://pc.qq.com/detail/8/detail_13068.html) | O_O | Y |
 | [mindmaster](http://www.edrawsoft.cn/mindmaster/?hmsr=zhihu&hmpl=&hmcu=&hmkw=&hmci=) | 思维导图 | Y |
 | [xmind](https://www.xmind.cn/download/) | 思维导图 | Y |
