@@ -20,7 +20,7 @@
 | [书单网](https://www.shudan.vip/115040.html) | 搜索引擎 | X | X | X |
 | [微阅电子书](http://www.weibaiyue.com/xingye/yiyao/33070.html) | 搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | X | X | X |
-| [中国哲学书电子化计划](https://ctext.org/zh) | 诸子百家 | X | X | X |
+| [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
