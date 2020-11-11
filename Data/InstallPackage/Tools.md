@@ -41,7 +41,14 @@
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| MacOS | MacOS系统 | [Apple ID官网](https://appleid.apple.com/) - [账号云空间](https://www.icloud.com/) |
+| Linux | Linux操作系统 | Y |
+| [ubuntu](https://ubuntu.com/download/desktop) | O_O | [easyBCD安装引导工具](https://www.techspot.com/downloads/3112-easybcd.html) - [操作手册](https://blog.csdn.net/beautiful_girl_love/article/details/78999359) - [手册一](https://blog.csdn.net/yangdashi888/article/details/64122481) - [手册二](https://jingyan.baidu.com/article/e4d08ffdace06e0fd2f60d39.html) - [磁盘分割简介](https://www.phpfans.net/article/htmls/201009/MzA0NDM4.html) |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| MacOS | MacOS操作系统 | [Apple ID官网](https://appleid.apple.com/) - [账号云空间](https://www.icloud.com/) |
 | [awesome-mac](https://wangchujiang.com/awesome-mac/index.zh.html) | MacOS精品软件列表 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
