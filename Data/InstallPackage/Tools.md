@@ -20,10 +20,10 @@
 | [flash](https://www.flash.cn/) | O_O | Y |
 | [Launchy 2.5.0 中文版](https://www.onlinedown.net/soft/101998.htm) | 桌面快速启动工具 | Y |
 | [向日葵-windows](https://sunlogin.oray.com/download) | 远程控制工具 | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
+| [charlesproxy](https://www.charlesproxy.com/latest-release/download.do) | 前端请求抓包工具 | [相关工具](https://masuit.com/1211) |
+| [wireshark](https://www.wireshark.org/download.html) | 前端请求抓包工具 | Y |
+| [hipc](https://hipc.cn/) | 手机端远程控制电脑 | Y |
+| [riot](https://riot.im/download/desktop/) | message | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
