@@ -19,14 +19,16 @@
 | [维棠下载器](http://www.vidown.cn/) | 视频下载工具 | Y |
 | [flash](https://www.flash.cn/) | O_O | Y |
 | [Launchy 2.5.0 中文版](https://www.onlinedown.net/soft/101998.htm) | 桌面快速启动工具 | Y |
+| [TurboLaunch for Windows](https://turbolaunch.en.softonic.com/?ex=CORE-117.4) | 桌面快速启动工具 | [链接二](http://www.pc6.com/softview/SoftView_12250.html) |
+| [音速启动](http://www.3lsoft.com/?id=6) | 桌面快速启动工具 | Y |
 | [向日葵-windows](https://sunlogin.oray.com/download) | 远程控制工具 | Y |
 | [charlesproxy](https://www.charlesproxy.com/latest-release/download.do) | 前端请求抓包工具 | [相关工具](https://masuit.com/1211) |
 | [wireshark](https://www.wireshark.org/download.html) | 前端请求抓包工具 | Y |
 | [hipc](https://hipc.cn/) | 手机端远程控制电脑 | Y |
 | [riot](https://riot.im/download/desktop/) | message | Y |
 | [steam](https://store.steampowered.com/about/) | 游戏软件平台 | [fences] - [桌面管理工具](https://item.taobao.com/item.htm?id=591962221476) |
-| []() | O_O | Y |
-| []() | O_O | Y |
+| [有道词典](https://cidian.youdao.com/index.html) | 翻译 | Y |
+| [驱动精灵](http://www.drivergenius.com/) | 驱动修复工具 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
