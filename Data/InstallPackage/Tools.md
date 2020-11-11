@@ -32,7 +32,7 @@
 | [steam](https://store.steampowered.com/about/) | 游戏软件平台 | [fences] - [桌面管理工具](https://item.taobao.com/item.htm?id=591962221476) |
 | [有道词典](https://cidian.youdao.com/index.html) | 翻译 | Y |
 | [驱动精灵](http://www.drivergenius.com/) | 驱动修复工具 | Y |
-| []() | O_O | Y |
+| [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
