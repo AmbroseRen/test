@@ -7,7 +7,7 @@
 | [xmind](https://www.xmind.cn/download/) | 思维导图 | Y |
 | [gradle-build-tool-dark-green-primary](https://gradle.org/) | 项目构建工具 | Y |
 | [Git](https://git-scm.com/downloads) | O_O | [Git-Windows](https://git-scm.com/download/win) |
-| [java-decompiler](http://java-decompiler.github.io/) | Java反编译器 | Y |
+| [java-decompiler](http://java-decompiler.github.io/) | Java反编译器 | [反编译工具](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/?utm_source=spd&utm_campaign=postdl_redir) |
 | [QQ](https://im.qq.com/pcqq/) | O_O | Y |
 | [微信-windows](https://pc.weixin.qq.com/?lang=zh_CN) | O_O | Y |
 | [百度网盘](https://pan.baidu.com/download) | O_O | Y |
