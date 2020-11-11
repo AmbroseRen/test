@@ -52,4 +52,7 @@
 | []() | O_O | Y |
 | [intel home](https://www.intel.cn/content/www/cn/zh/homepage.html) | O_O | [开发手册](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html) - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/) |
 | []() | O_O | Y |
+| [ddl下载](http://www.dlljia.com/) | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
 | lucy | 25 | X |
