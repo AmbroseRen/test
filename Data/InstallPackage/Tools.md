@@ -24,7 +24,7 @@
 | [wireshark](https://www.wireshark.org/download.html) | 前端请求抓包工具 | Y |
 | [hipc](https://hipc.cn/) | 手机端远程控制电脑 | Y |
 | [riot](https://riot.im/download/desktop/) | message | Y |
-| [steam](https://store.steampowered.com/about/) | 游戏平台 | Y |
+| [steam](https://store.steampowered.com/about/) | 游戏软件平台 | [fences] - [桌面管理工具](https://item.taobao.com/item.htm?id=591962221476) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
