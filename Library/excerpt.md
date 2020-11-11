@@ -9,7 +9,7 @@
 | [无法注册](http://www.wufazhuce.com/) | emotion(感情) | Y |
 | [推荐书](https://www.tuijianshu.net/) | 书籍推荐 | Y |
 | [每日一文](https://meiriyiwen.com/random) | 散文片段 | Y |
-| [语录](https://www.lz13.cn/jingdianyulu/20872.html) | 26 | Y |
+| [语录](https://www.lz13.cn/jingdianyulu/20872.html) | 经典网络语录 | Y |
 | []() | 26 | Y |
 | []() | 26 | Y |
 | []() | 26 | Y |
