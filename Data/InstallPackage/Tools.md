@@ -33,7 +33,7 @@
 | [有道词典](https://cidian.youdao.com/index.html) | 翻译 | Y |
 | [驱动精灵](http://www.drivergenius.com/) | 驱动修复工具 | Y |
 | [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
-| []() | O_O | Y |
+| [rescuetime](https://www.rescuetime.com/get_rescuetime) | 网络浏览时间资源分析工具 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
