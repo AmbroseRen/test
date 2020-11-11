@@ -24,6 +24,12 @@
 | [wireshark](https://www.wireshark.org/download.html) | 前端请求抓包工具 | Y |
 | [hipc](https://hipc.cn/) | 手机端远程控制电脑 | Y |
 | [riot](https://riot.im/download/desktop/) | message | Y |
+| [steam](https://store.steampowered.com/about/) | 游戏平台 | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
