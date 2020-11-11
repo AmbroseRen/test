@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | Windows | 微软操作系统 | Y |
 | [windows7纯净版](http://www.windows7en.com/) | O_O | [windows7_64_ios](http://www.windows7en.com/Special/Win7ywb//34680.html) - ([win2008 r2简体中文版 32位/64位](http://www.xpgod.com/soft/22573.html) - [Windows Server 2008 R2激活](http://www.windows7en.com/Windows8/39868.html)) - [相关版本](http://www.xitongzhijia.net/cjbwin7/) |
-| []() | O_O | Y |
+| Windows_Commander_Shell | windows cmd增强工具 | [Total Commander](https://www.ghisler.com/) - [cmder](https://cmder.net/) - [power shell](https://docs.microsoft.com/en-us/powershell/#pivot=main&panel=getstarted) |
 | [腾讯软件中心](https://pc.qq.com/detail/8/detail_13068.html) | O_O | Y |
 | [mindmaster](http://www.edrawsoft.cn/mindmaster/?hmsr=zhihu&hmpl=&hmcu=&hmkw=&hmci=) | 思维导图 | Y |
 | [xmind](https://www.xmind.cn/download/) | 思维导图 | Y |
@@ -41,6 +41,7 @@
 | []() | O_O | Y |
 | []() | O_O | Y |
 | Linux | Linux操作系统 | Y |
+| Linux_Commander_shell | Linux cmd增强工具 | ([Oh-My-Zsh](https://blog.csdn.net/ishellhub/article/details/82381734) - [手册](https://blog.csdn.net/lxn9492878lbl/article/details/80795413) - [演示](https://github.com/shellhub/blog/issues/25)) |
 | [ubuntu](https://ubuntu.com/download/desktop) | O_O | [easyBCD安装引导工具](https://www.techspot.com/downloads/3112-easybcd.html) - [操作手册](https://blog.csdn.net/beautiful_girl_love/article/details/78999359) - [手册一](https://blog.csdn.net/yangdashi888/article/details/64122481) - [手册二](https://jingyan.baidu.com/article/e4d08ffdace06e0fd2f60d39.html) - [磁盘分割简介](https://www.phpfans.net/article/htmls/201009/MzA0NDM4.html) |
 | [centos8](https://www.centos.org/download/) | O_O | [centos6.10](http://ftp.riken.jp/Linux/centos/6.10/isos/x86_64/) |
 | []() | O_O | Y |
