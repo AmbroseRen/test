@@ -41,7 +41,7 @@
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| MacOS | MacOS系统 | Y |
+| MacOS | MacOS系统 | [Apple ID官网](https://appleid.apple.com/) - [账号云空间](https://www.icloud.com/) |
 | [awesome-mac](https://wangchujiang.com/awesome-mac/index.zh.html) | MacOS精品软件列表 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
