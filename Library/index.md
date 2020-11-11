@@ -8,7 +8,7 @@
 | BookList | [MyBookLists](BookLists.md) | [OtherBookLists](OtherBookLists.md) | [Literary](Literary.md) | Y |
 | ReadOnLine | [Forum](Forum.md) - [blog](Blog.md) | [历史的节点](PDF.md) | [书摘拾贝](excerpt.md) |
 | Portal | [学习平台](LearnPlatform.md) | [搜索引擎收录](SearchEngine.md) | [综合门户导航](synthesize.md) |
-| Tools | [电子书格式转换工具](Tools.md) | Y | Y |
+| Tools | [浏览设备](ViewTools.md) | [电子书格式转换工具](Tools.md) | Y |
 |  | 26 | Y | Y |
 
 [如何阅读一本书](http://www.sssch.net/Admin/ckfinder/userfiles/files/shujixiazai/shujijijin/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)
