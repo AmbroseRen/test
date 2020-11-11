@@ -34,7 +34,7 @@
 | [驱动精灵](http://www.drivergenius.com/) | 驱动修复工具 | Y |
 | [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
 | [rescuetime](https://www.rescuetime.com/get_rescuetime) | 时间管理-网络浏览时间资源分析工具(一般吧) | Y |
-| []() | O_O | Y |
+| [chrome](https://www.google.com/chrome/) | 浏览器 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
