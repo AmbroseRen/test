@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| []() | O_O | Y |
+| [小众软件论坛](https://meta.appinn.net/) | O_O | [Fences](https://meta.appinn.net/t/topic/3037) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | jetbrains | 系列产品 | idea + pycharm + webstorm + golang |
