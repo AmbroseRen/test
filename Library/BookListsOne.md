@@ -26,7 +26,12 @@
     </li>
     <li>Law
         <ul>
-            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Law/洞穴奇案（美）彼得·萨伯.pdf">洞穴奇案</a>（美）彼得·萨伯</li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Law/洞穴奇案（美）彼得·萨伯.pdf">洞穴奇案</a>（美）彼得·萨伯
+                <ul>
+                    <li>简介——五名洞穴探险者受困山洞，水尽粮绝；为了生存，大家约定抽签吃掉一人，牺牲一个以救活其余四人。</li>
+                    <li>——摘要</li>
+                </ul>
+            </li>
         </ul>
     </li>    
     <li>Society
