@@ -1,15 +1,10 @@
 Librarys
 
 <ul class="tree">
-    <li>研发中心
+    <li>Finance
         <ul>
-            <li>北京研发部</li>
-            <li>深圳研发部
-                <ul>
-                    <li>产品1组</li>
-                    <li>产品2组</li>
-                </ul>
-            </li>
+            <li><a href="http://www.w3school.com.cn">经济学原理</a></li>
+            <li>经济学讲义（薛兆丰） </li>
         </ul>
     </li>
     <li>销售部
