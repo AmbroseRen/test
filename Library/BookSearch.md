@@ -23,7 +23,7 @@
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | [少儿英语星](http://www.kindle178.com/) | 少儿故事 | X | X | X |
-| []() | 25 | X | X | X |
+| [大不列颠百科全书](https://www.britannica.com/) | en-pay | X | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 
