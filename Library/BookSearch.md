@@ -24,7 +24,7 @@
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | [少儿英语星](http://www.kindle178.com/) | 少儿故事 | X | X | X |
 | [大不列颠百科全书](https://www.britannica.com/) | en-pay | X | X | X |
-| []() | 25 | X | X | X |
+| [美国国会图书馆](https://www.loc.gov/) | 25 | X | X | [分类索引](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) |
 | []() | 25 | X | X | X |
 
 ## 友链
