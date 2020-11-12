@@ -14,9 +14,16 @@ Librarys
             <li>融资（[美]安迪·樊__Andy Fan）</li>
         </ul>
     </li>
-    <li>销售部
+    <li>Society
         <ul>
-            <li>售前</li>
+            <li>Psychology
+                <ul>
+                    <li>心理学入门-格尔德·米策尔.mobi()</li>
+                    <li>倾听术</li>
+                    <li>fbi教你读心术</li>
+                     <li>-----------------------</li>
+                </ul>
+            </li>                
             <li>售后</li>
             <li>代理分区
                 <ul>
