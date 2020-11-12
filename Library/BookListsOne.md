@@ -41,7 +41,7 @@
                     <li>刺激消费、城镇化品牌、养老制度、生活姿态、从负数开始奋斗————内容摘要</li>
                 </ul>
             </li>
-            <li><a href="https://files.catbox.moe/htbtai.pdf">《资本与意识形态》</a>托马斯·皮凯蒂</li>
+            <li><a href="https://files.catbox.moe/htbtai.pdf">《资本与意识形态》</a>托马斯·皮凯蒂 - <a href="https://zh.b-ok.org/book/5364825/701ff4">epub下载</a></li>
             <li>《通向奴役之路》（弗里德曼1971）</li>
             <li>《自由及其背叛——人类自由的六个敌人》</li>
             <li>《见识》--吴军</li>
