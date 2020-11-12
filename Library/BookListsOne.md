@@ -13,7 +13,7 @@
     <li>Finance
         <ul>
             <li><a href="https://www.fox2008.cn/Article/List/31272.html">经济学原理</a>-<a href="https://www.fox2008.cn/">中学生读书网-偏白话文</a></li>
-            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/%E3%80%8A%E8%96%9B%E5%85%86%E4%B8%B0%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AE%B2%E4%B9%89-%E8%96%9B%E5%85%86%E4%B8%B0%E3%80%8B.pdf">经济学讲义（薛兆丰）</a><a href="https://files.catbox.moe/a1h0a4.pdf">副本</a></li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/%E3%80%8A%E8%96%9B%E5%85%86%E4%B8%B0%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AE%B2%E4%B9%89-%E8%96%9B%E5%85%86%E4%B8%B0%E3%80%8B.pdf">经济学讲义（薛兆丰）</a>-<a href="https://files.catbox.moe/a1h0a4.pdf">副本</a></li>
             <li><a href="http://www.tushu007.com/ISBN-9787309035568.pdf">经济学概论</a>-<a href="https://files.catbox.moe/ge6t0m.pdf">副本</a>-<a href="http://www.tushu007.com/">第一图书网-专业书籍</a></li>
             <li>财富的起源</li>
             <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a>-<a href="https://www.yiyiwenku.com/">依依文库-中国古典文学</a></li>
