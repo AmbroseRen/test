@@ -16,7 +16,7 @@
 | []() | 0_0 | Y |
 | ACGN | 二次元 | Y |
 | [萌娘百科](https://zh.moegirl.org.cn/Mainpage) | 搜素引擎-万物皆可萌 | Y |
-| [沧水](https://cangshui.net/) | 主机 | Y |
+| [沧水](https://cangshui.net/) | 主机 | [酸酸乳使用方法](https://cangshui.net/1260.html) |
 | [小透明·宸](https://akarin.dev/index.html) | 0_0 | Y |
 | [王友元](http://www.moetuan.cn/) | 0_0 | Y |
 | [极客小站](https://gitcafe.ink/) | 网站待完善 | Y |
