@@ -47,7 +47,7 @@
             <li>《见识》--吴军</li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/认知突围[www.j9p.com].pdf">《认知突围》</a></li>
             <li>《管理百年》</li>
-            <li>《第二次机器革命》</li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/第二次机器革命（美）埃里克·布莱恩约弗森.pdf">《第二次机器革命》</a></li>
             <li>Biography
                 <ul>
                     <li>凯恩斯传</li>
