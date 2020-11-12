@@ -7,7 +7,7 @@ Librarys
             <li>经济学讲义（薛兆丰）</li>
             <li>财富的起源</li>
             <li>资本论</li>
-            <li>货币战争</li>
+            <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
             <li>政治经济学概论</li>
             <li>摩尔神话</li>
             <li>并购大师（杨大筠..）--时尚产业的资本游戏</li>
