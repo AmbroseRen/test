@@ -27,7 +27,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | keep | notes | X |
 | Checker Plus for Gmail™ | gmail | X |
 | VPN | [GFW](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E) - [GFW White List](https://github.com/R0uter/gfw_domain_whitelist) | X |
-| [Proxy SwitchyOmega](https://eliyar.biz/AutoProxy-By-Shadowsocks-and-SwitchyOmega/) | 自建SS & [SSR](https://cangshui.net/1260.html) | [费劲](https://github.com/shadowsocks/shadowsocks-windows/issues/1007) |
+| [Proxy SwitchyOmega](https://eliyar.biz/AutoProxy-By-Shadowsocks-and-SwitchyOmega/) | 自建SS & [SSR](https://cangshui.net/1260.html) - [VPS之搬瓦工搭建](https://www.jiongjun.cc/banwagong/15.html) | [费劲](https://github.com/shadowsocks/shadowsocks-windows/issues/1007) |
 | 谷歌访问助手 | 一代 | X |
 | Windscribe | 二代 | X |
 | ZenMate Free VPN | 二代 | X |
