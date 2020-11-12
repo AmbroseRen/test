@@ -135,7 +135,7 @@
                     <li>人名的名义</li>
                     <li>白夜追凶</li>
                     <li>我的前半生</li>
-                    <li><a href="https://www.luoxia.org/renjianshige/">《人间失格》</a>（太宰治）——灵魂自白</li>
+                    <li><a href="https://www.luoxia.org/renjianshige/">《人间失格》</a> - <a href="https://www.xyyuedu.com/wgmz/renjianshige/">副链</a>（太宰治）——灵魂自白</li>
                     <li>《白鹿原》--陈忠实--从历史命运看人性悲剧</li>
                     <li>《平凡的世界》--路遥--</li>
                     <li>《智慧之旅》</li>
