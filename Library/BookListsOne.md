@@ -45,7 +45,7 @@
             <li>《通向奴役之路》（弗里德曼1971）</li>
             <li>《自由及其背叛——人类自由的六个敌人》</li>
             <li>《见识》--吴军</li>
-            <li>《认知突围》</li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/认知突围[www.j9p.com].pdf">《认知突围》</a></li>
             <li>《管理百年》</li>
             <li>《第二次机器革命》</li>
             <li>Biography
