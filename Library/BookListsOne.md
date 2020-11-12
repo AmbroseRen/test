@@ -140,7 +140,7 @@
                     <li>《平凡的世界》--路遥--</li>
                     <li>《智慧之旅》</li>
                     <li>-------------------</li>
-                    <li>《娱乐至死》（尼尔·波兹曼）</li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/[美]尼尔路波兹曼：娱乐至死（广西师大.2004）.pdf">《娱乐至死》</a>（尼尔·波兹曼）</li>
                     <li>《被讨厌的勇气》（岸见一郎）</li>
                     <li>《拆掉思维里的墙》（古典）</li>
                     <li>《东京本屋》（吉井忍）</li>
