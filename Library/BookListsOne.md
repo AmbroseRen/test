@@ -12,7 +12,7 @@
 <ul class="tree">
     <li>Finance
         <ul>
-            <li><a href="https://www.fox2008.cn/Article/List/31272.html">经济学原理</a></li>
+            <li><a href="https://www.fox2008.cn/Article/List/31272.html">经济学原理</a>-<a href="https://www.fox2008.cn/">主站</a></li>
             <li>经济学讲义（薛兆丰）</li>
             <li><a href="http://www.tushu007.com/ISBN-9787309035568.pdf">经济学概论</a>-<a href="https://files.catbox.moe/ge6t0m.pdf">副本</a>-<a href="http://www.tushu007.com/">主站</a></li>
             <li>财富的起源</li>
