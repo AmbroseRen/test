@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [查询网](https://www.ip138.com/) | iP地址归属地查询 | [二查](http://www.linkwan.com/gb/broadmeter/VisitorInfo/QureyIP.asp) |
+| [查询网](https://www.ip138.com/) | iP地址归属地查询 | [二查](http://www.linkwan.com/gb/broadmeter/VisitorInfo/QureyIP.asp) - [Geo-IP 库](https://www.ipip.net/) |
 | [CloudXNS](http://tools.fastweb.com.cn/index.php/Index/Diag) | 本地IP+DNS查询 | Y |
 | [proxy-checker](https://proxy-checker.net/en/speed-test/) | 代理综合检测 | Y |
 | [在线代理测试工具](http://web.chacuo.net/netproxycheck/) | O_O | Y |
