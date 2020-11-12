@@ -18,7 +18,7 @@
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/%E8%B4%A2%E5%AF%8C%E7%9A%84%E8%B5%B7%E6%BA%90.pdf">财富的起源</a></li>
             <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a>-<a href="https://www.yiyiwenku.com/">依依文库-中国古典文学</a></li>
             <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
-            <li>政治经济学概论</li>
+            <li><a href="http://www.tushu007.com/ISBN-9787300145778.pdf">政治经济学概论</a></li>
             <li>摩尔神话</li>
             <li>并购大师（杨大筠..）--时尚产业的资本游戏</li>
             <li>融资（[美]安迪·樊__Andy Fan）</li>
