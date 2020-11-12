@@ -29,7 +29,7 @@
             <li>Psychology
                 <ul>
                     <li>心理学入门-格尔德·米策尔.mobi()</li>
-                    <li>√倾听术</li>
+                    <li>✔倾听术</li>
                     <li>fbi教你读心术</li>
                     <li>《人类误判心理学》</li>
                     <li>《对伪心理学说不》</li>
