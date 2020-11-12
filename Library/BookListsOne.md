@@ -49,6 +49,84 @@ Librarys
             </li>
         </ul>
     </li>
-    <li>History</li>
-    <li>人事部</li>
+    <li>History
+        <ul>
+            <li>中央情报局出版物《世界概况》</li>
+            <li>康奈尔大学图书馆出版物《All About Birds》</li>
+            <li>《Chambers Biographical Dictionary》</li>
+            <li>✔人类简史</li>
+             <li>权利与繁荣</li>
+             <li>大革命与现代文明</li>
+             <li>新教伦理与资本主义精神</li>
+             <li>不平等的童年</li>
+             <li>四百年未有之变局</li>
+        </ul>
+    </li>        
+    <li>Technology
+        <ul>
+            <li>Method
+                <ul>
+                    <li>[如何阅读一本书.（美）艾德勒，（美）范多伦.pdf](2020.08~2020.xx)</li>
+                    <li>[美]莫提默·J·艾德勒 查尔斯·范多伦()</li>
+                </ul>                      
+            <li>IT
+                <ul>
+                    <li>java编程思想——thinking in java;工具书</li>
+                    <li>《x86汇编语言》</li>
+                    <li>数据结构与C程序设计</li>
+                    <li>单片机原理与技术</li>
+                    <li>计算机网络原理</li>
+                    <li>高级语言汇编</li>
+                    <li>漏洞（齐向东）</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>Literature
+        <ul>
+            <li>Poem
+                <ul>
+                    <li>《茶花女》</li>
+                    <li>《呼啸山庄》</li>
+                    <li>《小王子》</li>
+                    <li>《斯通纳》</li>
+                    <li>《安娜·卡列尼娜》</li>
+                    <li>《悉达多》</li>
+                    <li>《傲慢与偏见》</li>
+                    <li>《失乐园》</li>
+                </ul>
+            </li>
+            <li>Prose
+                <ul>
+                    <li>《倾城之恋》</li>
+                    <li>《施华洛世奇的水晶世界》（王珍）</li>
+                </ul>
+            </li>
+            <li>Novel
+                <ul>
+                    <li>茨威格（奥地利）--人道主义思想（一种感情存在，对人本身的悲悯）
+                        <ul>
+                            <li>《一个陌生女人的来信》</li>
+                            <li>《一个女人的一生中的二十四个小时》</li>
+                            <li>《灼人的秘密》</li>
+                        </ul>
+                    </li>
+                    <li>哈姆莱特——莎士比亚</li>
+                    <li>悲惨世界——雨果</li>
+                    <li>------------------</li>
+                    <li>寻梦环偶记</li>
+                    <li>人名的名义</li>
+                    <li>白夜追凶</li>
+                    <li>我的前半生</li>
+                    <li>《人间失格》（太宰治）——灵魂自白</li>
+                    <li>《白鹿原》--陈忠实--从历史命运看人性悲剧</li>
+                    <li>《平凡的世界》--路遥--</li>
+                    <li>《智慧之旅》</li>
+                    <li>-------------------</li>
+                    <li>售前</li>
+                    <li>售前</li>
+                </ul>
+            </li>            
+        </ul>
+    </li>    
 </ul>
