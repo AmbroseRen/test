@@ -72,7 +72,7 @@
             <li>康奈尔大学图书馆出版物《All About Birds》</li>
             <li>《Chambers Biographical Dictionary》</li>
             <li>✔人类简史</li>
-             <li>权利与繁荣</li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/权力与繁荣(www.weibaiyue.com).pdf">权利与繁荣</a></li>
              <li>大革命与现代文明</li>
              <li>新教伦理与资本主义精神</li>
              <li>不平等的童年</li>
