@@ -12,7 +12,7 @@
 <ul class="tree">
     <li>Finance
         <ul>
-            <li><a href="#">经济学原理</a></li>
+            <li>经济学原理</li>
             <li>经济学讲义（薛兆丰）</li>
             <li>经济学概论</li>
             <li>财富的起源</li>
