@@ -4,15 +4,7 @@
 
 <div style="position：relative;float:left;width:50%;height:35px;"><a href="https://ambroseren.github.io/test/Library/BookLists.html">Table_BookLists</a></div>
 
-<div style="position：relative;float:left;width:33%;height:35px;">w3</div>
-
-<div style="position：relative;float:left;width:33%;height:35px;">w4</div>
-
-<div style="position：relative;float:left;width:33%;height:35px;">w5</div>
-
-<div style="position：relative;float:left;width:33%;height:35px;">w6</div>
-
-<div>w7</div>
+<div style="position：relative;float:right;width:50%;height:35px;">w3</div>
 
 </div>
 
