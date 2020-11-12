@@ -3,7 +3,7 @@ Librarys
 <ul class="tree">
     <li>Finance
         <ul>
-            <li><a href="http://www.w3school.com.cn">经济学原理</a></li>
+            <li><a href="#">经济学原理</a></li>
             <li>经济学讲义（薛兆丰） </li>
         </ul>
     </li>
