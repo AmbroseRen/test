@@ -26,7 +26,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | Similar sites | find similar websites | X |
 | keep | notes | X |
 | Checker Plus for Gmail™ | gmail | X |
-| VPN | - | X |
+| VPN | [GFW](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E) - [GFW White List](https://github.com/R0uter/gfw_domain_whitelist) | X |
 | [Proxy SwitchyOmega](https://eliyar.biz/AutoProxy-By-Shadowsocks-and-SwitchyOmega/) | 自建SS & [SSR](https://cangshui.net/1260.html) | [费劲](https://github.com/shadowsocks/shadowsocks-windows/issues/1007) |
 | 谷歌访问助手 | 一代 | X |
 | Windscribe | 二代 | X |
