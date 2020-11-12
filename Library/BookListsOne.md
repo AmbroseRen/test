@@ -2,7 +2,7 @@
 
 <div>
 
-<div style="position：relative;float:left;width:50%;height:35px;"><a href="https://github.com/AmbroseRen/test/edit/master/Library/BookLists.html">Table_BookLists</a></div>
+<div style="position：relative;float:left;width:50%;height:35px;"><a href="https://ambroseren.github.io/test/Library/BookLists.html">Table_BookLists</a></div>
 
 <div style="position：relative;float:left;width:50%;height:35px;">w3</div>
 
