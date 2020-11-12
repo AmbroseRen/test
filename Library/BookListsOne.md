@@ -12,11 +12,11 @@
 <ul class="tree">
     <li>Finance
         <ul>
-            <li><a href="https://www.fox2008.cn/Article/List/31272.html">经济学原理</a>-<a href="https://www.fox2008.cn/">主站</a></li>
+            <li><a href="https://www.fox2008.cn/Article/List/31272.html">经济学原理</a>-<a href="https://www.fox2008.cn/">中学生读书网-偏白话文</a></li>
             <li>经济学讲义（薛兆丰）</li>
-            <li><a href="http://www.tushu007.com/ISBN-9787309035568.pdf">经济学概论</a>-<a href="https://files.catbox.moe/ge6t0m.pdf">副本</a>-<a href="http://www.tushu007.com/">主站</a></li>
+            <li><a href="http://www.tushu007.com/ISBN-9787309035568.pdf">经济学概论</a>-<a href="https://files.catbox.moe/ge6t0m.pdf">副本</a>-<a href="http://www.tushu007.com/">第一图书网-专业书籍</a></li>
             <li>财富的起源</li>
-            <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a></li>
+            <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a>-<a href="https://www.yiyiwenku.com/">依依文库-中国古典文学</a></li>
             <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
             <li>政治经济学概论</li>
             <li>摩尔神话</li>
