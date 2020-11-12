@@ -17,7 +17,7 @@
 | [epdf](https://epdf.pub/en/) | en-pdf | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [雅书](https://yabook.org/) | cn-pdf | X | X | X |
-| [Internet Archive](https://archive.org/) | en-互联网档案馆 | X | X | X |
+| [Internet Archive](https://archive.org/) | en-互联网档案馆 | [网页永久存档](https://archive.is/) | X | X |
 | [书单网](https://www.shudan.vip/115040.html) | 搜索引擎 | X | X | X |
 | [微阅电子书](http://www.weibaiyue.com/xingye/yiyao/33070.html) | 搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
