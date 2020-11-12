@@ -14,7 +14,7 @@
         <ul>
             <li><a href="https://www.fox2008.cn/Article/List/31272.html">经济学原理</a></li>
             <li>经济学讲义（薛兆丰）</li>
-            <li>经济学概论</li>
+            <li><a href="http://www.tushu007.com/ISBN-9787309035568.pdf">经济学概论</a><a href="https://files.catbox.moe/ge6t0m.pdf">副本</a></li>
             <li>财富的起源</li>
             <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a></li>
             <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
