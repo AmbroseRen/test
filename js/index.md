@@ -4,4 +4,6 @@
 
 [WebGL](webGL/index.md)
 
+[Algolia Search Js](sag/index.md)
+
 [hammer.min.js](hammer.min.js)
