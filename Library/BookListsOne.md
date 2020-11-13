@@ -21,6 +21,7 @@
             <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a>-<a href="https://www.yiyiwenku.com/">依依文库-中国古典文学</a></li>
             <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
             <li><a href="http://www.tushu007.com/ISBN-9787300145778.pdf">政治经济学概论</a></li>
+            <li><a href="https://files.catbox.moe/fma2pw.pdf">我的第一本炒股书</a></li>
             <li>摩尔神话</li>
             <li>并购大师（杨大筠..）--时尚产业的资本游戏</li>
             <li>融资（[美]安迪·樊__Andy Fan）</li>
