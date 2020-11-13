@@ -175,7 +175,7 @@
                     <li>《人面桃花》（格菲）</li>
                     <li><a href="http://cscs.zuopinj.com/">村上春树作品集</a>——<a href="https://www.my2852.com/wgwx/zpj/cscs/index.htm">副链</a>
                         <ul>
-                            <li>《挪威的森林》</li>
+                            <li><a href="https://www.my2852.com/wgwx/zpj/cscs/nwd/index.htm">《挪威的森林》</a></li>
                         </ul>
                     </li>                        
                     <li><a href="http://dongyeguiwu.zuopinj.com/">东野圭吾作品集</a>
