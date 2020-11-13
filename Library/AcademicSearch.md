@@ -13,7 +13,7 @@
 | [CNKI](http://new.oversea.cnki.net/index/) | 中国知网 | X |
 | [考试资料网](https://www.ppkao.com/) | 搜题题库 | X |
 | [wolframalpha](https://www.wolframalpha.com/) | 计算辅助 | X |
-| []() | 25 | X |
+| [数学乐](https://www.shuxuele.com/sine-cosine-tangent.html) | 几何学 | [弧度](https://www.shuxuele.com/sine-cosine-tangent.html) |
 | []() | 25 | X |
 | []() | 25 | X |
 | []() | 25 | X |
