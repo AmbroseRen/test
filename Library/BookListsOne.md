@@ -93,7 +93,7 @@
              <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/大革命与现代文明_13083578.pdf">大革命与现代文明</a></li>
              <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/新教伦理与资本主义精神【马克思·韦伯】.pdf">新教伦理与资本主义精神</a></li>
              <li>不平等的童年</li>
-             <li>四百年未有之变局</li>
+             <li><a href="https://ambroseren.github.io/test/Library/BookSearch.html">四百年未有之变局</a></li>
         </ul>
     </li>        
     <li>Technology
