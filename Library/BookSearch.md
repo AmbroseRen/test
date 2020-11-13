@@ -10,6 +10,7 @@
 | [ePUBee](http://cn.epubee.com/books/?action=addbooks) | 综合搜索 | [四百年未有之变局](http://cn.epubee.com/files.aspx) | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
 | [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | X | X | X |
+| [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [微阅电子书](http://www.weibaiyue.com/xingye/yiyao/33070.html) | 搜索引擎 | X | X | X |
 | ~~[书单网](https://www.shudan.vip/115040.html)~~ | 搜索引擎 | X | X | X |
 | ~~[rukomos](http://cn-library.rukomos.ru/)~~ | 综合 | X | X | X |
