@@ -178,7 +178,7 @@
                             <li>《挪威的森林》</li>
                         </ul>
                     </li>                        
-                    <li>东野圭吾
+                    <li><a href="http://dongyeguiwu.zuopinj.com/">东野圭吾作品集</a>
                         <ul>
                             <li>《解忧杂货铺》</li>
                         </ul>
