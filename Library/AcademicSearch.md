@@ -4,6 +4,8 @@
 |:---:|:---:|:---:|
 | [万方数据](http://www.wanfangdata.com.cn/index.html) | 会议、学术论文 | Y |
 | [CNS](https://www.cns.org/Default.aspx) | 神经外科 | Y |
+| [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | X |
+| [arxiv.org](https://arxiv.org/) | 学术论文搜索 | X |
 | [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/) | 搜索引擎 | Y |
 | [大木虫学术导航](http://www.4243.net/) | 学术导航页 | Y |
 | [百度文库](https://wenku.baidu.com/) | 百度文库 | Y |
