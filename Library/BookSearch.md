@@ -32,6 +32,7 @@
 | Primer | 初级读本 | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
 | [manybooks](https://manybooks.net/) | en-故事+传记 | X | X | X |
+| [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
 | Other | 其他 | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [苦瓜书盘](http://kgbook.com/) | 团队维护 | X | X | X |
