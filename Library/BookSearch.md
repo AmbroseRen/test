@@ -11,7 +11,7 @@
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
 | [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | X | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
-| [微阅电子书](http://www.weibaiyue.com) | 搜索引擎 | [《人体的故事：进化、健康与疾病》](http://www.weibaiyue.com/xingye/yiyao/33070.html) | X | X |
+| [微阅电子书](http://www.weibaiyue.com) | 搜索引擎 | [《人体的故事：进化、健康与疾病》](http://www.duokan.com/reader/www/app.html?id=14675bb3a5224e0f8b9a10b191c19cc9) | X | X |
 | ~~[书单网](https://www.shudan.vip/115040.html)~~ | 搜索引擎 | X | X | X |
 | ~~[rukomos](http://cn-library.rukomos.ru/)~~ | 综合 | X | X | X |
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
