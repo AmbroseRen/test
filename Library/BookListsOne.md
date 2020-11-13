@@ -221,11 +221,11 @@
                 <ul>
                     <li><a href="https://www.thn21.com/Article/chang/">华语网·现代文·经典名著·目录</a></li>
                     <li>中外名著榜中榜——光明日报</li>
-                    <li>海底两万里——儒勒·凡尔纳</li>
-                    <li>八十八天环游地球记</li>
-                    <li>格兰特船长的女儿</li>
-                    <li>神秘岛</li>
-                    <li>福尔摩斯探案集</li>
+                    <li><a href="http://www.dushu369.com/waiguomingzhu/hdlwl/">海底两万里——儒勒·凡尔纳</a>-<a href="http://www.dushu369.com/">主站</a></li>
+                    <li><a href="https://www.99csw.com/book/1033/index.htm">八十八天环游地球记</a></li>
+                    <li><a href="http://www.dushu369.com/tonghua/gltczdne/">格兰特船长的女儿</a></li>
+                    <li><a href="http://www.dushu369.com/tonghua/shenmidao/">神秘岛</a></li>
+                    <li><a href="http://www.dushu369.com/waiguomingzhu/fuermosi/">福尔摩斯探案集</a></li>
                     <li><a href="https://www.thn21.com/Article/chang/19388.html">伊索寓言</a></li>
                     <li><a href="https://www.thn21.com/Article/chang/19240.html">格林童话</a></li>
                     <li><a href="https://www.thn21.com/Article/chang/6224.html">安徒生童话</a></li>
