@@ -34,6 +34,7 @@
 | [manybooks](https://manybooks.net/) | 故事+传记 | X | X | X |
 | Other | 其他 | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
+| [苦瓜书盘](http://kgbook.com/) | 团队维护 | X | X | X |
 | [pdfdrive](https://www.pdfdrive.com/) | en-pdf | X | X | X |
 | [epdf](https://epdf.pub/en/) | en-pdf | X | X | X |
 | [雅书](https://yabook.org/) | cn-pdf | X | X | X |
