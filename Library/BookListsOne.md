@@ -41,7 +41,7 @@
         <ul>
             <li>Psychology
                 <ul>
-                    <li>心理学入门-格尔德·米策尔.mobi()</li>
+                    <li><a href="http://cn.epubee.com/files.aspx">心理学入门-格尔德·米策尔.mobi</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/Psychology/Forty-Studies-that-Changed-Psychology.pdf">Forty-Studies-that-Changed-Psychology(改变心理学的四十项研究)</a></li>
                     <li>✔倾听术</li>
                     <li>fbi教你读心术</li>
