@@ -183,7 +183,7 @@
                             <li>《解忧杂货铺》</li>
                         </ul>
                     </li>                        
-                    <li>芥川龙之介</li>
+                    <li><a href="https://www.kanunu8.com/files/writer/7470.html">芥川龙之介作品集</a></li>
                 </ul>
             </li>
             <li>Science
