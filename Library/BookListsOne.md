@@ -210,7 +210,7 @@
                             <li>《死神永生》</li>
                         </ul>
                     </li>                        
-                    <li>《星际浪子》——黄易</li>
+                    <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品</a></li>
                     <li>《超级战士》</li>
                     <li>《时空浪族》</li>
                     <li>《神龙》</li>
