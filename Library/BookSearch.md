@@ -7,6 +7,7 @@
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
 | [ePUBee](http://cn.epubee.com/books/?action=addbooks) | 综合搜索 | [四百年未有之变局](http://cn.epubee.com/files.aspx) | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
+| [Library Genesis](http://gen.lib.rus.ec/) | 搜索引擎 | X | X | X |
 | [微阅电子书](http://www.weibaiyue.com/xingye/yiyao/33070.html) | 搜索引擎 | X | X | X |
 | ~~[书单网](https://www.shudan.vip/115040.html)~~ | 搜索引擎 | X | X | X |
 | ~~[rukomos](http://cn-library.rukomos.ru/)~~ | 综合 | X | X | X |
@@ -14,6 +15,7 @@
 | literature | 文学 | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | Y | X | X |
 | [掌上书苑](https://www.soepub.com/) | 现代文学 | X | X | X |
+| [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
 | [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | X | X | X |
