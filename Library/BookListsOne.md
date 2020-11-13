@@ -55,7 +55,7 @@
                     <li>刺激消费、城镇化品牌、养老制度、生活姿态、从负数开始奋斗————内容摘要</li>
                 </ul>
             </li>
-            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/mobi贫穷的本质.pdf">贫穷的本质</a></li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/贫穷的本质我们为什么摆脱不了贫穷9394088.pdf">贫穷的本质</a></li>
             <li><a href="https://files.catbox.moe/htbtai.pdf">《资本与意识形态》</a>托马斯·皮凯蒂 - <a href="https://zh.b-ok.org/book/5364825/701ff4">epub下载</a>
                 <ul>
                     <li>中文版的被禁……</li>
