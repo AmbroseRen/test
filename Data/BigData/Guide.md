@@ -18,3 +18,9 @@
 				NLP(自然语言处理)
 
 [Link Mining: A New Data Mining Challenge](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.1976&rep=rep1&type=pdf)
+
+[Towards Photography Through Realistic Fog](https://web.media.mit.edu/~guysatat/fog/materials/TowardsPhotographyThroughRealisticFog.pdf)
+
+[]()
+
+[]()
