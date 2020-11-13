@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
-| [rukomos](http://cn-library.rukomos.ru/) | 综合 | X | X | X |
+| ~~[rukomos](http://cn-library.rukomos.ru/)~~ | 综合 | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | Y | X | X |
 | [图灵社区](https://www.ituring.com.cn/book?tab=free) | IT图书 | X | X | X |
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
