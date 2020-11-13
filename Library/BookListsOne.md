@@ -162,7 +162,7 @@
                     <li><a href="https://www.luoxia.org/renjianshige/">《人间失格》</a> - <a href="https://www.xyyuedu.com/wgmz/renjianshige/">副链</a>（太宰治）——灵魂自白</li>
                     <li>《白鹿原》--陈忠实--从历史命运看人性悲剧</li>
                     <li>《平凡的世界》--路遥--</li>
-                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/智慧之旅.txt">《智慧之旅》</a></li>
+                    <li><a href="https://files.catbox.moe/auj9nl.txt">《智慧之旅》</a></li>
                     <li>-------------------</li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/[美]尼尔路波兹曼：娱乐至死（广西师大.2004）.pdf">《娱乐至死》</a>（尼尔·波兹曼）</li>
                     <li>《被讨厌的勇气》（岸见一郎）</li>
