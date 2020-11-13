@@ -7,7 +7,7 @@
 | BookSearch | 搜索引擎 | X | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
-| [ePUBee](http://cn.epubee.com/books/?action=addbooks) | 综合搜索 | [四百年未有之变局](http://cn.epubee.com/files.aspx) | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
+| [ePUBee](http://cn.epubee.com/books/?action=addbooks) | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [微阅电子书](http://www.weibaiyue.com) | 搜索引擎 | [《人体的故事：进化、健康与疾病》](http://www.duokan.com/reader/www/app.html?id=14675bb3a5224e0f8b9a10b191c19cc9)-[下载](https://www.ebookcn.com/book/resource/257067) | X | X |
