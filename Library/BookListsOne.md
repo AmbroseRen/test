@@ -100,7 +100,7 @@
         <ul>
             <li>Method
                 <ul>
-                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Technology/Method/如何阅读一本书.pdf">[如何阅读一本书</a>.（美）艾德勒，（美）范多伦.pdf](2020.08~2020.xx)</li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Technology/Method/如何阅读一本书.pdf">[如何阅读一本书]</a>·（美）艾德勒，（美）范多伦.pdf(2020.08~2020.xx)</li>
                     <li><a href="https://files.catbox.moe/fy8yeq.pdf">实用性阅读指南</a></li>
                 </ul>
             </li>
