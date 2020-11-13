@@ -219,16 +219,17 @@
             </li>
             <li>Primer
                 <ul>
+                    <li><a href="https://www.thn21.com/Article/chang/">华语网·现代文·经典名著·目录</a></li>
                     <li>中外名著榜中榜——光明日报</li>
                     <li>海底两万里——儒勒·凡尔纳</li>
                     <li>八十八天环游地球记</li>
                     <li>格兰特船长的女儿</li>
                     <li>神秘岛</li>
                     <li>福尔摩斯探案集</li>
-                    <li>伊索寓言</li>
-                    <li>格林童话</li>
-                    <li>安徒生童话</li>
-                    <li>格列佛游记</li>
+                    <li><a href="https://www.thn21.com/Article/chang/19388.html">伊索寓言</a></li>
+                    <li><a href="https://www.thn21.com/Article/chang/19240.html">格林童话</a></li>
+                    <li><a href="https://www.thn21.com/Article/chang/6224.html">安徒生童话</a></li>
+                    <li><a href="http://www.dushu369.com/waiguomingzhu/glfyj/">格列佛游记</a></li>
                 </ul>
             </li>                
         </ul>
