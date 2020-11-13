@@ -173,7 +173,7 @@
                     <li>《巨流河》</li>
                     <li>《房思琪的初恋乐园》（林奕含）</li>
                     <li>《人面桃花》（格菲）</li>
-                    <li>村上春树
+                    <li><a href="http://cscs.zuopinj.com/">村上春树作品集</a>——<a href="https://www.my2852.com/wgwx/zpj/cscs/index.htm">副链</a>
                         <ul>
                             <li>《挪威的森林》</li>
                         </ul>
