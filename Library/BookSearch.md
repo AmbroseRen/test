@@ -30,7 +30,7 @@
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
 | Animes | 动漫书籍 | X | X | X |
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
-| Primer | 初级读本 | X | X | X |
+| Primer | 初级读本 | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
 | [manybooks](https://manybooks.net/) | en-故事+传记 | X | X | X |
 | Other | 其他 | X | X | X |
