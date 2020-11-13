@@ -29,6 +29,7 @@
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
 | Primer | 初级读本 | X | X | X |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
+| [manybooks](https://manybooks.net/) | 故事+传记 | X | X | X |
 | Other | 其他 | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [pdfdrive](https://www.pdfdrive.com/) | en-pdf | X | X | X |
