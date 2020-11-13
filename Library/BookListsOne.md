@@ -192,6 +192,7 @@
             </li>
             <li>Science
                 <ul>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/宇宙指南.pdf">宇宙指南</a></li>
                     <li>《科幻世界》2018年 第12期</li>
                     <li>不合时宜的本能【钟推移】</li>
                     <li>重力矿场【史蒂芬·巴克斯特】</li>
