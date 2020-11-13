@@ -203,7 +203,7 @@
                             <li>《想象中的世界》</li>
                         </ul>
                     </li>                        
-                    <li>刘慈欣
+                    <li><a href="http://liucixin.zuopinj.com/">刘慈欣作品集</a>
                         <ul>
                             <li>《三体》</li>
                             <li>《黑暗森林》</li>
