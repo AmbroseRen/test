@@ -49,9 +49,9 @@
 
 ## 友链
 
-[readfree](http://einverne.github.io/post/2018/02/free-online-books.html)
+[readfree](http://einverne.github.io/post/2018/02/free-online-books.html)已采用
 
-[SaltyLoe](https://tstrs.me/1475.html)
+[SaltyLoe](https://tstrs.me/1475.html)已采用
 
 []()
 
