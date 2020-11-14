@@ -8,7 +8,7 @@
 | [Oracle](Oracle/index.md) | [MySQL](MySQL/index.md) | Y |  |  |
 | [BigData](BigData/index.md) | [Python](Python/index.md) | Y |  |  |
 | [神学](神学/index.md) | 26 | Y |  |  |
-| [Safe SoftWare](Safe/index.md) | 26 | Y |  |  |
+| [Safe SoftWare](Safe/index.md) | [Hacker](Hacker/index.md) | Y |  |  |
 | []() | 26 | Y |  |  |
 | lucy | 25 | X |  |  |
 
