@@ -19,6 +19,22 @@
 | [WebGL](http://www.spielzeugz.de/lab/) | O_O | [Home](http://www.spielzeugz.de/) - [js particle](http://www.spielzeugz.de/html5/liquid-particles-3D/) |
 | [CG](http://weavesilk.com/) | 对称图形动画 | Y |
 | [信任的进化](https://dccxi.com/trust/) | O_O | Y |
+| [吃饭](http://chishenme.huangyafei.com/) | O_O | Y |
+| [bestgames](https://www.bestgames.com/) | games | Y |
+| [moving](http://synesthesiagame.com/game/) | games | Y |
+| [plane](https://starblast.io/#1824) | shoot | Y |
+| [松鼠](http://www.omglasergunspewpewpew.com/og/) | shoot | Y |
+| [推箱子](http://gameaboutsquares.com/) | O_O | Y |
+| [跳一跳](https://pie.ai/) | O_O | Y |
+| [peace](https://rainyscope.com/) | voice | Y |
+| [rainy](https://www.rainymood.com/) | voice | Y |
+| [ocean](https://virtocean.com/) | voice | Y |
+| []() | O_O | Y |
+| [World Map](https://localingual.com/) | map | Y |
+| [Data Map](https://2050.earth/) | map | Y |
+| [屏保](http://zoomquilt.org/) | O_O | Y |
+| [painting](https://skribbl.io/) | 你画我猜 | Y |
+| [球球大作战](http://spinz.io/) | gamnes | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
