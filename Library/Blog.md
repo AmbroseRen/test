@@ -24,7 +24,7 @@
 | []() | 0_0 | Y |
 | Life | 生活 | Y |
 | [阮一峰](http://www.ruanyifeng.com/home.html) | 完善独立人格 | [子站](http://www.ruanyifeng.com/calvino/) - [网络文凭，你要不要](http://www.ruanyifeng.com/blog/2016/10/online_education.html) |
-| [晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) | web - Tools | [主页](https://aboutme.lovejade.cn/) - [子站](https://blog.lovejade.cn/) - [东亚教育浪费了太多生命](https://blog.lovejade.cn/2016/10/12/the-East_Asia_Education-wasted-too-much-life.html) - [知乎摘文](https://www.zhihu.com/people/yang-qiong-pu)- [外链](https://www.jeffjade.com/Links/?utm_source=ld246.com#%E7%8E%87%E6%80%A7%E6%8E%A8%E8%8D%90%EF%BC%9A) |
+| __[晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)__ | web - Tools | [主页](https://aboutme.lovejade.cn/) - [子站](https://blog.lovejade.cn/) - [东亚教育浪费了太多生命](https://blog.lovejade.cn/2016/10/12/the-East_Asia_Education-wasted-too-much-life.html) - [知乎摘文](https://www.zhihu.com/people/yang-qiong-pu)- [外链](https://www.jeffjade.com/Links/?utm_source=ld246.com#%E7%8E%87%E6%80%A7%E6%8E%A8%E8%8D%90%EF%BC%9A) |
 | [罗宾](https://dbarobin.com/tags/#RSS) | 币圈 | Y |
 | [大D](https://88250.b3log.org/) | b3log | Y |
 | [王丹](https://danwang.co/) | en | Y |
