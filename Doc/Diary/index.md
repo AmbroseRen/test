@@ -2,6 +2,8 @@
 
 [notes](notes.md)
 
+[gather](gather.md)
+
 [BlinkFox](BlinkFox.md)
 
 [luokangyuan](luokangyuan.md)
