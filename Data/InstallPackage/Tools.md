@@ -32,7 +32,7 @@
 | [wireshark](https://www.wireshark.org/download.html) | 前端请求抓包工具 | Y |
 | [hipc](https://hipc.cn/) | 手机端远程控制电脑 | Y |
 | [riot](https://riot.im/download/desktop/) | message | Y |
-| [steam](https://store.steampowered.com/about/) | 游戏软件平台 | [fences] - [桌面管理工具](https://item.taobao.com/item.htm?id=591962221476) |
+| [steam](https://store.steampowered.com/about/) | 游戏软件平台 | [fences] - [桌面管理工具](https://item.taobao.com/item.htm?id=591962221476) - [steam每日特惠](https://www.newyx.net/news/steammrth/) |
 | [有道词典](https://cidian.youdao.com/index.html) | 翻译 | Y |
 | [驱动精灵](http://www.drivergenius.com/) | 驱动修复工具 | Y |
 | [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
