@@ -65,14 +65,14 @@
 | [vcjmhg](https://www.vcjmhg.top/) | 0_0 | Y |
 | [iosdevlog](https://2020.iosdevlog.com/) | 0_0 | Y |
 | [BNDong](https://blog.dbnuo.com/) | 0_0 | Y |
-| [罗康源](http://luokangyuan.com/) | 0_0 | Y |
+| [罗康源](http://luokangyuan.com/) | Java | Y |
 | [Thorsten Hans](https://thorsten-hans.com/) | MS Azure&k8s | Y |
-| [BYA](http://bya.cool/) | M-Python | [《学习之道》 读书笔记](http://bya.cool/2019/08/29/Booknote-The-Art-of-Learning/)  |
+| [M-BYA](http://bya.cool/) | Python | [《学习之道》 读书笔记](http://bya.cool/2019/08/29/Booknote-The-Art-of-Learning/)  |
 | [geeksforgeeks](https://www.geeksforgeeks.org/) | 综合导航 | Y |
 | [Jiale Han](https://zqhjl.github.io/) | web - null | Y |
 | [phodal](https://www.phodal.com/blog/) | loT | Y |
 | [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | Y |
-| [赵云龙](https://zyl.me/blog) | D-web-Andriod | [主页](https://zyl.me/) |
+| [D-赵云龙](https://zyl.me/blog) | web-Andriod | [主页](https://zyl.me/) |
 | ~~[郭](https://gary5496.github.io/)~~ | web | [Windows+github+hexo](https://gary5496.github.io/2018/03/hexo-github-setup/) |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
