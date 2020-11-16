@@ -10,6 +10,8 @@
 |:---:|:---:|:---:|
 | [有趣网址之家](https://youquhome.com/) | 收藏全球最有趣的网站 | [2016](https://youquhome.com/3769/) |
 | [aim400kg](https://aim400kg.com/) | O_O | Y |
+| [有趣网站2013](https://www.douban.com/group/topic/10801023/) | O_O | Y |
+| [有趣网站2017](http://www.360doc.com/content/17/0904/13/46268721_684519022.shtml) | O_O | Y |
 | Games | 游戏盒子 | Y |
 | [主页-副本](https://christmasexperiments.com/) | web-games | [onion Moving](https://christmasexperiments.com/2017/07/locomotion/) |
 | [bestgames](https://www.bestgames.com/) | games | Y |
@@ -20,18 +22,25 @@
 | [跳一跳](https://pie.ai/) | O_O | Y |
 | [球球大作战](http://spinz.io/) | gamnes | Y |
 | [shoots](http://spray.training/) | 靶场 | Y |
+| [kickassapp](https://kickassapp.com/) | 图形插件 | Y |
+| [nazo game](https://nazo.one-story.cn/) | 猜谜过关 | Y |
 | CG | 图形实例 | Y |
 | [Animes](http://species-in-pieces.com/#) | CG 30Anime | Y |
 | [WebGL](http://www.spielzeugz.de/lab/) | O_O | [Home](http://www.spielzeugz.de/) - [js particle](http://www.spielzeugz.de/html5/liquid-particles-3D/) |
+| [WebGL](http://www.vill.ee/eye/) | eyes demo | Y |
 | [CG](http://weavesilk.com/) | 对称图形动画 | Y |
 | [ertdfgcvb](https://ertdfgcvb.xyz/) | js anime | Y |
 | img | O_O | Y |
 | [World Map](https://localingual.com/) | map | Y |
 | [Data Map](https://2050.earth/) | map | Y |
 | [屏保](http://zoomquilt.org/) | O_O | Y |
+| [屏保](https://fakeupdate.net/) | O_O | Y |
+| [鬼畜弹幕](http://girigiri.love/) | O_O | Y |
 | [painting](https://skribbl.io/) | 你画我猜 | Y |
 | [Dog img](https://random.dog/) | dog Pic(refresh) | Y |
+| [happy](https://happyhappyhardcore.com/) | 笑脸图标雨 | Y |
 | [nodtotherhythm](http://nodtotherhythm.com/make) | pic moving | Y |
+| ~~[adornpic](http://adornpic.com/)~~ | O_O | Y |
 | voice | 声音 | Y |
 | [peace](https://rainyscope.com/) | voice | Y |
 | [rainy](https://www.rainymood.com/) | voice | Y |
@@ -39,8 +48,6 @@
 | Other | 其他 | Y |
 | [信任的进化](https://dccxi.com/trust/) | O_O | Y |
 | [吃饭](http://chishenme.huangyafei.com/) | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
