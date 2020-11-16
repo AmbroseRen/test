@@ -260,7 +260,32 @@
 
 HTML兼容测试
 
-  <font size=8>我是放大字</font>
+<div><font size=8>我是放大字</font></div>
+
+<div>
+	<P>这是分段</P>
+	<b>这是粗体</b>
+	<br/>
+	<big>这是大号字</big>
+	<br/>
+	<em>这是着重字</em>
+	<br/>
+	<i>这是斜体字</i>
+	<br/>
+	<small>这是小号字</small>
+	<br/>
+	<strong>加重语气</strong>
+	<br/>
+	这是<sup>上标字</sup>
+	<br/>
+	这是<sub>下标字</sub>
+	<br/>
+	<ins>插入字</ins>
+	<br/>
+	<del>删除字</del>
+	<br/>
+</div>
+
 
 视频引用
 
