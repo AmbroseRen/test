@@ -9,8 +9,15 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [有趣网址之家](https://youquhome.com/) | 收藏全球最有趣的网站 | [2016](https://youquhome.com/3769/) |
-| []() | O_O | Y |
-| []() | O_O | Y |
+| [aim400kg](https://aim400kg.com/) | O_O | Y |
+| [主页-副本](https://christmasexperiments.com/) | web-games | [onion Moving](https://christmasexperiments.com/2017/07/locomotion/) |
+| [Dog img](https://random.dog/) | dog Pic(refresh) | Y |
+| [ertdfgcvb](https://ertdfgcvb.xyz/) | js anime | Y |
+| [shoots](http://spray.training/) | 靶场 | Y |
+| [nodtotherhythm](http://nodtotherhythm.com/make) | pic moving | Y |
+| [Animes](http://species-in-pieces.com/#) | CG 30Anime | Y |
+| [WebGL](http://www.spielzeugz.de/lab/) | O_O | [Home](http://www.spielzeugz.de/) - [js particle](http://www.spielzeugz.de/html5/liquid-particles-3D/) |
+| [CG](http://weavesilk.com/) | 对称图形动画 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
