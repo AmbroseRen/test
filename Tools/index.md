@@ -13,6 +13,7 @@
 | [换算工具](https://www.osgeo.cn/list/gconvert/3?tag=) | O_O | Y |
 | [文件扩展名搜索](https://www.filesuffix.com/zh/extension/qbl) | O_O | Y |
 | [铃声制作](https://ringer.org/zh/) | O_O | Y |
+| [汉字笔画查询](https://bihua.51240.com/e7868f__bihuachaxun/) | O_O | Y |
 | []() | O_O | Y |
 | 原型图 | UML | Y |
 | [Axure RP 9](https://www.axure.com.cn/axure/course/) | 产品原型工具 | [教程一](http://www.iaxure.com/category/axurerp9%E6%95%99%E7%A8%8B) |
