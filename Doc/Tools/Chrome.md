@@ -65,11 +65,19 @@ stylus
 
 >> 
 
->github
+> github
 >> https://userstyles.org/styles/126131/github-dark-wide-transparent
 
 >> https://userstyles.org/styles/120866/github-dark-blues-wide
 
 >> https://userstyles.org/styles/168511/github-ice-dark-updated
+
+>> 
+
+> baidu
+
+>> https://userstyles.org/styles/186353/baidu
+
+>> https://userstyles.org/styles/185164/theme
 
 >> 
