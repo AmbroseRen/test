@@ -1,4 +1,4 @@
-# My Game Lists  [←](index.md)
+# My Game Lists  [←](../index.md)
 
 ## Game Online
 
