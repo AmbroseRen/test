@@ -1,4 +1,4 @@
-#  Windows shortcut key  [←](index.md)
+#  [Windows shortcut key](https://zhidao.baidu.com/question/2202757967951618348.html)  [←](index.md)
 
 Win键bai 可在开始屏幕主菜单及最后一个应用程序间循du环切换
 
