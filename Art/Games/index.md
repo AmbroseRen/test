@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | Y |
+| [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | [新游戏放号](https://igame.qq.com/games/grantaccount.php) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
