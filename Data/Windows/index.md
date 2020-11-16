@@ -1,6 +1,6 @@
 # Windows Lists [←](../index.md)
 
-[shortcut](shortchut.md)
+[shortcut](Data/Windows/shortchut.md)
 
 [DOS](DOS/index.md)
 
