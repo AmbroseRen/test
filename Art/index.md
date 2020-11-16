@@ -2,6 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| [Stream - 直播](Stream/index.md) | O_O | Y |
 | [Games - 游戏](Games/index.md) | O_O | [My_Games_Lists](Games/MyGameLists.md) |
 | [Movies - 电影](Movies/index.md) | O_O | [MyTVDataLists - 我的播放列表](Movies/MyTVDataLists.md) |
 | [Music - 音乐](Music/index.md) | O_O | Y |
