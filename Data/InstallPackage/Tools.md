@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [主站](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/) | O_O | [OtherLists](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn/china-apps) |
+| [主站](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/) | 精品软件推荐 | [OtherLists](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn/china-apps) |
 | Windows | 微软操作系统 | [VS C++组件](https://www.microsoft.com/en-us/download/details.aspx?id=48145) - [微软鼠标键盘驱动](https://support.microsoft.com/zh-cn/surface/%E9%BC%A0%E6%A0%87%E5%92%8C%E9%94%AE%E7%9B%98%E4%B8%AD%E5%BF%83%E4%B8%8B%E8%BD%BD-f5b10905-7887-eedb-2f1c-d0737a36a3b2) |
 | [windows7纯净版](http://www.windows7en.com/) | O_O | [windows7_64_ios](http://www.windows7en.com/Special/Win7ywb//34680.html) - ([win2008 r2简体中文版 32位/64位](http://www.xpgod.com/soft/22573.html) - [Windows Server 2008 R2激活](http://www.windows7en.com/Windows8/39868.html)) - [相关版本](http://www.xitongzhijia.net/cjbwin7/) |
 | Windows_Commander_Shell | windows cmd增强工具 | [Total Commander](https://www.ghisler.com/) - [cmder](https://cmder.net/) - [power shell](https://docs.microsoft.com/en-us/powershell/#pivot=main&panel=getstarted) |
