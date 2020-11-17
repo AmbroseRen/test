@@ -15,6 +15,7 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Finance | 0_0 | Y |
+| [市场经济](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E) | 0_0 | [经济自由度指数](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E8%87%AA%E7%94%B1%E5%BA%A6%E6%8C%87%E6%95%B0) |
 | [You are not a lottery ticket](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/6.md) | 成功、运气与能力 | [Follow the money](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/7.md) - [Secrets](https://github.com/AmbroseRen/stanford-cs183-notes/blob/master/docs/a/8.md) explore to moer |
 | [如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/blob/master/README.md) | 零和博弈、正和博弈、自由 | Y |
 | []() | 0_0 | Y |
