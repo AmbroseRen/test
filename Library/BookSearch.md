@@ -25,7 +25,7 @@
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | IT | 技术 | X | X | X |
-| [图灵社区](https://www.ituring.com.cn/book?tab=free) | IT图书 | X | X | X |
+| [图灵社区](https://www.ituring.com.cn/book?tab=free) | IT图书 | [ARM嵌入式Linux系统开发详解](https://www.ituring.com.cn/book/1518) | X | X |
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
 | Animes | 动漫书籍 | X | X | X |
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
