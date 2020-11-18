@@ -2,7 +2,7 @@
 
 ## 自建JS库[Documents](Doc/index.md)
 
-| [cdnjs库](https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/rxjs/2.1.10/rx.js) | _ | _ |
+| [cdnjs库](https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/rxjs/2.1.10/rx.js) - [搜索js](https://cdnjs.com/) | _ | _ |
 |:---:|:---:|:---:|
 | [WebGL](webGL/index.md) | [Algolia Search Js](sag/index.md) | [hammer.min.js](hammer.min.js) |
 | []() | []() | []() |
