@@ -2,6 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| [guru99](https://www.guru99.com/) | 综合教程 | [groovy](https://www.guru99.com/groovy-tutorial.html) |
 | [w3school](https://www.w3school.com.cn/) | O_O | [在线拾色器](https://www.w3cschool.cn/tools/index?name=cpicker) |
 | [菜鸟教程](https://www.runoob.com/) | O_O | Y |
 | [axios](http://www.axios-js.com/zh-cn/docs/) | O_O | Y |
