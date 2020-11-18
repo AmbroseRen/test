@@ -3,6 +3,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [通用架构框架](framework.md) | O_O | Y |
+| [WebGL](WebGL/index.md) | CG | Y |
 | [Server](Server.md) | 前端脚手架 | Y |
 | [Builddings](Builddings.md) | 托管编译站 | Y |
 | [ElasticSearch](ElasticSearch.md) | 搜索方案 | Y |
