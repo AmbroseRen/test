@@ -8,5 +8,7 @@
 | [Chat](Chat.md) | 通讯方案 | Y |
 | [ActiveMQ](ActiveMQ.md) | 消息中间件 | Y |
 | [通用架构框架](framework.md) | O_O | Y |
+| [SoftWare](SoftWare.md) | 前端软件 | Y |
+| []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
