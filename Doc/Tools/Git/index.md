@@ -1,15 +1,10 @@
 # Git Plugins Lists  [←](../index.md)
 
-[Git](Git.txt)
+| _ | _ | _ |
+|:---:|:---:|:---:|
+| [Git](Git.txt) | [GitFAQ](GitOne.txt) | [Some Git Plugins](SomeGit.md) |
+| []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+| lucy | 25 | X |
 
-[GitFAQ](GitOne.txt)
-
-[Some Git Plugins](SomeGit.md)
-
-[]()
-
-[]()
-
-[]()
-
-[]()
