@@ -2,7 +2,7 @@
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [Three.js 入门指南.pdf](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/WebGL/Three.js 入门指南.pdf) | []() | []() |
+| [Three.js 入门指南](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/WebGL/Three.js 入门指南.pdf) | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
