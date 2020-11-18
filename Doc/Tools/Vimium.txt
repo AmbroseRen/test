@@ -1,10 +1,12 @@
 # Vimium插件配置
 自定义快捷键：
-#insert your preferred key mappings here.
-map w scrollUp
-map s scrollDown
-map a scrollPageUp
-map d scrollPageDown
+#insert your preferred key mappings here.
+map w scrollUp
+map s scrollDown
+map q scrollLeft
+map e scrollRight
+map a scrollPageUp
+map d scrollPageDown
 
 ======参考=====
 #上下左右
