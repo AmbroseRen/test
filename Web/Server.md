@@ -9,4 +9,6 @@
 | [go](#) | go语言 | [go语法库](https://gobyexample.com/) - [下载](https://golang.org/dl/) |
 | []() | O_O | []() |
 | []() | O_O | []() |
+| []() | O_O | []() |
+| [brew](https://brew.sh/) | Linux包管理器 | []() |
 | lucy | 25 | X |
