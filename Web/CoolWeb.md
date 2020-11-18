@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [浏览器 H5解析测试](http://html5test.com/) | O_O | Y |
-| []() | O_O | Y |
+| [fundebug](https://www.fundebug.com/) | 框架运行应用监控？ | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
