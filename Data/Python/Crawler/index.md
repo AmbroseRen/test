@@ -7,7 +7,7 @@
 | []() | []() | []() |
 | lucy | 25 | X |
 
-# urllib库
+# urllib - cookie库
 ```
 pip install urllib3
 ```
