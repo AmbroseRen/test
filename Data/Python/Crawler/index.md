@@ -6,3 +6,10 @@
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
+
+# urllib库
+```
+pip install urllib3
+```
+
+> [主页](https://docs.python.org/zh-cn/3.8/library/) - [文档·一](https://docs.python.org/zh-cn/3.8/library/urllib.request.html#module-urllib.request)
