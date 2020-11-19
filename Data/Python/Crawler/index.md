@@ -2,7 +2,7 @@
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| []() | [cookie.py.txt](cookie.py.txt) | []() |
+| []() | [cookie.py](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/Crawler/cookie.py) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
