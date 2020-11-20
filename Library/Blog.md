@@ -11,6 +11,7 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Art | 艺术 | Y |
+| [马光](https://www.maguang.net/) | 中外历史站 | [友链](https://www.maguang.net/link) |
 | [ZHENG Zi'ou](https://orianna-zzo.github.io/) | 音乐剧 - (Docker + hugo + github) | Y |
 | [张雯莉](http://zhangwenli.com/blog/) | 0_0 | Y |
 | []() | 0_0 | Y |
