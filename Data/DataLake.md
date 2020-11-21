@@ -2,6 +2,7 @@
 
 | Provider | Description | Abstract |
 |:---:|:---:|:---:|
+| [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/license=apache-license-2-0) | 云原生体系景观图 | X |
 | Amazon | AWS | Y |
 | [amazon.com](https://www.amazon.com/) |  | X |
 | [amazon.cn](https://www.amazon.cn/) |  | X |
