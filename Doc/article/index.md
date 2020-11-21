@@ -1,5 +1,12 @@
 # Article File [←](../index.md)
 
-[AttibuteOfTranslation](AttitudeOfTranslation.md)
+| _ | _ | _ |
+|:---:|:---:|:---:|
+| [AttibuteOfTranslation](AttitudeOfTranslation.md) | [ILikeStart](ILikeStart.md) | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+| lucy | 25 | X |
 
-[ILikeStart](ILikeStart.md)
+
+
+
