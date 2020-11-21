@@ -1,9 +1,10 @@
 # New File [←](../index.md)
 
-  | site | URL | describe |
-  |:---:|:---:|:---:|
-  | news | [Medium](https://medium.com) | fq |
-  | file | [AboutGoogle](AboutGoogle.md) | google |
-  | AI | [AboutAI](Disguise'sAI.md) | issue |
+| _ | _ | _ |
+|:---:|:---:|:---:|
+| [AboutGoogle](AboutGoogle.md) | [AboutAI](Disguise'sAI.md) | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+| lucy | 25 | X |
 
 
