@@ -29,6 +29,22 @@ _config.yml URL:C:\Windows\System32\blog
 #files issue
 C:\Windows\System32\blog\source
 
+# add RSS
+$ npm install hexo-generator-feed
+added 3 packages in 30.155s
+
+_config.yml文件添加
+
+# Extensions
+plugins:
+    hexo-generator-feed
+#Feed Atom
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+编译
+
 #themes add
 blog/__config.yml --文件中添加
 # yilia主题所需新增内容
