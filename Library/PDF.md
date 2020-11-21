@@ -31,7 +31,7 @@
 | [IBM的大数据应用分析报告](https://www.ibm.com/downloads/cas/ED0JV08Q) | 0_0 | Y |
 | [联合国对中国新冠病毒肺炎评估报告•2020.4](https://files.catbox.moe/3kmdal.pdf) | cn-COVID-19 | Y |
 | [人工智能时代•杰瑞·卡普兰(2015)](https://files.catbox.moe/qyc48c.pdf) | AI | Y |
-| []() | 0_0 | Y |
+| [finereport](http://down.finereport.com/website-resources/fr/FineReport-Whitepaper9.pdf) | 帆软报表软件白皮书 | Y |
 | []() | 0_0 | Y |
 | lucy | 25 | X |
 
