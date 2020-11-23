@@ -1,3 +1,37 @@
+# indexes  [Home](index.md)
+
+<div>
+<ul class="tree">
+    <li>研发中心
+        <ul>
+            <li>北京研发部</li>
+            <li>深圳研发部
+                <ul>
+                    <li>产品1组</li>
+                    <li>产品2组</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>销售部
+        <ul>
+            <li>售前</li>
+            <li>售后</li>
+            <li>代理分区
+                <ul>
+                    <li>东北区</li>
+                    <li>华北区</li>
+                    <li>华南区</li>
+                    <li>华中区</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>财务部</li>
+    <li>人事部</li>
+</ul>
+</div>
+
 Doc
 	MyBlog
 	News
