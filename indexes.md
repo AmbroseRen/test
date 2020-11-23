@@ -81,12 +81,6 @@
             <li><a href="https://ambroseren.github.io/test/Web/SoftWare.html">前端软件</a></li>
             <li><a href="https://ambroseren.github.io/test/Web/framework.html">通用架构框架</a></li>
             <li><a href="https://ambroseren.github.io/test/Web/web_guide.html">前端手册</a></li>
-            <li>深圳研发部
-                <ul>
-                    <li>产品1组</li>
-                    <li>产品2组</li>
-                </ul>
-            </li>
         </ul>
     </li>        
     <li><a href="https://ambroseren.github.io/test/css/index.html">css</a></li>
