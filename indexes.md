@@ -20,7 +20,7 @@
         <ul>
             <li><a href="https://ambroseren.github.io/test/Data/BigData/index.html">BigData</a></li>
             <li><a href="https://ambroseren.github.io/test/Data/Fodder/index.html">Fodder</a></li>
-            <li><a href="https://ambroseren.github.io/test/Data/Golang/index.html">Golang</a></li>
+            <li><del><a href="https://ambroseren.github.io/test/Data/Golang/index.html">Golang</a></del></li>
             <li><a href="https://ambroseren.github.io/test/Data/Hacker/index.html">Hacker</a></li>
             <li><a href="https://ambroseren.github.io/test/Data/InstallPackage/index.html">InstallPackage</a>
                 <ul>
