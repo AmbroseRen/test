@@ -69,7 +69,7 @@
     <li><a href="https://ambroseren.github.io/test/css/index.html">css</a></li>
     <li><a href="https://ambroseren.github.io/test/html/index.html">html</a></li>
     <li><a href="https://ambroseren.github.io/test/img/index.html">img</a></li>
-    <li><a href="https://ambroseren.github.io/test/Java/index.html">Java</a></li>
+    <li><a href="https://ambroseren.github.io/test/Java/">Java</a></li>
     <li><a href="https://ambroseren.github.io/test/js/index.html">js</a>
         <ul>
             <li><a href="https://ambroseren.github.io/test/js/Doc/index.html">Doc</a></li>
