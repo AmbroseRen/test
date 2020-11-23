@@ -2,17 +2,7 @@
 
 <div>
 <ul class="tree">
-    <li>研发中心
-        <ul>
-            <li>北京研发部</li>
-            <li>深圳研发部
-                <ul>
-                    <li>产品1组</li>
-                    <li>产品2组</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
+    <li><a href="https://ambroseren.github.io/test/About/index.html">经济学原理</a></li>
     <li>销售部
         <ul>
             <li>售前</li>
@@ -31,50 +21,3 @@
     <li>人事部</li>
 </ul>
 </div>
-
-Doc
-	MyBlog
-	News
-	DOS
-	Forum
-	Language
-		Java
-		Python
-Guide
-Data
-	Finance
-System
-	Windows
-	Linux
-	macOS
-Database
-	Oracle
-	MySQL
-	mssql
-SoftWare
-	Apache
-	Adobe
-	Design
-Web
-	Frame
-	Port	
-	WebGL
-	AR·VR
-Platform
-	LiveStreaming
-	Games
-CoolWeb
-
-Proxy
-	website
-	DNS
-Job
-Librarys	
-DownLoad
-	Resource
-	Maven
-	Tools
-	Mirror
-Tools
-	Plugins
-Other
