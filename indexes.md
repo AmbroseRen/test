@@ -3,7 +3,7 @@
 <div>
 <ul class="tree">
     <li><a href="https://ambroseren.github.io/test/About/index.html">About Me</a></li>
-    <li><a href="https://www.fox2008.cn/Article/List/31272.html">Art</a>
+    <li><a href="https://ambroseren.github.io/test/Art/">Art</a>
         <ul>
             <li><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Animes</a></li>
             <li><a href="https://ambroseren.github.io/test/Art/Games/index.html">Games</a></li>
@@ -16,7 +16,7 @@
             <li><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Animes</a></li>
         </ul>
     </li>
-    <li><a href="https://www.fox2008.cn/Article/List/31272.html">Data</a>
+    <li><a href="https://ambroseren.github.io/test/Data/">Data</a>
         <ul>
             <li><a href="https://ambroseren.github.io/test/Data/BigData/index.html">BigData</a></li>
             <li><a href="https://ambroseren.github.io/test/Data/Fodder/index.html">Fodder</a></li>
