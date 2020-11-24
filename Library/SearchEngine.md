@@ -15,7 +15,7 @@
 | [Yandex](https://yandex.com) | Russia | Y |
 | []() | 26 | Y |
 | []() | 26 | Y |
-| [百度](https://www.baidu.com/) | China | Y |
+| [百度](https://www.baidu.com/) | China | [慎用](https://kenengba.com/post/3414.html) |
 | []() | 26 | Y |
 | [sylsearch](https://www.sylsearch.com/) | 企业搜索引擎服务 | Y |
 | []() | 26 | Y |
