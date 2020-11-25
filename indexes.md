@@ -10,10 +10,9 @@
             <li><a href="https://ambroseren.github.io/test/Art/Gossip/index.html">Gossip</a></li>
             <li><a href="https://ambroseren.github.io/test/Art/Movies/index.html">Movies</a></li>
             <li><a href="https://ambroseren.github.io/test/Art/Music/index.html">Music</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Painting</a></li>
+            <li><a href="https://ambroseren.github.io/test/Art/Painting/index.html">Painting</a></li>
             <li><a href="https://ambroseren.github.io/test/Art/Shoot/index.html">Shoot</a></li>
             <li><a href="https://ambroseren.github.io/test/Art/Stream/index.html">Stream</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Animes</a></li>
         </ul>
     </li>
     <li><a href="https://ambroseren.github.io/test/Data/">Data</a>
