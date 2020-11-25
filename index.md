@@ -1,5 +1,8 @@
 ## Welcome to RenSi's Databases
 
+<script async src="https://cse.google.com/cse.js?cx=2f0e585bf98b84b6d"></script>
+<div class="gcse-search"></div>
+
 | _ | _ | _ |
 |:---:|:---:|:---:|
 | [JsSearch](search.md) - [indexes(索引目录)](indexes.md) | [SwiftypeSearch](stok.md) | [AlgoliaSearch](sag3.html) - [Demo](sag.html) - [DocDemo](sagTwo.html) |
