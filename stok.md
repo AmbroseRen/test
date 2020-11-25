@@ -2,17 +2,13 @@
 	<div class="columns">
 		<div class="column col-6">
 			<form>
-				<input type="text" class="st-default-search-input" placeholder="swiftypeSearch..." autofocus>
+				<input type="text" class="st-default-search-input" placeholder="已停用swiftypeSearch..." autofocus>
 			</form>
 		</div>
 		<div class="column col-6">
 			<p class="searchcount"></p>
 		</div>
 	</div>
-</div>
-
-<div>
-	<p>已停用</P>
 </div>
 
 <script type="text/javascript">
