@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # encoding=utf-8
+# 思维理论：https://xlzd.me/2017/11/21/crawler-archive/
 import requests
 import re
 import codecs
