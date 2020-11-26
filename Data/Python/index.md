@@ -7,7 +7,7 @@
 | [Crawler](Crawler/index.md) | O_O | []() | []() | []() |
 | []() | O_O | []() | []() | []() |
 | []() | O_O | []() | []() | []() |
-| [demoOne](demoOne/index.md) | [one_img](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/one_img.py) | [douban_book](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/douban_book.py) | []() | []() |
+| [demoOne](demoOne/index.md) | [image_get](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/demoOne/image_get.py) | [douban_book](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/demoOne/douban_book.py) | []() | []() |
 | [test](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/test.py) | O_O | []() | []() |
 | []() | O_O | []() | []() | []() |
 | lucy | 25 | []() | []() | []() |
