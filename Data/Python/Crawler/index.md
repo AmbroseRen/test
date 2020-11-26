@@ -2,7 +2,7 @@
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [url.redirect](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/Crawler/redirect.py) | [cookie](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/Crawler/cookie.py) | []() |
+| []() | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
