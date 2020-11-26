@@ -1,5 +1,5 @@
 from Tools import add ,sub ,mul ,divide
-# from Tools import *
+# from formula import *
 
 add(10 ,5)
 
@@ -12,7 +12,7 @@ else :
 
 # or
 '''
-import Tools
+import formula
 
 Tools.add(10 ,5)
 
