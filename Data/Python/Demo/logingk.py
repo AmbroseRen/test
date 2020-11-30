@@ -17,21 +17,23 @@ session = requests.Session()
 url = 'https://account.guokr.com/sign_in/'
 resp = session.get(url, headers=headers_login)
 html = resp.text
+# print(html)
 
 csrf_token = re.search(r'id="csrf_token[\s\S]*?(\d+[\s\S]*?)"', html).group(1)
 captcha_rand = re.search(r'id="captchaRand[\s\S]*?(\d+)', html).group(1)
 img_url = 'https://account.guokr.com/captcha/' + captcha_rand
+print(img_url)
 with open('captcha.jpg', 'wb') as fw:
     fw.write(session.get(img_url, headers=headers_login).content)
 
 '''
 username = input('请输入用户名：')
 password = input('请输入密码：')
-captcha = input('请输入验证码 : ')
 '''
-username = '18330471457'
+captcha = input('请输入验证码 : ')
+username = '***'
 password = 'QF8xqvXFe6HRT62'
-captcha = 'ke4q'
+# captcha = 'ke4q'
 
 data = {
     'csrf_token': csrf_token,
@@ -45,6 +47,7 @@ data = {
 response = session.post(url, data=data)
 with open('response.html', 'w', encoding='utf-8') as fw:
     fw.write(response.text)
+    print(response.text)
 
 print(response.cookies)
 print(session.cookies)
@@ -52,8 +55,9 @@ print(session.cookies)
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.61 Safari/537.36'
 }
-homepage = 'https://www.guokr.com/i/0210199872/'
+# homepage = 'https://www.guokr.com/i/0210199872/'
+homepage = 'https://account.guokr.com/settings/external_account/'
 with open('homepage.html', 'w', encoding='utf-8') as fw:
     res = session.get(homepage, headers=headers)
-    print(res)
+    print(res.text)
     fw.write(res.text)
