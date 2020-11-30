@@ -20,6 +20,8 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 
 | Plugins | Description | Abstract |
 |:---:|:---:|:---:|
+| [Chrome插件扩展网站](https://chrome.zzzmh.cn/index#ext) |  | X |
+| [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/) |  | X |
 | Tempermonkey | onload any js for every websites | Y |
 | stylus | onload any css for every websites | X |
 | 货币转换器 for Google Chrome™ | tools | X |
@@ -50,7 +52,6 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | 二维码生成器 (Quick QR) |  | X |
 |  |  | X |
 |  |  | X |
-| [Chrome插件扩展网站](https://chrome.zzzmh.cn/index#ext) |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
 
 stylus
