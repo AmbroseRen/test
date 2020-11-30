@@ -11,3 +11,7 @@
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
+
+# 相关概念
+
+正序索引;[倒排索引](https://www.zhihu.com/question/23202010/answer/254503794);[分词器](https://github.com/altkatz/jieba_rb)
