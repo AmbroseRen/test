@@ -77,7 +77,7 @@
 | [geeksforgeeks](https://www.geeksforgeeks.org/) | 综合导航 | Y |
 | [Jiale Han](https://zqhjl.github.io/) | web - null | Y |
 | [phodal](https://www.phodal.com/blog/) | loT | Y |
-| [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | Y |
+| [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | [原项目](https://github.com/USRSE/usrse.github.io) |
 | [赵云龙](https://zyl.me/blog) | web-Andriod | [主页](https://zyl.me/) |
 | ~~[郭](https://gary5496.github.io/)~~ | web | [Windows+github+hexo](https://gary5496.github.io/2018/03/hexo-github-setup/) |
 | []() | 0_0 | Y |
