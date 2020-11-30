@@ -66,7 +66,7 @@
 | [懒得勤快](https://masuit.com/p?page=4&orderby=) | 综合 | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
-| [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) |
+| [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) - [优质博文推荐计划](https://github.com/apachecn/awesome-article-recomm) |
 | [arrfu](https://arrfu.com/page/about.html) | 0_0 | Y |
 | [vcjmhg](https://www.vcjmhg.top/) | 0_0 | Y |
 | [iosdevlog](https://2020.iosdevlog.com/) | 0_0 | Y |
