@@ -26,7 +26,7 @@
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Life | 生活 | Y |
-| __[阮一峰](http://www.ruanyifeng.com/home.html)__ | 完善独立人格 | [子站](http://www.ruanyifeng.com/calvino/) - [网络文凭，你要不要](http://www.ruanyifeng.com/blog/2016/10/online_education.html) - [articles](https://github.com/ruanyf/articles) - [road](https://road.ruanyifeng.com/)/[原稿](https://github.com/ruanyf/road) |
+| __[阮一峰](http://www.ruanyifeng.com/home.html)__ | 完善独立人格 | [子站](http://www.ruanyifeng.com/calvino/) - [网络文凭，你要不要](http://www.ruanyifeng.com/blog/2016/10/online_education.html) - [articles](https://github.com/ruanyf/articles) - [road](https://road.ruanyifeng.com/)/[原稿](https://github.com/ruanyf/road) - [survivor](https://survivor.ruanyifeng.com/) |
 | __[晚晴幽草轩](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)__ | web - Tools | [主页](https://aboutme.lovejade.cn/) - [子站](https://blog.lovejade.cn/) - [东亚教育浪费了太多生命](https://blog.lovejade.cn/2016/10/12/the-East_Asia_Education-wasted-too-much-life.html) - [知乎摘文](https://www.zhihu.com/people/yang-qiong-pu)- [外链](https://www.jeffjade.com/Links/?utm_source=ld246.com#%E7%8E%87%E6%80%A7%E6%8E%A8%E8%8D%90%EF%BC%9A) |
 | [罗宾](https://dbarobin.com/tags/#RSS) | 币圈 | [主链-刘媛媛](https://k.sina.cn/article_7069198356_1a55b681400100jii3.html) - [寒门再难出贵子？](https://dbarobin.com/2013/08/24/rural-family-and-great-man/) |
 | [陶靖](https://jingine.com/) | 0_0 | Y |
