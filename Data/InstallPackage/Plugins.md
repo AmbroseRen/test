@@ -10,7 +10,7 @@
 | []() | O_O | Y |
 | Blog | 博客框架 | [搭建参考页](https://ambroseren.github.io/test/Library/Blog.html) |
 | [wordpress](https://cn.wordpress.org/download/) | 一代 - 博客构建工具 | Y |
-| [Jekyll](#) | 极简自定义 | Y |
+| [Jekyll文档](https://jekyllrb.com/)/[源码](https://github.com/jekyll/jekyll) | 极简自定义 | Y |
 | [hexo](https://hexo.io/)/[源码](https://github.com/hexojs/hexo) | 二代(Nodejs) - 前端博客构建工具 | [官方构建文档](https://hexo.io/docs/one-command-deployment.html) - [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)/[示例](https://blinkfox.github.io/)/[hexo-matery-modified](https://github.com/godweiyang/hexo-matery-modified) |
 | [hugo](https://github.com/gohugoio/hugo/releases) | 三代(golang) - 博客构建工具  | [Doc Install](https://gohugo.io/getting-started/installing/) |
 | []() | O_O | Y |
