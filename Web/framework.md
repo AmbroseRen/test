@@ -11,4 +11,7 @@
 | [element](#) | O_O | [官方文档](https://element.eleme.cn/#/zh-CN/component/installation) - [组件库](https://www.bookstack.cn/read/Element-UI-vue/28.md) |
 | []() | O_O | Y |
 | []() | O_O | Y |
+| [飞冰文档](https://ice.work/)/[源码](https://github.com/alibaba/ice) | 前端集成框架 | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
 | lucy | 25 | X |
