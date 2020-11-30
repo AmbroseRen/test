@@ -54,6 +54,17 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 |  |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
 
+# Chrome插件开发
+
+| 传送门 | 描述 | 摘要 |
+|:---:|:---:|:---:|
+| [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| lucy | 25 | X |
+
 stylus
 > google
 >> https://userstyles.org/styles/123499/dishonored-google-theme
