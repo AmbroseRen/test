@@ -6,7 +6,7 @@
 | [英文缩写](http://shortof.com/search/luceneapi_node/facility) | [百度百科](https://baike.baidu.com/vbaike#gallary) | [996.icu](https://996.icu/#/zh_CN) |
 | [HiFi](https://baijiahao.baidu.com/s?id=1595964142592340484&wfr=spider&for=pc) | [海盗湾](https://www.zhihu.com/topic/19569963/intro) - [现实中的海盗湾](https://movie.douban.com/subject/20513939/) | [凤凰男](https://baike.baidu.com/item/%E5%87%A4%E5%87%B0%E7%94%B7/8643639) |
 | [黑太阳731](https://mmy.la/forum.php?mod=viewthread&tid=135871) | [这一代孩子的日常](https://www.techbang.com/posts/73611) | [太子党关系网络之赵国权贵](https://github.com/programthink/zhao) |
-| [超级明星经纪网](http://www.mailun.com/mx/play.html) | [最大，最恐怖的模拟城市](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/) | []() |
+| [超级明星经纪网](http://www.mailun.com/mx/play.html) | [最大，最恐怖的模拟城市](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/) | [OpenPower医院信息公布开放数据](http://open-power-workgroup.github.io/Hospital/data/draft1/html/hospitals.html)/[原稿](https://github.com/open-power-workgroup/Hospital) |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
