@@ -14,4 +14,4 @@
 
 # 相关概念
 
-正序索引;[倒排索引](https://www.zhihu.com/question/23202010/answer/254503794);[分词器](https://github.com/altkatz/jieba_rb)
+正序索引;[倒排索引](https://www.zhihu.com/question/23202010/answer/254503794);[分词器](https://github.com/altkatz/jieba_rb);[liquid-jekyll渲染模板引擎](https://github.com/Shopify/liquid)
