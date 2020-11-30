@@ -1,8 +1,8 @@
 # About RSS  [←](../index.md)
 
-| 传送门 | 描述 | 摘要 |
+| _ | _ | _ |
 |:---:|:---:|:---:|
-| [MyRSSxml](../atom.xml) | O_O | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
+| [MyRSSxml](../atom.xml) | [FindRssOnPage](https://github.com/DIYgod/RSSHub) | []() |
+| []() | []() | []() |
+| []() | []() | []() |
 | lucy | 25 | X |
