@@ -5,7 +5,7 @@
 | [当代互联网精英速(zhuang)成(B)指南](https://mp.weixin.qq.com/s?__biz=MzA4NzQzNTg4Ng==&mid=2651729919&idx=1&sn=2e2356000489cb7b7d01235f29519e70&chksm=8bc3f0febcb479e8ff8ce9adb098dd70f91953b9eb44c8c48a39583e354214c0e21f44d03dc6&scene=21#wechat_redirect) | [收集中国古今妖怪](https://www.cbaigui.com/) | [你好污啊](https://www.nihaowua.com/) |
 | [英文缩写](http://shortof.com/search/luceneapi_node/facility) | [百度百科](https://baike.baidu.com/vbaike#gallary) | [996.icu](https://996.icu/#/zh_CN) |
 | [HiFi](https://baijiahao.baidu.com/s?id=1595964142592340484&wfr=spider&for=pc) | [海盗湾](https://www.zhihu.com/topic/19569963/intro) - [现实中的海盗湾](https://movie.douban.com/subject/20513939/) | [凤凰男](https://baike.baidu.com/item/%E5%87%A4%E5%87%B0%E7%94%B7/8643639) |
-| [黑太阳731](https://mmy.la/forum.php?mod=viewthread&tid=135871) | [这一代孩子的日常](https://www.techbang.com/posts/73611) | []() |
+| [黑太阳731](https://mmy.la/forum.php?mod=viewthread&tid=135871) | [这一代孩子的日常](https://www.techbang.com/posts/73611) | [太子党关系网络之赵国权贵](https://github.com/programthink/zhao) |
 | [超级明星经纪网](http://www.mailun.com/mx/play.html) | [最大，最恐怖的模拟城市](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
