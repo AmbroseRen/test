@@ -66,7 +66,7 @@
 | [懒得勤快](https://masuit.com/p?page=4&orderby=) | 综合 | Y |
 | [Leonn](https://blog.liyuans.com/categories.html#posts-list-vps) | 综合-主机 | Y |
 | [欲思博客](https://yusi123.com/web/webserver) | 综合-主机 | Y |
-| [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) - [优质博文推荐计划](https://github.com/apachecn/awesome-article-recomm) |
+| [布客新知](http://it-ebooks.flygon.net/page/9/) | Apache-cn开源社区 | [子站](http://flygon.net/) - [Apache-cn](http://apachecn.org/) - [docs_apache](https://docs.apachecn.org/#home_fcat) - [简介](https://home.apachecn.org/#/) - [优质博文推荐计划](https://github.com/apachecn/awesome-article-recomm) - [stanford-博弈论](https://github.com/apachecn/stanford-game-theory-notes-zh) - [5 分钟商学院精细笔记](https://biz5min.apachecn.org/#/)/[原稿](https://github.com/apachecn/business-5min-notes) - [通往财富自由之路精细笔记](https://wealfree.apachecn.org/#/)/[原稿](https://github.com/apachecn/the-way-to-wealth-freedom-notes) |
 | [arrfu](https://arrfu.com/page/about.html) | 0_0 | Y |
 | [vcjmhg](https://www.vcjmhg.top/) | 0_0 | Y |
 | [iosdevlog](https://2020.iosdevlog.com/) | 0_0 | Y |
