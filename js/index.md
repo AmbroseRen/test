@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|
 | [WebGL](webGL/index.md) | [Algolia Search Js](sag/index.md) | [nodejs](nodejs/index.md) |
 | [功能型Js](https://bellard.org/) | [hammer.min.js](hammer.min.js) | [粒子效果JS示例](https://git.hust.cc/canvas-nest.js/)/[源码](https://github.com/hustcc/canvas-nest.js) |
-| []() | []() | []() |
+| [dat.gui控制器库](https://github.com/dataarts/dat.gui) | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
