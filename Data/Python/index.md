@@ -6,7 +6,7 @@
 | []() | [ProjectStructure](ProjectStructure.md) | [get-pip.py](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/get-pip.py) | []() | []() |
 | [Crawler](Crawler/index.md) | O_O | []() | []() | []() |
 | []() | O_O | []() | []() | []() |
-| []() | O_O | []() | []() | []() |
+| Python加密存储 | O_O | []() | []() | []() |
 | [demoOne](demoOne/index.md) | []() | []() | []() | []() |
 | [test](https://raw.githubusercontent.com/AmbroseRen/test/master/Data/Python/test.py) | O_O | []() | []() |
 | []() | O_O | []() | []() | []() |
