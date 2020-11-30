@@ -2,7 +2,7 @@
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [ihover示例](http://gudh.github.io/ihover/dist/index.html)/[源码](https://github.com/gudh/ihover) | []() | []() |
+| [ihover示例](http://gudh.github.io/ihover/dist/index.html)/[源码](https://github.com/gudh/ihover) | [猫的前端回忆录](https://github.com/windiest/Front-end-tutorial) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
