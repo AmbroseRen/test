@@ -9,7 +9,7 @@
 | [前端集成工具](http://f2er.club/) | O_O | Y |
 | [css组件手册](https://www.css88.com/book/css/) | O_O | Y |
 | [JQuery手册](https://www.jq22.com/chm/jquery/index.html) | O_O | Y |
-| []() | O_O | Y |
+| [some Guide集合](https://github.com/GitHubDaily/GitHubDaily) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | [元素周期表](https://ptable.com/#%E6%80%A7%E8%B3%AA) | O_O | Y |
