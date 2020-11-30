@@ -1,4 +1,4 @@
-# Blog Framework  [←](../index.md)
+# [Blog Framework](https://ambroseren.github.io/test/Data/InstallPackage/Plugins.html)  [←](../index.md)
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
