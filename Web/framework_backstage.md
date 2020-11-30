@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [jeeplus](http://www.jeeplus.org/product) | O_O | Y |
-| [jeesite](http://www.jeesite.com/) | O_O | Y |
+| [jeesite](http://www.jeesite.com/)/[源码](https://github.com/thinkgem/jeesite4-cloud) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
