@@ -61,6 +61,7 @@
     </li>
     <li><a href="https://ambroseren.github.io/test/Library/index.html">Library</a></li>
     <li><a href="https://ambroseren.github.io/test/Proxy/index.html">Proxy</a></li>
+    <li><a href="https://ambroseren.github.io/test/Search/index.html">Search</a></li>
     <li><a href="https://ambroseren.github.io/test/SiteInfo/AboutSite.html">SiteInfo</a></li>
     <li><a href="https://ambroseren.github.io/test/Tools/index.html">Tools</a></li>
     <li><a href="https://ambroseren.github.io/test/Video/index.html">Video</a></li>
