@@ -37,7 +37,7 @@ Blog
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [hexo + github](https://raw.githubusercontent.com/AmbroseRen/test/master/Doc/Tools/hexo.bat) | [hugo + gitlab](hugo.md) | []() |
+| [blogFramework](Blog/blogFramework.md) | [hexo + github](https://raw.githubusercontent.com/AmbroseRen/test/master/Doc/Tools/hexo.bat) | [hugo + gitlab](hugo.md) |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
