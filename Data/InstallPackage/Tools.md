@@ -39,6 +39,7 @@
 | [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
 | [rescuetime](https://www.rescuetime.com/get_rescuetime) | 时间管理-网络浏览时间资源分析工具(一般吧) | Y |
 | [chrome](https://www.google.com/chrome/) | 浏览器 | Y |
+| [PicGo](https://molunerfinn.com/PicGo/)/[源码](https://github.com/Molunerfinn/PicGo) | 图床传图工具 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | Linux | Linux操作系统 | Y |
