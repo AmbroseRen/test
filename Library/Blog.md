@@ -17,6 +17,7 @@
 | []() | 0_0 | Y |
 | [ACGN](https://baike.baidu.com/item/acg/33795) | 二次元 | Y |
 | [DIYGOD](https://diygod.me/) | RSSHub开源-Web | [2019](https://diygod.me/2019/#more) - [后宫](https://diygod.me/friends/) |
+| [zhaoolee](https://zhaoolee.com/ChineseBQB/) | 工具集 | [主页](https://zhaoolee.com/) - [插件](https://zhaoolee.com/ChromeAppHeroes/) - [工具导航](https://v2fy.com/) - [Github星聚弃疗榜](https://zhaoolee.com/StarsAndClown/) |
 | [萌娘百科](https://zh.moegirl.org.cn/Mainpage) | 搜素引擎-万物皆可萌 | Y |
 | [沧水](https://cangshui.net/) | 主机 | [酸酸乳使用方法](https://cangshui.net/1260.html) |
 | [小透明·宸](https://akarin.dev/index.html) | 0_0 | Y |
