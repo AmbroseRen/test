@@ -57,6 +57,7 @@
 | [rainary](https://rainary.com/) | web | Y |
 | [Aman Mittal](https://amanhimself.dev/) | web | Y |
 | [智伤帝](https://fxtd-odyssey.github.io/) | CG-Tencent UI | [主页](https://cyc2018.github.io/page.html) - [Notes](https://cyc2018.github.io/CS-Notes/#/notes/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7) - [hexo博客优化](https://fxtd-odyssey.github.io/posts/260a6911.html) - [吴俊开发笔记](https://wujun234.github.io/) |
+| [郑永川](http://www.cyc2018.xyz/) | 0_0 | [主页](https://cyc2018.github.io/page.html) |
 | [ihtcboy](https://ihtcboy.com/) | 优质 | Y |
 | [shrekshao](http://shrekshao.github.io/) | 3D开发者 | [Cross Section - 模型_横断面](http://shrekshao.github.io/2016/08/27/BioDigital-Intern-Review-3-Cross-Section/) |
 | []() | 0_0 | Y |
