@@ -12,6 +12,8 @@
 | [some Guide集合](https://github.com/GitHubDaily/GitHubDaily) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
+| []() | O_O | Y |
+| [API汇总列表](https://github.com/public-apis/public-apis) | O_O | Y |
 | [元素周期表](https://ptable.com/#%E6%80%A7%E8%B3%AA) | O_O | Y |
 | lucy | 25 | X |
 
