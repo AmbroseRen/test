@@ -28,7 +28,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | Similar sites | find similar websites | X |
 | keep | notes | X |
 | Checker Plus for Gmail™ | gmail | X |
-| VPN | [GFW](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E) - [GFW White List](https://github.com/R0uter/gfw_domain_whitelist) | X |
+| VPN | [GFW](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E) - [GFW White List](https://github.com/R0uter/gfw_domain_whitelist) - [gfwlist.txt](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt)PAC文件/[主站](https://github.com/gfwlist/gfwlist) | X |
 | [Proxy SwitchyOmega](https://eliyar.biz/AutoProxy-By-Shadowsocks-and-SwitchyOmega/) | [自建SS](https://github.com/TwoWater/Python/blob/master/Res/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAss%3Assr%E6%9C%8D%E5%8A%A1%E5%99%A8.md) & [SSR](https://cangshui.net/1260.html) - [VPS之搬瓦工搭建](https://www.jiongjun.cc/banwagong/15.html) | [费劲](https://github.com/shadowsocks/shadowsocks-windows/issues/1007) - [GFW分析报告](https://sites.google.com/site/wsydcz/home/fx) - [被cn封锁网站列表(2020更新)](http://www.waiping.net/gfw-list/) |
 | 优质DNS |  | [国内外免费公共DNS](http://www.deadnine.com/anything/2018/0903/1411.html) - [参考](https://www.sordum.org/7952/dns-jumper-v2-2/) |
 | [谷歌访问助手](https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp) | 一代 | [Google Hosts](https://www.moerats.com/archives/114/) - [googlehosts](https://git.qvq.network/googlehosts/hosts/src/master/hosts-files/hosts) |
