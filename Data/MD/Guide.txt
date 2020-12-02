@@ -265,6 +265,7 @@ body {
 	*[HTML]:   超文本标记语言
   
 ### LaTeX 数学公式
+公式参考：https://blog.csdn.net/Ambrose_Ren/article/details/110480040
 
 	Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall
 	n\in\mathbb N$ 是通过 Euler integral
