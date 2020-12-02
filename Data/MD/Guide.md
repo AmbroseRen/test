@@ -229,6 +229,8 @@ http://latex.codecogs.com/svg.latex?
 
 MathJax
 
+[配置](http://docs.mathjax.org/en/latest/web/start.html) - [演示存储库](https://github.com/mathjax/MathJax-demos-web#samples-of-mathjax-v3) - [示例一](https://mathjax.github.io/MathJax-demos-web/tex-chtml.html)
+
 <p>\[
 \mathbf{V}_1 \times \mathbf{V}_2 =
 \begin{vmatrix}
@@ -237,6 +239,8 @@ MathJax
 \frac{\partial X}{\partial v} &amp; \frac{\partial Y}{\partial v} &amp; 0 \\
 \end{vmatrix}
 \]</p>
+
+- - -
 
 ### 甘特图
 
