@@ -287,6 +287,33 @@ http://latex.codecogs.com/svg.latex?
 
 <img src="http://latex.codecogs.com/svg.latex?\frac{x}{2y} +\frac{x-y}{x+y}" />
 
+- - -MathJax配置脚本
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
+MathJax
+
+[配置](http://docs.mathjax.org/en/latest/web/start.html) - [演示存储库](https://github.com/mathjax/MathJax-demos-web#samples-of-mathjax-v3) - [示例一](https://mathjax.github.io/MathJax-demos-web/tex-chtml.html)
+
+<p>\[
+\mathbf{V}_1 \times \mathbf{V}_2 =
+\begin{vmatrix}
+\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\
+\frac{\partial X}{\partial u} &amp; \frac{\partial Y}{\partial u} &amp; 0 \\
+\frac{\partial X}{\partial v} &amp; \frac{\partial Y}{\partial v} &amp; 0 \\
+\end{vmatrix}
+\]</p>
+
+- - -
+
 ### 甘特图
 
 	```mermaid
