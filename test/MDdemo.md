@@ -386,7 +386,7 @@ Size：规定文本的尺寸大小。可能的值：从 1 到 7 的数字。浏�
 
 视频引用
 
-<video id="video" controls="" preload="none" poster="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg">
+<video id="video" controls="" preload="none" poster="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg" width="610px" height="350px">
     <source id="mp4" src="https://blinkfox.github.io/medias/videos/demo.mp4" type="video/mp4">
 </video>
 
