@@ -232,6 +232,17 @@ MathJax
 [配置](http://docs.mathjax.org/en/latest/web/start.html) - [演示存储库](https://github.com/mathjax/MathJax-demos-web#samples-of-mathjax-v3) - [示例一](https://mathjax.github.io/MathJax-demos-web/tex-chtml.html)
 
 <p>\[
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+\left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\]</p>
+
+<p>\[
+1 +  \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
+\prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
+ \quad\quad \text{for $|q| &lt; 1$}.
+\]</p>
+
+<p>\[
 \mathbf{V}_1 \times \mathbf{V}_2 =
 \begin{vmatrix}
 \mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\
