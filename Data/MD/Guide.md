@@ -1,3 +1,13 @@
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
 
 <div>
 
@@ -214,6 +224,19 @@ http://latex.codecogs.com/svg.latex?
 <img src="http://latex.codecogs.com/svg.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
 
 <img src="http://latex.codecogs.com/svg.latex?\frac{x}{2y} +\frac{x-y}{x+y}" />
+
+- - -
+
+MathJax
+
+<p>\[
+\mathbf{V}_1 \times \mathbf{V}_2 =
+\begin{vmatrix}
+\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\
+\frac{\partial X}{\partial u} &amp; \frac{\partial Y}{\partial u} &amp; 0 \\
+\frac{\partial X}{\partial v} &amp; \frac{\partial Y}{\partial v} &amp; 0 \\
+\end{vmatrix}
+\]</p>
 
 ### 甘特图
 
