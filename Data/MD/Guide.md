@@ -190,7 +190,7 @@
 ## 注释
 
 Markdown将文本转换为 HTML。
-
+*[HTML]:   超文本标记语言
   
 ### LaTeX 数学公式
 
@@ -237,24 +237,24 @@ Markdown将文本转换为 HTML。
 	C --> D
 	```
 
-### 插入Flowchart流程图 mermaid
+### 插入Flowchart流程图 
 
+	```mermaid
+	flowchat
+	st=>start: 开始
+	e=>end: 结束
+	op=>operation: 我的操作
+	cond=>condition: 确认？
 
-flowchat
-st=>start: 开始
-e=>end: 结束
-op=>operation: 我的操作
-cond=>condition: 确认？
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-
+	st->op->cond
+	cond(yes)->e
+	cond(no)->op
+	```
 
 ### 注脚
 
 一个具有注脚的文本。[^1]
-
+[^1]: 注脚的解释
 
 ### 强调
 
@@ -322,8 +322,8 @@ Star自己仓库
   src="https://ghbtns.com/github-btn.html?user=AmbroseRen&repo=ambroseren.github.io&type=star&count=true" >
 </iframe>
 
-*[HTML]:   超文本标记语言
-[^1]: 注脚的解释
+
+
 
 
 
