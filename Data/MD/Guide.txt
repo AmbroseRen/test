@@ -88,6 +88,7 @@
 	链接: [link](https://mp.csdn.net).
 	图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg)
 	带尺寸的图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg =30x30)
+	<img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="50%" height="50%">
 	居中的图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center)
 	居中并且带尺寸的图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center =30x30)
 
@@ -311,6 +312,8 @@
 
 ### 强调
 
+I strongly recommend against using any `<blink>` tags.
+
   字体倾斜
     _倾斜_
     *倾斜*
@@ -326,6 +329,23 @@
 HTML兼容测试
 
 <font size=8>我是放大字</font>
+
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+<font color=#00ffff size=72>color=#00ffff</font>
+<font color=gray size=72>color=gray</font>
+
+Size：规定文本的尺寸大小。可能的值：从 1 到 7 的数字。浏览器默认值是 3
+
+<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
+
+直译链接：
+
+<http://example.com/>
+
+<address@example.com>
   
 <body>
 	<P>这是分段</P>
