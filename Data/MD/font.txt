@@ -1,0 +1,22 @@
+# font quote  [←](index.md)
+
+## https://fonts.google.com/(fq)引用模板
+<html>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+<p><font face="STCAIYUN">This is some text!</font></p>
+
+<p style="color:red;font-family: 'ZCOOL XiaoWei', serif;">在 HTML 4.01 中，不赞成 face 属性；在 XHTML 1.0 Strict DTD 中，不支持 face 属性。请使用 CSS 代替。</p>
+
+</body>
+</html>
+
+## https://www.dafont.com/引用模板
+
+
