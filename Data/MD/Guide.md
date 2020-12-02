@@ -204,7 +204,7 @@ Markdown将文本转换为 HTML。
 *[HTML]:   超文本标记语言
   
 ### LaTeX 数学公式
-[公式参考](https://blog.csdn.net/Ambrose_Ren/article/details/110480040)
+[公式参考](https://blog.csdn.net/Ambrose_Ren/article/details/110480040) - [katex在线编辑器](https://katex.org/) - [overleaf在线编辑器](https://cn.overleaf.com/project)
 
 	Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall
 	n\in\mathbb N$ 是通过 Euler integral
