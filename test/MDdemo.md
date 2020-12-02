@@ -394,11 +394,10 @@ Size：规定文本的尺寸大小。可能的值：从 1 到 7 的数字。浏�
 
 音频引用
 
-```
 <audio id="audio" controls="" preload="none">
     <source id="mp3" src="http://qiniu.cloud.fandong.me/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
 </audio>
-```
+
 
 Star自己仓库
   参数:user:用户名;repo:仓库名称;type:star;count:数量.
