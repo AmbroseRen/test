@@ -90,7 +90,7 @@
   
 <style type="text/css">
 body {
-    background: transparent url(https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/ikurumi/girlTwo.jpg) center top fixed !important;
+    background: transparent url(https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/ikurumi/#girlTwo.jpg) center top fixed !important;
     background-size: cover !important
 }
 </style>    
