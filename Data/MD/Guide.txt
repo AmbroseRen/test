@@ -81,6 +81,15 @@
 
 图片
 
+  背景图
+  
+<style type="text/css">
+body {
+    background: transparent url(https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/ikurumi/girlTwo.jpg) center top fixed !important;
+    background-size: cover !important
+}
+</style>    
+
   行内式
   
     ![我是图片](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/wallpaper/desktop/bing/lake.jpg)
