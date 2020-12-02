@@ -201,6 +201,10 @@ Markdown将文本转换为 HTML。
 	\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 	$$
 
+<img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
+
+<img src="http://latex.codecogs.com/gif.latex?\frac{x}{2y} +\frac{x-y}{x+y}" />
+
 ### 甘特图
 
 	```mermaid
