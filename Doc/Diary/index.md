@@ -24,7 +24,7 @@
 
 | preface | Mon | Tues | Wed | THurs | Fri | Sat | Sun | postscript |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="http://latex.codecogs.com/svg.latex?\frac{fit/writing/book/news}{0.5/.../1.5/1.5}" /> | []() | [1](../../Data/MD/2020/12/20201201.md) | []() | for every day | []() | []() | []() | []() |
+| <img src="https://latex.codecogs.com/png.latex?\dpi{200}&space;\bg_green&space;\fn_jvn&space;\frac{fit/writing/book/news}{0.5/.../1.5/1.5}" /> | []() | [1](../../Data/MD/2020/12/20201201.md) | []() | for every day | []() | []() | []() | []() |
 | []() | []() | []() | []() | []() | []() | []() | []() | []() |
 | []() | []() | []() | []() | []() | []() | []() | []() | []() |
 | []() | []() | []() | []() | []() | []() | []() | []() | []() |
