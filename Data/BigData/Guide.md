@@ -27,7 +27,7 @@
         <li><span class="folder">Statistics(统计学)</span>
             <ul>
               <li><span class="file">Calculus(微积分)</span></li>
-              <li><span class="file"><a href="https://mml-book.github.io/">机器学习数学</a><a href="https://github.com/mml-book/mml-book.github.io">源址</a></span></li>
+              <li><span class="file"><a href="https://mml-book.github.io/">机器学习数学</a>——<a href="https://github.com/mml-book/mml-book.github.io">源址</a></span></li>
             </ul>
         </li>
         <li><span class="folder">ML(机器学习)</span>
