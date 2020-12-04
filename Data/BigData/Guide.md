@@ -20,13 +20,14 @@
   </script>
 
 
-# AI(人工智能) Tree  [←](index.md)
+# AI(人工智能) Tree - [ai-ml-dl导论](https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/README-details.md#data) - [Why](https://en.wikipedia.org/wiki/Five_whys)/[批判性思维](https://www.callingbullshit.org/)/[业务流程](https://virgili0.github.io/Virgilio/paradiso/what-do-i-need-for-ml.html#the-three-elements) [←](index.md)
 
   <div id="main">
     <ul id="treeview" class="filetree">
         <li><span class="folder">Statistics(统计学)</span>
             <ul>
-            <li><span class="file"><a href="https://ambroseren.github.io">Calculus(微积分)</a></span></li>
+              <li><span class="file">Calculus(微积分)</span></li>
+              <li><span class="file"><a href="https://mml-book.github.io/">机器学习数学</a><a href="https://github.com/mml-book/mml-book.github.io">源址</a></span></li>
             </ul>
         </li>
         <li><span class="folder">ML(机器学习)</span>
@@ -54,6 +55,9 @@
                         <li><span class="file"><a href="https://www.data.gov/">data.gov.america</a></span></li>
                         <li><span class="file"><a href="https://data.gov.uk/">data.gov.uk</a></span></li>
                         <li><span class="file"><a href="https://data.europa.eu/euodp/en/data/">data.gov.england</a></span></li>
+                        <li><span class="file"><a href="https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/?sh=426d974db54d">data.forbes</a>
+                          </span></li>
+                        <li><span class="file"><a href="https://wiki.digitalmethods.net/Dmi/ToolDatabase">ToolDatabase</a></span></li>
                     </ul>
                 </li>                  
                 <li><span class="file">Neural Network(神经网络)</span>
