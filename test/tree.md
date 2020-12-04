@@ -1,27 +1,27 @@
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <title>Insert title here</title>
-    
-    <link rel="stylesheet" href="css/jquery.treeview.css" type="text/css"/>
-    <!--screen.css不要也可以-->
-    <link rel="stylesheet" href="css/screen.css" type="text/css"/>
+  <title>Insert title here</title>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-    <!--jquery.cookie.js不要也可以-->
-    <script src="js/jquery.cookie.js"></script>
-    <script src="js/jquery.treeview.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="../js/JQuery/jquery.treeview.css" type="text/css"/>
+  <!--screen.css不要也可以-->
+  <link rel="stylesheet" href="../js/JQuery/screen.css" type="text/css"/>
 
-    <script type="text/javascript">
-        $(document).ready(function(){
-            $("#treeview").treeview({
-                toggle: function() {
-                    console.log("%s was toggled.", $(this).find(">span").text());
-                }
-            });
-        });
-    </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+  <!--jquery.cookie.js不要也可以-->
+  <script src="../js/JQuery/jquery.cookie.js"></script>
+  <script src="js/jquery.treeview.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+      $(document).ready(function(){
+          $("#treeview").treeview({
+              toggle: function() {
+                  console.log("%s was toggled.", $(this).find(">span").text());
+              }
+          });
+      });
+  </script>
   </head>
 
   <div id="main">
