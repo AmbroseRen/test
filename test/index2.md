@@ -8,6 +8,9 @@
 
 另一种h2
 -------------------
+<div>
+<p><a name="top">这里是TOP部分</a></P>
+</div>
 
 列表
   无序列表
@@ -262,6 +265,8 @@ Markdown将文本转换为 [HTML]。
 HTML兼容测试
 
   <font size=8>我是放大字</font>
+
+<div><p><a href="#top">点击我链接到TOP</a></p></div>
 
 视频引用
 
