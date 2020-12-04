@@ -1,3 +1,29 @@
+<html>
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+  <title>Insert title here</title>
+
+  <link rel="stylesheet" href="../js/JQuery/treeview/jquery.treeview.css" type="text/css"/>
+  <!--screen.css不要也可以-->
+  <link rel="stylesheet" href="../js/JQuery/treeview/screen.css" type="text/css"/>
+
+  <script src="../js/JQuery/jquery.min.js"></script>
+  <!--jquery.cookie.js不要也可以-->
+  <script src="../js/JQuery/treeview/jquery.cookie.js"></script>
+  <script src="../js/JQuery/treeview/jquery.treeview.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+      $(document).ready(function(){
+          $("#treeview").treeview({
+              toggle: function() {
+                  console.log("%s was toggled.", $(this).find(">span").text());
+              }
+          });
+      });
+  </script>
+  </head>
+
 # AI Tree  [←](index.md)
 
 <div>
@@ -74,3 +100,4 @@
 | lucy | 25 | X |
 
 
+</html>
