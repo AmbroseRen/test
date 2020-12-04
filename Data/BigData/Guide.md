@@ -144,9 +144,26 @@
 ## jupyterExtension
 
 ```
+# 扩展管理
+
 jupyter nbextension install EXTENSION_NAME
 
 jupyter nbextension enable EXTENSION_NAME
+
+# nbconvert--格式转换：
+HTML
+LaTeX
+PDF
+RevealJS
+Markdown
+ReStructured Text
+Executable script
+
+jupyter nbconvert <input notebook> --to <output format>
+
+jupyter nbconvert py_examples.ipynb --to pdf
+
 ```
 
+[参考一](https://realpython.com/jupyter-notebook-introduction/#exporting-notebooks)
 
