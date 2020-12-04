@@ -21,11 +21,11 @@
 
 <div>
 
-<div style="position：relative;float:left;width:25%;height:35px;"><a href="#w1">参考站点</a></div>
+<div style="position：relative;float:left;width:25%;height:35px;"><a href="#参考站点">参考站点</a></div>
 
-<div style="position：relative;float:left;width:25%;height:35px;"><a href="#w2">Language</a></div>
+<div style="position：relative;float:left;width:25%;height:35px;"><a href="#Language">Language</a></div>
 
-<div style="position：relative;float:left;width:25%;height:35px;"><a href="#w3">PDF</a></div>
+<div style="position：relative;float:left;width:25%;height:35px;"><a href="#PDF">PDF</a></div>
 
 <div style="position：relative;float:left;width:25%;height:35px;"></div>
 
