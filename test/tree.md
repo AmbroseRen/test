@@ -4,14 +4,14 @@
     
   <title>Insert title here</title>
 
-  <link rel="stylesheet" href="../js/JQuery/jquery.treeview.css" type="text/css"/>
+  <link rel="stylesheet" href="../js/JQuery/treeview/jquery.treeview.css" type="text/css"/>
   <!--screen.css不要也可以-->
-  <link rel="stylesheet" href="../js/JQuery/screen.css" type="text/css"/>
+  <link rel="stylesheet" href="../js/JQuery/treeview/screen.css" type="text/css"/>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+  <script src="../js/JQuery/jquery.min.js"></script>
   <!--jquery.cookie.js不要也可以-->
-  <script src="../js/JQuery/jquery.cookie.js"></script>
-  <script src="js/jquery.treeview.js" type="text/javascript"></script>
+  <script src="../js/JQuery/treeview/jquery.cookie.js"></script>
+  <script src="../js/JQuery/treeview/jquery.treeview.js" type="text/javascript"></script>
 
   <script type="text/javascript">
       $(document).ready(function(){
