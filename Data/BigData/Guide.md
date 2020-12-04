@@ -24,7 +24,7 @@
 
   <div id="main">
     <ul id="treeview" class="filetree">       
-        <li><span class="folder"></span>
+        <li><span class="folder">Jupyter</span>
             <ul>
                 <li><span class="file"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a></span></li>
                 <li><span class="file"><a href="https://jupyter.org/try">在线使用模板</a></span></li>
