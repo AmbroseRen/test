@@ -21,7 +21,7 @@
 
 # AI(人工智能) Tree - [ai-ml-dl导论](https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/README-details.md#data) - [Why](https://en.wikipedia.org/wiki/Five_whys)/[批判性思维](https://www.callingbullshit.org/)/[业务流程](https://virgili0.github.io/Virgilio/paradiso/what-do-i-need-for-ml.html#the-three-elements) [←](index.md)
 
-  <div>
+  <div style="position:absolute;left:1100px;"><div>
 
   <div style="position：relative;float:left;width:25%;height:35px;"><a href="#参考站点">参考站点</a></div>
 
@@ -31,7 +31,7 @@
 
   <div style="position：relative;float:left;width:25%;height:35px;"></div>
 
-  </div>
+  </div></div>
 
   <div id="main">
     <ul id="treeview" class="filetree">       
