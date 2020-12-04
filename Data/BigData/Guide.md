@@ -31,16 +31,7 @@
               <li><span class="file"><a href="http://immersivemath.com/ila/index.html">线代</a>和<a href="https://textbooks.math.gatech.edu/ila/index.html">矩阵</a>概念参考</span></li>
               <li><span class="file"><a href="https://mml-book.github.io/">机器学习数学</a>——<a href="https://github.com/mml-book/mml-book.github.io">源址</a></span></li>
             </ul>
-        </li>
-        <li><span class="folder"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a></span>
-            <ul>
-                <li><span class="file"><a href="https://jupyter.org/try">在线使用模板</a></span></li>
-                <li><span class="file"><a href="https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-r7m1md4e/notebooks/binder/Index.ipynb"> Online Classic Notebook</a></span></li>
-                <li><span class="file"><a href="https://jupyter.org/">官网</a></span></li>
-                <li><span class="file"><a href="https://github.com/jupyter-guide/jupyter-guide">官网使用手册_待完善</a></span>
-                <li><span class="file"><a href="https://github.com/jupyter-guide/ten-rules-jupyter">官网手册二</a></span>
-            </ul>
-        </li>       
+        </li>      
         <li><span class="folder">ML(机器学习)</span>
             <ul>
                 <li><span class="file">Arithmetic(算法)</span>
