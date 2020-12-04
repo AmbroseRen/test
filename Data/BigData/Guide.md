@@ -32,7 +32,7 @@
               <li><span class="file"><a href="https://mml-book.github.io/">机器学习数学</a>——<a href="https://github.com/mml-book/mml-book.github.io">源址</a></span></li>
             </ul>
         </li>
-        <li><span class="folder"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a>
+        <li><span class="folder"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a></span>
             <ul>
                 <li><span class="file"><a href="https://jupyter.org/try">在线使用模板</a></span></li>
                 <li><span class="file"><a href="https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-r7m1md4e/notebooks/binder/Index.ipynb"> Online Classic Notebook</a></span></li>
