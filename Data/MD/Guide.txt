@@ -63,6 +63,12 @@
  
  _ _ _
 
+锚点
+
+<a href="#top">点击我链接到TOP</a>
+
+<a name="top">这里是TOP部分</a>
+
 链接
 
 <http://example.com/>
