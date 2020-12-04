@@ -31,8 +31,6 @@
   
   <div style="position：relative;float:left;width:25%;height:35px;"><a href="#jupyterextension">jupyterExtension</a></div>
 
-  <div style="position：relative;float:left;width:25%;height:35px;"></div>
-
   </div>
 
 ## Tree
