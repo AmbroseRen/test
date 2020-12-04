@@ -24,8 +24,9 @@
 
   <div id="main">
     <ul id="treeview" class="filetree">       
-        <li><span class="folder"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a></span>
+        <li><span class="folder"></span>
             <ul>
+                <li><span class="file"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a></span></li>
                 <li><span class="file"><a href="https://jupyter.org/try">在线使用模板</a></span></li>
                 <li><span class="file"><a href="https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-r7m1md4e/notebooks/binder/Index.ipynb"> Online Classic Notebook</a></span></li>
                 <li><span class="file"><a href="https://jupyter.org/">官网</a></span></li>
