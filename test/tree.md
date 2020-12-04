@@ -28,7 +28,7 @@
     <ul id="treeview" class="filetree">
         <li><span class="folder">密码修改</span>
             <ul>
-            <li><span class="file">密码修改</span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io">密码修改</a></span></li>
             </ul>
         </li>
         <li><span class="folder">系统管理</span>
