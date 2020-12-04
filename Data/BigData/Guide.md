@@ -24,7 +24,7 @@
 
   <div id="main">
     <ul id="treeview" class="filetree">
-        <li><span class="folder"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a>——<a href="https://jupyter.org/">官网</a>——<a href="https://github.com/jupyter-guide/jupyter-guide">官网使用手册_待完善</a>——<a href="https://github.com/jupyter-guide/ten-rules-jupyter">官网手册二</a></span></li>
+        <li><span class="folder"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a>——<a href="https://jupyter.org/try">在线使用模板</a>——<a href="https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-r7m1md4e/notebooks/binder/Index.ipynb"> Online Classic Notebook</a>——<a href="https://jupyter.org/">官网</a>——<a href="https://github.com/jupyter-guide/jupyter-guide">官网使用手册_待完善</a>——<a href="https://github.com/jupyter-guide/ten-rules-jupyter">官网手册二</a></span></li>
         <li><span class="folder">Statistics(统计学)</span>
             <ul>
               <li><span class="file"><a href="https://www.wolframalpha.com/">公式在线解析器</a>——<a href="https://www.wolframalpha.com/widgets/view.jsp?id=54af80f0c43c8717d710f39be0642aaa">三元一次方程组</a>——<a href="https://www.wolframalpha.com/problem-generator/">使用练习</a>——<a href="https://www.wolframalpha.com/input/?i=plot%28+%2830+-+1%29+%2F+%28t+%2B+2%29%5E1.8%2C++%2860+-+1%29+%2F+%28t+%2B+2%29%5E1.8%2C+%28200+-+1%29+%2F+%28t+%2B+2%29%5E1.8+%29+where+t%3D0..24">示例</a></span></li>
