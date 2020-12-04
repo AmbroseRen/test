@@ -28,6 +28,8 @@
   <div><a href="#language">Language</a></div>
 
   <div><a href="#pdf">PDF</a></div>
+  
+  <div><a href="#jupyterextension">jupyterExtension</a></div>
 
   <div></div>
 
@@ -138,5 +140,13 @@
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
+
+## jupyterExtension
+
+```
+jupyter nbextension install EXTENSION_NAME
+
+jupyter nbextension enable EXTENSION_NAME
+```
 
 
