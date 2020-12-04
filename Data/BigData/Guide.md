@@ -23,13 +23,13 @@
 
   <div style="position:absolute;left:1100px;"><div>
 
-  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#参考站点">参考站点</a></div>
+  <div><a href="#参考站点">参考站点</a></div>
 
-  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#language">Language</a></div>
+  <div><a href="#language">Language</a></div>
 
-  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#pdf">PDF</a></div>
+  <div><a href="#pdf">PDF</a></div>
 
-  <div style="position：relative;float:left;width:25%;height:35px;"></div>
+  <div></div>
 
   </div></div>
 
