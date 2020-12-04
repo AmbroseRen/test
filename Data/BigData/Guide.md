@@ -26,7 +26,8 @@
     <ul id="treeview" class="filetree">
         <li><span class="folder">Statistics(统计学)</span>
             <ul>
-              <li><span class="file">Calculus(微积分)</span></li>
+              <li><span class="file"><a href="https://www.wolframalpha.com/">公式在线解析器</a>——<a href="https://www.wolframalpha.com/problem-generator/">使用练习</a>——<a href="https://www.wolframalpha.com/input/?i=plot%28+%2830+-+1%29+%2F+%28t+%2B+2%29%5E1.8%2C++%2860+-+1%29+%2F+%28t+%2B+2%29%5E1.8%2C+%28200+-+1%29+%2F+%28t+%2B+2%29%5E1.8+%29+where+t%3D0..24">示例</a></span></li>
+              <li><span class="file">Calculus(微积分)——<a href="https://www.math.mcgill.ca/rags/JAC/dobson/dobson.html">练习一</a>——<a href="https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx">练习二</a></span></li>
               <li><span class="file"><a href="https://mml-book.github.io/">机器学习数学</a>——<a href="https://github.com/mml-book/mml-book.github.io">源址</a></span></li>
             </ul>
         </li>
