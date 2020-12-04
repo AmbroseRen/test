@@ -46,6 +46,16 @@
                     </ul>
                 </li>                  
                 <li><span class="file">Model(模型)</span></li>
+                <li><span class="file">DL(深度学习)</span></li>
+                <li><span class="file">免费可用数据</span>
+                    <ul>
+                        <li><span class="file"><a href="https://www.kaggle.com/">kaggle</a></span></li>
+                        <li><span class="file"><a href="https://archive.ics.uci.edu/ml/index.php">UCI</a></span></li>
+                        <li><span class="file"><a href="https://www.data.gov/">data.gov.america</a></span></li>
+                        <li><span class="file"><a href="https://data.gov.uk/">data.gov.uk</a></span></li>
+                        <li><span class="file"><a href="https://data.europa.eu/euodp/en/data/">data.gov.england</a></span></li>
+                    </ul>
+                </li>                  
                 <li><span class="file">Neural Network(神经网络)</span>
                     <ul>
                         <li><span class="file">MLP(机器学习)</span></li>
