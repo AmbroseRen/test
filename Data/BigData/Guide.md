@@ -167,3 +167,5 @@ jupyter nbconvert py_examples.ipynb --to pdf
 
 [参考一](https://realpython.com/jupyter-notebook-introduction/#exporting-notebooks)
 
+[nbdime](https://nbdime.readthedocs.io/en/latest/)即.ipynb转.py
+
