@@ -39,7 +39,7 @@
     <ul id="treeview" class="filetree">       
         <li><span class="folder">Jupyter</span>
             <ul>
-                <li><span class="file"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a>——<a href="https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/">Jupyter使用技巧</a></span></li>
+                <li><span class="file"><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter入门</a>——<a href="https://realpython.com/jupyter-notebook-introduction/#exporting-notebooks">Jupyter入门一</a>——<a href="https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/">Jupyter使用技巧</a></span></li>
                 <li><span class="file"><a href="https://jupyter.org/try">在线使用模板</a></span></li>
                 <li><span class="file"><a href="https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-r7m1md4e/notebooks/binder/Index.ipynb"> Online Classic Notebook</a></span></li>
                 <li><span class="file"><a href="https://jupyter.org/">官网</a></span></li>
@@ -164,8 +164,6 @@ jupyter nbconvert <input notebook> --to <output format>
 jupyter nbconvert py_examples.ipynb --to pdf
 
 ```
-
-[参考一](https://realpython.com/jupyter-notebook-introduction/#exporting-notebooks)
 
 [nbdime](https://nbdime.readthedocs.io/en/latest/)即.ipynb转.py
 
