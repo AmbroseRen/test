@@ -17,3 +17,6 @@ pip3 install keras_preprocessing==1.0.5 --no-deps
 pacman -S git patch unzip
 ```
 
+> 2020-12-7 13:33:16 +0000
+
+stopping
