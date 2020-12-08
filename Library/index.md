@@ -15,6 +15,8 @@
 
 [实用性阅读指南](http://ebookimg.lorefree.com/assets/file/2019/04/14/172140/%E5%AE%9E%E7%94%A8%E6%80%A7%E9%98%85%E8%AF%BB%E6%8C%87%E5%8D%97.pdf) - [副链](https://files.catbox.moe/fy8yeq.pdf)
 
+[信息检索导论](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Technology/信息检索导论.pdf)
+
 []()
 
 
