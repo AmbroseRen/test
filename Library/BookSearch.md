@@ -14,6 +14,10 @@
 | ~~[书单网](https://www.shudan.vip/115040.html)~~ | 搜索引擎 | X | X | X |
 | ~~[rukomos](http://cn-library.rukomos.ru/)~~ | 综合 | X | X | X |
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
+| everything | 综合图书 | X | X | X |
+| [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | X | X |
+| [scribd](https://www.scribd.com/) | scribd | X | X | X |
+| []() | 25 | X | X | X |
 | literature | 文学 | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | Y | X | X |
 | [掌上书苑](https://www.soepub.com/) | 现代文学 | X | X | X |
