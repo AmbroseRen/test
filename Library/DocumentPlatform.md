@@ -1,2 +1,0 @@
-# DcoumentPlatform  [←](index.md)
-
