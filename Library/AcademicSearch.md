@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 摘引 |
 |:---:|:---:|:---:|
 | [万方数据](http://www.wanfangdata.com.cn/index.html) | 会议、学术论文 | Y |
-| [elsevier](https://www.elsevier.com/) | 会议、学术论文 | X |
+| [elsevier](https://www.sciencedirect.com/) | 会议、学术论文 | [主站](https://www.elsevier.com/) |
 | [CNS](https://www.cns.org/Default.aspx) | 神经外科 | Y |
 | [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | X |
 | [arxiv.org](https://arxiv.org/) | 学术论文搜索 | X |
