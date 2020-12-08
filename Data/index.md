@@ -1,6 +1,6 @@
 # DataLists             [Home](../index.md)
 
-| _ | _ | _ | _ | _ |
+| [Other](Other.md) | _ | _ | _ | _ |
 |:---:|:---:|:---:|:---:|:---:|
 | [网站、论坛、App信息风云榜](DataRank.md) | [Cloud(DataLake)](DataLake.md) | [Clouder](Clouder.md) | [TorrentKitty](TorrentKitty.md) | [InstallPackage](InstallPackage/index.md) |
 | [News](News/index.md) | [Fodder](Fodder/index.md) | [MD](MD/index.md) | [Maven](Maven/index.md) |  |
