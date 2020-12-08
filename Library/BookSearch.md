@@ -17,7 +17,6 @@
 | everything | 综合图书 | X | X | X |
 | [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | X | X |
 | [scribd](https://www.scribd.com/) | scribd | X | X | X |
-| []() | 25 | X | X | X |
 | literature | 文学 | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | Y | X | X |
 | [掌上书苑](https://www.soepub.com/) | 现代文学 | X | X | X |
@@ -31,6 +30,7 @@
 | IT | 技术 | X | X | X |
 | [图灵社区](https://www.ituring.com.cn/book?tab=free) | [IT图书导航](https://github.com/sindresorhus/awesome) | [ARM嵌入式Linux系统开发详解](https://www.ituring.com.cn/book/1518) | X | X |
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
+| [it168](http://wenku.it168.com/) | IT文档分享 | X | X | X |
 | Animes | 动漫书籍 | X | X | X |
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
 | Primer | 初级读本 | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
