@@ -18,6 +18,10 @@
 | [原创力文档](https://max.book118.com/) | 文档共享存储平台 | X |
 | [电子图书馆](https://b-ok.asia/?regionChanged=&redirect) | en-zLibrary | X |
 | [考试资料网](https://www.ppkao.com/) | 搜题题库 | X |
+| [道客巴巴](https://www.doc88.com/) | 25 | X |
+| PDF | PDF存储及搜索 | X |
+| [蓝菊花](http://www.lanjuhua.com/) | 25 | X |
+| [城通网盘](https://home.ctfile.com/#item-files) | 25 | [国际版网盘](http://www.ctfile.net/) |
 | Assist | 辅助 | X |
 | [wolframalpha](https://www.wolframalpha.com/) | 计算辅助 | X |
 | [数学乐](https://www.shuxuele.com/sine-cosine-tangent.html) | 几何学 | [弧度](https://www.shuxuele.com/sine-cosine-tangent.html) |
