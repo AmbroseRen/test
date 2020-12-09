@@ -3,7 +3,7 @@
 | _ | _ | _ |
 |:---:|:---:|:---:|
 | [Oracle Java JDK 6u45](https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html) | [Oracle Java JDK 7u80](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html) | [Oracle Java JDK 8u271](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) |
-| []() | []() | []() |
+| [java-jdk-7u80/8u231-windows-x64.exe](https://pan.baidu.com/s/14G2bVjUSJz-Xy-GxSDHCaQ):rsja | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X 
 
