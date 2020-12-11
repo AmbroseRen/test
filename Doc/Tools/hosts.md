@@ -43,3 +43,4 @@ OS X 10.9: 在［应用程序］［实用工具］［终端］运行命令 dscac
 
 OS X 10.7 ~ 10.8: 在［应用程序］［实用工具］［终端］运行命令 sudo killall -HUP mDNSResponder
 
+[翻墙软件现状](https://www.wallmama.com/best-vpn-china/)
