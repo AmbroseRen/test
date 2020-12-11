@@ -26,7 +26,7 @@ VPN
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [VPN](VPN.md) | [hosts](hosts) | []() |
+| [hostsGuide](hosts.md) | [hosts](hosts) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
