@@ -1,6 +1,6 @@
 # Google云端硬盘不能访问解决备忘
 
-[参考](VPN.md)：修改C:\windows\system32\drivers\etc\hosts文件，最未尾加入
+[参考](hosts.md)：修改C:\windows\system32\drivers\etc\hosts文件，最未尾加入
 
 74.125.71.94 drive.google.com
 
