@@ -6,7 +6,7 @@
 
 ## 参考
 
-墙妈妈域名虽然在国内被墙，但你仍可通过手动修改电脑Host的方法访问，下面是各电脑操作系统上Host文件的位置：
+墙妈妈域名虽然在国内被墙，但你仍可通过手动修改电脑Host的方法访问，下面是各电脑操作系统上Host文件的位置[参考](https://www.moerats.com/archives/114/)：
 
 Windows：c:\windows\System32\drivers\etc\hosts
 
