@@ -2,6 +2,8 @@
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
+# c:\windows\system32\drivers\etc
+#
 # This file contains the mappings of IP addresses to host names. Each
 # entry should be kept on an individual line. The IP address should
 # be placed in the first column followed by the corresponding host name.
