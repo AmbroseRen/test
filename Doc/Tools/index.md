@@ -15,7 +15,7 @@ Plugins
 | _ | _ | _ | _ | _ |
 |:---:|:---:|:---:|:---:|:---:|
 | [Tools](Tools.txt) | [Git](Git/index.md) | [Vimium](Vimium.txt) | []() | []() |
-| [Docker](Docker.md) | [Idea](Idea/index.md) | [Tomcat](Tomcat.txt) | []() | []() |
+| [Docker](Docker.md) | [Idea](Idea/index.md) | [Tomcat](Tomcat.txt) | [Navicat](Navicat.md) | []() |
 | []() | []() | []() | []() | []() |
 | []() | []() | []() | []() | []() |
 | lucy | 25 | X |
