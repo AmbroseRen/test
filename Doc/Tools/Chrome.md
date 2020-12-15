@@ -20,7 +20,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 
 | Plugins | Description | Abstract |
 |:---:|:---:|:---:|
-| [Chrome插件扩展网站](https://chrome.zzzmh.cn/index#ext) |  | X |
+| [Chrome插件扩展网站](https://chrome.zzzmh.cn/index#ext) | [Chrome使用指南](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md) | X |
 | [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)/[源码](https://github.com/zhaoolee/ChromeAppHeroes) | [Chrome&MacOS](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md#mac) | [在线工具](https://github.com/zhaoolee/OnlineToolsBook) |
 | Tempermonkey | onload any js for every websites | Y |
 | stylus | onload any css for every websites | X |
