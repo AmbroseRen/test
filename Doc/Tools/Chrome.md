@@ -52,6 +52,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | SEOquake | SEO | X |
 | 二维码生成器 (Quick QR) |  | X |
 | [官方文档](http://ksria.com/simpread/)/[源码](https://github.com/Kenshin/simpread) | 简阅·阅读器 | X |
+| [录屏插件](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)/[源码](https://github.com/alyssaxuu/screenity) | 录屏插件 | X |
 |  |  | X |
 |  |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
