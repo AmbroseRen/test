@@ -51,6 +51,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | search2 | 多搜索引擎插件|  |
 | SEOquake | SEO | X |
 | 二维码生成器 (Quick QR) |  | X |
+| [官方文档](http://ksria.com/simpread/)/[源码](https://github.com/Kenshin/simpread) | 简阅·阅读器 | X |
 |  |  | X |
 |  |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
