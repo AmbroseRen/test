@@ -48,7 +48,7 @@
 | [centos8](https://www.centos.org/download/) | O_O | [centos6.10](http://ftp.riken.jp/Linux/centos/6.10/isos/x86_64/) |
 | []() | O_O | Y |
 | MacOS | MacOS操作系统 | [Apple ID官网](https://appleid.apple.com/) - [账号云空间](https://www.icloud.com/) |
-| [awesome-mac](https://wangchujiang.com/awesome-mac/index.zh.html) | MacOS精品软件列表 | Y |
+| [awesome-mac](https://wangchujiang.com/awesome-mac/index.zh.html) | MacOS精品软件列表 | [AboutOne](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md#mac) |
 | [SwitchKey](https://github.com/itsuhane/SwitchKey) | 键盘输入法自适应 | Y |
 | [文档](https://sindresorhus.com/KeyboardShortcuts/)/[源码](https://github.com/sindresorhus/KeyboardShortcuts) | 自定义键盘映射 | Y |
 | []() | O_O | Y |
