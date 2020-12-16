@@ -1,6 +1,6 @@
 # jeecg框架使用手册  [←](../framework_backstage.md)
 
-## [官方文档](http://doc.jeecg.com/2043868)·[新手快速入门](http://www.jeecg.com/doc/quickstart)·社区[常见问题大全](http://bbs.jeecg.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
+## [官方文档](http://doc.jeecg.com/2043868)/[老版](http://jeecg-boot.mydoc.io/)·[新手快速入门](http://www.jeecg.com/doc/quickstart)·社区[常见问题大全](http://bbs.jeecg.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
 
 ## 环境准备
 
