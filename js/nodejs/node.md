@@ -24,8 +24,8 @@ npm eject
 ```
 
 > 安装yarn lib M
->> [下载官方安装包](https://classic.yarnpkg.com/zh-Hans/docs/install#windows-stable)，一定要配置环境变量。
->> NPM安装
+>> 方式一：[下载官方安装包](https://classic.yarnpkg.com/zh-Hans/docs/install#windows-stable)，一定要配置环境变量。
+>> 方式二：NPM安装
 ```
 npm i yarn -g
 -i：install 
