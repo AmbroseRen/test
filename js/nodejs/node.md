@@ -22,3 +22,13 @@ npm build
 npm test
 npm eject
 ```
+
+> 配置Nodejs镜像
+```
+npm config set registry https://registry.npm.taobao.org --global
+npm config set disturl https://npm.taobao.org/dist --global
+
+yarn config set registry https://registry.npm.taobao.org --global
+yarn config set disturl https://npm.taobao.org/dist --global
+```
+
