@@ -25,7 +25,7 @@
 新增过滤
 ![](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/Web/framework/jeecg/jeecg-boot-shiro.jpg)
 
-[前台npm+yarn安装]()
+[前台npm+yarn安装](https://ambroseren.github.io/test/js/nodejs/node.html)
 
 
 
