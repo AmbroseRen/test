@@ -24,8 +24,11 @@ npm eject
 ```
 
 > 安装yarn lib M
+
 >> 方式一：[下载官方安装包](https://classic.yarnpkg.com/zh-Hans/docs/install#windows-stable)，一定要配置环境变量。
+
 >> 方式二：NPM安装
+
 ```
 npm i yarn -g
 -i：install 
@@ -33,6 +36,7 @@ npm i yarn -g
 ```
 
 >> yarn常用命令
+
 ```
 yarn -version
 yarn / yarn install 等同于npm install 批量安装依赖
@@ -44,6 +48,7 @@ yarn global add xxx 等同于 npm install xxx -g 全局安装指定包
 ```
 
 > 配置Nodejs镜像
+
 ```
 npm config set registry https://registry.npm.taobao.org --global
 npm config set disturl https://npm.taobao.org/dist --global
