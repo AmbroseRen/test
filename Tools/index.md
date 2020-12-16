@@ -2,6 +2,9 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| Install | 安装工具 | Y |
+| [gifcam](http://blog.bahraniapps.com/gifcam/) | gif录制工具 | Y |
+| []() | O_O | Y |
 | Code | 代码 | Y |
 | [站长工具](http://tool.chinaz.com/js.aspx) | 前端格式转换 | Y |
 | [在线代码格式化](https://tool.oschina.net/codeformat/sql)二步辅助可阅读 | O_O | [主站](https://tool.oschina.net/) - [Unicode转中文](https://www.dute.org/unicode)一步辅助人可解析 |
