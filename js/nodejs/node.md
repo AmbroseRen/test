@@ -25,6 +25,8 @@ npm eject
 
 > 安装yarn lib M
 
+>> [百度网盘安装包](https://pan.baidu.com/s/16z9qNtyk24bsrZxRFBHP2w)，提取码：pagv
+
 >> 方式一：[下载官方安装包](https://classic.yarnpkg.com/zh-Hans/docs/install#windows-stable)，一定要配置环境变量。
 
 >> 方式二：NPM安装
