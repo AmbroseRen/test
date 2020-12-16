@@ -1,6 +1,6 @@
 # jeecg框架使用手册  [←](../framework_backstage.md)
 
-## 环境准备
+## 环境准备·[新手快速入门](http://www.jeecg.com/doc/quickstart)
 
 [工具包](https://pan.baidu.com/s/16z9qNtyk24bsrZxRFBHP2w)，提取码：pagv
 
