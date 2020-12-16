@@ -21,7 +21,6 @@
 
 数据库配置
 
-![](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/Web/framework/jeecg/jeecg-boot-mysql.jpg)
 
 新增过滤
 ![](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/Web/framework/jeecg/jeecg-boot-shiro.jpg)
