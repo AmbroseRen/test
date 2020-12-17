@@ -39,10 +39,10 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 |  | 四代 | 最新技术(传播就被针对，自己找)
 | []() |  | X |
 | Github Plugins | Github优化体验插件 | X |
-| []() |  | X |
-| []() |  | X |
-| []() |  | X |
-| []() |  | X |
+| [octotree](https://chrome.google.com/webstore/search/octotree?utm_source=chrome-ntp-icon) | 树目录视图插件 | X |
+| [github file icons](https://chrome.google.com/webstore/search/github%20file%20icon?utm_source=chrome-ntp-icon) | 文件图标美化 | X |
+| [gitzip for github](https://chrome.google.com/webstore/search/gitzip%20for%20github?utm_source=chrome-ntp-icon) | 分拆文件下载 | X |
+| [github加速](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg) | 文件下载加速器 | X |
 | []() |  | X |
 | []() |  | X |
 | timer | 时间段管理 | X |
