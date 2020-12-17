@@ -46,7 +46,8 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | []() |  | X |
 | []() |  | X |
 | timer | 时间段管理 | X |
-| ABP |  | X |
+| [Adblock](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) | AD屏蔽 | X |
+| [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | AD屏蔽 | X |
 | Avast Online Security | 网络安全 | X |
 | [Export to Markdown](https://github.com/madneal/export-to-markdown) | Medium export article | X |
 | GitHub File Icons |  | X |
