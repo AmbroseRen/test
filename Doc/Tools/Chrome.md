@@ -58,7 +58,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [一叶](https://chrome.google.com/webstore/detail/same-page/bldcellajihanglphncgjmceklbibjkk) | 同网页弹幕化 | X |
 | [Listen1](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp/related) | 聚合VIP音乐播放器 | X |
 | [Emoji](https://chrome.google.com/webstore/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb) | 表情库 | X |
-|  |  | X |
+| [oneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | 书签任务聚合 | X |
 |  |  | X |
 |  |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
