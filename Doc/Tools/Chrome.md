@@ -37,7 +37,14 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | ZenMate Free VPN | 二代 | X |
 | SetupVPN | 三代 | [PDF手册](https://files.catbox.moe/pacr7n.pdf) |
 |  | 四代 | 最新技术(传播就被针对，自己找)
-|  |  | X |
+| []() |  | X |
+| Github Plugins | Github优化体验插件 | X |
+| []() |  | X |
+| []() |  | X |
+| []() |  | X |
+| []() |  | X |
+| []() |  | X |
+| []() |  | X |
 | timer | 时间段管理 | X |
 | ABP |  | X |
 | Avast Online Security | 网络安全 | X |
