@@ -42,6 +42,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [octotree](https://chrome.google.com/webstore/search/octotree?utm_source=chrome-ntp-icon) | 树目录视图插件 | X |
 | [github file icons](https://chrome.google.com/webstore/search/github%20file%20icon?utm_source=chrome-ntp-icon) | 文件图标美化 | X |
 | [gitzip for github](https://chrome.google.com/webstore/search/gitzip%20for%20github?utm_source=chrome-ntp-icon) | 分拆文件下载 | X |
+| [Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en) | 分拆文件下载·未测 | X |
 | [github加速](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg) | 文件下载加速器 | X |
 | []() |  | X |
 | []() |  | X |
@@ -50,9 +51,6 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | AD屏蔽 | X |
 | Avast Online Security | 网络安全 | X |
 | [Export to Markdown](https://github.com/madneal/export-to-markdown) | Medium export article | X |
-| GitHub File Icons |  | X |
-| GitZip for github | download github files for someone | X |
-| Octotree | GitHub code tree | X |
 | The Great Suspender | 内存管理 | X |
 | Vimium C | 全键盘操作浏览器 - 提高每个网页50%浏览速度 |  |
 | Word Counter | 字数统计(需选中右键可用) | X |
