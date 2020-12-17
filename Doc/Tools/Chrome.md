@@ -70,6 +70,12 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [RSS Fead Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) | RSS订阅器 | X |
 | [Feedly](https://feedly.com/) | RSS订阅器优化版 | X |
 | [imageassistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) | 图片批量下载器 | X |
+| [鼠标点击特效](https://chrome.google.com/webstore/detail/mouse-click-effects-%E0%B9%91%E2%80%A2%CC%81-%E2%88%80/ljoolhajdkmjfneghpfiofogllcninii) |  | X |
+| [Custom Cursor for Chrome™ ](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale) | 自定义光标 | X |
+| [Google Results Previewer](https://chrome.google.com/webstore/detail/google-results-previewer/mkmjdljkedjpedbceoaaghdmcnipdcjf) | 谷歌结果预览 | X |
+| [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)/[手册](https://www.v2fy.com/p/049_web_server_for_chrome/) | 局域网文件分享 | X |
+| []() |  | X |
+| []() |  | X |
 | []() |  | X |
 | []() |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
