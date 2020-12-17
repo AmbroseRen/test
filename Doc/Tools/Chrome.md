@@ -76,6 +76,8 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)/[手册](https://www.v2fy.com/p/049_web_server_for_chrome/) | 局域网文件分享 | X |
 | [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) | 分组扩展管理器 | 权限太大，保留使用 |
 | [一键管理扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni) | 随禁随启 | 权限太大，保留使用 |
+| [MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod?hl=zh-CN)/[文档](https://www.v2fy.com/p/019_mega/) | 网盘 | [客户端·国内下](https://pan.baidu.com/s/1yaUTRHpfAnpFKgd55BPIHg ),提取码：mjx8 |
+| []() |  | X |
 | []() |  | X |
 | []() |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
