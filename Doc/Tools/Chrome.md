@@ -69,7 +69,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [oneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | 书签任务聚合 | X |
 | [RSS Fead Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) | RSS订阅器 | X |
 | [Feedly](https://feedly.com/) | RSS订阅器优化版 | X |
-| []() |  | X |
+| [imageassistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) | 图片批量下载器 | X |
 | []() |  | X |
 | []() |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
