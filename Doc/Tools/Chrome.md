@@ -55,6 +55,8 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)/[源码](https://github.com/alyssaxuu/screenity) | 录屏插件 | X |
 | [awesome_Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=zh-CN) | 录屏截屏插件（未测） | X |
 | [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=zh-CN) | 密码管理填充插件(执行斟酌使用) | X |
+| [一叶](https://chrome.google.com/webstore/detail/same-page/bldcellajihanglphncgjmceklbibjkk) | 同网页弹幕化 | X |
+|  |  | X |
 |  |  | X |
 |  |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
