@@ -59,8 +59,11 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [Listen1](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp/related) | 聚合VIP音乐播放器 | X |
 | [Emoji](https://chrome.google.com/webstore/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb) | 表情库 | X |
 | [oneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | 书签任务聚合 | X |
-|  |  | X |
-|  |  | X |
+| [RSS Fead Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) | RSS订阅器 | X |
+| [Feedly](https://feedly.com/) | RSS订阅器优化版 | X |
+| []() |  | X |
+| []() |  | X |
+| []() |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
 
 # Chrome插件开发
