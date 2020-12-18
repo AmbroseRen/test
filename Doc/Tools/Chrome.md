@@ -77,6 +77,10 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod?hl=zh-CN)/[文档](https://www.v2fy.com/p/019_mega/) | 网盘 | [客户端·国内下](https://pan.baidu.com/s/1yaUTRHpfAnpFKgd55BPIHg ),提取码：mjx8 |
 | []() |  | X |
 | []() |  | X |
+| 公众号编辑工具 |  | X |
+| [壹伴](https://yiban.io/?utm=chajian) |  | X |
+| [新媒体管家](https://chrome.google.com/webstore/detail/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6/jicmnjcngcnfhgfggbdhlbjpcbadimaj?utm_source=chrome-ntp-icon) |  | X |
+| []() |  | X |
 | []() |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
 
