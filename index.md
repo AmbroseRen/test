@@ -1,5 +1,3 @@
-<link rel="icon" type="image/png" href="/favicon.ico">
-
 ## Welcome to RenSi's Databases
 
 <script async src="https://cse.google.com/cse.js?cx=2f0e585bf98b84b6d"></script>
