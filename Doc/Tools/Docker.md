@@ -105,4 +105,8 @@ docker push localhost:5000/ubuntu
 
 ## helm
 
+### install
+
+[Doc](https://helm.sh/docs/intro/quickstart/)/[Code](https://github.com/helm/helm)
+
 [helm辅助k8s部署](https://www.cnblogs.com/zhanglianghhh/p/14165995.html)
