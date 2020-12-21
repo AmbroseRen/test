@@ -3,7 +3,7 @@ Publish Date: 2020-10-20 11:09:26 +0000
 
   <div style="left:60%;">
 
-  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#kubernete">kubernete</a></div>
+  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#kubernetes">kubernetes</a></div>
 
   <div style="position：relative;float:left;width:25%;height:35px;"><a href="#helm">helm</a></div>
 
@@ -99,7 +99,7 @@ docker tag ubuntu localhost:5000/ubuntu
 docker push localhost:5000/ubuntu
 ```
 
-## kubernete
+## kubernetes
 
 
 
