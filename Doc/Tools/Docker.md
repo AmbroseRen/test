@@ -5,7 +5,7 @@ Publish Date: 2020-10-20 11:09:26 +0000
 
   <div style="position：relative;float:left;width:25%;height:35px;"><a href="#kubernete">kubernete</a></div>
 
-  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#halm">halm</a></div>
+  <div style="position：relative;float:left;width:25%;height:35px;"><a href="#helm">helm</a></div>
 
   <div style="position：relative;float:left;width:25%;height:35px;"><a href="#pdf"></a></div>
   
@@ -96,3 +96,11 @@ exit
 docker tag ubuntu localhost:5000/ubuntu
 docker push localhost:5000/ubuntu
 ```
+
+## kubernete
+
+
+
+## helm
+
+[helm辅助k8s部署](https://www.cnblogs.com/zhanglianghhh/p/14165995.html)
