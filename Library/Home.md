@@ -9,7 +9,7 @@
 | [My_Books](https://catbox.moe/c/e64kjk#) | 书库 | Y |
 | [My_Doc](https://app.gitbook.com/@ambroserencn/s/ambroseren/) | 文档库 | Y |
 | [My_CSDN](https://blog.csdn.net/Ambrose_Ren) | CSDN | Y |
-| [My_cnblog](https://www.cnblogs.com/rensi/) | 博客园 | [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) |
+| [My_cnblog](https://www.cnblogs.com/rensi/) | 博客园 | [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)/[install](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/GettingStarted/install) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
