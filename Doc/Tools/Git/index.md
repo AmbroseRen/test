@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | [Git](Git.txt) | [GitFAQ](GitOne.txt) | [Some Git Plugins](SomeGit.md) |
 | [Git官方文档](https://git-scm.com/book/zh/v2) | [下载](https://git-scm.com/downloads) | [Github Users Global Ranking.](https://wangchujiang.com/github-rank/index.html) |
-| [GitOne](https://www.jeffjade.com/2014/12/22/2014-12-22-gitmemo/) | [GitTwo](https://www.cnblogs.com/mengdd/p/4153773.html) | []() |
+| [GitCmdOne](https://www.jeffjade.com/2014/12/22/2014-12-22-gitmemo/) | [GitCmdTwo](https://www.cnblogs.com/mengdd/p/4153773.html) | [hellogithub](https://hellogithub.com/)月刊/[削微寒](https://www.cnblogs.com/xueweihan/archive/2004/01/13/5458657.html) |
 | []() | []() | []() |
 | []() | []() | []() |
 | [Git Icon](https://octodex.github.com/) | []() | []() |
