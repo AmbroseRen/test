@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [通用前端框架](framework.md) | O_O | Y |
+| [通用前端框架](framework.md) | O_O | [前端资源教程](https://cnodejs.org/topic/56ef3edd532839c33a99d00e) |
 | [通用后台框架](framework_backstage.md) | O_O | Y |
 | [WebGL](WebGL/index.md) | CG | Y |
 | [Server](Server.md) | 前端脚手架 | Y |
