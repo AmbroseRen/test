@@ -30,6 +30,7 @@
 | [shoots](http://spray.training/) | 靶场 | Y |
 | [kickassapp](https://kickassapp.com/) | 图形插件 | Y |
 | [nazo game](https://nazo.one-story.cn/) | 猜谜过关 | Y |
+| [大转盘](https://100px.net/demo/wheel/ymc.html) | O_O | Y |
 | CG | 图形实例 | Y |
 | [Animes](http://species-in-pieces.com/#) | CG 30Anime | Y |
 | [WebGL](http://www.spielzeugz.de/lab/) | O_O | [Home](http://www.spielzeugz.de/) - [js particle](http://www.spielzeugz.de/html5/liquid-particles-3D/) |
