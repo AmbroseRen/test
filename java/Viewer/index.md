@@ -1,4 +1,4 @@
-# some view data  [←](../index.md)
+# some view data  [←](../../index.md)
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
