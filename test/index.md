@@ -16,7 +16,7 @@
 
 <p align="right">
   <a href="#">
-      <img src="https://camo.githubusercontent.com/cf353ef13d272ad4fa9933c7abfc052d308f3328c35da7d457100100cfd781c8/687474703a2f2f657374727579662d6769746875622e617a75726577656273697465732e6e65742f6170692f56697369746f724869743f757365723d73687061747269636b67756f267265706f3d6769746875622d76697369746f72732d626164676526636f756e74436f6c6f723d253233374231453741" data-canonical-src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AmbroseRen_test_test&amp;repo=github-visitors-badge&amp;countColor=%237B1E7A" style="max-width:100%;">
+      <img src="https://camo.githubusercontent.com/7e550a3f5c7f264d131263ba883ee8837ebb68e633fb4847bf9a01f0c7595555/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f416d62726f736552656e5f746573745f747365742f636f756e742e737667" data-canonical-src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AmbroseRen_test_test&amp;repo=github-visitors-badge&amp;countColor=%237B1E7A" style="max-width:100%;">
    </a>
 </p>
 
