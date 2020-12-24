@@ -13,7 +13,7 @@
 
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4"><img src="https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4" width="540" height="64"></a> |
 
 
 <table>
