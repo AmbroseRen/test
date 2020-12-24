@@ -3,6 +3,8 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | [新游戏放号](https://igame.qq.com/games/grantaccount.php) |
+| [ratel](https://github.com/ainilili/ratel) | pkp | Y |
+| []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | smallGame | 小游戏 | Y |
