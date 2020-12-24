@@ -9,7 +9,7 @@
 | []() | []() | []() |
 | lucy | 25 | X |
 
-<a href="https://github.com/sponsors/AmbroseRen" title="Sponsor AmbroseRen"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+
 
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
