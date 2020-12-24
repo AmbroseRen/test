@@ -32,3 +32,8 @@ or this email:
 
 [关于博客的作用](https://blog.lovejade.cn/)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AmbroseRen_tset_about/count.svg" />
+</p>
+
