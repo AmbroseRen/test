@@ -8,5 +8,7 @@
 | []() | []() | []() |
 | []() | []() | []() |
 | [Git Icon](https://octodex.github.com/) | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | [编程的意义](https://ferd.ca/the-little-printf.html)/[1](https://www.cnblogs.com/xueweihan/p/5220513.html) |
+| [Page Visitor Count](https://github.com/sagar-viradiya) | []() | []() |
+| []() | []() | []() |
 | lucy | 25 | X |
 
