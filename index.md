@@ -12,3 +12,8 @@
 | [Java](java/index.md) | [Test](test/index.md) | [Util](util/index.md) |
 | [EverythingIsTheme](demo.md) | [demoOneTest](demoOne.md) | [MarkDownGuide](Data/MD/index.md) |
 | [About](About/index.md) - [RSS](About/RSS.md) | [SiteMap](sitemap.xml) - [SiteInfo](SiteInfo/AboutSite.md) | [robots.txt](robots.txt) - [tutorials](https://developers.google.com/search/docs/advanced/robots/create-robots-txt?visit_id=637407683458760832-567417019&rd=1) |
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AmbroseRen_tset/count.svg" />
+</p>
