@@ -2,7 +2,7 @@
 
 ## 下载
 
-[官网下载](https://www.jetbrains.com/pycharm/)/[Idea手册有备份](#)
+[官网下载](https://www.jetbrains.com/pycharm/)/Idea手册有备份
 
 ## 使用
 
