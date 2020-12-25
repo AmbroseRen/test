@@ -14,6 +14,8 @@
 
 [Idea调试工具文档](https://www.jetbrains.com/help/idea/discover-intellij-idea.html#developer-tools)
 
+[Idea视频教程参考](https://pan.baidu.com/s/1gfeX3hD#list/path=%2F)
+
 ## 插件库
 
 [官方插件库](https://plugins.jetbrains.com/idea)/[日常插件参考·一](https://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=2247492732&idx=2&sn=99a642148b14071188f0ca70c8658503&chksm=e8fd7875df8af1634c2c32749eada10f4236bf3851bdbe77d3ecc5ab284242b0b45b235609c2&scene=21#wechat_redirect)
