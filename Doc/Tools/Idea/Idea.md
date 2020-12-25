@@ -6,7 +6,7 @@
 
 ## 使用
 
-[配置初始化](https://www.jianshu.com/p/9c65b7613c30)/[使用技巧](http://mp.weixin.qq.com/s?__biz=MzA5NTk5OTEzNg==&mid=100000135&idx=1&sn=c8d54637326ecb00410c9c569137c1de&chksm=10b7844827c00d5eeca8fb16a433ce23263a21144e233d0a25c4b06cb2158593104dc09007a7#rd)
+[配置初始化](https://www.jianshu.com/p/9c65b7613c30)/[使用技巧](http://mp.weixin.qq.com/s?__biz=MzA5NTk5OTEzNg==&mid=100000135&idx=1&sn=c8d54637326ecb00410c9c569137c1de&chksm=10b7844827c00d5eeca8fb16a433ce23263a21144e233d0a25c4b06cb2158593104dc09007a7#rd)/[使用教程](https://blog.csdn.net/qq_35246620/article/details/61191375)/[快捷键参考](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf?_ga=2.245882828.975693892.1595897653-1549347267.1595210612)
 
 [Database tools and SQL](https://www.jetbrains.com/help/idea/relational-databases.html)-数据库连接配置文档
 
