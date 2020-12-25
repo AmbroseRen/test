@@ -1,6 +1,11 @@
 # Idea Lists  [←](../index.md)
 
-[Idea](Idea.txt)
+| _ | _ | _ |
+|:---:|:---:|:---:|
+| [Idea Guide](Idea.md) | [Idea.txt](Idea.txt) | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+| lucy | 25 | X |
 
 ## Plugins
 
