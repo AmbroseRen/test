@@ -11,3 +11,5 @@
 ## 插件库
 
 [官方插件库](https://plugins.jetbrains.com/idea)/[]()/[]()/[]()
+
+[参考链接·一](http://idea.studycoder.com/)
