@@ -44,6 +44,8 @@ RGB(204,232,237) --电脑管家护眼色
 CodeGlance --sublime code view
 Power Mode Ⅱ--打字效果
 Background Image Plus + --Background Images
+
+参考:https://blog.csdn.net/sunny243788557/article/details/106011723
 ========#Idea中jar包冲突解决尝试============
 <dependency>
     <groupId>org.apache.logging.log4j</groupId>
