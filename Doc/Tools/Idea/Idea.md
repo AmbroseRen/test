@@ -6,4 +6,8 @@
 
 ## 使用
 
+[配置初始化](https://www.jianshu.com/p/9c65b7613c30)/[使用技巧](http://mp.weixin.qq.com/s?__biz=MzA5NTk5OTEzNg==&mid=100000135&idx=1&sn=c8d54637326ecb00410c9c569137c1de&chksm=10b7844827c00d5eeca8fb16a433ce23263a21144e233d0a25c4b06cb2158593104dc09007a7#rd)
 
+## 插件库
+
+[官方插件库](https://plugins.jetbrains.com/idea)/[]()/[]()/[]()
