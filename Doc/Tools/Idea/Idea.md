@@ -8,6 +8,8 @@
 
 [配置初始化](https://www.jianshu.com/p/9c65b7613c30)/[使用技巧](http://mp.weixin.qq.com/s?__biz=MzA5NTk5OTEzNg==&mid=100000135&idx=1&sn=c8d54637326ecb00410c9c569137c1de&chksm=10b7844827c00d5eeca8fb16a433ce23263a21144e233d0a25c4b06cb2158593104dc09007a7#rd)
 
+[Database tools and SQL](https://www.jetbrains.com/help/idea/relational-databases.html)-数据库连接配置文档
+
 ## 插件库
 
 [官方插件库](https://plugins.jetbrains.com/idea)/[日常参考·一](https://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=2247492732&idx=2&sn=99a642148b14071188f0ca70c8658503&chksm=e8fd7875df8af1634c2c32749eada10f4236bf3851bdbe77d3ecc5ab284242b0b45b235609c2&scene=21#wechat_redirect)/[]()/[]()
