@@ -79,7 +79,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | []() |  | X |
 | 公众号编辑工具 |  | X |
 | [壹伴](https://yiban.io/?utm=chajian) |  | X |
-| [新媒体管家](https://chrome.google.com/webstore/detail/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6/jicmnjcngcnfhgfggbdhlbjpcbadimaj?utm_source=chrome-ntp-icon) |  | X |
+| [新媒体管家](https://chrome.google.com/webstore/detail/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6/jicmnjcngcnfhgfggbdhlbjpcbadimaj?utm_source=chrome-ntp-icon) | plus服务已停止2020.10.19 | X |
 | []() |  | X |
 | []() |  | X |
 | [lucky](https://chrome.zzzmh.cn/info?token=ncldcbhpeplkfijdhnoepdgdnmjkckij) | 25 | X |
