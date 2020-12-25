@@ -10,6 +10,6 @@
 
 ## 插件库
 
-[官方插件库](https://plugins.jetbrains.com/idea)/[]()/[]()/[]()
+[官方插件库](https://plugins.jetbrains.com/idea)/[日常参考·一](https://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=2247492732&idx=2&sn=99a642148b14071188f0ca70c8658503&chksm=e8fd7875df8af1634c2c32749eada10f4236bf3851bdbe77d3ecc5ab284242b0b45b235609c2&scene=21#wechat_redirect)/[]()/[]()
 
 [参考链接·一](http://idea.studycoder.com/)
