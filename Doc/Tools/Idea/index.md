@@ -3,7 +3,7 @@
 | _ | _ | _ |
 |:---:|:---:|:---:|
 | [Idea Guide](Idea.md) | [Idea.txt](Idea.txt) | []() |
-| []() | []() | []() |
+| [goland](goland.md) | [vdcode](vscode.md) | []() |
 | []() | []() | []() |
 | lucy | 25 | X |
 
