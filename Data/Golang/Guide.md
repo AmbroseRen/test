@@ -10,6 +10,8 @@
 
 [官方文档](https://golang.org/doc/)/[语法手册](https://golang.org/ref/spec)/[]()
 
+[基础教程](https://www.jianshu.com/p/226c80c481a1)
+
 [Example](https://gobyexample.com/)/[在线运行](https://tour.golang.org/welcome/1)/[在线运行·二](https://play.golang.org/)
 
 [标准依赖库+文档](https://golang.org/pkg/)
@@ -18,7 +20,7 @@
 
 ## 论坛
 
-[Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)/[Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)/[Go工具库](https://awesome-go.com/)
+[Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)/[索引·二](https://github.com/jiujuan/go-collection)/[Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)/[Go工具库](https://awesome-go.com/)
 
 [go语言中文网](https://studygolang.com/)/[go交流论坛](https://gocn.vip/)/[go官方讨论组](https://groups.google.com/g/golang-nuts?pli=1)
 
