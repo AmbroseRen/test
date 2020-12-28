@@ -6,7 +6,19 @@
 
 待续...
 
-# DOS
+## golang文档参考
+
+[官方文档](https://golang.org/doc/)/[语法手册](https://golang.org/ref/spec)/[]()
+
+[Example](https://gobyexample.com/)/[在线运行](https://tour.golang.org/welcome/1)/[在线运行·二](https://play.golang.org/)
+
+[标准依赖库+文档](https://golang.org/pkg/)
+
+[官方博客](https://blog.golang.org/)
+
+## [下载](https://golang.org/dl/)
+
+##  DOS
 + 环境准备
 - [开启go modules功能](https://blog.csdn.net/Ambrose_Ren/article/details/109065319)，~[不开报错](https://ambroseren.github.io/test/Doc/Temp/0000.txt)~
 ```
@@ -22,3 +34,5 @@ go build xxx.go
 
 + 参考链接
 - [七牛云go代理](https://goproxy.cn/)~remote不咋好使哦~
+
+
