@@ -16,7 +16,13 @@
 
 [官方博客](https://blog.golang.org/)
 
-## [下载](https://golang.org/dl/)
+## 论坛
+
+[Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)/[Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)/[Go工具库](https://awesome-go.com/)
+
+[go语言中文网](https://studygolang.com/)/[go交流论坛](https://gocn.vip/)/[go官方讨论组](https://groups.google.com/g/golang-nuts?pli=1)
+
+## [下载](https://golang.org/dl/)/[中国区下载](https://golang.google.cn/)
 
 ##  DOS
 + 环境准备
