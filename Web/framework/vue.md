@@ -20,3 +20,5 @@
 
 [mapbox guide](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b)/[mapbox doc](https://docs.mapbox.com/mapbox-gl-js/example/)/[mapbox doc npm](https://www.npmjs.com/package/mapbox-gl-vue)
 
+[Components doc](https://soal.github.io/vue-mapbox/guide/basemap.html#adding-map-component)
+
