@@ -107,6 +107,10 @@ docker push localhost:5000/ubuntu
 
 [kubernetes基础](https://github.com/zq2599/blog_demos#kubernetes%E5%9F%BA%E7%A1%80)/[]()
 
+## 实例
+
+[GitLab构建SpringBoot](https://www.cnblogs.com/bolingcavalry/p/14204614.html)/[]()
+
 
 
 ## helm
