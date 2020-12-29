@@ -95,8 +95,10 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | []() | O_O | Y |
 | lucy | 25 | X |
 
-stylus
+[stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?utm_source=chrome-ntp-icon)/[样式](https://userstyles.org/styles/browse/github)
+
 > google
+
 >> https://userstyles.org/styles/123499/dishonored-google-theme
 
 >> https://userstyles.org/styles/166972/animation-google
