@@ -105,6 +105,8 @@ docker push localhost:5000/ubuntu
 
 ## kubernetes
 
+[kubernetes基础](https://github.com/zq2599/blog_demos#kubernetes%E5%9F%BA%E7%A1%80)/[]()
+
 
 
 ## helm
