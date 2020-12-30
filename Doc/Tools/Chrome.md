@@ -44,7 +44,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [gitzip for github](https://chrome.google.com/webstore/search/gitzip%20for%20github?utm_source=chrome-ntp-icon) | 分拆文件下载 | X |
 | [Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en) | 分拆文件下载·未测 | X |
 | [github加速](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg) | 文件下载加速器 | X |
-| []() |  | X |
+| [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien) | 立体显示提交图 | X |
 | []() |  | X |
 | timer | 时间段管理 | X |
 | [Adblock](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) | AD屏蔽 | X |
