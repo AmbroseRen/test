@@ -238,6 +238,16 @@
       "title"    : "virus copyself.bat | 自我复制脚本",
       "url"      : "Data/Windows/virus/copyself.bat",
       "date"     : "virus copyself.bat | 自我复制脚本"
+    },
+    {
+      "title"    : "hot | 热点",
+      "url"      : "Data/hot/index.html",
+      "date"     : "hot | 热点"
+    },
+    {
+      "title"    : "神学·宗教",
+      "url"      : "Data/神学/index.html",
+      "date"     : "theology religion | 神学宗教"
     },    
     {
       "title"    : "Diary Lists | 日记列表",
