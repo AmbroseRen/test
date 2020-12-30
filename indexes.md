@@ -41,6 +41,7 @@
             <li><a href="https://ambroseren.github.io/test/Data/SQLServer/index.html">SQLServer</a></li>
             <li><a href="https://ambroseren.github.io/test/Data/Safe/index.html">Safe</a></li>
             <li><a href="https://ambroseren.github.io/test/Data/Windows/index.html">Windows</a></li>
+            <li><a href="https://ambroseren.github.io/test/Data/hot/index.html">Hot</a></li>
             <li><a href="https://ambroseren.github.io/test/Data/神学/index.html">神学</a></li>
         </ul>
     </li>
