@@ -343,6 +343,11 @@
       "title"    : "hugo Guide",
       "url"      : "Doc/Tools/hugo.html",
       "date"     : "hugo Guide"
+    },
+    {
+      "title"    : "Idea List",
+      "url"      : "Doc/Tools/Idea/index.html",
+      "date"     : "Idea List | idea"
     },    
     {
       "title"    : "Idea backup",
