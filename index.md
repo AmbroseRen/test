@@ -6,7 +6,7 @@
 | _ | _ | _ |
 |:---:|:---:|:---:|
 | [JsSearch](search.md) - [indexes(索引目录)](indexes.md) | ~~[SwiftypeSearch](stok.md)~~ | [AlgoliaSearch](sag3.html) - [Demo](sag.html) - [DocDemo](sagTwo.html) |
-| [Tools](Tools/index.md) - [Proxy](Proxy/index.md) | [Data](Data/index.md) | [Documents](Doc/index.md) -  [MyGitbook](Doc/gitbook.md) |
+| [Tools](Tools/index.md) - [Proxy](Proxy/index.md) | [Data](Data/index.md) - [Hot](Data/hot/index.md) | [Documents](Doc/index.md) -  [MyGitbook](Doc/gitbook.md) |
 | [Art](/Art/index.md) | [Library](Library/index.md) | [Image](img/index.md) |
 | [Web](Web/index.md) - [Web_Guide](Web/web_guide.md) - [CoolWeb](Web/CoolWeb.md) | [JS](js/index.md) | [HTML](html/index.md) - [CSS](css/index.md) |
 | [Java](java/index.md) - [interview](java/Viewer/index.md) | [Test](test/index.md) | [Util](util/index.md) |
