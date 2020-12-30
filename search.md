@@ -7,6 +7,8 @@
 
 </div>
 
+[←](index.md)
+
 <!-- Script pointing to search-script.js -->
 <script src="js/search-script.js" type="text/javascript"></script>
 
