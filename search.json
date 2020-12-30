@@ -160,6 +160,11 @@
       "date"     : "framework | 框架研究"
     },
     {
+      "title"    : "religion | 宗教信仰",
+      "url"      : "Data/Religion/index.html",
+      "date"     : "religion | 宗教信仰"
+    },    
+    {
       "title"    : "DOS Lists",
       "url"      : "Data/Windows/index.html",
       "date"     : "DOS Lists | dos列表"
