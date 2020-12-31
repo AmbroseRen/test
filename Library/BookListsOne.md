@@ -21,6 +21,7 @@
             <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a>-<a href="https://www.yiyiwenku.com/">依依文库-中国古典文学</a></li>
             <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
             <li><a href="http://www.tushu007.com/ISBN-9787300145778.pdf">政治经济学概论</a></li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/创新者的窘境_[（美）克里斯坦森著][中信出版社][2013.11][263页].pdf">创新者的窘境</a></li>
             <li><a href="https://files.catbox.moe/fma2pw.pdf">我的第一本炒股书</a></li>
             <li>摩尔神话</li>
             <li>并购大师（杨大筠..）--时尚产业的资本游戏</li>
