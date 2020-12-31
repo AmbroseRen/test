@@ -33,9 +33,9 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [V2Ray指南](https://toutyrater.github.io/)/[来历](https://zh.wikipedia.org/wiki/V2Ray#:~:text=V2Ray%EF%BC%8C%E7%AE%80%E7%A7%B0V2%EF%BC%8C%E6%98%AF%E4%B8%80,%E4%BB%A5%E5%AF%B9%E6%AD%A4%E8%A1%A8%E7%A4%BA%E6%8A%97%E8%AE%AE%E3%80%82)/[geosite.dat for V2Ray](https://github.com/v2fly/domain-list-community) | 初代 | 代替[shadowsocks](https://github.com/shadowsocks/shadowsocks-windows) |
 | 优质DNS |  | [国内外免费公共DNS](http://www.deadnine.com/anything/2018/0903/1411.html) - [参考](https://www.sordum.org/7952/dns-jumper-v2-2/) |
 | [谷歌访问助手](https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp) | 一代 | [Google Hosts](https://www.moerats.com/archives/114/) - [googlehosts](https://git.qvq.network/googlehosts/hosts/src/master/hosts-files/hosts) |
-| Windscribe | 二代 | [插件介绍](https://blog.windscribe.com/new-browser-extensions-v3-73d518f0fad9) |
-| ZenMate Free VPN | 二代 | X |
-| SetupVPN | 三代 | [PDF手册](https://files.catbox.moe/pacr7n.pdf) |
+| [Windscribe](https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb) | 二代 | [插件介绍](https://blog.windscribe.com/new-browser-extensions-v3-73d518f0fad9) |
+| [ZenMate Free VPN](https://chrome.google.com/webstore/detail/zenmate-free-vpn%E2%80%93best-vpn/fdcgdnkidjaadafnichfpabhfomcebme) | 二代 | X |
+| [SetupVPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) | 三代 | [PDF手册](https://files.catbox.moe/pacr7n.pdf) |
 |  | 四代 | 最新技术(传播就被针对，自己找)
 | []() |  | X |
 | Github Plugins | Github优化体验插件 | X |
@@ -48,10 +48,10 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) | 将 github 变成 IDE | X |
 | [GayHub](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)/[Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)/[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) | github增强扩展 | X |
 | []() |  | X |
-| timer | 时间段管理 | X |
+| [timer](https://chrome.google.com/webstore/detail/timer/hepmlgghomccjinhcnkkikjpgkjibglj) | 时间段管理 | X |
 | [Adblock](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) | AD屏蔽 | X |
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | AD屏蔽 | X |
-| Avast Online Security | 网络安全 | X |
+| [Avast Online Security](https://chrome.google.com/webstore/detail/avast-online-security/gomekmidlodglbbmalcneegieacbdmki) | 网络安全 | X |
 | [Export to Markdown](https://github.com/madneal/export-to-markdown) | Medium export article | X |
 | [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) | 内存管理 | X |
 | [Vimium C](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg) | 全键盘操作浏览器 - 提高每个网页50%浏览速度 |  |
