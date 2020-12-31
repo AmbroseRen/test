@@ -53,12 +53,12 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | AD屏蔽 | X |
 | Avast Online Security | 网络安全 | X |
 | [Export to Markdown](https://github.com/madneal/export-to-markdown) | Medium export article | X |
-| The Great Suspender | 内存管理 | X |
-| Vimium C | 全键盘操作浏览器 - 提高每个网页50%浏览速度 |  |
-| Word Counter | 字数统计(需选中右键可用) | X |
-| search2 | 多搜索引擎插件|  |
-| SEOquake | SEO | X |
-| 二维码生成器 (Quick QR) |  | X |
+| [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) | 内存管理 | X |
+| [Vimium C](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg) | 全键盘操作浏览器 - 提高每个网页50%浏览速度 |  |
+| [Word Counter](https://chrome.google.com/webstore/detail/word-counter/adgmgllmfhgppfnkmgikgbaniemjdikk) | 字数统计(需选中右键可用) | X |
+| [search2](https://chrome.google.com/webstore/detail/search2/godjlopkhiadfppdjhbekbppchinkmpi) | 多搜索引擎插件|  |
+| [SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) | SEO | X |
+| [二维码生成器 (Quick QR)](https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) |  | X |
 | [官方文档](http://ksria.com/simpread/)/[源码](https://github.com/Kenshin/simpread) | 简阅·阅读器 | X |
 | [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)/[源码](https://github.com/alyssaxuu/screenity) | 录屏插件 | X |
 | [awesome_Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=zh-CN) | 录屏截屏插件（未测） | X |
