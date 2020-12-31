@@ -79,6 +79,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod?hl=zh-CN)/[文档](https://www.v2fy.com/p/019_mega/) | 网盘 | [客户端·国内下](https://pan.baidu.com/s/1yaUTRHpfAnpFKgd55BPIHg ),提取码：mjx8 |
 | []() |  | X |
 | [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) | 网页标注高亮（关闭亦能恢复） | X |
+| [Chrome Better History](https://chrome.google.com/webstore/detail/view-chrome-history/oiginoblioefjckppeefcofmkkhgbdfc)/[Tools备份](http://rensi.ys168.com/) | chrome历史记录浏览增强 | X |
 | []() |  | X |
 | []() |  | X |
 | 公众号编辑工具 |  | X |
