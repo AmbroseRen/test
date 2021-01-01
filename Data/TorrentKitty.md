@@ -8,7 +8,7 @@
 | [torrentkittyurl](http://torrentkittyurl.com/tk/) | O_O | Y |
 | [不死鸟](https://iao.su/) | O_O | Y |
 | [资源猫](https://www.ziyuanm.com/) | O_O | Y |
-| [秋秋导航](https://www.39qq.com/) | O_O | Y |
+| [秋秋导航](https://www.39qq.com/) | O_O | [TV](https://www.39qq.com/xxyl/icantv.html) |
 | [众人搜索网](http://wangpan.renrensousuo.com/) | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
