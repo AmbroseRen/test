@@ -23,7 +23,7 @@
 | [loft](https://loft.radio/) | en | Y |
 | []() | O_O | Y |
 | [自由钢琴](https://www.autopiano.cn/) | O_O | Y |
-[cloud-music-tools](https://github.com/meng-chuan/Unlock-netease-cloud-music)
+| [cloud-music-tools](https://github.com/meng-chuan/Unlock-netease-cloud-music) | O_O | Y |
 | lucy | 25 | X |
 
 
