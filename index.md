@@ -14,6 +14,7 @@
 | [About](About/index.md) - [RSS](About/RSS.md) | [SiteMap](sitemap.xml) - [SiteInfo](SiteInfo/AboutSite.md) | [robots.txt](robots.txt) - [tutorials](https://developers.google.com/search/docs/advanced/robots/create-robots-txt?visit_id=637407683458760832-567417019&rd=1) |
 
 <p align="center"> 
-  Visitor count · Copyright © 2019.6-2021<br>
-  <img src="https://profile-counter.glitch.me/AmbroseRen_tset/count.svg" />
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AmbroseRen_tset/count.svg" /></br>
+  Copyright © 2019.6-2021
 </p>
