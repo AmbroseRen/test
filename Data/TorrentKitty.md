@@ -11,7 +11,7 @@
 | [秋秋导航](https://www.39qq.com/) | O_O | [TV](https://www.39qq.com/xxyl/icantv.html) |
 | [众人搜索网](http://wangpan.renrensousuo.com/) | O_O | Y |
 | [寄生虫磁力](http://cili.jscnl.com/) | O_O | Y |
-| []() | O_O | Y |
+| [Nyaa](https://nyaa.si/) | 动漫下载 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
