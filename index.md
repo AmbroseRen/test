@@ -4,7 +4,7 @@
 <div class="gcse-search"></div>
 
 | _ | _ | _ |
-|:---:|:---|:---:|
+|:---|:---|:---|
 | [JsSearch](search.md) - [indexes(索引目录)](indexes.md) | ~~[SwiftypeSearch](stok.md)~~ | [AlgoliaSearch](sag3.html) - [Demo](sag.html) - [DocDemo](sagTwo.html) |
 | [Tools](Tools/index.md) - [Proxy](Proxy/index.md) | [Data](Data/index.md) - [Hot](Data/hot/index.md) | [Documents](Doc/index.md) -  [MyGitbook](Doc/gitbook.md) |
 | [Art](/Art/index.md) | [Library](Library/index.md) | [Image](img/index.md) |
