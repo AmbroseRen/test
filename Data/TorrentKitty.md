@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [资源搜索](http://magnet.chongbuluo.com/) | 聚合搜素 | Y |
-| []() | O_O | Y |
+| [zooqle](https://zooqle.com/) | en | Y |
 | [海盗湾](https://thepiratebay.org/index.html) | O_O | Y |
 | [torrentkittyurl](http://torrentkittyurl.com/tk/) | O_O | Y |
 | [不死鸟](https://iao.su/) | O_O | Y |
