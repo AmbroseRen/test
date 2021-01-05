@@ -1,4 +1,4 @@
-# some road  [←](../index.md)
+# some road  [←](index.md)
 
 作者：安晓辉
 [原文链接](https://welance.cn/thread/7)
