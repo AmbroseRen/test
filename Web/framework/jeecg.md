@@ -6,7 +6,7 @@
 
 [工具包](https://pan.baidu.com/s/16z9qNtyk24bsrZxRFBHP2w)，提取码：pagv
 
-源码服务器位置：jeecg-boot.rar
+源码服务器位置：jeecg-boot.rar  [备份下载](https://wws.lanzous.com/iMlNkk2a6ra)
 ![](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture/img/Web/framework/jeecg/jeecg-boot.jpg)
 
 [工具安装](http://doc.jeecg.com/2043872)
