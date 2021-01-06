@@ -28,7 +28,7 @@
 | [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) | 0_0 | Y |
 | []() | 0_0 | Y |
 | Data | 0_0 | Y |
-| [社交电商：流量红利末期的新机会——电商行业专题之二·2019.4.18](https://pdf.dfcfw.com/pdf/H3_AP201904191320846405_1.pdf?1555662127000.pdf) | 0_0 | Y |
+| [社交电商：流量红利末期的新机会——电商行业专题之二](https://pdf.dfcfw.com/pdf/H3_AP201904191320846405_1.pdf?1555662127000.pdf)·2019.4.18 | 0_0 | Y |
 | [数字化转型之路](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Science/Nokia_Bell_Labs_Consulting_The_rise_of_the_new_collar_worker_White_Paper_EN.pdf) | [原链](https://onestore.nokia.com/asset/210030) | [贝尔实验室主页](https://www.bell-labs.com/) |
 | [IBM的大数据应用分析报告](https://www.ibm.com/downloads/cas/ED0JV08Q) | 0_0 | Y |
 | [联合国对中国新冠病毒肺炎评估报告•2020.4](https://files.catbox.moe/3kmdal.pdf) | cn-COVID-19 | [COVID-19-timeline/apachecn](https://github.com/apachecn/COVID-19-timeline) |
