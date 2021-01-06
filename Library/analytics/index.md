@@ -1,4 +1,4 @@
-# Summary Of Analytics Report  [←](../PDF.md)
+# Summary Of Analysis Report  [←](../PDF.md)
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
