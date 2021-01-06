@@ -82,6 +82,7 @@
 | [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | [原项目](https://github.com/USRSE/usrse.github.io) |
 | [赵云龙](https://zyl.me/blog) | web-Andriod | [主页](https://zyl.me/) |
 | ~~[郭](https://gary5496.github.io/)~~ | web | [Windows+github+hexo](https://gary5496.github.io/2018/03/hexo-github-setup/) |
+| [Axetroy](https://axetroy.github.io/#/)/[github](https://github.com/axetroy)/[blog](https://github.com/axetroy/blog) | 0_0 | Y |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
