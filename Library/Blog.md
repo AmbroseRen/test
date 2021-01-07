@@ -83,7 +83,7 @@
 | [赵云龙](https://zyl.me/blog) | web-Andriod | [主页](https://zyl.me/) |
 | ~~[郭](https://gary5496.github.io/)~~ | web | [Windows+github+hexo](https://gary5496.github.io/2018/03/hexo-github-setup/) |
 | [Axetroy](https://axetroy.github.io/#/)/[github](https://github.com/axetroy)/[blog](https://github.com/axetroy/blog) | 0_0 | Y |
-| [霍炬的网络日志](http://blog.devep.net/virushuo/)-2003.10~2014.1 | 时代印记 | [Google的社会化梦想与Reader](http://blog.devep.net/virushuo/#entry-697)/[隐私，信息以及信息安全](http://blog.devep.net/virushuo/#entry-699) |
+| [霍炬的网络日志](http://blog.devep.net/virushuo/)-2003.10~2014.1 | 时代印记 | [Google的社会化梦想与Reader](http://blog.devep.net/virushuo/#entry-697)/[隐私，信息以及信息安全](http://blog.devep.net/virushuo/#entry-699)/[Google百度和谷歌的那些事](http://blog.devep.net/virushuo/2010/01/14/blog56google_blogtinyfool_1_go.html) |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
 | Tools | 工具 | Y |
