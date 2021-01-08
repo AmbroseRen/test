@@ -1,4 +1,4 @@
-# Calander [←](../index.md)
+# Calendar [←](../index.md)
 
 <iframe id="api_iframe_bmcx" name="api_iframe_bmcx" src="" width="800" height="800" scrolling="no" frameborder="0"></iframe>
 <script type="text/javascript">
