@@ -79,7 +79,9 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [一键管理扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni) | 随禁随启 | 权限太大，保留使用 |
 | [MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod?hl=zh-CN)/[文档](https://www.v2fy.com/p/019_mega/) | 网盘 | [客户端·国内下](https://pan.baidu.com/s/1yaUTRHpfAnpFKgd55BPIHg ),提取码：mjx8 |
 | []() |  | X |
-| [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) | 网页标注高亮（关闭亦能恢复） | X |
+| [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) | 网页标注高亮（关闭亦能恢复） | 淘汰 |
+| [LINER - 网页 / PDF荧光笔](https://chrome.google.com/webstore/detail/1-web-pdf-highlighter-lin/bmhcbmnbenmcecpmpepghooflbehcack/related?hl=zh-CN) | 网页标注+注释 | 良好 |
+| [Diigo Web Collector-捕获和注释](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh/related?utm_source=chrome-ntp-icon) | 网页标注+注释 | 过于复杂 |
 | [Chrome Better History](https://chrome.google.com/webstore/detail/view-chrome-history/oiginoblioefjckppeefcofmkkhgbdfc)/[Tools备份](http://rensi.ys168.com/)/[History Manager](https://chrome.google.com/webstore/detail/history-manager/ifekbbngjjcachfekcpeejphmkeckged?utm_source=chrome-ntp-icon)对比参考 | chrome历史记录浏览增强 | X |
 | [Note Anywhere](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh/related?hl=zh-CN) | 网页便签 | X |
 | []() |  | X |
