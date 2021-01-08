@@ -81,6 +81,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | []() |  | X |
 | [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) | 网页标注高亮（关闭亦能恢复） | X |
 | [Chrome Better History](https://chrome.google.com/webstore/detail/view-chrome-history/oiginoblioefjckppeefcofmkkhgbdfc)/[Tools备份](http://rensi.ys168.com/)/[History Manager](https://chrome.google.com/webstore/detail/history-manager/ifekbbngjjcachfekcpeejphmkeckged?utm_source=chrome-ntp-icon)对比参考 | chrome历史记录浏览增强 | X |
+| [Note Anywhere](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh/related?hl=zh-CN) | 网页便签 | X |
 | []() |  | X |
 | []() |  | X |
 | 公众号编辑工具 |  | X |
