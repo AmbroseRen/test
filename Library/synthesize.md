@@ -7,6 +7,7 @@
 | [egouz](https://www.egouz.com/) | 大门户导航 | Y |
 | [refdesk](https://www.refdesk.com/) | 二门户导航 | Y |
 | [专业官网收录](http://www.gfwz.com/) | 三门户导航 | Y |
+| [创造者日报](https://creatorsdaily.com/) | 新信息导航·新生社区 | Y |
 | [Anywhere](http://lackar.com/aa/) | 哦 | Y |
 | [龙轩导航](http://ilxdh.com/) | 26 | Y |
 | [firefox_index](http://offlintab.firefoxchina.cn/) | 26 | Y |
