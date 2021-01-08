@@ -3,7 +3,7 @@
 <script async src="https://cse.google.com/cse.js?cx=2f0e585bf98b84b6d"></script>
 <div class="gcse-search"></div>
 
-| _ | _ | [Calander](Tools/calander.md) |
+| _ | _ | [Calendar](Tools/calendar.md) |
 |:---:|:---:|:---:|
 | [JsSearch](search.md) - [indexes(索引目录)](indexes.md) | ~~[SwiftypeSearch](stok.md)~~ | [AlgoliaSearch](sag3.html) - [Demo](sag.html) - [DocDemo](sagTwo.html) |
 | [Tools](Tools/index.md) - [Proxy](Proxy/index.md) | [Data](Data/index.md) - [Hot](Data/hot/index.md) | [Documents](Doc/index.md) -  [MyGitbook](Doc/gitbook.md) |
