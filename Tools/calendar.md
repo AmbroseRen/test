@@ -7,3 +7,11 @@ document.getElementById("api_iframe_bmcx").src = "https://www.bmcx.com/apiiframe
 </script>
 
 ## [.ics文件导入参考](https://github.com/bopo/lunar-calender)/[中文版](https://github.com/infinet/lunar-calendar) - [备份地址](https://raw.githubusercontent.com/AmbroseRen/test/master/Tools/chinese_lunar_prev_year_next_year.ics)
+
+### .ics订阅提供网站
+
+[icalshare](http://icalshare.com/calendars?query=chinese) - 日历订阅地址
+
+[热点、足球、实事、音乐](https://www.stanza.co/)日历订阅地址
+
+[]()
