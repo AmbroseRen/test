@@ -6,3 +6,4 @@
 document.getElementById("api_iframe_bmcx").src = "https://www.bmcx.com/apiiframe/?api_from=bmcx&api_url=https://wannianrili.bmcx.com/&api_width=98%&api_backgroundcolor=FFFFFF";
 </script>
 
+## [.ics文件导入参考](https://github.com/bopo/lunar-calender) - [备份]()
