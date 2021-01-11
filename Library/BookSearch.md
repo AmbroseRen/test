@@ -28,7 +28,7 @@
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | IT | 技术 | X | X | X |
-| [Developer-Books](https://github.com/7-sevens/Developer-Books) | 7-sevens's lib | [编程阅读习惯](https://github.com/7-sevens/Developer-Books/tree/master/Other) | X | X |
+| [Developer-Books](https://www.developer1024.com/resource/69.html)/[原件](https://github.com/7-sevens/Developer-Books) | 7-sevens's lib | [编程阅读习惯](https://github.com/7-sevens/Developer-Books/tree/master/Other) | X | X |
 | [图灵社区](https://www.ituring.com.cn/book?tab=free) | [IT图书导航](https://github.com/sindresorhus/awesome) | [ARM嵌入式Linux系统开发详解](https://www.ituring.com.cn/book/1518) | X | X |
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
 | [it168](http://wenku.it168.com/) | IT文档分享 | X | X | X |
