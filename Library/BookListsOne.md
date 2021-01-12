@@ -91,7 +91,11 @@
     </li>
     <li>History
         <ul>
-            <li>中央情报局出版物《世界概况》</li>
+            <li>新全球史</li>
+            <li>全球通史</li>
+            <li>社会主义分支</li>
+            <li>资本主义党派</li>
+            <li>中央情报局出版物《世界概况》</li>            
             <li>康奈尔大学图书馆出版物《All About Birds》</li>
             <li>《Chambers Biographical Dictionary》</li>
             <li>✔人类简史</li>
