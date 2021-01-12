@@ -10,7 +10,7 @@
 | [css组件手册](https://www.css88.com/book/css/) | O_O | Y |
 | [JQuery手册](https://www.jq22.com/chm/jquery/index.html) | O_O | Y |
 | [some Guide集合](https://github.com/GitHubDaily/GitHubDaily) | O_O | Y |
-| [nicejade前端手册](https://github.com/nicejade/Front-end-tutorial) | O_O | Y |
+| [nicejade前端手册](https://github.com/nicejade/Front-end-tutorial) | O_O | [简历模板](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/#wow59) |
 | [时间插件](https://github.com/timelessco/renderlesskit-react) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
