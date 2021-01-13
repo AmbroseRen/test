@@ -403,6 +403,12 @@ I strongly recommend against using any `<blink>` tags.
     __加粗__
     **加粗**
 
+深色
+<kbd style="user-select: auto;">enter</kbd>  
+
+浅色
+<code style="user-select: auto;">epel-release</code>  
+
 删除线
 
   ~~删除线~~
