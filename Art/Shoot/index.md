@@ -13,7 +13,7 @@
 | [pmagazine](https://pmagazine.co/) | 艺人摄影杂志 | Y |
 | [pexels](https://www.pexels.com/collections/autumn-leaves-b82wn2d/) | 风景图 | Y |
 | [蜂鸟网](http://www.fengniao.com/) | 摄影爱好聚集地 | Y |
-| [必应壁纸库](https://www.todaybing.com/) | 必应壁纸库(壁纸爱好者收集自建库) | Y |
+| [必应壁纸库](https://www.todaybing.com/) | 必应壁纸库(壁纸爱好者收集自建库) | [Bing WallPaper](https://www.microsoft.com/en-us/bing/bing-wallpaper) |
 | [wallhaven](https://wallhaven.cc/) | 场景图(赛博朋克) | Y |
 | [知乎链列表](https://www.zhihu.com/question/32762402) | O_O | Y |
 | []() | O_O | Y |
