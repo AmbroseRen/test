@@ -4,7 +4,7 @@
 
 | 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
-| BookSearch | 搜索引擎 | X | X | X |
+| __BookSearch__ | __搜索引擎__ | X | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
 | [ePUBee](http://cn.epubee.com/books/?action=addbooks) | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
@@ -17,7 +17,7 @@
 | everything | 综合图书 | X | X | X |
 | [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | X | X |
 | [scribd](https://www.scribd.com/) | scribd | X | X | X |
-| literature | 文学 | X | X | X |
+| __literature__ | __文学__ | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | Y | X | X |
 | [掌上书苑](https://www.soepub.com/) | 现代文学 | X | X | X |
 | [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
@@ -28,7 +28,7 @@
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | [唐宋古诗词](https://shici.store/huajianji/)/[源文](https://github.com/chinese-poetry/chinese-poetry) | 中文诗歌 | X | X | X |
-| IT | 技术 | X | X | X |
+| __IT__ | __技术__ | X | X | X |
 | [Developer-Books](https://www.developer1024.com/resource/69.html)/[原件](https://github.com/7-sevens/Developer-Books) | 7-sevens's lib | [编程阅读习惯](https://github.com/7-sevens/Developer-Books/tree/master/Other)/~~[高效程序员的45个习惯(即敏捷开发理论)](https://github.com/7-sevens/Developer-Books/blob/master/Other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)过时~~ | X | X |
 | [free-programming-books-zh](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md) | 手册 | [Docker](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md#user-content-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)/[Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md#user-content-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6) | X | X |
 | [图灵社区](https://www.ituring.com.cn/book?tab=free) | [IT图书导航](https://github.com/sindresorhus/awesome) | [ARM嵌入式Linux系统开发详解](https://www.ituring.com.cn/book/1518) | X | X |
@@ -40,7 +40,7 @@
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
 | [manybooks](https://manybooks.net/) | en-故事+传记 | X | X | X |
 | [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
-| Other | 其他 | X | X | X |
+| __Other__ | __其他__ | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [苦瓜书盘](http://kgbook.com/) | 团队维护 | X | X | X |
 | [booksmith](https://www.booksmith.com/) | en-报刊 | [揭示数字广告和互联网的不稳定基础](https://www.booksmith.com/book/9780374538651) | X | X |
