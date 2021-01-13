@@ -7,7 +7,7 @@
 | [bndong](https://www.cnblogs.com/bndong/p/10300036.html) | O_O | Y |
 | [markmcgranaghan](https://markmcgranaghan.com/books) | O_O | Y |
 | [盐老虎](https://salttiger.com/archives/) | O_O | Y |
-| [编程随想](https://github.com/programthink/books) | 政治电子书 | Y |
+| [编程随想](https://github.com/programthink/books) | 政治电子书 | 政治/心理学/历史/经济/管理/社会学/文艺/哲学/科普/军事/IT |
 | [The New York Public Library's Books of the Century](https://www.nypl.org/voices/print-publications/books-of-the-century) | O_O | [Tim O’Reilly’s 文明手册](https://medium.com/the-long-now-foundation/tim-oreilly-s-book-list-for-the-manual-for-civilization-69598baf562f) |
 | [ebook](https://www.cnblogs.com/yasepix/p/12431379.html) | O_O | Y |
 | []() | O_O | Y |
