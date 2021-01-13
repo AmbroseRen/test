@@ -331,6 +331,8 @@ MathJax
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
+[在线取色器](https://www.w3cschool.cn/tools/index?name=cpicker)
+
 深色
 
 <kbd style="user-select: auto;">enter</kbd>  
