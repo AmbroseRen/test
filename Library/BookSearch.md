@@ -14,7 +14,7 @@
 | ~~[书单网](https://www.shudan.vip/115040.html)~~ | 搜索引擎 | X | X | X |
 | [rukomos](http://cn-library.rukomos.ru/) | 综合 | [Category](http://cn-library.rukomos.ru/list_categories.html) | 新生-无侧重 | X |
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
-| everything | 综合图书 | X | X | X |
+| __everything__ | __综合图书__ | X | X | X |
 | [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | X | X |
 | [scribd](https://www.scribd.com/) | scribd | X | X | X |
 | __literature__ | __文学__ | X | X | X |
@@ -34,9 +34,9 @@
 | [图灵社区](https://www.ituring.com.cn/book?tab=free) | [IT图书导航](https://github.com/sindresorhus/awesome) | [ARM嵌入式Linux系统开发详解](https://www.ituring.com.cn/book/1518) | X | X |
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
 | [it168](http://wenku.it168.com/) | IT文档分享 | X | X | X |
-| Animes | 动漫书籍 | X | X | X |
+| __Animes__ | __动漫书籍__ | X | X | X |
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
-| Primer | 初级读本 | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
+| __Primer__ | __初级读本__ | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
 | [manybooks](https://manybooks.net/) | en-故事+传记 | X | X | X |
 | [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
