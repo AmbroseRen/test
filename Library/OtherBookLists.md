@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | [meiguhuaxian](https://www.cnblogs.com/meiguhuaxian/p/11641423.html) | O_O | 管理·技术/工具·方法/科技·人文/艺术·文学 |
 | [阮一峰](https://github.com/ruanyf/reading-list) | O_O | [文学](https://github.com/ruanyf/reading-list#%E6%96%87%E5%AD%A6)/[传记](https://github.com/ruanyf/reading-list#传记)/[历史](https://github.com/ruanyf/reading-list#历史)/[科学](https://github.com/ruanyf/reading-list#科学)/[技术](https://github.com/ruanyf/reading-list#技术)/[杂类](https://github.com/ruanyf/reading-list#杂类) |
-| [bndong](https://www.cnblogs.com/bndong/p/10300036.html) | O_O | Y |
+| [bndong](https://www.cnblogs.com/bndong/p/10300036.html) | O_O | [在读](https://www.cnblogs.com/bndong/p/10300036.html#hid-TnA6ZY)/[库存](https://www.cnblogs.com/bndong/p/10300036.html#hid-edKrw6)/[心愿](https://www.cnblogs.com/bndong/p/10300036.html#hid-m7iQ3W)/[搁置](https://www.cnblogs.com/bndong/p/10300036.html#hid-YHRppj)/[已读](https://www.cnblogs.com/bndong/p/10300036.html#hid-F3D4wm) |
 | [markmcgranaghan](https://markmcgranaghan.com/books) | O_O | Y |
 | [盐老虎](https://salttiger.com/archives/) | O_O | Y |
 | [编程随想](https://github.com/programthink/books) | 政治电子书 | [政治](https://github.com/programthink/books#1_)/[心理学](https://github.com/programthink/books#2_)/[历史](https://github.com/programthink/books#3_)/[经济](https://github.com/programthink/books#4_)/[管理](https://github.com/programthink/books#5_)/[社会学](https://github.com/programthink/books#6_)/[文艺](https://github.com/programthink/books#7_)/[哲学](https://github.com/programthink/books#8_)/[科普](https://github.com/programthink/books#9_)/[军事](https://github.com/programthink/books#10_)/[IT](https://github.com/programthink/books#11_) |
