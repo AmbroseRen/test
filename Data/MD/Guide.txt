@@ -164,6 +164,14 @@ body {
   小明|Y|75
   
 ---
+
+复选框
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+---
   
 <table style="width:100%">
   <tr>
