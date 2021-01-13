@@ -1,7 +1,5 @@
 # TestList  [Home](../index.md)
 
-- ![#1589F0](https://via.placeholder.com/15/ff0000/000000?text=+) `测试`
-
 | _ | _ | _ |
 |:---:|:---:|:---:|
 | [MyBlogger](https://ambroseren.blogspot.com/) | [elseBook](https://ebook2.lorefree.com) | [index.html](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/test/indexOne.html) |
