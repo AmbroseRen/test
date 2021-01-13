@@ -415,6 +415,8 @@ I strongly recommend against using any `<blink>` tags.
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/468x60/c5f015/000000?text=Visit+Blogging.com+Now"></a>
+
 深色
 <kbd style="user-select: auto;">enter</kbd>  
 
