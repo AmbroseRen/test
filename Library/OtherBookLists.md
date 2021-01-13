@@ -3,7 +3,7 @@
 | 传送门 | 描述 | 节选 |
 |:---:|:---:|:---:|
 | [meiguhuaxian](https://www.cnblogs.com/meiguhuaxian/p/11641423.html) | O_O | 管理·技术/工具·方法/科技·人文/艺术·文学 |
-| [阮一峰](https://github.com/ruanyf/reading-list#%E7%A7%91%E5%AD%A6) | O_O | Y |
+| [阮一峰](https://github.com/ruanyf/reading-list#%E7%A7%91%E5%AD%A6) | O_O | [文学](https://github.com/ruanyf/reading-list#文学)/[传记](https://github.com/ruanyf/reading-list#传记)/[历史](https://github.com/ruanyf/reading-list#历史)/[科学](https://github.com/ruanyf/reading-list#科学)/[技术](https://github.com/ruanyf/reading-list#技术)/[杂类](https://github.com/ruanyf/reading-list#杂类) |
 | [bndong](https://www.cnblogs.com/bndong/p/10300036.html) | O_O | Y |
 | [markmcgranaghan](https://markmcgranaghan.com/books) | O_O | Y |
 | [盐老虎](https://salttiger.com/archives/) | O_O | Y |
