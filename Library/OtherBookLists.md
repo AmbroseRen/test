@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 节选 |
 |:---:|:---:|:---:|
-| [meiguhuaxian](https://www.cnblogs.com/meiguhuaxian/p/11641423.html) | O_O | Y |
+| [meiguhuaxian](https://www.cnblogs.com/meiguhuaxian/p/11641423.html) | O_O | 管理·技术/工具·方法/科技·人文/艺术·文学 |
 | [阮一峰](https://github.com/ruanyf/reading-list#%E7%A7%91%E5%AD%A6) | O_O | Y |
 | [bndong](https://www.cnblogs.com/bndong/p/10300036.html) | O_O | Y |
 | [markmcgranaghan](https://markmcgranaghan.com/books) | O_O | Y |
