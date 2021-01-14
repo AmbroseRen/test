@@ -2,7 +2,7 @@
 
 ## 下载
 
-idea2020.3.1激活：[2020.3.1+破解包](https://pan.baidu.com/s/1tFJGxYQZ_Qo71zj4PyWRlQ)，提取码：idea —— [操作教程](idea2020.3.1.md)/[原址](https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3)
+idea2020.3.1激活：[2020.3.1+破解包](https://pan.baidu.com/s/1tFJGxYQZ_Qo71zj4PyWRlQ)，提取码：idea —— [操作教程](idea2020.3.1.md)/[原址](https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3)——[最小最快可用](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/Develop/idea/IntelliJ_IDEA_2020.3.1激活破解教程.jpg)
 
 [jetbrains.home](https://www.jetbrains.com/)/[官网下载](https://www.jetbrains.com/idea/download/#section=windows)/[备份2019.3.3](https://pan.baidu.com/s/1dWSHU0M9zc5FqqC6Ak2OFQ)——提取码：rsjb/[激活包](http://rensi.ys168.com/)SoftWare/[激活手册](http://mp.weixin.qq.com/s?__biz=MzA5NTk5OTEzNg==&mid=100000133&idx=1&sn=2b4bda6100f41059cda8d626e9b1e158&chksm=10b7844a27c00d5c61d4fb08dec9955e853623544c93fd65eec00c36585948fae2f56c7d6cb8#rd)/[激活手册·一](http://idea.studycoder.com/)/[Idea配置](https://blog.csdn.net/qq_32588349/article/details/51461182)/[初始化SpringMVC](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/run-maven-springmvc.md)
 
