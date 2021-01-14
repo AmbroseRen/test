@@ -8,6 +8,22 @@ idea2020.3.1激活：[2020.3.1+破解包](https://pan.baidu.com/s/1tFJGxYQZ_Qo71
 
 ![](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/Develop/jatbrainsAll.png)
 
+## Licence Active（2020.1 version is valid）
+
+Help->Edit Custom VM Options
+
+输入：
+
+-javaagent:自己idea的安装目录\jetbrains-agent.jar
+
+重启！！！
+
+Licence输入：
+
+输入：http://jetbrains-license-server，
+或者输入：http://fls.jetbrains-agent.com
+然后点击Activate。
+
 ## 使用
 
 [配置初始化](https://www.jianshu.com/p/9c65b7613c30)/[使用技巧](http://mp.weixin.qq.com/s?__biz=MzA5NTk5OTEzNg==&mid=100000135&idx=1&sn=c8d54637326ecb00410c9c569137c1de&chksm=10b7844827c00d5eeca8fb16a433ce23263a21144e233d0a25c4b06cb2158593104dc09007a7#rd)/[使用教程](https://blog.csdn.net/qq_35246620/article/details/61191375)/[快捷键参考](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf?_ga=2.245882828.975693892.1595897653-1549347267.1595210612)
