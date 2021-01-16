@@ -14,7 +14,7 @@
 | 音乐网站 | O_O | Y |
 | [音乐圣经](https://www.musicbible.com/) | O_O | Y |
 | [新芭网](https://www.sin80.com/artist/beethoven) | O_O | Y |
-| 英语歌 | O_O | Y |
+| 英文歌 | O_O | Y |
 | [Apple Music](https://music.apple.com/cn/browse) | O_O | Y |
 | [Spotify](https://open.spotify.com/?_ga=2.75141078.596545230.1607582361-711400396.1607582361) | O_O | Y |
 | [英文歌曲网](http://www.ywg7.com/) | O_O | Y |
