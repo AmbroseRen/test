@@ -1,2 +1,2 @@
-# my music  [←](index.md)
+# my music  [←](../index.md)
 
