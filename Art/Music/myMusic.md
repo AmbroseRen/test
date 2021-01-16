@@ -3,7 +3,7 @@ publish date：2021-1-17 03:00:22
 
 <div>
 
-<p>That Girl - Olly Murs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pretty Boy - M2M</p>
+<p>That Girl - Olly Murs&emsp;&emsp;&emsp;Pretty Boy - M2M</p>
 
 <audio id="audio" controls="" preload="none">    
     <source id="mp3" src="https://ambroseren.github.io/test/Art/Music/N7aBQh8CGcuZQYax.mp3">
