@@ -29,6 +29,12 @@ publish date：2021-1-17 03:00:22
     <source id="mp3" src="https://files.catbox.moe/ocphxi.mp3">
 </audio>
 
+<p>不谓侠 - CRITTY&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</p>
+
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="https://share.dmca.gripe/9VqlSAcChVHlQUJK.mp3">
+</audio>
+
 <p>Mojito - 周杰伦&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;不能说的秘密-周杰伦.flac</p>
 
 <audio id="audio" controls="" preload="none">
