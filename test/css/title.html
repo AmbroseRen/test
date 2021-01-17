@@ -24,6 +24,19 @@ tooltip-wp{
       border-radius: 5px;
       word-break: break-all;
  }
+       
+a {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+a[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: -100%;
+  left: 0;
+}       
 
 </style>
  
@@ -93,6 +106,10 @@ function floatMove(){//节流函数
         </table>
  </div>
 <div class="tooltip-wp"></div>
+       
+<a href="http://www.google.com/" title="Hello world!">
+  Hover over me
+</a>       
 
 </body>
 </html>
