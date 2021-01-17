@@ -47,43 +47,43 @@ tooltip-wp{
 <script type="text/javascript">
 
 $(document).ready(function(){
-      //鼠标滑过表格单元格显示浮动框
-        var showFloatTimer=null;
-        $('.table-tooltip tbody tr td').hover(
-            function(event){
-                clearTimeout(showFloatTimer);
-                showFloatTimer=setTimeout(function(e){
-                    $('.tooltip-wp').attr('data-title', event.currentTarget.innerHTML); //动态设置data-title属性
-                    $('.tooltip-wp').fadeIn(200);//浮动框淡出
-                },300);
-            }
-        );
+var showFloatTimer=null;
+$('.table-tooltip tbody tr td').hover(
+    function(event){
+        clearTimeout(showFloatTimer);
+        showFloatTimer=setTimeout(function(e){
+            $('.tooltip-wp').attr('data-title', event.currentTarget.innerHTML); //动态设置data-title属性
+            $('.tooltip-wp').fadeIn(200);//浮动框淡出
+        },300);
+    }
+);
  
-        $('.table-tooltip tbody tr td').mouseout(function(){
-            $('.tooltip-wp').hide();
-            clearTimeout(showFloatTimer);//鼠标滑出时清除函数去抖中的定时事件
-        });
+$('.table-tooltip tbody tr td').mouseout(function(){
+    $('.tooltip-wp').hide();
+    clearTimeout(showFloatTimer);//鼠标滑出时清除函数去抖中的定时事件
+});
  
-        $('.table-tooltip tbody tr td').mousemove(floatMove());
-        //floatMove()运行后返回一个函数对象，或什么都不返回
+$('.table-tooltip tbody tr td').mousemove(floatMove());
+
  
-        function floatMove(){//节流函数
-            var canRun=true;
-            return function(e){//e是mousemove的event参数
-                if(!canRun){return;}//如果有一个定时方法，直接返回
-                canRun=false;
-                setTimeout(function(){
-                    var top = e.pageY+5;
-                    var left = e.pageX+5;
-                    $('.tooltip-wp').css({
-                        'top' : top + 'px',
-                        'left': left+ 'px'
-                    });
-                    canRun=true;
-                },150);
-            }
-        }
-    });
+function floatMove(){//节流函数
+    var canRun=true;
+    return function(e){//e是mousemove的event参数
+        if(!canRun){return;}//如果有一个定时方法，直接返回
+        canRun=false;
+        setTimeout(function(){
+            var top = e.pageY+5;
+            var left = e.pageX+5;
+            $('.tooltip-wp').css({
+                'top' : top + 'px',
+                'left': left+ 'px'
+            });
+            canRun=true;
+        },150);
+    }
+}
+
+});
 
 </script>
 
