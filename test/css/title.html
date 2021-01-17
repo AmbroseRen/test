@@ -25,18 +25,30 @@ tooltip-wp{
       word-break: break-all;
  }
        
-a {
-  position: relative;
-  display: inline-block;
-  margin-top: 20px;
+a.tip {
+    border-bottom: 1px dashed;
+    text-decoration: none
 }
-
-a[title]:hover::after {
-  content: attr(title);
-  position: absolute;
-  top: -100%;
-  left: 0;
-}       
+a.tip:hover {
+    cursor: help;
+    position: relative
+}
+a.tip span {
+    display: none
+}
+a.tip:hover span {
+    border: #c0c0c0 1px dotted;
+    padding: 5px 20px 5px 5px;
+    display: block;
+    z-index: 100;
+    background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+    left: 0px;
+    margin: 10px;
+    width: 250px;
+    position: absolute;
+    top: 10px;
+    text-decoration: none
+}  
 
 </style>
  
@@ -107,9 +119,7 @@ function floatMove(){//节流函数
  </div>
 <div class="tooltip-wp"></div>
        
-<a href="http://www.google.com/" title="Hello world!">
-  Hover over me
-</a>       
+<a href="#" class="tip">Link<span>This is the CSS tooltip showing up when you mouse over the link</span></a>     
 
 </body>
 </html>
