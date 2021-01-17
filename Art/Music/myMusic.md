@@ -13,10 +13,14 @@ publish date：2021-1-17 03:00:22
     <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/music/english/Pretty Boy - M2M.mp3">
 </audio>
 
-<p>我的世界守则.flac - 王一博</p>
+<p>我的世界守则.flac - 王一博&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mojito - 周杰伦</p>
 
 <audio id="audio" controls="" preload="none">
     <source id="mp3" src="https://files.catbox.moe/4hurqe.flac">
+</audio>
+
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="https://files.catbox.moe/qyfdhs.flac">
 </audio>
 
 </div>
