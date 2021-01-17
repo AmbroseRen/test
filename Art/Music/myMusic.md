@@ -13,6 +13,12 @@ publish date：2021-1-17 03:00:22
     <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/music/english/Pretty Boy - M2M.mp3">
 </audio>
 
+<p>左手指月&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="https://files.catbox.moe/lpntao.mp3">
+</audio>
+
 <p>Mojito - 周杰伦&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;不能说的秘密-周杰伦.flac</p>
 
 <audio id="audio" controls="" preload="none">
