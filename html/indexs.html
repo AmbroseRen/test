@@ -9,6 +9,7 @@
   <meta name="author" content="SitePoint">
 
   <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
 
 </head>
 
@@ -60,5 +61,38 @@
   $('#duty1').on('change', function(){
     document.getElementById("duty").value =this.value;
   });
+	
+$(function () {
+$.ajax({
+    type: 'post',
+    url: 'http://192.168.1.101:8080/getUserListJson',
+    async: true,
+    jsonp: 'jsoncallback',
+    success: function (data) {
+
+//                $('#info').html(data);
+	var result = $.parseJSON(data);
+	var userList = result.data;
+
+	var tabStr = "<table border='1'>";
+
+	$.each(userList, function (i, user) {
+	    tabStr += "<tr><td>" + user.id
+		    + "</td><td>" + user.name
+		    + "</td><td>" + user.password
+		    + "</td><td>" + user.level
+		    + "</td></tr>";
+	});
+	tabStr += "</table>";
+	$('#info').html(tabStr);
+
+    },
+    error: function () {
+	$('#info').html("有问题");
+    }
+});
+
+});
+  
 </script>
 </html>
