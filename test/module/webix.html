@@ -5,21 +5,20 @@
   <script src="//cdn.webix.com/edge/webix.js" type="text/javascript"></script>  
  </head>
  <body>
-   <div>
-    测试
-   </div>    
+    <div id="dataA" style="width:500px;height:150px;"></div> 
   
    <div class="webix_view webix_dtable" id="treetable1611197624731">
+    ==
    </div>
   
    <script type="text/javascript" charset="utf-8">
      /* app code */
     webix.ui({				
       view:"treetable",
+      container:"dataA",     
       columns:[
         { id:"id",	header:"", css:{"text-align":"right"},  	width:50},
-        { id:"value",	header:"Film title",	width:250,
-         template:"{common.treetable()} #value#" },
+        { id:"value",	header:"Film title",	width:250,template:"{common.treetable()} #value#" },
         { id:"chapter",	header:"Mode",	width:200}
       ],
       autoheight:true,
