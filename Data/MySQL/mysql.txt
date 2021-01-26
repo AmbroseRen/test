@@ -53,3 +53,12 @@ grep 'temporary password' /var/log/mysqld.log
 ALTER USER 'root'@'localhost' IDENTIFIED  BY 'MYSQL_ROOT_PASSWORD';
 OK
 
+===============自增序列==============
+SELECT
+    @i:=@i+1 AS iterator,
+    t.*
+FROM
+    tablename AS t,
+    (SELECT @i:=0) AS foo
+    
+    
