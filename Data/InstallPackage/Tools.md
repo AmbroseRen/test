@@ -36,7 +36,7 @@
 | [steam](https://store.steampowered.com/about/) | 游戏软件平台 | [fences] - [桌面管理工具](https://item.taobao.com/item.htm?id=591962221476) - [steam每日特惠](https://www.newyx.net/news/steammrth/) |
 | [有道词典](https://cidian.youdao.com/index.html) | 翻译 | Y |
 | [驱动精灵](http://www.drivergenius.com/) | 驱动修复工具 | Y |
-| [notepad](https://notepad-plus-plus.org/downloads/) | 编辑器 | Y |
+| [notepad](https://notepad-plus-plus.org/downloads/)/[源码](https://github.com/notepad-plus-plus/notepad-plus-plus) | 编辑器 | [常用插件](http://www.crifan.com/files/doc/docbook/rec_soft_npp/release/htmls/npp_common_plugins.html) - [插件库](https://sourceforge.net/projects/npp-plugins/files/) |
 | [rescuetime](https://www.rescuetime.com/get_rescuetime) | 时间管理-网络浏览时间资源分析工具(一般吧) | Y |
 | [chrome](https://www.google.com/chrome/) | 浏览器 | Y |
 | [PicGo](https://molunerfinn.com/PicGo/)/[源码](https://github.com/Molunerfinn/PicGo) | 图床传图工具 | Y |
