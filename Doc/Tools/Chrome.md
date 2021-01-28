@@ -85,6 +85,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 | [Diigo Web Collector-捕获和注释](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh/related?utm_source=chrome-ntp-icon) | 网页标注+注释 | 过于复杂 |
 | [Chrome Better History](https://chrome.google.com/webstore/detail/view-chrome-history/oiginoblioefjckppeefcofmkkhgbdfc)/[Tools备份](http://rensi.ys168.com/)/[History Manager](https://chrome.google.com/webstore/detail/history-manager/ifekbbngjjcachfekcpeejphmkeckged?utm_source=chrome-ntp-icon)对比参考 | chrome历史记录浏览增强 | X |
 | [Note Anywhere](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh/related?hl=zh-CN) | 网页便签 | X |
+| [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?hl=en) | 多线程下载器 | X |
 | []() |  | X |
 | []() |  | X |
 | 公众号编辑工具 |  | X |
