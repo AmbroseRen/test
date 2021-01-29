@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 内容产业服务平台 | [主站](https://newrank.cn/) |
 | [新抖](https://xd.newrank.cn/home/index) | 抖音数据运营平台 | Y |
-| [死亡公司公墓](https://www.itjuzi.com/deathCompany) | 新经济死亡公司数据库 | [主站](https://www.itjuzi.com/) |
+| [死亡公司公墓](https://www.itjuzi.com/deathCompany) | 新经济死亡公司数据库 | [IT桔子-主站](https://www.itjuzi.com/) |
 | [鱼塘热榜](https://mo.fish/) | O_O | Y |
 | [大数据导航](http://hao.199it.com/) | 工业数据 | Y |
 | [今日热榜](https://tophub.today/) | 论坛、热搜导航 | Y |
