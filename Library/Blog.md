@@ -1,3 +1,6 @@
+<style type="text/css">
+#content table {width:1000px;}
+</style>
 # BlogList  [←](index.md)
 
 在网络中带有鲜活印记和成长的、关于我们的故事
