@@ -1,6 +1,6 @@
 # DataRank List [←](index.md)
 
-| Protal(传送门) | Destription(描述) | [A](https://github.com/AmbroseRen/test/blob/master/Library/synthesize.md)bstract(摘要) |
+| Protal(传送门) | Destription(描述) | [A](../Library/synthesize.md)bstract(摘要) |
 |:---:|:---:|:---:|
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 内容产业服务平台 | [主站](https://newrank.cn/) |
 | [新抖](https://xd.newrank.cn/home/index) | 抖音数据运营平台 | Y |
