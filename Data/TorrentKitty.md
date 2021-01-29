@@ -16,7 +16,7 @@
 | []() | O_O | Y |
 | lucy | 25 | X |
 
-> [网盘搜索引擎](https://mp.weixin.qq.com/s/s5ow4FoOKDS_DA6sPY1ysA)
+> [网盘搜索引擎](https://mp.weixin.qq.com/s/s5ow4FoOKDS_DA6sPY1ysA) - [副链](https://t.1yb.co/gi02)
 
 > [网盘搜索引擎](http://itindex.net/detail/57793-%E7%BD%91%E7%9B%98-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E-%E8%B5%84%E6%96%99)
 
