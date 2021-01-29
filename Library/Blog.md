@@ -1,5 +1,5 @@
 <style type="text/css">
-#content table {width:1000px;}
+#content table {width:100%;}
 </style>
 # BlogList  [←](index.md)
 
