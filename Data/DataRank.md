@@ -2,6 +2,8 @@
 
 | Protal(传送门) | Destription(描述) | Abstract(摘要) |
 |:---:|:---:|:---:|
+| [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 内容产业服务平台 | [主站](https://newrank.cn/) |
+| [新抖](https://xd.newrank.cn/home/index) | 抖音数据运营平台 | Y |
 | [大数据导航](http://hao.199it.com/) | 工业数据 | Y |
 | [今日热榜](https://tophub.today/) | 论坛、热搜导航 | Y |
 | [果汁排行榜](http://guozhivip.com/rank/) | 娱乐风云榜 | Y |
