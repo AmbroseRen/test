@@ -7,7 +7,7 @@
 | [万方数据](http://www.wanfangdata.com.cn/index.html) | 会议、学术论文 | Y |
 | [elsevier](https://www.sciencedirect.com/) | 会议、学术论文 | [主站](https://www.elsevier.com/) |
 | [CNS](https://www.cns.org/Default.aspx) | 神经外科 | Y |
-| [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | X |
+| [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | [备份LibGen](https://www.maguang.net/archives/6030)网站面临下线 |
 | [arxiv.org](https://arxiv.org/) | 学术论文搜索 | X |
 | Search | 搜索引擎 | X |
 | [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/) | 搜索引擎 | Y |
