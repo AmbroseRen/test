@@ -84,7 +84,7 @@
 | [BYA](http://bya.cool/) | Python | [《学习之道》 读书笔记](http://bya.cool/2019/08/29/Booknote-The-Art-of-Learning/)  |
 | [geeksforgeeks](https://www.geeksforgeeks.org/) | 综合导航 | Y |
 | [Jiale Han](https://zqhjl.github.io/) | web - null | Y |
-| [phodal](https://www.phodal.com/blog/) | loT | Y |
+| [phodal](https://www.phodal.com/blog/) | loT | [Growth: 全栈增长工程师指南](https://growth.phodal.com/)/[如何应用一门新的技术](https://growth.phodal.com/#%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E4%B8%80%E9%97%A8%E6%96%B0%E7%9A%84%E6%8A%80%E6%9C%AF) |
 | [us-rse](https://us-rse.org/) | 美国研究软件工程师协会 | [原项目](https://github.com/USRSE/usrse.github.io) |
 | [赵云龙](https://zyl.me/blog) | web-Andriod | [主页](https://zyl.me/) |
 | ~~[郭](https://gary5496.github.io/)~~ | web | [Windows+github+hexo](https://gary5496.github.io/2018/03/hexo-github-setup/) |
