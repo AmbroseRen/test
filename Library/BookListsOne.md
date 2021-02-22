@@ -120,7 +120,7 @@
             </li>
             <li>IT
                 <ul>
-                    <li><a href="http://liantze.penguinattack.org/docs/WaveCrest.pdf">浪潮之巅</a></li>
+                    <li><a href="http://liantze.penguinattack.org/docs/WaveCrest.pdf">浪潮之巅</a></li> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/organization/WaveCrest.pdf">副本</a></li>
                     <li>java编程思想——thinking in java;工具书</li>
                     <li>《x86汇编语言》</li>
                     <li>数据结构与C程序设计</li>
