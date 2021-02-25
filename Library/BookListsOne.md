@@ -116,6 +116,7 @@
                         </ul>
                     </li>                    
                     <li><a href="https://files.catbox.moe/fy8yeq.pdf">实用性阅读指南</a></li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Method/原则 - 瑞·达利欧.pdf">原则 - 瑞·达利欧</a></li>
                 </ul>
             </li>
             <li>IT
