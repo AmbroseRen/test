@@ -102,7 +102,7 @@
             <li>✔人类简史</li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/权力与繁荣(www.weibaiyue.com).pdf">权利与繁荣</a></li>
              <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/大革命与现代文明_13083578.pdf">大革命与现代文明</a></li>
-             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/新教伦理与资本主义精神【马克思·韦伯】.pdf">新教伦理与资本主义精神</a></li>
+             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/新教伦理与资本主义精神【马克思·韦伯】.pdf">新教伦理与资本主义精神</a>-<a href="https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF">马克斯·韦伯</a></li>
              <li>不平等的童年</li>
             <li><del><a href="http://www.yiquhai.com/content/22314.html">四百年未有之变局</a></del>-<a href="http://cn.epubee.com/files.aspx">副链</a></li>
         </ul>
