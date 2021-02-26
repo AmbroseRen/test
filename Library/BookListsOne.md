@@ -92,7 +92,7 @@
     </li>
     <li>History
         <ul>
-            <li>新全球史</li>
+            <li><a href="https://files.catbox.moe/1cn69b.pdf">新全球史</a> - <a href="https://pan.baidu.com/s/1Xit7hwfukJDBkXMecOrdFg">副链</a>提取码：pykv </li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/History/全球通史.pdf">全球通史</a></li>
             <li>社会主义分支</li>
             <li>资本主义党派</li>
