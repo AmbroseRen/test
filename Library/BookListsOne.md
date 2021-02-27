@@ -217,7 +217,8 @@
                             <li>《太阳、基因组与互联网：科学革命的工具》</li>
                             <li>《想象中的世界》</li>
                         </ul>
-                    </li>                        
+                    </li>
+                    <li><a href="https://www.kanunu8.com/files/writer/448.html">艾萨克·阿西莫夫作品集</a></li>
                     <li><a href="http://liucixin.zuopinj.com/">刘慈欣作品集</a>
                         <ul>
                             <li>《三体》</li>
