@@ -221,6 +221,7 @@
                         </ul>
                     </li>
                     <li><a href="https://www.kanunu8.com/files/writer/448.html">艾萨克·阿西莫夫作品集</a></li>
+                    <li><a href="https://www.kanunu8.com/files/writer/6451.html">弗诺·文奇作品集</a></li>
                     <li><a href="http://liucixin.zuopinj.com/">刘慈欣作品集</a>
                         <ul>
                             <li>《三体》</li>
