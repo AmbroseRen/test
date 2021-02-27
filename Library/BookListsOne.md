@@ -157,6 +157,7 @@
             </li>
             <li>Novel
                 <ul>
+                    <li><a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a></li>
                     <li>茨威格（奥地利）--人道主义思想（一种感情存在，对人本身的悲悯）
                         <ul>
                             <li>《一个陌生女人的来信》</li>
@@ -187,7 +188,7 @@
                     <li>《巨流河》</li>
                     <li>《房思琪的初恋乐园》（林奕含）</li>
                     <li>《人面桃花》（格菲）</li>
-                    <li><a href="http://cscs.zuopinj.com/">村上春树作品集</a>——<a href="https://www.my2852.com/wgwx/zpj/cscs/index.htm">副链</a>
+                    <li><a href="http://cscs.zuopinj.com/">村上春树作品集</a>——<del><a href="https://www.my2852.com/wgwx/zpj/cscs/index.htm">副链</a></del>
                         <ul>
                             <li><a href="https://www.my2852.com/wgwx/zpj/cscs/nwd/index.htm">《挪威的森林》</a></li>
                         </ul>
