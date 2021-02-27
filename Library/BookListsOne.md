@@ -195,6 +195,7 @@
                     <li><a href="http://dongyeguiwu.zuopinj.com/">东野圭吾作品集</a>
                         <ul>
                             <li>《解忧杂货铺》</li>
+                            <li><a href="https://www.kanshuhai.net/0/74/74450/?btwaf=52631057">白夜行</li>
                         </ul>
                     </li>                        
                     <li><a href="https://www.kanunu8.com/files/writer/7470.html">芥川龙之介作品集</a></li>
