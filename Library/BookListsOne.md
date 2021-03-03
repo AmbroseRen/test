@@ -158,6 +158,7 @@
             <li>Novel
                 <ul>
                     <li><a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a></li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/《世界尽头的咖啡馆》万洁 【美】约翰·史崔勒基【文字版_PDF电子书_下载】.pdf">世界尽头的咖啡馆</a></li>
                     <li>茨威格（奥地利）--人道主义思想（一种感情存在，对人本身的悲悯）
                         <ul>
                             <li>《一个陌生女人的来信》</li>
