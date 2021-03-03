@@ -104,7 +104,7 @@
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/权力与繁荣(www.weibaiyue.com).pdf">权利与繁荣</a></li>
              <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/大革命与现代文明_13083578.pdf">大革命与现代文明</a></li>
              <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/History/新教伦理与资本主义精神【马克思·韦伯】.pdf">新教伦理与资本主义精神</a>-<a href="https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF">马克斯·韦伯</a></li>
-            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/History/贾雷德·戴蒙德：枪炮、病菌与钢铁——人类社会的命运.pdf">枪炮、病菌与钢铁</a></li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/History/贾雷德·戴蒙德：枪炮、病菌与钢铁——人类社会的命运.pdf">枪炮、病菌与钢铁</a>-<a href="http://archive.keyllo.com/F-%E5%8F%91%E7%8E%B0/%E6%9E%AA%E7%82%AE%E7%97%85%E8%8F%8C%E4%B8%8E%E9%92%A2%E9%93%81.pdf">副本一</a>-<a href="http://www.wnllxx.org/down/%E6%9E%AA%E7%82%AE%E3%80%81%E7%97%85%E8%8F%8C%E4%B8%8E%E9%92%A2%E9%93%81%EF%BC%9A%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%91%BD%E8%BF%90%EF%BC%88%E7%BE%8E%EF%BC%89%E8%B4%BE%E9%9B%B7%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99%E5%BE%B7.pdf">副本二</a></li>
              <li>不平等的童年</li>
             <li><del><a href="http://www.yiquhai.com/content/22314.html">四百年未有之变局</a></del>-<a href="http://cn.epubee.com/files.aspx">副链</a></li>
         </ul>
