@@ -11,7 +11,7 @@
 | [The New York Public Library](https://www.nypl.org/voices/print-publications/books-of-the-century) | O_O | 现代文学/自然/政治/社会学/大众·娱乐/女权运动/经济与技术/乌托邦及反/战争·集权/愉悦/青春文学 |
 | [Tim O’Reilly’s 文明手册](https://medium.com/the-long-now-foundation/tim-oreilly-s-book-list-for-the-manual-for-civilization-69598baf562f) | O_O | 宗教·哲学/文学/科技与社会/ |
 | [ebook](https://www.cnblogs.com/yasepix/p/12431379.html) | O_O | 中史/科幻/文学/鸡汤 |
-| []() | O_O | Y |
+| [孤斗](http://d-d.design/?page_id=9618) | 2019/2020 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
