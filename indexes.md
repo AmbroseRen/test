@@ -61,8 +61,8 @@
             <li><span class="file"><a href="https://ambroseren.github.io/test/Data/Safe/index.html">Safe</a></span></li>
             <li><span class="folder"><a href="https://ambroseren.github.io/test/Data/Windows/index.html">Windows</a></span>
                 <ul>
-                    <li><a href="https://ambroseren.github.io/test/Data/Windows/DOS/index.html">DOS</a></span></li>
-                    <li><a href="https://ambroseren.github.io/test/Data/Windows/virus/index.html">virus</a></span></li>
+                    <li><span class="file"><a href="https://ambroseren.github.io/test/Data/Windows/DOS/index.html">DOS</a></span></li>
+                    <li><span class="file"><a href="https://ambroseren.github.io/test/Data/Windows/virus/index.html">virus</a></span></li>
                 </ul>            
             </li>
             <li><span class="file"><a href="https://ambroseren.github.io/test/Data/hot/index.html">Hot</a></span></li>
@@ -113,7 +113,7 @@
             <li><span class="file"><a href="https://ambroseren.github.io/test/Web/CoolWeb.html">CoolWeb</a></span></li>
             <li><span class="file"><a href="https://ambroseren.github.io/test/Web/ElasticSearch.html">搜索方案</a></span></li>
             <li><span class="file"><a href="https://ambroseren.github.io/test/Web/Server.html">前端脚手架</a></span></li>
-            <li><span class="file"><a href="https://ambroseren.github.io/test/Web/SoftWare.html">前端软件</a></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Web/SoftWare.html">前端软件</a></span></li>
             <li><span class="file"><a href="https://ambroseren.github.io/test/Web/framework.html">通用架构框架</a></span></li>
             <li><span class="file"><a href="https://ambroseren.github.io/test/Web/web_guide.html">前端手册</a></span></li>
         </ul>
