@@ -27,6 +27,7 @@
             <li>摩尔神话</li>
             <li>并购大师（杨大筠..）--时尚产业的资本游戏</li>
             <li>融资（[美]安迪·樊__Andy Fan）</li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/财务自由之路.pdf">财务自由之路</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/精益创业 美 埃里克 莱斯.pdf">精益创业 美 埃里克 莱斯</a></li>
         </ul>
     </li>
