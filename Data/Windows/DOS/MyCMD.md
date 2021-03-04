@@ -32,9 +32,11 @@ bcdedit /set hypervisorlaunchtype auto
 
 ## 关闭端口占用命令
 
+```
 netstat -nao | findstr “8080”
 
 taskkill /pid 3017 /F
+```
 
 
 
