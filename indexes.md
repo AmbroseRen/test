@@ -21,7 +21,7 @@
 
 <div id="main">
 <ul id="treeview" class="filetree">
-    <li><a href="https://ambroseren.github.io/test/About/index.html">About Me</a></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/About/index.html">About Me</a></span></li>
     <li><a href="https://ambroseren.github.io/test/Art/">Art</a>
         <ul>
             <li><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Animes</a></li>
