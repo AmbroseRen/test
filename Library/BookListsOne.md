@@ -144,12 +144,9 @@
         <ul>
             <li>Poem
                 <ul>
-                    <li>《茶花女》</li>
-                    <li>《呼啸山庄》</li>
-                    <li>《小王子》</li>
-                    <li>《斯通纳》</li>
-                    <li>《安娜·卡列尼娜》</li>
-                    <li>《悉达多》</li>
+                    <li><a href="http://www.newxue.com/waerdenghu/">瓦尔登湖</a> - <a href="http://www.newxue.com/chahuanv/">《茶花女》</a> - <a href="http://www.newxue.com/mingzhu/huxiaoshanzhuang/">《呼啸山庄》</a></li>
+                    <li><a href="http://www.newxue.com/mingzhu/xiaowangzi/">《小王子》</a> - <a href="https://www.yooread.net/7/4978/">《斯通纳》</a> - <a href="http://www.newxue.com/mingzhu/annakalienina/">《安娜·卡列尼娜》</a></li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Poem/悉达多.txt">《悉达多》</a></li>
                     <li>《傲慢与偏见》</li>
                     <li>《失乐园》</li>
                 </ul>
