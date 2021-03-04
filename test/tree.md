@@ -36,7 +36,7 @@
             <li><span class="file">系统管理</span></li>
             </ul>
         </li>
-        <li><span class="folder closed">行政部门</span>
+        <li class="closed"><span class="folder">行政部门</span>
             <ul>
                 <li><span class="file">合同管理</span></li>
                 <li><span class="file">加班信息</span></li>
