@@ -22,16 +22,16 @@
 <div id="main">
 <ul id="treeview" class="filetree">
     <li><span class="folder"><a href="https://ambroseren.github.io/test/About/index.html">About Me</a></span></li>
-    <li><a href="https://ambroseren.github.io/test/Art/">Art</a>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/Art/">Art</a></span>
         <ul>
-            <li><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Animes</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Games/index.html">Games</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Gossip/index.html">Gossip</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Movies/index.html">Movies</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Music/index.html">Music</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Painting/index.html">Painting</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Shoot/index.html">Shoot</a></li>
-            <li><a href="https://ambroseren.github.io/test/Art/Stream/index.html">Stream</a></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Animes/index.html">Animes</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Games/index.html">Games</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Gossip/index.html">Gossip</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Movies/index.html">Movies</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Music/index.html">Music</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Painting/index.html">Painting</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Shoot/index.html">Shoot</a></span></li>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Art/Stream/index.html">Stream</a></span></li>
         </ul>
     </li>
     <li><a href="https://ambroseren.github.io/test/Data/">Data</a>
