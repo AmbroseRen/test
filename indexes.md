@@ -94,12 +94,12 @@
             <li><span class="file"><a href="https://ambroseren.github.io/test/Doc/js/index.html">js</a></span></li>
         </ul>
     </li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/Library/index.html">Library</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/Proxy/index.html">Proxy</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/Search/index.html">Search</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/SiteInfo/AboutSite.html">SiteInfo</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/Tools/index.html">Tools</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/Video/index.html">Video</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/Library/index.html">Library</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/Proxy/index.html">Proxy</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/Search/index.html">Search</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/SiteInfo/AboutSite.html">SiteInfo</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/Tools/index.html">Tools</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/Video/index.html">Video</a></span></li>
     <li><span class="folder"><a href="https://ambroseren.github.io/test/Web/index.html">Web</a></span>
         <ul>
             <li><span class="folder"><a href="https://ambroseren.github.io/test/Web/WebGL/">WebGL</a></span>
@@ -118,10 +118,10 @@
             <li><span class="file"><a href="https://ambroseren.github.io/test/Web/web_guide.html">前端手册</a></span></li>
         </ul>
     </li>        
-    <li><span class="file"><a href="https://ambroseren.github.io/test/css/index.html">css</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/html/index.html">html</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/img/index.html">img</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/java/">Java</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/css/index.html">css</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/html/index.html">html</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/img/index.html">img</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/java/">Java</a></span></li>
     <li><span class="folder"><a href="https://ambroseren.github.io/test/js/index.html">js</a></span>
         <ul>
             <li><span class="file"><a href="https://ambroseren.github.io/test/js/Doc/index.html">Doc</a></span></li>
@@ -130,7 +130,7 @@
             <li><span class="file"><a href="https://ambroseren.github.io/test/js/webGL/index.html">webGL</a></span></li>
         </ul>
     </li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/test/index.html">test</a></span></li>
-    <li><span class="file"><a href="https://ambroseren.github.io/test/util/index.html">util</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/test/index.html">test</a></span></li>
+    <li><span class="folder"><a href="https://ambroseren.github.io/test/util/index.html">util</a></span></li>
 </ul>
 </div>
