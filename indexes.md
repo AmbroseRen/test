@@ -19,7 +19,7 @@
 
 # indexes  [Home](index.md)
 
-<div id="main">
+<div>
 <ul id="treeview" class="filetree">
     <li><span class="folder"><a href="https://ambroseren.github.io/test/About/index.html">About Me</a></span></li>
     <li><span class="folder"><a href="https://ambroseren.github.io/test/Art/">Art</a></span>
