@@ -56,9 +56,19 @@
             <li><a href="https://ambroseren.github.io/test/Doc/Java/index.html">Java</a></li>
             <li><a href="https://ambroseren.github.io/test/Doc/Law/index.html">Law</a></li>
             <li><a href="https://ambroseren.github.io/test/Doc/News/index.html">News</a></li>
-            <li><a href="https://ambroseren.github.io/test/Doc/System/index.html">System</a></li>
+            <li><a href="https://ambroseren.github.io/test/Doc/System/index.html">System</a>
+                <ul>
+                    <li><a href="https://ambroseren.github.io/test/Doc/System/Windows/index.html">Windows</a></li>
+                </ul>             
+            </li>
             <li><a href="https://ambroseren.github.io/test/Doc/Temp/index.html">Temp</a></li>
-            <li><a href="https://ambroseren.github.io/test/Doc/Tools/index.html">Tools</a></li>
+            <li><a href="https://ambroseren.github.io/test/Doc/Tools/index.html">Tools</a>
+                <ul>
+                    <li><a href="https://ambroseren.github.io/test/Doc/Tools/Build_Tools/index.html">Build_Tools</a></li>
+                    <li><a href="https://ambroseren.github.io/test/Doc/Tools/Git/index.html">Git</a></li>
+                    <li><a href="https://ambroseren.github.io/test/Doc/Tools/Idea/index.html">Idea</a></li>
+                </ul>             
+            </li>
             <li><a href="https://ambroseren.github.io/test/Doc/Web/index.html">Web</a></li>
             <li><a href="https://ambroseren.github.io/test/Doc/article/index.html">article</a></li>
             <li><a href="https://ambroseren.github.io/test/Doc/html/index.html">html</a></li>
