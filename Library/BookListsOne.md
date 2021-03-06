@@ -10,6 +10,12 @@
 
 </div>
 
+- [Primer](#primer)
+
+[TOC]
+
+<!-- TOC -->
+
 <div>
 <ul class="tree">
     <li>Finance
