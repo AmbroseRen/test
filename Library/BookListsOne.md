@@ -79,7 +79,7 @@
                     <li>凯恩斯传</li>
                     <li>哈耶克传</li>
                     <li><a href="https://github.com/ttpianobirds/RenZhengfei/blob/master/README.md">《任正非思想收录》</a></li>
-                    <li>曾国藩家书——内在修为</li>
+                    <li><a href="https://www.kanunu8.com/book3/7882/">《曾国藩家书》</a>——内在修为</li>
                     <li>卡耐基传——人情世故</li>
                     <li>杜月笙大传——洞悉人性</li>
                     <li>李嘉诚全传——逆袭法则</li>
