@@ -80,7 +80,7 @@
                     <li>哈耶克传</li>
                     <li><a href="https://github.com/ttpianobirds/RenZhengfei/blob/master/README.md">《任正非思想收录》</a></li>
                     <li><a href="https://www.kanunu8.com/book3/7882/">《曾国藩家书》</a>——内在修为</li>
-                    <li>卡耐基传——人情世故</li>
+                    <li><a href="https://www.danseshu.com/authors/%E5%8D%A1%E8%80%90%E5%9F%BA.html">卡耐基作品集</a>——人情世故</li>
                     <li>杜月笙大传——洞悉人性</li>
                     <li>李嘉诚全传——逆袭法则</li>
                     <li><del>马云传——抓住财富</del></li>
