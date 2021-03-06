@@ -188,10 +188,10 @@
                     <li>《独居（约翰·欧文）</li>
                     <li>《爸爸爸》（韩少功）</li>
                     <li><a href="http://www.dushu369.com/waiguomingzhu/bngd/">《百年孤独》</a>（马尔克斯）</li>
-                    <li>《不能承受的生命之轻》</li>
-                    <li>《巨流河》</li>
-                    <li>《房思琪的初恋乐园》（林奕含）</li>
-                    <li>《人面桃花》（格菲）</li>
+                    <li><a href="http://www.yuedu88.com/bunengchengshoudeshengmingzhiqing/">《不能承受的生命之轻》</a></li>
+                    <li><a href="https://www.kanunu8.com/book3/5999/index.html">《巨流河》</a></li>
+                    <li><a href="https://www.136book.com/fangsiqidichulianleyuan/">《房思琪的初恋乐园》（林奕含）</a></li>
+                    <li><a href="https://www.kanunu8.com/book3/7357/">《人面桃花》（格菲）</a></li>
                     <li><a href="http://cscs.zuopinj.com/">村上春树作品集</a>——<del><a href="https://www.my2852.com/wgwx/zpj/cscs/index.htm">副链</a></del>
                         <ul>
                             <li><a href="https://www.my2852.com/wgwx/zpj/cscs/nwd/index.htm">《挪威的森林》</a></li>
