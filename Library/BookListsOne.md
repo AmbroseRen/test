@@ -51,7 +51,7 @@
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/精益创业 美 埃里克 莱斯.pdf">精益创业 美 埃里克 莱斯</a></li>
         </ul>
     </li>
-    <li id="law">Law
+    <li id="law"><a href="#top">Law</a>
         <ul>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Law/洞穴奇案（美）彼得·萨伯.pdf">洞穴奇案</a>（美）彼得·萨伯
                 <ul>
