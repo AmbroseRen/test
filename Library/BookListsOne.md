@@ -148,7 +148,7 @@
             </li>
             <li id="it">IT
                 <ul>
-                    <li><a href="http://liantze.penguinattack.org/docs/WaveCrest.pdf">浪潮之巅</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/organization/WaveCrest.pdf">副链</a></li>
+                    <li>✔<a href="http://liantze.penguinattack.org/docs/WaveCrest.pdf">浪潮之巅</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/organization/WaveCrest.pdf">副链</a></li>
                     <li>java编程思想——thinking in java;工具书</li>
                     <li>《x86汇编语言》</li>
                     <li>数据结构与C程序设计</li>
@@ -173,14 +173,14 @@
             </li>
             <li id="prose">Prose
                 <ul>
-                    <li><a href="https://www.99csw.com/book/2527/index.htm">《倾城之恋》</a>- <a href="https://www.kanunu8.com/book3/7109/">副链</a></li>
+                    <li><a href="https://www.51shucheng.net/yanqing/qingchengzhilian">《倾城之恋》</a>- <a href="https://www.kanunu8.com/book3/7109/">副链</a></li>
                     <li>✔《施华洛世奇的水晶世界》（王珍）</li>
                 </ul>
             </li>
             <li id="novel">Novel
                 <ul>
                     <li><a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a></li>
-                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/《世界尽头的咖啡馆》万洁 【美】约翰·史崔勒基【文字版_PDF电子书_下载】.pdf">世界尽头的咖啡馆</a></li>
+                    <li>✔<a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/《世界尽头的咖啡馆》万洁 【美】约翰·史崔勒基【文字版_PDF电子书_下载】.pdf">世界尽头的咖啡馆</a></li>
                     <li>《洛丽塔》 - 《情人》 - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/霍乱时期的爱情.pdf">《霍乱时期的爱情》</a></li>
                     <li>茨威格（奥地利）--人道主义思想（一种感情存在，对人本身的悲悯）
                         <ul>
