@@ -5,9 +5,11 @@
 | <font color="#ff0000">传送门</font> | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | __BookSearch__ | __搜索引擎__ | X | X | X |
+| [Ebook Sreach](https://ebook.blinkol.com/#/) | 聚合搜索 | X | X | X |
 | [科学文库](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | 文/理书库-cn | [中国国家数字图书馆](http://www.nlc.cn/) | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
+| [sobooks](https://sobooks.cc/) | 搜索 | X | X | X |
 | [ePUBee](http://cn.epubee.com/books/?action=addbooks) | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
