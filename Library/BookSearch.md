@@ -14,7 +14,7 @@
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [多看阅读](http://www.duokan.com/) | 搜索引擎 | [《人体的故事：进化、健康与疾病》](http://www.duokan.com/reader/www/app.html?id=14675bb3a5224e0f8b9a10b191c19cc9)-[下载](https://www.ebookcn.com/book/resource/257067) | X | X |
-| ~~[书单网](https://www.shudan.vip/115040.html)~~ | 搜索引擎 | X | X | X |
+| [书单网](https://www.shudan.vip/) | 搜索引擎 | X | X | X |
 | [rukomos](http://cn-library.rukomos.ru/) | 综合 | [Category](http://cn-library.rukomos.ru/list_categories.html) | 新生-无侧重 | X |
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
 | __everything__ | __综合图书__ | X | X | X |
