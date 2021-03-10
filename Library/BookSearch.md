@@ -54,7 +54,7 @@
 | [少儿英语星](http://www.kindle178.com/) | 少儿故事 | X | X | X |
 | [大不列颠百科全书](https://www.britannica.com/) | en-pay | X | X | [克劳德·香农（Claude Shannon）](https://www.britannica.com/biography/Claude-Shannon)的[交流模型•信息论之父](https://www.britannica.com/science/information-theory/Classical-information-theory#ref1140401) |
 | [美国国会图书馆](https://www.loc.gov/) | 25 | X | X | [分类索引](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) |
-| [bannedbook](https://www.bannedbook.org/bbook.php) | 禁书网 | X | X | X |
+| [bannedbook](https://www.bannedbook.org/bbook.php) | 禁书网 | [动物庄园](https://www.bannedbook.org/resources/file/4502) | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
 | []() | 25 | X | X | X |
