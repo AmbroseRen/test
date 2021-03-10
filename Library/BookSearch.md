@@ -5,6 +5,7 @@
 | <font color="#ff0000">传送门</font> | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | __BookSearch__ | __搜索引擎__ | X | X | X |
+| [书享家](http://shuxiangjia.cn/) | 导航 | X | 看来我在做的事情已经有人做的更好了啊 | X |
 | [Ebook Sreach](https://ebook.blinkol.com/#/) | 聚合搜索 | X | X | X |
 | [科学文库](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | 文/理书库-cn | [中国国家数字图书馆](http://www.nlc.cn/) | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
