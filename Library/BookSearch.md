@@ -5,7 +5,6 @@
 | <font color="#ff0000">传送门</font> | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | Library | __书库__ | X | X | X |
-| [519电子书](http://download.519.best/)b4fn25 | 25 | X | X | X |
 | __BookSearch__ | __搜索引擎__ | X | X | X |
 | [书享家](http://shuxiangjia.cn/) | 导航 | X | 看来我在做的事情已经有人做的更好了啊 | X |
 | [Ebook Sreach](https://ebook.blinkol.com/#/) | 聚合搜索 | X | X | X |
@@ -67,6 +66,8 @@
 [readfree](http://einverne.github.io/post/2018/02/free-online-books.html)已食用
 
 [SaltyLoe](https://tstrs.me/1475.html)已食用
+
+[519电子书](http://download.519.best/)/[梦的解析](http://download.519.best/C:/519%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/%E6%A2%A6%E7%9A%84%E8%A7%A3%E6%9E%90)b4fn25
 
 []()
 
