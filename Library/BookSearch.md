@@ -4,6 +4,8 @@
 
 | <font color="#ff0000">传送门</font> | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
+| Library | __书库__ | X | X | X |
+| [519电子书](http://download.519.best/)b4fn25 | 25 | X | X | X |
 | __BookSearch__ | __搜索引擎__ | X | X | X |
 | [书享家](http://shuxiangjia.cn/) | 导航 | X | 看来我在做的事情已经有人做的更好了啊 | X |
 | [Ebook Sreach](https://ebook.blinkol.com/#/) | 聚合搜索 | X | X | X |
