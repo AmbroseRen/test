@@ -10,6 +10,7 @@ npm install cli-js -g
 npm install
 npm init -y
 npm install babel-cli@6 babel-preset-react-app@3 - 添加JSX
+npm install webpack webpack-cli --save-dev
 npm run build
 npm run serve
 
@@ -41,6 +42,7 @@ npm i yarn -g
 >> yarn常用命令
 
 ```
+npm install --global yarn
 yarn -version
 yarn / yarn install 等同于npm install 批量安装依赖
 yarn add xxx 等同于 npm install xxx —save 安装指定包到指定位置
