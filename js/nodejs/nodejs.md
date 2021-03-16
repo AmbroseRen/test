@@ -59,3 +59,9 @@ run
 ```
 node server.js
 ```
+
+# npm依赖安装
+
+```
+npm install webpack webpack-cli --save-dev
+```
