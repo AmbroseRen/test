@@ -150,7 +150,7 @@
             <li id="it">IT
                 <ul>
                     <li>✔<a href="http://liantze.penguinattack.org/docs/WaveCrest.pdf">浪潮之巅</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/organization/WaveCrest.pdf">副链</a></li>
-                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Technology/IT/算法图解.pdf">算法图解</a></li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Technology/IT/算法图解.pdf">算法图解</a> - <a href="https://github.com/nateshao/algorithm-diagram/blob/main/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf">原址</a></li>
 		    <li>java编程思想——thinking in java;工具书</li>
                     <li>《x86汇编语言》</li>
                     <li>数据结构与C程序设计</li>
