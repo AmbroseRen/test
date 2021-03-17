@@ -150,7 +150,8 @@
             <li id="it">IT
                 <ul>
                     <li>✔<a href="http://liantze.penguinattack.org/docs/WaveCrest.pdf">浪潮之巅</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/organization/WaveCrest.pdf">副链</a></li>
-                    <li>java编程思想——thinking in java;工具书</li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Technology/IT/算法图解.pdf">算法图解</a></li>
+		    <li>java编程思想——thinking in java;工具书</li>
                     <li>《x86汇编语言》</li>
                     <li>数据结构与C程序设计</li>
                     <li>单片机原理与技术</li>
