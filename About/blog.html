@@ -1,0 +1,97 @@
+<html><head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AmbroseRen</title>
+  <meta name="keywords" content="AmbroseRen"/>
+    <meta name="description" content="有时分享也是一种快乐"/>
+  <link rel="stylesheet" href="http://echsblog.pek3b.qingstor.com/style/css/buttons.css">
+  <link rel="stylesheet" href="http://echsblog.pek3b.qingstor.com/style/css/app.css" type="text/css" media="all">
+  <link href="https://use.fontawesome.com/releases/v4.7.0/css/font-awesome-css.min.css" rel="stylesheet">
+  <script type="text/javascript" src="../js/JQuery/jquery.js"></script>
+  <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+  <style>
+  html,body{width:100%;overflow: hidden;overflow-y: scroll;}
+   #main article{border-bottom:0}body{font:18px PingFang SC,Lantinghei SC,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans;background-color:#07040e}#canvas{position:absolute;z-index:10;top:0;left:0;bottom:0;right:0;cursor:none}.content{position:absolute;z-index:11;right:0;left:0;top:0;}.splash{position:relative}img#qq{width:128px;background-size:cover;border-radius:200px;box-shadow:0 0 40px rgba(63,81,181,0.72);border:3px solid #00a0ff;opacity:1;margin:0 auto;margin-top:20px;margin-bottom:20px;transition:all 1.0s}#qq:hover{box-shadow:0 0 10px #fff;-webkit-box-shadow:0 0 19px #fff;transform:rotate(360deg);-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3)}.content a{margin-top:6px;margin-right:1em}
+
+  .cpright{font-size: 18px;padding-bottom: 18px;margin-top: 130px;}
+  @media screen and (max-width: 768px) {
+    .cpright{margin-top: 80px;}
+  }
+  </style>
+<script type="text/javascript">
+function click(e) {
+if (document.all) {
+if (event.button==2||event.button==3) { alert(" ");
+oncontextmenu='return false';
+}
+}
+if (document.layers) {
+if (e.which == 3) {
+oncontextmenu='return false';
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+document.oncontextmenu = new Function("return false;");
+document.onkeydown =document.onkeyup = document.onkeypress=function(){ 
+if(window.event.keyCode == 123) { 
+window.event.returnValue=false;
+return(false); 
+} 
+}
+</script>
+  
+</head>
+<body class="home page page-id-194 page-template page-template-page-homepage page-template-page-homepage-php custom-background" ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
+  <header role="banner">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          
+  </header>
+  <div class="jumbotron">
+    <div class="container">
+      <div class="splash">
+        <div class="content">
+          <img src="style/img/user.jpg" alt="PatternFly logo" id="qq" class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+          <h1 class="wow fadeIn animated" data-wow-delay="750ms" style="visibility: visible; animation-delay: 750ms; animation-name: fadeIn; border-bottom:none;">
+            AmbroseRen
+          </h1>
+          <p class="description wow fadeIn animated" data-wow-delay="1250ms" style=" visibility: visible; animation-delay: 1250ms; animation-name: fadeIn;">
+            个人独创名言：有时分享也是一种快乐！
+          <p class="description wow fadeIn animated" data-wow-delay="1250ms" style=" visibility: visible; animation-delay: 1250ms; animation-name: fadeIn;">
+            简介
+          <p class="description wow fadeIn animated" data-wow-delay="1250ms" style=" visibility: visible; animation-delay: 1250ms; animation-name: fadeIn;">
+            内容
+          </p>
+          <!--<a href="https://echsfxy.coding.net/p/tuchuang/d/tc/git/raw/master/Screenshot_20210310_222713.png" class="button button-glow button-border button-rounded button-primary"></i>加微信公众号</a>
+          <a href="http://echsfxy.xydh.fun" class="button button-glow button-border button-rounded button-primary"></i>AmbroseRen导航</a>
+          <a href="https://echssj.top" class="button button-glow button-border button-rounded button-primary"></i>AmbroseRen书架</a>
+          <a href="http://echs.top/" class="button button-glow button-border button-rounded button-primary"></i>baklib小博客</a>
+          <a href="https://www.coolapk.com/u/3226023" class="button button-glow button-border button-rounded button-primary"></i>酷安二次寒树</a>
+          <a href="https://echsfxy.coding.net/p/tuchuang/d/tc/git/raw/master/qrcode_1615384500186.jpg" class="button button-glow button-border button-rounded button-primary"></i>合作联系 QQ</a>
+          <a href="http://www.sxmu.edu.cn/" class="button button-glow button-border button-rounded button-primary"></i>山西医科大学</a>
+          <a href="http://dev.rubaoo.com/TimeDiaryV2/s/MWJ0aXI=" class="button button-glow button-border button-rounded button-primary"></i>免费主页教程</a>-->
+          <div class="cpright">©2021AmbroseRen byGithub </div>
+        </div>
+      </div>
+    </div>
+    <canvas id="canvas"></canvas>
+  </div>
+<script src="style/js/hovertreewelcome.js"></script>
+<script src="style/js/bg_window.js"></script>
+  <script type="application/javascript">
+    audio = document.createElement('audio');
+    audio.setAttribute('src', "./123.mp3");
+    audio.loop='loop';
+    audio.autoplay='autoplay';
+    audio.muted=false;
+    audio.play();
+    jQuery(document).one('click',function(){
+      audio.play();
+    });
+  </script>
+</body></html>
