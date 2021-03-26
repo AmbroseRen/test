@@ -68,7 +68,8 @@
                 <ul>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/Psychology/mobi心理学入门.pdf">心理学入门-格尔德·米策尔.mobi</a>-<a href="http://cn.epubee.com/files.aspx">副链</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/Psychology/Forty-Studies-that-Changed-Psychology.pdf">Forty-Studies-that-Changed-Psychology(改变心理学的四十项研究)</a></li>
-                    <li>✔倾听术</li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/乌合之众：大众心理研究-古斯塔夫·勒庞.pdf">乌合之众：大众心理研究</a></li>
+		    <li>✔倾听术</li>
                     <li>fbi教你读心术</li>
                     <li>《人类误判心理学》</li>
                     <li>《对伪心理学说不》</li>
