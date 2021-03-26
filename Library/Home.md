@@ -3,8 +3,8 @@
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [My_Blog](https://ambroseren.github.io) | 主站 | Y |
-| [My Blogspot](https://ambroseren.blogspot.com/) | O_O | Y |
-| [My Wordpress](https://ambroserencn.wordpress.com/) | O_O | Y |
+| [My_Blogspot](https://ambroseren.blogspot.com/) | O_O | Y |
+| [My_Wordpress](https://ambroserencn.wordpress.com/) | O_O | Y |
 | [My_Blog](https://ambroserencn.gitlab.io/ambroserencn/) | 子站 | Y |
 | [My_Databases](https://ambroseren.github.io/test/) | 数据库 | Y |
 | [MyFigureBed](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/) | 图库 | Y |
