@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 节选 |
 |:---:|:---:|:---:|
-| [ixinzhi](https://github.com/ixinzhi/igetget) | 布客新知-子库_在线阅读 | https://cdn.jsdelivr.net/gh/ixinzhi/igetget@master/xxx.pdf |
+| [ixinzhi](https://github.com/ixinzhi/igetget) | 布客新知-子库_在线阅读 | [https://cdn.jsdelivr.net/gh/ixinzhi/igetget@master/xxx.pdf] |
 | [meiguhuaxian](https://www.cnblogs.com/meiguhuaxian/p/11641423.html) | O_O | 管理·技术/工具·方法/科技·人文/艺术·文学 |
 | [阮一峰](https://github.com/ruanyf/reading-list) | O_O | [文学](https://github.com/ruanyf/reading-list#%E6%96%87%E5%AD%A6)/[传记](https://github.com/ruanyf/reading-list#传记)/[历史](https://github.com/ruanyf/reading-list#历史)/[科学](https://github.com/ruanyf/reading-list#科学)/[技术](https://github.com/ruanyf/reading-list#技术)/[杂类](https://github.com/ruanyf/reading-list#杂类) |
 | [bndong](https://www.cnblogs.com/bndong/p/10300036.html) | 文学 | [在读](https://www.cnblogs.com/bndong/p/10300036.html#hid-wnZJby)/[库存](https://www.cnblogs.com/bndong/p/10300036.html#hid-AJ7KWC)/[心愿](https://www.cnblogs.com/bndong/p/10300036.html#hid-NihRWK)/[搁置](https://www.cnblogs.com/bndong/p/10300036.html#hid-mHPsGT)/[已读](https://www.cnblogs.com/bndong/p/10300036.html#hid-YCsRpy) |
