@@ -10,4 +10,4 @@
 
 # 微信支付开发
 
-1.[官方文档](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=1_1)
+1.[官方文档](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=1_1)[支付方式](https://pay.weixin.qq.com/wiki/doc/api/index.html)
