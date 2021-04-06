@@ -6,6 +6,8 @@
 [模块组件](https://developers.weixin.qq.com/miniprogram/dev/framework/MINA.html) - 
 [WeChat_git](https://git.weixin.qq.com/)/[初始化](https://git.weixin.qq.com/users/perfect_information)
 
+[阮一峰教程](https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)
+
 2.自定义开发
 
 # 微信支付开发
