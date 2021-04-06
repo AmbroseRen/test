@@ -7,3 +7,7 @@
 [WeChat_git](https://git.weixin.qq.com/)/[初始化](https://git.weixin.qq.com/users/perfect_information)
 
 2.自定义开发
+
+# 微信支付开发
+
+1.[官方文档](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=1_1)
