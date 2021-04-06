@@ -102,6 +102,7 @@
     <li><span class="folder"><a href="https://ambroseren.github.io/test/Video/index.html">Video</a></span></li>
     <li class="closed"><span class="folder"><a href="https://ambroseren.github.io/test/Web/index.html">Web</a></span>
         <ul>
+            <li><span class="file"><a href="https://ambroseren.github.io/test/Web/WeChat/index.html">WeChat</a></span></li>
             <li><span class="folder"><a href="https://ambroseren.github.io/test/Web/WebGL/">WebGL</a></span>
                 <ul>
                     <li><span class="file"><a href="https://ambroseren.github.io/test/Web/WebGL/Revit/index.html">Revit</a></span></li>
