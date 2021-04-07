@@ -6,7 +6,7 @@
 
 性能测试（PerformanceTesting）的目的不是去找系统Bugs，而是排除系统的性能瓶颈，并为回归测试建立一个基准。而性能测试的操作，实际上就是一个非常小心受控的测量分析过程：“运行负载试验->测度性能->调试系统”。在理想的情况下，被测应用在这个时候已经是足够稳定，所以这个过程得以顺利进行。性能测试还有另一个目标就是建立一组被测系统的基准数据。应用在网络上的性能测试重点是利用成熟先进的自动化技术进行网络应用性能监控、网络应用性能分析和网络预测。
 
-1.[参考](https://blog.csdn.net/moonpure/article/details/72674374) - [jmeter](https://jmeter.apache.org/usermanual/get-started.html)内网压测/[使用参考](https://www.jianshu.com/p/0e4daecc8122)
+1.[参考](https://blog.csdn.net/moonpure/article/details/72674374) - [jmeter](https://jmeter.apache.org/usermanual/get-started.html)内网压测/[使用参考](https://www.jianshu.com/p/0e4daecc8122)·[一](https://www.cnblogs.com/stulzq/p/8971531.html)·[二](https://www.cnblogs.com/tankxiao/p/4045439.html)
 
 2.远程压测
 
