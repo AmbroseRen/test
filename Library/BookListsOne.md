@@ -92,7 +92,7 @@
             <li>《自由及其背叛——人类自由的六个敌人》</li>
             <li>《见识》--吴军</li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/认知突围[www.j9p.com].pdf">《认知突围》</a></li>
-            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/《干法》[(日)稻盛和夫 著].pdf">《干法》[(日)稻盛和夫 著]</a></li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/《干法》[(日)稻盛和夫 著].pdf">《干法》</a>[(日)稻盛和夫 著]</li>
 	    <li>《管理百年》</li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/第二次机器革命（美）埃里克·布莱恩约弗森.pdf">《第二次机器革命》</a></li>
             <li><a href="https://files.catbox.moe/qyc48c.pdf">《人工智能时代》</a></li>
