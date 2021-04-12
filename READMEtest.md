@@ -115,4 +115,4 @@
 |03-12|意大利疫情日记\|恐惧与希望并存|[link](https://mp.weixin.qq.com/s/EF4kHUU1TnS7rTkHHkeF2A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/3672.jpg)|[link](http://archive.ph/12Gv9)|/|
 |03-11|疫中人丨一个武汉人的「隔离33天」|[link](https://mp.weixin.qq.com/s/J_zVZrcyYT5K-3tocx9ubw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/3671.jpg)|[link](http://archive.ph/yUc7I)|/|
 
-[原链](https://github.com/invishantom/nCovMemory)参考
+* 此文用于生成`README.md `导航目录格式参考,[原链](https://github.com/invishantom/nCovMemory)参考.
