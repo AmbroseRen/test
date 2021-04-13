@@ -33,6 +33,7 @@
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | [唐宋古诗词](https://shici.store/huajianji/)/[源文](https://github.com/chinese-poetry/chinese-poetry) | 中文诗歌 | X | X | X |
+| [古诗文网](https://www.gushiwen.cn/) | 诗词集赋 | [纳兰性德](https://so.gushiwen.cn/shiwens/default.aspx?astr=%e7%ba%b3%e5%85%b0%e6%80%a7%e5%be%b7) - [李煜](https://so.gushiwen.cn/shiwens/default.aspx?astr=%e6%9d%8e%e7%85%9c) | X | X |
 | __IT__ | __技术__ | X | X | X |
 | [Developer-Books](https://www.developer1024.com/resource/69.html)/[原件](https://github.com/7-sevens/Developer-Books) | 7-sevens's lib | [编程阅读习惯](https://github.com/7-sevens/Developer-Books/tree/master/Other)/~~[高效程序员的45个习惯(即敏捷开发理论)](https://github.com/7-sevens/Developer-Books/blob/master/Other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)过时~~ | X | X |
 | [free-programming-books-zh](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md) | 手册 | [Docker](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md#user-content-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)/[Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md#user-content-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6) | X | X |
