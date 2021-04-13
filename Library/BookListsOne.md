@@ -281,6 +281,7 @@
                     <li><a href="https://www.thn21.com/Article/chang/19240.html">格林童话</a></li>
                     <li><a href="https://www.thn21.com/Article/chang/6224.html">安徒生童话</a></li>
                     <li><a href="http://www.dushu369.com/waiguomingzhu/glfyj/">格列佛游记</a></li>
+			<li><a href="http://www.bestgushi.com/l/5000nian/">中华上下五千年</a> - <a href="http://www.bestgushi.com/">故事会</a></li>
                 </ul>
             </li>                
         </ul>
