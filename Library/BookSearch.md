@@ -28,7 +28,7 @@
 | [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
-| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | X | X | X |
+| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) | X | X |
 | [古籍网](http://www.bookinlife.net/) | 繁体竖排扫描版 | X | X | X |
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
