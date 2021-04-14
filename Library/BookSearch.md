@@ -28,7 +28,7 @@
 | [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
-| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) - [文心雕龙](https://www.2345daohang.com/dianji/63314/) - [梦溪笔谈](https://www.2345daohang.com/dianji/63285/) - [商君书](https://www.2345daohang.com/dianji/63313/) | X | X |
+| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) - [文心雕龙](https://www.2345daohang.com/dianji/63314/) - [梦溪笔谈](https://www.2345daohang.com/dianji/63285/) - [商君书](https://www.2345daohang.com/dianji/63313/) - [楚辞](https://www.2345daohang.com/shici/list_1_t_918.htm) - [乐府](https://www.2345daohang.com/shici/list_1_t_469.htm) - [金刚经](https://www.2345daohang.com/dianji/63334/) | X | X |
 | [古籍网](http://www.bookinlife.net/) | 繁体竖排扫描版 | X | X | X |
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
