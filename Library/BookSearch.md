@@ -29,7 +29,7 @@
 | [电子书世界](https://www.dzssj.com/) | 现代文学 | [文学版块](https://www.dzssj.com/list.php?mod=forumdisplay&fid=39&typeid=1&filter=typeid&typeid=1&page=2) - [罗素文集简介](https://www.dzssj.com/book/353476/) - [上传入口](https://www.dzssj.com/forum.php?mod=post&action=newthread&fid=41) | X | X |
 | __[掌上书苑](https://www.soepub.com/)__ | 现代文学 | [我的分享](https://www.soepub.com/myspace/3) | X | X |
 | [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
-| [星空好书](http://www.goodepub.com/) | 现代文学 | X | X | X |
+| [星空好书](http://www.goodepub.com/)太少 | 现代文学 | X | X | X |
 | [万卷天书-PDF](https://jrjpc.com/) | 现代文学 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
