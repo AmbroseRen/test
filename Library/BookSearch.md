@@ -49,6 +49,7 @@
 | [it168](http://wenku.it168.com/) | IT文档分享 | X | X | X |
 | __Animes__ | __动漫书籍__ | X | X | X |
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
+| [20kindle漫画](https://manhua2020.com/) | 动漫 | X | X | X |
 | __Primer__ | __初级读本__ | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
 | [manybooks](https://manybooks.net/) | en-故事+传记 | X | X | X |
