@@ -1,5 +1,5 @@
 <style type="text/css">
-#content table {width:1300px;}
+#content table {width:1300px;margin-left: -270px;}
 </style>
 # Book Search Website [←](index.md)
 
