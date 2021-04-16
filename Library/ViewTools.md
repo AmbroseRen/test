@@ -2,6 +2,8 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| PDF | <font color="#ff0000"><b>PDF在线阅读器</b></font> | Y |
+| [jisupdf](http://web.jisupdf.com/) | PDF在线阅读器 | Y |
 | [relayto](https://relayto.com/-17/docs)PDF | 可存储、阅读、分享 | Y |
 | __[aconvert](https://www.aconvert.com/cn/ebook/epub-to-mobi/)__ | <font color="#ff0000"><b>格式转换器</b></font> | Y |
 | [toepub](https://toepub.com/zh/)/[zamzar](https://www.zamzar.com/) | 格式转换器 | Y |
