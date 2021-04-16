@@ -61,7 +61,7 @@
 | __Other__ | __其他__ | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [苦瓜书盘](http://kgbook.com/) | 团队维护 | X | X | X |
-| [booksmith](https://www.booksmith.com/) | en-报刊 | [揭示数字广告和互联网的不稳定基础](https://www.booksmith.com/book/9780374538651) | X | X |
+| [booksmith](https://www.booksmith.com/) | en-报刊-pay | [揭示数字广告和互联网的不稳定基础](https://www.booksmith.com/book/9780374538651) | X | X |
 | [pdfdrive](https://www.pdfdrive.com/) | en-pdf | X | X | X |
 | [epdf](https://epdf.pub/en/) | en-pdf | X | X | X |
 | [雅书](https://yabook.org/) | cn-pdf | X | X | X |
