@@ -56,7 +56,7 @@
 | [20kindle漫画](https://manhua2020.com/) | 动漫 | X | X | X |
 | __Primer__ | __初级读本__ | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
-| [manybooks](https://manybooks.net/) | en-故事+传记 | X | X | X |
+| [manybooks](https://manybooks.net/) | en-故事+传记 | [The Count of Monte Cristo](https://manybooks.net/book/123156/read#epubcfi(/6/4[item452]!/4/34[pgepubid00001]/1:0)) | X | X |
 | [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
 | __Other__ | __其他__ | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
