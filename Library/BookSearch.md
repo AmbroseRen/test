@@ -1,3 +1,9 @@
+<style>
+table {
+    width: 130%;
+}
+</style>
+
 # Book Search Website [←](index.md)
 
 <b><font color="#00ffff" face="楷体">在汪洋大海中建立一片自己的小岛，任时光冲刷、风雨侵蚀亦能不倒！</font></b>
