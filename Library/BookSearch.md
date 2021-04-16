@@ -22,6 +22,7 @@
 | [rukomos](http://cn-library.rukomos.ru/) | 导航无下载 | [Category](http://cn-library.rukomos.ru/list_categories.html) | X | X |
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
 | __everything__ | __综合图书__ | X | X | X |
+| [Global Grey](https://www.globalgreyebooks.com/index.html) | en-ebooks | X | X | X |
 | [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | X | X |
 | [scribd](https://www.scribd.com/) | scribd | X | X | X |
 | __literature__ | __文学__ | X | X | X |
