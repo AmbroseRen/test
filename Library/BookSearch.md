@@ -2,8 +2,6 @@
 
 <b><font color="#00ffff" face="楷体">在汪洋大海中建立一片自己的小岛，任时光冲刷、风雨侵蚀亦能不倒！</font></b>
 
-<style> table th:first-of-type { width: 100px; } </style>
-
 | <font color="#ff0000">传送门</font> | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | __Library__ | __书库__ | X | X | X |
