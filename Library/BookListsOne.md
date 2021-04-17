@@ -214,7 +214,7 @@
                     <li><a href="https://www.xinremenxs.net/35266/">《独居的一年》</a>（约翰·欧文）</li>
                     <li><a href="https://www.kanunu8.com/book3/7988/">《爸爸爸》</a>（韩少功）</li>
                     <li><a href="http://www.dushu369.com/waiguomingzhu/bngd/">《百年孤独》</a>（马尔克斯）</li>
-                    <li><a href="http://www.yuedu88.com/bunengchengshoudeshengmingzhiqing/">《不能承受的生命之轻》</a></li>
+                    <li><a href="https://www.kunnu.com/shengmingzhiqing/">《不能承受的生命之轻》</a></li>
                     <li><a href="https://www.kanunu8.com/book3/5999/index.html">《巨流河》</a></li>
                     <li><a href="https://www.136book.com/fangsiqidichulianleyuan/">《房思琪的初恋乐园》（林奕含）</a></li>
                     <li><a href="https://www.kanunu8.com/book3/7357/">《人面桃花》（格菲）</a></li>
