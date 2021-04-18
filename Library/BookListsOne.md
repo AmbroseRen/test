@@ -252,7 +252,7 @@
                         </ul>
                     </li>
                     <li><a href="https://www.kanunu8.com/files/writer/448.html">艾萨克·阿西莫夫作品集</a></li>
-                    <li><a href="https://www.kanunu8.com/files/writer/448.html">《2001太空漫游》</a> - <a href="https://www.cbxs.net/kehuan/3729/">副链</a>——阿瑟.克拉克</li>
+                    <li><a href="https://www.kanunu8.com/book3/6422/">《2001太空漫游》</a> - <a href="https://www.cbxs.net/kehuan/3729/">副链</a>——阿瑟.克拉克</li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6451.html">弗诺·文奇作品集</a></li>
                     <li><a href="https://www.kanunu8.com/files/writer/6445.html">特德·姜作品集</a> - <a href="https://www.yooread.net/writer/1904/">一</a> - <a href=""></a></li>
 		    <li><a href="http://liucixin.zuopinj.com/">刘慈欣作品集</a> - <a href="https://www.51shucheng.net/zuojia/liucixin">副链</a>
