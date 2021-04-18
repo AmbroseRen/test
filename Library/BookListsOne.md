@@ -264,7 +264,8 @@
                         </ul>
                     </li>                        
                     <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品集</a></li>
-                    <li>《超级战士》</li>
+                    <li><a href="https://www.kanunu8.com/files/writer/6492.html">韩松作品集</a> - 《时空骗局》 - 《切割地球》</li>
+		    <li>《超级战士》</li>
                     <li>《时空浪族》</li>
                     <li>《神龙》</li>
                 </ul>
