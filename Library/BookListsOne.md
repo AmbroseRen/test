@@ -254,7 +254,8 @@
                     <li><a href="https://www.kanunu8.com/files/writer/448.html">艾萨克·阿西莫夫作品集</a></li>
                     <li><a href="https://www.kanunu8.com/book3/6422/">《2001太空漫游》</a> - <a href="https://www.cbxs.net/kehuan/3729/">副链</a>——<a href="https://www.kanunu8.com/files/writer/1651.html">阿瑟.克拉克集</a></li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6451.html">弗诺·文奇作品集</a></li>
-                    <li><a href="https://www.kanunu8.com/files/writer/6445.html">特德·姜作品集</a> - <a href="https://www.yooread.net/writer/1904/">一</a> - <a href=""></a></li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Science/%E4%BA%BA%E7%B1%BB%E7%81%AD%E7%BB%9D.pdf">人类灭绝</a> 高野和明 - <a href="http://www.ebook80.com/popular/4084.html">简介</a></li>
+		    <li><a href="https://www.kanunu8.com/files/writer/6445.html">特德·姜作品集</a> - <a href="https://www.yooread.net/writer/1904/">一</a> - <a href=""></a></li>
 		    <li><a href="http://liucixin.zuopinj.com/">刘慈欣作品集</a> - <a href="https://www.51shucheng.net/zuojia/liucixin">副链</a>
                         <ul>
                             <li><a href="https://www.51shucheng.net/kehuan/santi">《三体》</a></li>
