@@ -265,7 +265,7 @@
                     <li>《超级战士》</li>
                     <li>《时空浪族》</li>
                     <li>《神龙》</li>
-                    <li>《太空漫游》——阿瑟.克拉克</li>
+                    <li><a href="https://www.kanunu8.com/files/writer/448.html">《2001太空漫游》</a>-<a href="https://www.cbxs.net/kehuan/3729/">副链</a>——阿瑟.克拉克</li>
                 </ul>
             </li>
             <li id="primer"><a href="#top">Primer</a>
