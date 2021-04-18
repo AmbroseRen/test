@@ -55,7 +55,7 @@
 | [free-programming-books-zh](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md) | 手册 | [Docker](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md#user-content-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)/[Git](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md#user-content-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6) | X | X |
 | [图灵社区](https://www.ituring.com.cn/book?tab=free) | [IT图书导航](https://github.com/sindresorhus/awesome) | [ARM嵌入式Linux系统开发详解](https://www.ituring.com.cn/book/1518) | X | X |
 | [计算机书籍控](http://bestcbooks.com/categories/java/) | IT图书 | X | X | X |
-| [it168](http://wenku.it168.com/) | IT文档分享 | X | X | X |
+| ~~[it168](http://wenku.it168.com/)~~ | IT文档分享 | X | X | X |
 | __Animes__ | __动漫书籍__ | X | X | X |
 | [动漫之家](http://manhua.dmzj.com/) | 动漫 | X | X | X |
 | [vol.moe](http://vol.moe/) | 动漫 | X | X | X |
