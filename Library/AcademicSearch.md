@@ -3,6 +3,7 @@
 | 传送门 | 描述 | 摘引 |
 |:---:|:---:|:---:|
 | Platform | 平台 | X |
+| [科塔学术导航](https://site.sciping.com/) | 学术导航 | X |
 | [CNKI](http://new.oversea.cnki.net/index/) | 中国知网 | X |
 | [万方数据](http://www.wanfangdata.com.cn/index.html) | 会议、学术论文 | Y |
 | [elsevier](https://www.sciencedirect.com/) | 会议、学术论文 | [主站](https://www.elsevier.com/) |
