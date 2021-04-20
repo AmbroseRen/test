@@ -12,7 +12,7 @@
 
 | 传送门 | 描述 | 摘引 |
 |:---:|:---:|:---:|
-| [书摘广场](https://memo.bookfere.com/community/posts) | 名著语录 | Y |
+| [书摘广场](https://memo.bookfere.com/community/posts) | 名著语录 | [鲜衣怒马少年时,一日看尽长安花](https://www.mingyantong.com/ju/2873410) |
 | [名言通](https://www.mingyantong.com/) | 名著语录 | Y |
 | [MBA智库](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5) | 经济原理 | Y |
 | [唐宋古诗词数据库](https://shici.store/huajianji/) - [原稿](https://github.com/chinese-poetry/chinese-poetry) | 诗词库 | Y |
