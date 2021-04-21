@@ -2,7 +2,7 @@
 
 | _ | _ | _ |
 |:---:|:---:|:---:|
-| [突破现实的困境](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Method/突破现实的困境：趋势、禀赋与企业家的大战略 - 克里斯·布拉德利 & 贺睦廷 & 斯文·斯密特.pdf)/~~[副链](http://reader.epubee.com/books/mobile/80/800e5427f8167a4563c9b79dd66ad96b/text00011.html)~~ | [内卷、加速与当代中国社会的“赶工游戏”](https://jingine.com/9309) | ~~[微信墙中墙](https://www.darmau.com/inside-wechat-wall/)~~/[副链](https://medium.com/@darmau/inside-wechat-wall-76d357158d0c) |
+| [突破现实的困境](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Method/突破现实的困境：趋势、禀赋与企业家的大战略 - 克里斯·布拉德利 & 贺睦廷 & 斯文·斯密特.pdf) | [内卷、加速与当代中国社会的“赶工游戏”](https://jingine.com/9309) | ~~[微信墙中墙](https://www.darmau.com/inside-wechat-wall/)~~/[副链](https://medium.com/@darmau/inside-wechat-wall-76d357158d0c) |
 | [互联网域名管理](https://dmesg.app/domain-lucky-too-lucky.html)/[真理部解释](https://www.zhihu.com/question/41864611) | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
