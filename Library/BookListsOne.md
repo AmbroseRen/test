@@ -51,6 +51,7 @@
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/财务自由之路.pdf">财务自由之路</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/精益创业 美 埃里克 莱斯.pdf">精益创业</a> [美]埃里克•莱斯</li>
 	    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/迭代：新商业，新媒体与逆袭之路 沈帅波.pdf">迭代：新商业，新媒体与逆袭之路</a>2018 - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/瑞幸闪电战.pdf">瑞幸闪电战</a>-<a href="https://www.enjing.com/jingjizonghe/32177.htm">简介</a>2020.1 《问路2020，八大商业趋势》《中国的生意变了》《藏在县城的万亿生意》《消费分级，已经发生》《世间再无新零 售》 <a href="https://baike.baidu.com/item/%E6%B2%88%E5%B8%85%E6%B3%A2">沈帅波</a>著</li>
+	    <li><a href="https://www.7hcn.com/">七禾网</a> - <a href="https://zhuanlan.zhihu.com/p/95627695">沈良</a></li>
         </ul>
     </li>
     <li id="law"><a href="#top">Law</a>
