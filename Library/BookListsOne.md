@@ -49,7 +49,7 @@
             <li>并购大师（杨大筠..）--时尚产业的资本游戏</li>
             <li>融资（[美]安迪·樊__Andy Fan）</li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/财务自由之路.pdf">财务自由之路</a></li>
-            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/精益创业 美 埃里克 莱斯.pdf">精益创业 美 埃里克 莱斯</a></li>
+            <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/精益创业 美 埃里克 莱斯.pdf">精益创业</a> [美]埃里克•莱斯</li>
 	    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/迭代：新商业，新媒体与逆袭之路 沈帅波.pdf">迭代：新商业，新媒体与逆袭之路</a>2018 - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Finance/瑞幸闪电战.pdf">瑞幸闪电战</a>2020.1 沈帅波著</li>
         </ul>
     </li>
