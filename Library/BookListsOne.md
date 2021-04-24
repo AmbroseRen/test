@@ -222,12 +222,12 @@
                     <li><a href="https://www.kanunu8.com/book3/5999/index.html">《巨流河》</a></li>
                     <li><a href="https://www.136book.com/fangsiqidichulianleyuan/">《房思琪的初恋乐园》（林奕含）</a></li>
                     <li><a href="https://www.kanunu8.com/book3/7357/">《人面桃花》（格菲）</a></li>
-                    <li><a href="http://cscs.zuopinj.com/">村上春树作品集</a>——<del><a href="https://www.my2852.com/wgwx/zpj/cscs/index.htm">副链</a></del>
+                    <li><a href="https://www.yooread.net/writer/1867/">村上春树作品集</a>——<a href="https://www.aixdzs.com/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91">副链</a>
                         <ul>
-                            <li><a href="https://www.my2852.com/wgwx/zpj/cscs/nwd/index.htm">《挪威的森林》</a></li>
+                            <li><a href="https://www.yooread.net/2/4891/">《挪威的森林》</a></li>
                         </ul>
                     </li>                        
-                    <li><a href="http://dongyeguiwu.zuopinj.com/">东野圭吾作品集</a>
+                    <li><a href="https://www.yooread.net/writer/120/">东野圭吾作品集</a>
                         <ul>
                             <li>《解忧杂货铺》</li>
                             <li><a href="https://www.kanshuhai.net/0/74/74450/?btwaf=52631057">白夜行</a></li>
