@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [My_Blog](https://ambroseren.github.io) | 主站 | Y |
+| [My_Blog](https://ambroseren.github.io) | 主站 | [Memory](https://ambroseren.github.io/Memory/) |
 | [My_Blogspot](https://ambroseren.blogspot.com/) | blogspot | Y |
 | [My_Wordpress](https://ambroserencn.wordpress.com/) | wordpress | Y |
 | [My_Blog](https://ambroserencn.gitlab.io/ambroserencn/) | 子站 | Y |
