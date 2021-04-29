@@ -238,7 +238,12 @@
             </li>
             <li id="science"><a href="#top">Science</a>
                 <ul>
-                    <li><a href="https://www.shutxt.com/writer/kehuan.html">科幻作家列表-下书网</a> - <a href="https://onlinereadfreenovel.com/">onlinereadfreenovel</a>-en - <a href=""></a></li>
+                    <li><a href="https://www.shutxt.com/writer/kehuan.html">科幻作家列表-下书网</a> - <a href=""></a> - <a href=""></a></li>
+		    <li><a href="https://onlinereadfreenovel.com/">onlinereadfreenovel</a> - en
+                        <ul>
+                            <li><a href="https://onlinereadfreenovel.com/stephen-king/31696-the_stand.html">The Stand</a> by Stephen King</li>
+                        </ul>
+                    </li>  			    
 		    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/宇宙指南.pdf">宇宙指南</a></li>
                     <li>《科幻世界》2018年 第12期</li>
                     <li>不合时宜的本能【钟推移】</li>
