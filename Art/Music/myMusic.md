@@ -2,11 +2,23 @@
 publish date：2021-1-17 03:00:22
 
 <div>
+    
+<p>와 - 李贞贤&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;아리아리 - 李贞贤</p>
+
+<audio id="audio" controls="" preload="none">    
+    <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Art/Music/%EC%99%80%20-%20%E6%9D%8E%E8%B4%9E%E8%B4%A4.mp3">
+</audio>
+
+<audio id="audio" controls="" preload="none">    
+    <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Art/Music/한국노래/%EC%95%84%EB%A6%AC%EC%95%84%EB%A6%AC%20-%20%E6%9D%8E%E8%B4%9E%E8%B4%A4.mp3">
+</audio>
+
+<hr/>  
 
 <p>That Girl - Olly Murs&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pretty Boy - M2M</p>
 
 <audio id="audio" controls="" preload="none">    
-    <source id="mp3" src="https://ambroseren.github.io/test/Art/Music/N7aBQh8CGcuZQYax.mp3">
+    <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Art/Music/N7aBQh8CGcuZQYax.mp3">
 </audio>
 
 <audio id="audio" controls="" preload="none">
