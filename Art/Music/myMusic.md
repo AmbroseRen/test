@@ -3,6 +3,16 @@ publish date：2021-1-17 03:00:22
 
 <div>
     
+<p>우리 사랑했잖아&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;불꽃(火花) - KOYOTE</p>
+
+<audio id="audio" controls="" preload="none">    
+    <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Art/Music/한국노래/우리 사랑했잖아.mp3">
+</audio>
+
+<audio id="audio" controls="" preload="none">    
+    <source id="mp3" src="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Art/Music/한국노래/불꽃(火花) - KOYOTE.mp3">
+</audio>
+    
 <p>와 - 李贞贤&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;아리아리 - 李贞贤</p>
 
 <audio id="audio" controls="" preload="none">    
