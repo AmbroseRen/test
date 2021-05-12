@@ -2,6 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| [skylinewebcams](https://www.skylinewebcams.com/) | 全球高清实况摄像头 | Y |
 | [pinterest](https://www.pinterest.com/) | Figure(人物、生活) | Y |
 | [吐司数字艺术](https://www.tucia.net/shots) | 人物头像、素描 | Y |
 | [Airpano](http://www.airpano.com/) | 3D全景 | Y |
