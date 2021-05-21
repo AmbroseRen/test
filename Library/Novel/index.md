@@ -1,3 +1,3 @@
-# Novel Lists
+# Novel Lists  [../Novel.md](←)
 
-test01
+[Q_bookmarks_2021_5_21](https://ambroseren.github.io/test/Library/Novel/Q_bookmarks_2021_5_21.html)
