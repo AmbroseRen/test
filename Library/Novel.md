@@ -8,7 +8,7 @@
 
 | 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
-| [Novel_2012](Novel/Q_bookmarks_2021_5_21.html) | 可下载此页书签导入QQ浏览器 | X | X | X |
+| [Novel_2012](Novel/Q_bookmarks_2021_5_22.html) | 可下载此页书签导入QQ浏览器 | X | X | X |
 | [wuxiaworld](https://www.wuxiaworld.com/) | 武侠世界-英译本网站 | [SERIES](https://www.wuxiaworld.com/novels) - [A Will Eternal](https://www.wuxiaworld.com/novel/a-will-eternal) - [I Shall Seal the Heavens](https://www.wuxiaworld.com/novel/i-shall-seal-the-heavens) - [A Record of a Mortal’s Journey to Immortality](https://www.wuxiaworld.com/novel/rmji) | X | X |
 | [gravitytales](https://www.gravitytales.cc/) | X | X | X | X |
 | [novelupdates](https://www.novelupdates.com/) | 综合站 | [The Founder of Diabolism](https://www.novelupdates.com/series/the-founder-of-diabolism/) | X | [Series Ranking-CN](https://www.novelupdates.com/series-ranking/?rank=popmonth&org=495&rl=100) |
