@@ -1,3 +1,7 @@
+<style type="text/css">
+#content {margin-left: 10%;}
+#content table {width:1300px;}
+</style>
 # Novel Search Lists  [←](index.md)
 
 <b><font color="#00ffff" face="楷体">虽然现在不看了，但我经历了她的巅峰年代，虽然付出了代价，但她依然带给了很多快乐。无论是出于缅怀，或者什么，依旧值得铭记</font></b>
