@@ -11,7 +11,7 @@
 | [Novel_2012](Novel/Q_bookmarks_2021_5_21.html) | 可下载此页书签导入QQ浏览器 | X | X | X |
 | [wuxiaworld](https://www.wuxiaworld.com/) | 武侠世界-英译本网站 | [SERIES](https://www.wuxiaworld.com/novels) - [A Will Eternal](https://www.wuxiaworld.com/novel/a-will-eternal) - [I Shall Seal the Heavens](https://www.wuxiaworld.com/novel/i-shall-seal-the-heavens) - [A Record of a Mortal’s Journey to Immortality](https://www.wuxiaworld.com/novel/rmji) | X | X |
 | [gravitytales](https://www.gravitytales.cc/) | X | X | X | X |
-| [novelupdates](https://www.novelupdates.com/) | 综合站 | [The Founder of Diabolism](https://www.novelupdates.com/series/the-founder-of-diabolism/) | X | X |
+| [novelupdates](https://www.novelupdates.com/) | 综合站 | [The Founder of Diabolism](https://www.novelupdates.com/series/the-founder-of-diabolism/) | X | [Series Ranking-CN](https://www.novelupdates.com/series-ranking/?rank=popmonth&org=495&rl=100) |
 | [volarenovels](https://www.volarenovels.com/) | 言情站-en | X | X | X |
 | [webnovel](https://www.webnovel.com/) | 起点国际 | X | X | [起点开放海外英文网站之影响](https://www.zhihu.com/question/56737119) |
 | [flying-lines](https://www.flying-lines.com/) | X | X | X | X |
