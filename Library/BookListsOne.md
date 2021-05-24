@@ -202,7 +202,7 @@
                             <li>《灼人的秘密》</li>
                         </ul>
                     </li>
-                    <li><a href="http://book.sbkk8.com/shashibiya/hamuleite/">哈姆雷特</a> - <a href="http://book.sbkk8.com/shashibiya/">莎士比亚大全</a> - <a href="http://book.sbkk8.com/waiguo/">外国文学大全</a></li>
+                    <li><a href="http://book.sbkk8.com/shashibiya/hamuleite/">哈姆雷特</a> - <a href="http://book.sbkk8.com/shashibiya/">莎士比亚大全</a> - <a href="http://book.sbkk8.com/waiguo/liefu/">列夫·托尔斯泰大全</a> - <a href="http://book.sbkk8.com/waiguo/tuosituoyefusiji/">陀思妥耶夫斯基大全</a> - <a href="http://book.sbkk8.com/waiguo/">外国文学大全</a></li>
                     <li><a href="https://www.kanunu8.com/book4/10122/">悲惨世界</a> - <a href="https://www.tianyabooks.com/book/Hugo_03/">副链</a> - <a href="http://book.sbkk8.com/waiguo/yuguo/">维克多·雨果大全</a></li>
 		    <li><a href="http://book.sbkk8.com/waiguo/baerzhakezuopinji/ouyeni_gelangtai/">《欧也妮·葛朗台》</a> - <a href="http://book.sbkk8.com/waiguo/baerzhakezuopinji/">巴尔扎克作品集</a></li>
                     <li><a href="https://www.kunnu.com/jianai/">简爱</a> - <a href="https://www.tianyabooks.com/book/Jane_Eyre/">副链</a></li>
