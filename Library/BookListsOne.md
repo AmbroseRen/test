@@ -201,10 +201,9 @@
                             <li>《灼人的秘密》</li>
                         </ul>
                     </li>
-                    <li>哈姆莱特——莎士比亚</li>
-                    <li>悲惨世界——雨果</li>
+                    <li><a href="http://book.sbkk8.com/shashibiya/hamuleite/">哈姆雷特</a> - <a href="http://book.sbkk8.com/shashibiya/">莎士比亚大全</a></li>
+                    <li><a href="https://www.kanunu8.com/book4/10122/">悲惨世界</a> - <a href="https://www.tianyabooks.com/book/Hugo_03/">副链</a> - <a href="http://book.sbkk8.com/waiguo/yuguo/">维克多·雨果大全</a></li>
                     <li>------------------</li>
-                    <li><a href="https://www.olevod.com/index.php/vod/play/id/4570/sid/1/nid/1.html#bofy">(M)寻梦环游记</a></li>
                     <li><a href="http://www.tianyashuku.com/guanchang/2624/">人名的名义</a></li>
                     <li><a href="https://www.51shucheng.net/zhentan/baiyezhuixiong">白夜追凶</a>-<a href="http://www.weilishi.org/baiyezhuixiong/">副链</a></li>
                     <li><a href="http://yishu.zuopinj.com/1398/">我的前半生</a></li>
