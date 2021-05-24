@@ -203,7 +203,8 @@
                         </ul>
                     </li>
                     <li><a href="http://book.sbkk8.com/shashibiya/hamuleite/">哈姆雷特</a> - <a href="http://book.sbkk8.com/shashibiya/">莎士比亚大全</a> - <a href="http://book.sbkk8.com/waiguo/liefu/">列夫·托尔斯泰大全</a> - <a href="http://book.sbkk8.com/waiguo/tuosituoyefusiji/">陀思妥耶夫斯基大全</a> - <a href="http://book.sbkk8.com/waiguo/">外国文学大全</a></li>
-                    <li><a href="https://www.kanunu8.com/book4/10122/">悲惨世界</a> - <a href="https://www.tianyabooks.com/book/Hugo_03/">副链</a> - <a href="http://book.sbkk8.com/waiguo/yuguo/">维克多·雨果大全</a></li>
+                    <li><a href="https://www.tianyabooks.com/book/riwageyisheng/">日瓦戈医生</a> 帕斯捷尔纳克</li>
+		    <li><a href="https://www.kanunu8.com/book4/10122/">悲惨世界</a> - <a href="https://www.tianyabooks.com/book/Hugo_03/">副链</a> - <a href="http://book.sbkk8.com/waiguo/yuguo/">维克多·雨果大全</a></li>
 		    <li><a href="http://book.sbkk8.com/waiguo/baerzhakezuopinji/ouyeni_gelangtai/">《欧也妮·葛朗台》</a> - <a href="http://book.sbkk8.com/waiguo/baerzhakezuopinji/">巴尔扎克作品集</a></li>
                     <li><a href="https://www.kunnu.com/jianai/">简爱</a> - <a href="https://www.tianyabooks.com/book/Jane_Eyre/">副链</a></li>
 		    <li><a href="http://book.sbkk8.com/waiguo/dazhongmazuopinji/">大仲马作品集</a>/<a href="https://www.kanunu8.com/files/writer/10191.html">副链</a> - <a href="https://www.kunnu.com/chahuanv/">茶花女</a> [法]小仲马</li>
