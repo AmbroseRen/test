@@ -295,6 +295,7 @@
                     <li><a href="https://www.thn21.com/Article/chang/19240.html">格林童话</a></li>
                     <li><a href="https://www.thn21.com/Article/chang/6224.html">安徒生童话</a></li>
                     <li><a href="http://www.dushu369.com/waiguomingzhu/glfyj/">格列佛游记</a></li>
+		    <li><a href="https://www.kunnu.com/kunchongji/">昆虫记</a> J·H·法布尔 - <a href="http://www.new-8.com/yinianji/yiqianlingyiye/">一千零一夜</a> 阿拉伯民间 - <a href="https://www.tianyabooks.com/book/DonQuixote/">唐吉诃德</a> 塞万提斯 - <a href="https://www.xingyueboke.com/bianxingji/">变形记</a> 弗兰兹·卡夫卡（Franz Kafka）</li>
 		    <li><a href="https://www.kanunu8.com/book/3829/">老人与海</a> - <a href="https://www.kanunu8.com/files/writer/186.html">海明威作品集</a></li>
 		    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/今昔物语集.pdf">今昔物语集</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/History/物种起源 .pdf">物种起源·简版</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/History/達爾文：物種起源.pdf">复杂版</a></li>			
