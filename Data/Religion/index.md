@@ -4,7 +4,7 @@
 
 | 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
-| []() | O_O | X | X | X |
+| [旧约圣经](http://www.jdzhg.com/shengjing/djsj.htm)/[中文圣经](http://www.chinesebibleonline.com/)/[基督教圣经](http://www.godcom.net/) | bible | X | X | X |
 | []() | O_O | X | X | X |
 | []() | O_O | X | X | X |
 | []() | O_O | X | X | X |
