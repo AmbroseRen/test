@@ -208,7 +208,7 @@
                     <li><a href="https://www.kunnu.com/jianai/">简爱</a> - <a href="https://www.tianyabooks.com/book/Jane_Eyre/">副链</a></li>
 		    <li><a href="http://book.sbkk8.com/waiguo/dazhongmazuopinji/">大仲马作品集</a>/<a href="https://www.kanunu8.com/files/writer/10191.html">副链</a> - <a href="https://www.kunnu.com/chahuanv/">茶花女</a> [法]小仲马</li>
 		    <li><a href="https://www.kanunu8.com/book/3826/index.html">麦田里的守望者</a> - <a href="https://www.kanunu8.com/files/writer/3821.html">塞林格作品集</a></li>
-		    <li><a href="https://www.kunnu.com/hongyuhei/">红与黑</a> - <a href="https://www.kanunu8.com/book/3871/index.html">副链</a> - <a href="https://www.kanunu8.com/files/writer/3868.html"></a>司汤达作品集</li>
+		    <li><a href="https://www.kunnu.com/hongyuhei/">红与黑</a> - <a href="https://www.kanunu8.com/book/3871/index.html">副链</a> - <a href="https://www.kanunu8.com/files/writer/3868.html">司汤达作品集</a></li>
 		    <li><a href="https://www.kanunu8.com/book4/10161/">汤姆叔叔的小屋</a> 比彻·斯托夫人</li>
 		    <li><a href="https://www.yooread.net/8/1735/">我的精神家园</a> 王小波文集</li>
                     <li>------------------</li>
