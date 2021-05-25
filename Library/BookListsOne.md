@@ -216,21 +216,21 @@
                     <li><a href="http://www.tianyashuku.com/guanchang/2624/">人名的名义</a></li>
                     <li><a href="https://www.51shucheng.net/zhentan/baiyezhuixiong">白夜追凶</a>-<a href="http://www.weilishi.org/baiyezhuixiong/">副链</a></li>
                     <li><a href="http://yishu.zuopinj.com/1398/">我的前半生</a></li>
-                    <li><a href="https://www.luoxia.org/renjianshige/">《人间失格》</a> - <a href="https://www.xyyuedu.com/wgmz/renjianshige/">副链</a>（太宰治）——灵魂自白</li>
+                    <li><a href="https://www.luoxia.org/renjianshige/">《人间失格》</a> - <a href="https://www.xyyuedu.com/wgmz/renjianshige/">副链</a> 太宰治——灵魂自白</li>
                     <li><a href="https://www.tianyabooks.com/book/bailuyuan/">《白鹿原》</a>--陈忠实--从历史命运看人性悲剧</li>
                     <li><a href="https://www.pingfandeshijie.net/">《平凡的世界》</a>--路遥--</li>
                     <li><a href="https://files.catbox.moe/auj9nl.txt">《智慧之旅》</a></li>
                     <li>-------------------</li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/[美]尼尔路波兹曼：娱乐至死（广西师大.2004）.pdf">《娱乐至死》</a>（尼尔·波兹曼）</li>
-                    <li><a href="https://files.catbox.moe/2u8nxc.pdf">《被讨厌的勇气》</a>（岸见一郎）</li>
-                    <li><a href="https://read.aixdzs.com/184/184265/">《拆掉思维里的墙》</a>（古典）</li>
+                    <li><a href="https://files.catbox.moe/2u8nxc.pdf">《被讨厌的勇气》</a> 岸见一郎</li>
+                    <li><a href="https://read.aixdzs.com/184/184265/">《拆掉思维里的墙》</a> 古典</li>
                     <li>《东京本屋》（吉井忍）</li>
-                    <li><a href="https://www.xinremenxs.net/35266/">《独居的一年》</a>（约翰·欧文）</li>
-                    <li><a href="https://www.kanunu8.com/book3/7988/">《爸爸爸》</a>（韩少功）</li>
-                    <li><a href="https://www.kunnu.com/bainiangudu/">《百年孤独》</a> - <a href="http://www.dushu369.com/waiguomingzhu/bngd/">副链</a>（马尔克斯）</li>
+                    <li><a href="https://www.xinremenxs.net/35266/">《独居的一年》</a> 约翰·欧文</li>
+                    <li><a href="https://www.kanunu8.com/book3/7988/">《爸爸爸》</a> 韩少功</li>
+                    <li><a href="https://www.kunnu.com/bainiangudu/">《百年孤独》</a> - <a href="http://www.dushu369.com/waiguomingzhu/bngd/">副链</a> 马尔克斯</li>
                     <li><a href="https://www.kunnu.com/shengmingzhiqing/">《不能承受的生命之轻》</a></li>
                     <li><a href="https://www.kanunu8.com/book3/5999/index.html">《巨流河》</a></li>
-                    <li><a href="https://www.136book.com/fangsiqidichulianleyuan/">《房思琪的初恋乐园》（林奕含）</a></li>
+                    <li><a href="https://www.136book.com/fangsiqidichulianleyuan/">《房思琪的初恋乐园》</a> 林奕含</li>
                     <li><a href="https://www.kanunu8.com/book3/7357/">《人面桃花》（格菲）</a></li>
                     <li><a href="https://www.yooread.net/writer/1867/">村上春树作品集</a>——<a href="https://www.aixdzs.com/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91">副链</a>
                         <ul>
