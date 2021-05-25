@@ -210,6 +210,7 @@
 		    <li><a href="https://www.kanunu8.com/book/3826/index.html">麦田里的守望者</a> - <a href="https://www.kanunu8.com/files/writer/3821.html">塞林格作品集</a></li>
 		    <li><a href="https://www.kunnu.com/hongyuhei/">红与黑</a> - <a href="https://www.kanunu8.com/book/3871/index.html">副链</a> - <a href="https://www.kanunu8.com/files/writer/3868.html">司汤达作品集</a></li>
 		    <li><a href="https://www.kanunu8.com/book4/10161/">汤姆叔叔的小屋</a> 比彻·斯托夫人</li>
+		    <li><a href="https://www.cbxs.net/waiguo/2072/">钢铁是怎样炼成的</a>/<a href="https://www.tianyabooks.com/world/gtszyncd/">副链</a> 尼·奥斯特洛夫斯基</li>
 		    <li><a href="https://www.yooread.net/8/1735/">我的精神家园</a> 王小波文集</li>
                     <li>------------------</li>
                     <li><a href="http://www.tianyashuku.com/guanchang/2624/">人名的名义</a></li>
