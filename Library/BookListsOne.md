@@ -221,10 +221,9 @@
                     <li><a href="https://www.pingfandeshijie.net/">《平凡的世界》</a>--路遥--</li>
                     <li><a href="https://files.catbox.moe/auj9nl.txt">《智慧之旅》</a></li>
                     <li>-------------------</li>
-                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/[美]尼尔路波兹曼：娱乐至死（广西师大.2004）.pdf">《娱乐至死》</a>（尼尔·波兹曼）</li>
+                    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/[美]尼尔路波兹曼：娱乐至死（广西师大.2004）.pdf">《娱乐至死》</a> 尼尔·波兹曼</li>
                     <li><a href="https://files.catbox.moe/2u8nxc.pdf">《被讨厌的勇气》</a> 岸见一郎</li>
                     <li><a href="https://read.aixdzs.com/184/184265/">《拆掉思维里的墙》</a> 古典</li>
-                    <li>《东京本屋》（吉井忍）</li>
                     <li><a href="https://www.xinremenxs.net/35266/">《独居的一年》</a> 约翰·欧文</li>
                     <li><a href="https://www.kanunu8.com/book3/7988/">《爸爸爸》</a> 韩少功</li>
                     <li><a href="https://www.kunnu.com/bainiangudu/">《百年孤独》</a> - <a href="http://www.dushu369.com/waiguomingzhu/bngd/">副链</a> 马尔克斯</li>
