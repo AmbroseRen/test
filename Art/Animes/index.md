@@ -3,7 +3,8 @@
 | 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | [acfun](https://www.acfun.cn/)/[bilibili](https://www.bilibili.com) | 动漫视频站 | [神秘的程序员们](https://code2048.com/series/betacat/) | X | X |
-| [知音漫客](https://m.zymk.cn/)/[花火](https://www.zhihu.com/question/24907671) | 国内优质 | []() | 刊魂：年少有梦，青春有爱——“锐幻萌燃”四刊 | 大概高中的念念不忘-2010年节点 |
+| [知音漫客](https://m.zymk.cn/) | 国内优质 | []() | 刊魂：年少有梦，青春有爱——“锐幻萌燃”四刊 | 大概高中的念念不忘-2010年节点 |
+| [花火](https://www.zz-news.com/com/huahuo/)/[补充](https://mall.cnki.net/magazine/magalist/HUAH2020.htm) | 青春文学 | []() | X | [发展](https://www.zhihu.com/question/24907671) |
 | [漫画柜](https://www.manhuagui.com/) | O_O | []() | X | X |
 | [动漫之家](https://www.dmzj.com/)/[分类](http://manhua.dmzj.com/tags/category_search/0-0-0-all-0-1-0-1.shtml) | 动漫本 | []() | X | X |
 | [爱看番](http://www.ikanfan.com/) | 动漫本 | []() | X | X |
