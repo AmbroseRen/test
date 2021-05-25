@@ -92,10 +92,10 @@
             </li>
             <li>《通向奴役之路》（弗里德曼1971）</li>
             <li>《自由及其背叛——人类自由的六个敌人》</li>
-            <li>《见识》--吴军</li>
+            <li><a href="https://cdn.jsdelivr.net/gh/profding-bh/books@master/见识：商业的本质和人生的智慧.pdf">《见识》</a> 吴军</li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/认知突围[www.j9p.com].pdf">《认知突围》</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/《干法》[(日)稻盛和夫 著].pdf">《干法》</a>[(日)稻盛和夫 著]</li>
-	    <li>《管理百年》</li>
+	    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/管理百年.pdf">《管理百年》</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/第二次机器革命（美）埃里克·布莱恩约弗森.pdf">《第二次机器革命》</a></li>
             <li><a href="https://files.catbox.moe/qyc48c.pdf">《人工智能时代》</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/富足：改变人类未来的4大力量.pdf">富足：改变人类未来的4大力量</a></li>
@@ -238,7 +238,7 @@
                     </li>                        
                     <li><a href="https://www.yooread.net/writer/120/">东野圭吾作品集</a>
                         <ul>
-                            <li>《解忧杂货铺》</li>
+                            <li><a href="https://www.kunnu.com/jieyou/">《解忧杂货铺》</a></li>
                             <li><a href="https://www.kanshuhai.net/0/74/74450/?btwaf=52631057">白夜行</a></li>
                         </ul>
                     </li>                        
