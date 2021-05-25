@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|
 | [PeterXiao](https://github.com/PeterXiao) | 牛B的库 | [eBooks](https://github.com/PeterXiao/eBooks) - [books_list_2020](https://github.com/PeterXiao/books_list_2020) - [books_list_backup_2018_2019](https://github.com/PeterXiao/books_list_backup_2018_2019)/[未来是湿的：无组织的组织力量-克莱•舍基](https://github.com/PeterXiao/books_list_backup_2018_2019/blob/master/2019/4/Files/baogao/%E6%9C%AA%E6%9D%A5%E6%98%AF%E6%B9%BF%E7%9A%84%EF%BC%9A%E6%97%A0%E7%BB%84%E7%BB%87%E7%9A%84%E7%BB%84%E7%BB%87%E5%8A%9B%E9%87%8F-%E5%85%8B%E8%8E%B1%E2%80%A2%E8%88%8D%E5%9F%BA.epub) |
 | [ixinzhi](https://github.com/ixinzhi/igetget) | 布客新知-子库_在线阅读 | `https://cdn.jsdelivr.net/gh/ixinzhi/igetget@master/xxx.pdf` |
+| [holyshell](https://github.com/holyshell/Books) | O_O | Y |
 | [polyrabbit/book](https://github.com/polyrabbit/book) | IT基础 | `https://cdn.jsdelivr.net/gh/polyrabbit/book@master/HTM5 & CSS3/CSS3属性速查表.pdf` |
 | [meiguhuaxian](https://www.cnblogs.com/meiguhuaxian/p/11641423.html) | O_O | 管理·技术/工具·方法/科技·人文/艺术·文学 |
 | [阮一峰](https://github.com/ruanyf/reading-list) | O_O | [文学](https://github.com/ruanyf/reading-list#%E6%96%87%E5%AD%A6)/[传记](https://github.com/ruanyf/reading-list#传记)/[历史](https://github.com/ruanyf/reading-list#历史)/[科学](https://github.com/ruanyf/reading-list#科学)/[技术](https://github.com/ruanyf/reading-list#技术)/[杂类](https://github.com/ruanyf/reading-list#杂类) |
