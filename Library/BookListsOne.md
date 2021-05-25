@@ -195,11 +195,10 @@
                     <li>✔<a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/《世界尽头的咖啡馆》万洁 【美】约翰·史崔勒基【文字版_PDF电子书_下载】.pdf">世界尽头的咖啡馆</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/穷查理宝典.pdf">穷查理宝典</a></li>
 		    <li>《洛丽塔》 - 《情人》 - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/霍乱时期的爱情.pdf">《霍乱时期的爱情》</a></li>
-                    <li>茨威格（奥地利）--人道主义思想（一种感情存在，对人本身的悲悯）
+                    <li><a href="https://www.kanunu8.com/files/writer/8384.html">斯蒂芬·茨威格作品集</a>-奥地利 人道主义思想
                         <ul>
-                            <li>《一个陌生女人的来信》</li>
-                            <li>《一个女人的一生中的二十四个小时》</li>
-                            <li>《灼人的秘密》</li>
+                            <li><a href="https://www.kanunu8.com/book3/8392/">《一个陌生女人的来信》</a></li>
+                            <li><a href="https://www.kanunu8.com/book3/8396/">《一个女人的一生中的二十四个小时》</a></li>
                         </ul>
                     </li>
                     <li><a href="http://book.sbkk8.com/shashibiya/hamuleite/">哈姆雷特</a> - <a href="http://book.sbkk8.com/shashibiya/">莎士比亚大全</a> - <a href="http://book.sbkk8.com/waiguo/liefu/">列夫·托尔斯泰大全</a> - <a href="http://book.sbkk8.com/waiguo/tuosituoyefusiji/">陀思妥耶夫斯基大全</a> - <a href="http://book.sbkk8.com/waiguo/">外国文学大全</a></li>
