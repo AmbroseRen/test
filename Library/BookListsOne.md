@@ -254,7 +254,7 @@
                         </ul>
                     </li>  			    
 		    <li><a href="https://en.wikipedia.org/wiki/List_of_works_by_William_Gibson">William_Gibson</a> - <a href="https://archive.org/stream/NeuromancerWilliamGibson/Neuromancer%20-%20William%20Gibson_djvu.txt">Neuromancer</a>.txt/<a href="https://archive.org/details/NeuromancerWilliamGibson/mode/2up">Neuromancer</a>.book</li>
-		    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/宇宙指南.pdf">宇宙指南</a></li>
+		    <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Society/宇宙指南.pdf">宇宙指南</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Science/图解时间简史 .pdf">图解时间简史</a>·通俗版 - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Science/《时间简史（插图本）》.pdf">图解时间简史</a>·学术版</li>
                     <li>《科幻世界》2018年 第12期</li>
                     <li>不合时宜的本能【钟推移】</li>
                     <li>重力矿场【史蒂芬·巴克斯特】</li>
