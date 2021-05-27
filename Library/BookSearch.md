@@ -53,7 +53,7 @@
 | [唐宋古诗词](https://shici.store/huajianji/)/[源文](https://github.com/chinese-poetry/chinese-poetry) | 中文诗歌 | X | X | X |
 | [古诗文网](https://www.gushiwen.cn/) | 诗词集赋 | [纳兰性德](https://so.gushiwen.cn/shiwens/default.aspx?astr=%e7%ba%b3%e5%85%b0%e6%80%a7%e5%be%b7) - [李煜](https://so.gushiwen.cn/shiwens/default.aspx?astr=%e6%9d%8e%e7%85%9c) | X | X |
 | [诗词名句网](https://www.shicimingju.com/) | 诗词歌赋 | [《春秋左氏传》](https://www.shicimingju.com/book/chunqiuzuozhuan.html)/[《春秋》](https://www.shicimingju.com/book/chunqiu.html) - []() - []() | X | X |
-| __Magazine__ | __杂志•文档__ | X | X | X |
+| __Magazine__ | __[杂志](https://ambroseren.github.io/test/Art/Animes/index.html)•文档__ | X | X | X |
 | [眉笔小蜜蜂](http://mbbee.com/) | 欧美日韩杂志 | X | X | X |
 | [openculture](https://www.openculture.com/) | 杂志-en | [33 Sci-Fi Stories by Philip K. Dick](https://www.openculture.com/2013/03/download_14_great_sci-fi_stories_by_philip_k_dick_as_free_audio_books_and_free_ebooks.html) | X | X |
 | __IT__ | __技术__ | X | X | X |
