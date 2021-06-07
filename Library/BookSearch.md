@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | __Library__ | __书库__ | X | X | X |
 | [每日书单](https://pan.shudan.vip/) | 书库 | X | X | X |
-| [zure](https://zure.fun/) | 好 | [星辰的繼承者](https://zure.fun/book/fc466fba-b68d-11e8-8364-560001a72e1e/) | X | X |
+| ~~[zure](https://zure.fun/)~~ | 好 | [星辰的繼承者](https://zure.fun/book/fc466fba-b68d-11e8-8364-560001a72e1e/) | X | X |
 | [haoyuli](http://book.haoyuli.cn/Z.1.%E7%9B%AE%E5%BD%95%E7%B4%A2%E5%BC%95/%E5%85%A8%E9%83%A8.html) | 综合 | [佚名](https://http561856124.wordpress.com/) | X | X |
 | [医学电子书](https://yixueshu.gitee.io/)/[源址](https://github.com/scienceasdf/medical-books/releases) | 医学书籍 | X | X | X |
 | [二次寒树](https://echs.herokuapp.com/) | 杂志 | X | X | X |
