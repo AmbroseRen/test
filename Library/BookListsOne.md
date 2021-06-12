@@ -270,6 +270,7 @@
                     <li><a href="https://www.kanunu8.com/book3/6422/">《2001太空漫游》</a> - <a href="https://www.cbxs.net/kehuan/3729/">副链</a>——<a href="https://www.kanunu8.com/files/writer/1651.html">阿瑟.克拉克集</a> - <a href="http://www.00txt.com/zuihouyigediqiuren/">最后一个地球人</a> - 童年的终结 </li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6451.html">弗诺·文奇作品集</a></li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6022.html">罗伯特·海因莱因作品集</a> - <a href="https://www.shutxt.com/writer/146/">副链</a></li>
+		    <li><a href="https://www.cbxs.net/writer/1404/">菲利普·迪克小说全集</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Science/%E4%BA%BA%E7%B1%BB%E7%81%AD%E7%BB%9D.pdf">人类灭绝</a> 高野和明 - <a href="http://www.ebook80.com/popular/4084.html">简介</a></li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6445.html">特德·姜作品集</a> - <a href="https://www.yooread.net/writer/1904/">一</a> - 《呼吸》 - 《降临》</li>
 		    <li><a href="http://liucixin.zuopinj.com/">刘慈欣作品集</a> - <a href="https://www.51shucheng.net/zuojia/liucixin">副链</a>
