@@ -278,7 +278,8 @@
                             <li><a href="https://www.51shucheng.net/kehuan/santi">《三体》</a> - <a href="https://www.51shucheng.net/kehuan/santi/santi2">《黑暗森林》</a> - <a href="https://www.51shucheng.net/kehuan/santi/santi3">《死神永生》</a></li>
                         </ul>
                     </li>                        
-                    <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品集</a></li>
+                    <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品集</a> - <a href="https://www.kanunu8.com/files/writer/187.html">副链</a>  -  <a href="http://huangyi.zuopinj.com/">三链</a></li>
+		    <li><a href="https://www.kanunu8.com/files/writer/6619.html">王晋康作品集</a> - <a href="http://wangjinkang.zuopinj.com/">副链</a></li>
                     <li><a href="https://www.kanunu8.com/files/writer/6492.html">韩松作品集</a> - 《时空骗局》 - 《切割地球》</li>
 		    <li>《超级战士》</li>
                     <li>《时空浪族》</li>
