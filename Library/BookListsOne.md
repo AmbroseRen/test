@@ -279,7 +279,7 @@
                         </ul>
                     </li>                        
                     <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品集</a> - <a href="https://www.kanunu8.com/files/writer/187.html">副链</a>  -  <a href="http://huangyi.zuopinj.com/">三链</a></li>
-		    <li><a href="https://www.kanunu8.com/files/writer/6619.html">王晋康作品集</a> - <a href="http://wangjinkang.zuopinj.com/">副链</a></li>
+		    <li><a href="https://www.kanunu8.com/files/writer/6619.html">王晋康作品集</a> - <a href="http://wangjinkang.zuopinj.com/">副链</a> - <a href="http://www.00txt.com/zuojia/haojingfang/">郝景芳作品集</a>/<a href="https://www.kunnu.com/zhedie/">北京折叠</a></li>
                     <li><a href="https://www.kanunu8.com/files/writer/6492.html">韩松作品集</a> - 《时空骗局》 - 《切割地球》</li>
 		    <li>《超级战士》</li>
                     <li>《时空浪族》</li>
