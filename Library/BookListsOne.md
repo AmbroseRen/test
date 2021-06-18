@@ -25,6 +25,7 @@
 	- [Poem](#poem)
 	- [Prose](#prose)
 	- [Novel](#novel)
+	- [Mystery](#mystery)
 - [Science](#science)
 - [Primer](#primer)
 
@@ -245,6 +246,11 @@
                     <li><a href="https://www.kanunu8.com/files/writer/7470.html">芥川龙之介作品集</a></li>
                 </ul>
             </li>
+            <li id="mystery">Mystery
+                <ul>
+                    <li><a href="https://www.kanunu8.com/files/writer/9497.html">阿加莎·克里斯蒂作品集</a></li>
+                </ul>
+            </li>		
             <li id="science"><a href="#top">Science</a>
                 <ul>
                     <li><a href="https://www.shutxt.com/writer/kehuan.html">科幻作家列表-下书网</a> - <a href=""></a> - <a href=""></a></li>
