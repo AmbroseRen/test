@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|
 | [tampermonkey Install](https://www.tampermonkey.net/) | Chrome Js Loader | Y |
 | [markdownpad](http://markdownpad.com/download.html) | MD File Editor | Y |
+| [sigil-ebook](https://sigil-ebook.com/) | epub电子书制作器 | [下载](https://github.com/Sigil-Ebook/Sigil/releases/tag/1.5.1) |
 | [octotree](https://www.octotree.io/) | github project tree catalogue | Y |
 | [teamviewer](https://www.teamviewer.cn/cn/teamviewer-automatic-download/) | 远程协同控制软件 | Y |
 | [riot](https://riot-optimizer.com/) | 图片优化编辑器 | Y |
