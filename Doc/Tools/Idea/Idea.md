@@ -22,7 +22,8 @@ Licence输入：
 
 ~~输入：http://jetbrains-license-server，
 或者输入：http://fls.jetbrains-agent.com
-然后点击Activate。~~激活破解已凉；转[暴力破解](https://shimo.im/docs/WY3hd8Jt8KHgvVty/read)
+然后点击Activate。~~
+激活破解已凉;转[暴力破解](https://shimo.im/docs/WY3hd8Jt8KHgvVty/read)
 
 ## 使用
 
