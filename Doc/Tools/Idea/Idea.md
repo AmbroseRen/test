@@ -20,9 +20,9 @@ Help->Edit Custom VM Options
 
 Licence输入：
 
-输入：http://jetbrains-license-server，
+~~输入：http://jetbrains-license-server，
 或者输入：http://fls.jetbrains-agent.com
-然后点击Activate。
+然后点击Activate。~~
 
 ## 使用
 
