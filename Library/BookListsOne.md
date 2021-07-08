@@ -41,7 +41,7 @@
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/%E8%B4%A2%E5%AF%8C%E7%9A%84%E8%B5%B7%E6%BA%90.pdf">财富的起源</a></li>
             <li><a href="https://www.yiyiwenku.com/zibenlun/">资本论</a>-<a href="https://www.yiyiwenku.com/">依依文库-中国古典文学</a></li>
             <li><a href="https://www.danseshu.com/books/551">国富论·亚当斯密</a></li>
-	    <li><a href="https://www.marxists.org/chinese/marx-engels/index.htm">马克思恩格斯全集（文字版）</a> - <a href="https://www.marxists.org/chinese/pdf/me-old.htm">马克思恩格斯全集（文字版PDF）</a></li>
+	    <li><a href="https://www.marxists.org/chinese/marx-engels/index.htm">马克思恩格斯全集（文字版）</a> - <a href="https://www.marxists.org/chinese/pdf/me-old.htm">马克思恩格斯全集（文字版PDF）</a> - <a href="https://www.marxists.org/chinese/marx/01.htm">共产党宣言</a></li>
             <li><a href="https://www.thn21.com/Article/wai/8666.html">货币战争</a></li>
             <li><a href="http://www.tushu007.com/ISBN-9787300145778.pdf">政治经济学概论</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/创新者的窘境_[（美）克里斯坦森著][中信出版社][2013.11][263页].pdf">创新者的窘境</a></li>
