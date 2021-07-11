@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | __data.judiciary__ | __国内司法机关公布数据__ | Y |
 | [中共中央政府-部门结构预览](http://www.gov.cn/fuwu/bm/index.htm) | O_O | [民政部](http://www.mca.gov.cn/) - [司法部](http://www.moj.gov.cn/) - [财政部](http://www.mof.gov.cn) |
-| [中国裁判文书网](https://wenshu.court.gov.cn/) | O_O | Y |
+| [中国裁判文书网](https://wenshu.court.gov.cn/) | O_O | [样例](https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=6b49ee86570149499acead5a000b640f) |
 | __data.gov__ | __国内政府公布数据__ | Y |
 | [国家统计局](http://www.stats.gov.cn/) | O_O | Y |
 | [工业和信息化部](http://www.miit.gov.cn) | O_O | Y |
