@@ -6,7 +6,7 @@
 | [国家统计局](http://www.stats.gov.cn/) | O_O | Y |
 | [工业和信息化部](http://www.miit.gov.cn) | O_O | Y |
 | [中国人民银行](http://www.pbc.gov.cn) | 中国金融市场政策及运行相关数据 | Y |
-| [银监会](http://www.cbrc.gov.cn) | 中国进出口相关数据 | Y |
+| [银监会](http://www.cbirc.gov.cn) | 中国进出口相关数据 | Y |
 | [中国海关](http://www.customs.gov.cn) | O_O | Y |
 | [国家知识产权局](http://www.sipo.gov.cn) | 专利相关查询 | Y |
 | [中国证监会](http://www.csrc.gov.cn) | 相关政策及招股书披露平台，以及拟上市公司排队每周披露 | Y |
