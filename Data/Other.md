@@ -8,7 +8,7 @@
 | [中国人民银行](http://www.pbc.gov.cn) | 中国金融市场政策及运行相关数据 | Y |
 | [银监会](http://www.cbirc.gov.cn) | 中国进出口相关数据 | Y |
 | [中国海关](http://www.customs.gov.cn) | O_O | Y |
-| [国家知识产权局](http://www.sipo.gov.cn) | 专利相关查询 | Y |
+| [国家知识产权局](https://www.cnipa.gov.cn/) | 专利相关查询 | Y |
 | [中国证监会](http://www.csrc.gov.cn) | 相关政策及招股书披露平台，以及拟上市公司排队每周披露 | Y |
 | [巨潮信息网](http://www.cninfo.com.cn) | 中国资本市场指定披露平台，上市公司相关年报、季报及公告披露信息 | Y |
 | __data.security__ | __证券交易所数据__ | Y |
