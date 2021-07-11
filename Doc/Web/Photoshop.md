@@ -6,6 +6,8 @@ Author：AmbroseRen
 
 导航站：[优设导航](https://hao.uisdc.com/)
 
+素材存储云化→云盘[参考](https://ambroseren.github.io/test/Data/Clouder.html)
+
 视频教程：[切图基础教程-imooc](https://www.imooc.com/learn/1228)似曾相识？ - [PS教程-uiiiuiii](https://uiiiuiii.com/photoshop)/[知识树](https://uiiiuiii.com/photoshop/1212128580.html)
 
 操作手册：[PS入门基础教程](http://www.psdee.com/zone/rumen) - [PS教程](https://www.16xx8.com/photoshop/xinshoujiaocheng/) - []()
