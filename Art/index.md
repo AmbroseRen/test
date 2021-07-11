@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [Movies - 电影](Movies/index.md) | O_O | [MyTVDataLists](Movies/MyTVDataLists.md) |
+| [Movies - 电影](Movies/index.md) | O_O | [MyTVDataLists](Movies/MyTVDataLists.md)/[SurvivalMovies](Movies/SurvivalMovies.md) |
 | [Music - 音乐](Music/index.md) | O_O | [MyMusic](Music/myMusic.md) |
 | [Animes - 动漫](Animes/index.md) | O_O | Y |
 | [Games - 游戏](Games/index.md) | O_O | [My_Games_Lists](Games/MyGameLists.md) |
