@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|
 | [tampermonkey Install](https://www.tampermonkey.net/) | Chrome Js Loader | Y |
 | [markdownpad](http://markdownpad.com/download.html) | MD File Editor | Y |
+| [typora](https://typora.io/) | Higher MD File Editor | Y |
 | [sigil-ebook](https://sigil-ebook.com/) | epub电子书制作器 | [下载](https://github.com/Sigil-Ebook/Sigil/releases/tag/1.5.1) - [epubBuilder](https://www.soepub.com/soft)书籍编辑器(国产-掌上书苑) |
 | [octotree](https://www.octotree.io/) | github project tree catalogue | Y |
 | [teamviewer](https://www.teamviewer.cn/cn/teamviewer-automatic-download/) | 远程协同控制软件 | Y |
