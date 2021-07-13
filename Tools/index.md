@@ -26,6 +26,9 @@
 | []() | O_O | Y |
 | 项目流程管理 | O_O | Y |
 | [Worktile](https://yhor20190919132833921.worktile.com/mission/my/directed) | O_O | Y |
-| []() | O_O | Y |
+| [蓝湖](https://lanhuapp.com/) | 产品原型图管理 | Y |
+| [gogs-PM](https://gogs.io/) | 项目管理 | Y |
+| [维卡协同表格](https://vika.cn/) | 在线任务协同 | Y |
+| [托管文档测试](https://www.showdoc.com.cn/) | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
