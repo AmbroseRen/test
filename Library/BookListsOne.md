@@ -102,6 +102,7 @@
             <li><a href="https://files.catbox.moe/qyc48c.pdf">《人工智能时代》</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/富足：改变人类未来的4大力量.pdf">富足：改变人类未来的4大力量</a></li>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/《建设工程经济》.pdf">《建设工程经济》</a> - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Society/《建筑工程经济》.pdf">《建筑工程经济》</a></li>
+	    <li><a href="https://www.routledge.com/Communication-and-Society/book-series/SE0130#">公共沟通、舆论、宣传、媒体的公权力</a> - <a href="https://zhuanlan.zhihu.com/p/112584291">参考</a></li>
 	    <li id="biography">Biography
                 <ul>
                     <li>凯恩斯传</li>
