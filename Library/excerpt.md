@@ -6,6 +6,7 @@
 | [互联网域名管理](https://dmesg.app/domain-lucky-too-lucky.html)/[真理部解释](https://www.zhihu.com/question/41864611) | [越早建立自我价值感越好](https://www.douban.com/note/800445906/) | ~~[一篇轰动全国的猛文](https://zhengqiang.blog.csdn.net/article/details/46410971)~~/[副链](../Doc/article/一篇轰动全国的猛文.md) |
 | [娱乐至死](https://blog.csdn.net/gt9000/article/details/85991150)/[副链](../Doc/article/娱乐至死.md) | [机器政治—互联网崛起与集权新世纪](https://www.caa-ins.org/archives/3665) | [wikiwand](https://www.wikiwand.com/)/[中华人民共和国大规模监控](https://www.wikiwand.com/zh-cn/中华人民共和国大规模监控) |
 | []() | []() | []() |
+| []() | []() | []() |
 | lucy | 25 | X |
 
 - - -
