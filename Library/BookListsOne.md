@@ -13,6 +13,7 @@
 - - -
 
 - [Finance](#finance)
+- [Politics](#politics)
 - [Law](#law)
 - [Society](#society)
 	- [Psychology](#psychology)
@@ -56,6 +57,11 @@
 	    <li><a href="https://www.7hcn.com/">七禾网</a> - <a href="https://zhuanlan.zhihu.com/p/95627695">沈良</a></li>
         </ul>
     </li>
+    <li id="politics"><a href="#top">Politics</a>
+        <ul>
+	    <li><a href="https://files.catbox.moe/fma2pw.pdf">我的第一本炒股书</a></li>
+        </ul>
+    </li>		
     <li id="law"><a href="#top">Law</a>
         <ul>
             <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Law/洞穴奇案（美）彼得·萨伯.pdf">洞穴奇案</a>（美）彼得·萨伯
