@@ -59,7 +59,11 @@
     </li>
     <li id="politics"><a href="#top">Politics</a>
         <ul>
-	    <li><a href="https://files.catbox.moe/fma2pw.pdf">我的第一本炒股书</a></li>
+	    <li>官场笔记——侯卫东（小桥老树著）</li>
+	    <li>掌舵1，掌舵2（龙在宇著）</li>
+	    <li>掌舵者1，掌舵者2，掌舵者3（瑞根著）</li>
+	    <li>弄潮（瑞根）</li>
+	    <li>纪委书记（罗晓）</li>
         </ul>
     </li>		
     <li id="law"><a href="#top">Law</a>
