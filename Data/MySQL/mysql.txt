@@ -60,7 +60,10 @@ SELECT
 FROM
     tablename AS t,
     (SELECT @i:=0) AS foo
-    
+
+============闪退登陆============
+进入bin目录
+mysql -u root -p
 ===========修改最大连接数=============
 show variables liek '%max_connections%';
 show global status like '%max_use_connections%';
