@@ -61,4 +61,10 @@ FROM
     tablename AS t,
     (SELECT @i:=0) AS foo
     
-    
+===========修改最大连接数=============
+show variables liek '%max_connections%';
+show global status like '%max_use_connections%';
+
+set global max_connections=256;
+
+
