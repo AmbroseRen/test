@@ -199,12 +199,12 @@
                     <li><a href="http://www.newxue.com/weicheng/">围城</a> - <a href="http://www.qxtxt.com/fushengwuyu/">浮生物语</a> - <a href="https://www.yooread.net/tags/23/">大秦帝国</a>/<a href="https://www.51shucheng.net/lishi/daqindiguo">副链</a></li>
                     <li><a href="https://www.kanunu8.com/book2/10883/">杀死一只知更鸟</a> - <a href=""></a> - <a href=""></a></li>
 		    <li><a href="https://www.kanunu8.com/files/world/201106/2867.html">飘</a> - <a href="https://www.kanunu8.com/files/writer/2865.html">玛格丽特·米切尔作品集</a></li>
-		    <li><a href="http://www.saohua.com/shuku/zhexue/mydoc138.htm">战争论第一卷</a>〔德〕克劳塞维茨 - <a href="http://www.saohua.com/shuku/zhexue/index.htm">哲学名著大全</a> - <a href="https://www.kanunu8.com/files/world/201102/1598.html">苏菲的世界</a> 乔斯坦·贾德</li>
+		    <li><a href="http://www.saohua.com/shuku/zhexue/mydoc138.htm">战争论第一卷</a>〔德〕克劳塞维茨 - <a href="http://www.saohua.com/shuku/zhexue/index.htm">哲学名著大全</a> - <a href="https://www.kanunu8.com/files/world/201102/1598.html">苏菲的世界</a> 乔斯坦·贾德 - <a href="http://www.dushu369.com/waiguomingzhu/pgsb/">培根随笔</a></li>
                 </ul>
             </li>
             <li id="prose">Prose
                 <ul>
-                    <li><a href="https://www.51shucheng.net/yanqing/qingchengzhilian">《倾城之恋》</a>- <a href="https://www.kanunu8.com/book3/7109/">副链</a></li>
+                    <li><a href="https://www.51shucheng.net/yanqing/qingchengzhilian">《倾城之恋》</a> - <a href="https://www.kanunu8.com/book3/7109/">副链</a></li>
                     <li>✔《施华洛世奇的水晶世界》（王珍）</li>
                 </ul>
             </li>
