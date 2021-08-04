@@ -313,6 +313,7 @@
                     <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品集</a> - <a href="https://www.kanunu8.com/files/writer/187.html">副链</a>  -  <a href="http://huangyi.zuopinj.com/">三链</a></li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6619.html">王晋康作品集</a> - <a href="http://wangjinkang.zuopinj.com/">副链</a> - <a href="http://www.00txt.com/zuojia/haojingfang/">郝景芳作品集</a>/<a href="https://www.kunnu.com/zhedie/">北京折叠</a> - <a href="https://www.kanunu8.com/files/writer/6562.html">柳文扬作品集</a> - <a href="https://www.kanunu8.com/files/writer/6561.html">何夕作品集</a></li>
 		    <li>黑喵/你永远无法抵达的时间•夏笳/钱丽芳/<a href="https://hao9088.com/txt/11101.html">伪人2075·意识重组</a> - <a href="https://www.99csw.com/article/11990.htm">苏醒2026</a> - <a href="https://9.guozhi.org/article/10764.htm">雨船</a> - <a href="https://www.sto.cx/book-27479-1.html">归者无路</a>•迟卉 - <a href=""></a></li>
+			<li><del><a href="http://www.yueleshow.com/author/855/">小林泰三作品集</a></del> - <a href="https://www.zxyd.cc/u/%E5%B0%8F%E6%9E%97%E6%B3%B0%E4%B8%89/">看海的人</a></li>
                     <li><a href="https://www.kanunu8.com/files/writer/6492.html">韩松作品集</a> - 《时空骗局》 - 《切割地球》</li>
 		    <li>《超级战士》 - 《时空浪族》 - 《神龙》</li>
                     <li><a href="https://m.9txs.org/book/68246/0_1/">诸神的黄昏</a>▪撒冷 - <a href="https://www.52shuku.vip/kongbulingyi/hr66.html">超脑·团灭</a>▪蔡必贵 - 星盟默示录Ⅱ：神之子▪风若岚</li>
