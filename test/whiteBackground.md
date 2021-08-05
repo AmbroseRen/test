@@ -1,8 +1,8 @@
 <style type="text/css">
-._th_cover-all-show-times {
+body {
    background-color: #000000;
 }
-   
+  
 .site-footer {
    display: none;
  }
