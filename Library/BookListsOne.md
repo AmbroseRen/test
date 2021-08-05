@@ -313,7 +313,7 @@
                     <li><a href="http://www.huangyixiaoshuo.com/0/499/">《星际浪子》</a>——<a href="http://www.huangyixiaoshuo.com/author/499/">黄易作品集</a> - <a href="https://www.kanunu8.com/files/writer/187.html">副链</a>  -  <a href="http://huangyi.zuopinj.com/">三链</a></li>
 		    <li><a href="https://www.kanunu8.com/files/writer/6619.html">王晋康作品集</a> - <a href="http://wangjinkang.zuopinj.com/">副链</a> - <a href="http://www.00txt.com/zuojia/haojingfang/">郝景芳作品集</a>/<a href="https://www.kunnu.com/zhedie/">北京折叠</a> - <a href="https://www.kanunu8.com/files/writer/6562.html">柳文扬作品集</a> - <a href="https://www.kanunu8.com/files/writer/6561.html">何夕作品集</a></li>
 		    <li>黑喵/你永远无法抵达的时间•<a href="https://m.daaixs.com/d2Ae/list.html">永夏之梦</a>•夏笳/钱丽芳/<a href="https://hao9088.com/txt/11101.html">伪人2075·意识重组</a> - <a href="https://www.99csw.com/article/11990.htm">苏醒2026</a> - <a href="https://9.guozhi.org/article/10764.htm">雨船</a> - <a href="https://www.sto.cx/book-27479-1.html">归者无路</a>•迟卉 - <a href=""></a></li>
-			<li><b><a href="https://csfdb.scifi-wiki.com/magazines/1/issues/421">CSFDB - 中文科幻数据库</a></b> - <a href="https://www.kanunu8.com/book3/6462/index.html">星新一作品集</a></li>
+			<li><b><a href="https://csfdb.scifi-wiki.com/magazines/1/issues/421">CSFDB - 中文科幻数据库</a></b> - <a href="https://www.kanunu8.com/book3/6462/index.html">星新一作品集</a> - <a href="http://www.dushu369.com/qtyd/xsfs/">《克苏鲁神话Ⅰ－邪神复苏》</a></li>
 		    <li><del><a href="http://www.yueleshow.com/author/855/">小林泰三作品集</a></del>/<a href="https://www.duokan.com/author/73525/1-1">多看阅读</a> - <a href="https://www.zxyd.cc/u/小林泰三/">看海的人</a></li>
                     <li><a href="https://www.kanunu8.com/files/writer/6492.html">韩松作品集</a> - 《时空骗局》 - 《切割地球》</li>
 		    <li>《超级战士》 - 《时空浪族》 - 《神龙》</li>
