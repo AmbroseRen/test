@@ -1,6 +1,6 @@
 <style type="text/css">
 body {
-   background-color: #000000;
+   background-color: #ffffff;
 }
   
 .site-footer {
