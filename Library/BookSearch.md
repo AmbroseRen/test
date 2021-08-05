@@ -44,7 +44,7 @@
 | [万卷天书-PDF](https://jrjpc.com/) | 现代文学 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
-| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) - [文心雕龙](https://www.2345daohang.com/dianji/63314/) - [梦溪笔谈](https://www.2345daohang.com/dianji/63285/) - [商君书](https://www.2345daohang.com/dianji/63313/) - [楚辞](https://www.2345daohang.com/shici/list_1_t_918.htm) - [乐府](https://www.2345daohang.com/shici/list_1_t_469.htm) - [金刚经](https://www.2345daohang.com/dianji/63334/) - [道德经](http://www.505dh.com/dianji/63299/) | X | 四书：《论语》、《孟子》、《大学》、《中庸》/五经：《诗经》、《尚书》、《礼记》、《周易》和《春秋》 |
+| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) - [文心雕龙](https://www.2345daohang.com/dianji/63314/) - [梦溪笔谈](https://www.2345daohang.com/dianji/63285/) - [商君书](https://www.2345daohang.com/dianji/63313/) - [楚辞](https://www.2345daohang.com/shici/list_1_t_918.htm) - [乐府](https://www.2345daohang.com/shici/list_1_t_469.htm) - [金刚经](https://www.2345daohang.com/dianji/63334/) - [道德经](http://www.505dh.com/dianji/63299/) | X | X |
 | [读典籍](https://web.dudianji.com/#/book-index) | 中国古典文学 | [史记](https://web.dudianji.com/#/book/shiji) - [论语](https://web.dudianji.com/#/book/lunyu) | X | X |
 | [上海图书馆](http://wrd2016.library.sh.cn/) | 近代古籍 | X | X | X |
 | [古籍网](http://www.bookinlife.net/) | 繁体竖排扫描版 | [中国历代人物图像数据库](http://diglweb.zjlib.cn:8081/zjtsg/mingren/index.htm) | X | X |
@@ -52,7 +52,7 @@
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | [唐宋古诗词](https://shici.store/huajianji/)/[源文](https://github.com/chinese-poetry/chinese-poetry) | 中文诗歌 | X | X | X |
 | [古诗文网](https://www.gushiwen.cn/) | 诗词集赋 | [纳兰性德](https://so.gushiwen.cn/shiwens/default.aspx?astr=%e7%ba%b3%e5%85%b0%e6%80%a7%e5%be%b7) - [李煜](https://so.gushiwen.cn/shiwens/default.aspx?astr=%e6%9d%8e%e7%85%9c) | X | X |
-| [诗词名句网](https://www.shicimingju.com/) | 诗词歌赋 | [《春秋左氏传》](https://www.shicimingju.com/book/chunqiuzuozhuan.html)/[《春秋》](https://www.shicimingju.com/book/chunqiu.html) - []() - []() | X | X |
+| [诗词名句网](https://www.shicimingju.com/) | 诗词歌赋 | [《春秋左氏传》](https://www.shicimingju.com/book/chunqiuzuozhuan.html)/[《春秋》](https://www.shicimingju.com/book/chunqiu.html) - []() - []() | X | 四书：[《论语》](https://www.shicimingju.com/book/lunyu.html)、[《孟子》](https://www.shicimingju.com/book/mengzi.html)、[《大学》](https://www.shicimingju.com/book/daxue.html)、[《中庸》](https://www.shicimingju.com/book/zhongyong.html)/五经：[《诗经》](https://www.shicimingju.com/book/shijing.html)、[《尚书》](https://www.shicimingju.com/book/shangshu.html)、[《礼记》](https://www.shicimingju.com/book/liji.html)、[《周易》](https://www.shicimingju.com/book/zhouyi.html)和《春秋》 |
 | __Magazine__ | __[杂志](https://ambroseren.github.io/test/Art/Animes/index.html)•文档__ | X | X | X |
 | [眉笔小蜜蜂](http://mbbee.com/) | 欧美日韩杂志 | X | X | X |
 | [openculture](https://www.openculture.com/) | 杂志-en | [33 Sci-Fi Stories by Philip K. Dick](https://www.openculture.com/2013/03/download_14_great_sci-fi_stories_by_philip_k_dick_as_free_audio_books_and_free_ebooks.html) | X | X |
