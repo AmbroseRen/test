@@ -260,7 +260,7 @@
                     <li><a href="https://www.yooread.net/writer/120/">东野圭吾作品集</a>
                         <ul>
                             <li><a href="https://www.kunnu.com/jieyou/">《解忧杂货铺》</a></li>
-                            <li><a href="https://www.kanshuhai.net/0/74/74450/?btwaf=52631057">白夜行</a></li>
+                            <li><a href="https://www.youduzw.com/3/3309/">白夜行</a></li>
                         </ul>
                     </li>                        
                     <li><a href="https://www.kanunu8.com/files/writer/7470.html">芥川龙之介作品集</a></li>
