@@ -10,6 +10,13 @@ ls -a
 du -sh *
 ```
 
+- [X] 查看文件系统占磁盘大小
+```
+df -h
+du -h --max-depth=1 your_dest_dir
+du -h --max-depth=0 your_dest_dir/*
+```
+
 - [X] 查看日志：tail、cat、tac、head、echo等
 ```
 tail -f 1000 test.log     滚动查询最后1000行
