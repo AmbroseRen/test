@@ -63,3 +63,19 @@ history -c // 清空所有的历史记录
  ```
  
  [参考](https://cloud.tencent.com/developer/article/1579977)
+ 
+ ## Linux上传下载文件
+ 
+ ## Linux - shell上传下载文件
+ 
+ - [X] sendZip下载文件
+```
+sz fileName
+```
+
+ - [X] RequestZip上传文件
+```
+rz
+```
+
+ - [X] 
