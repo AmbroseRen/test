@@ -12,6 +12,7 @@ du -sh *
 
 - [X] 查看日志：tail、cat、tac、head、echo等
 ```
+tail -f 1000 test.log     滚动查询最后1000行
 tail  -n  10   test.log   查询日志尾部最后10行的日志;
 tail  -n +10   test.log   查询10行之后的所有日志;
 tail  -fn 10   test.log   循环实时查看最后1000行记录(最常用的)
@@ -32,10 +33,19 @@ head -n  10  test.log   查询日志文件中的头10行日志;
 head -n -10  test.log   查询日志文件除了最后10行的其他所有日志;
 ```
 
+- [X] sed
+```
+sed -n '5,10p' test.log 这样你就可以只查看文件的第5行到第10行。
+```
+
 - [X] cat查看文件内容
 ```
 cat filename
+cat > filename   创建一个文件
+cat file1 file2 > file  合并文件
 ```
+
+- [X] tac反向查看文件内容
 
 - [X] History
  ```
