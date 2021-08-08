@@ -15,7 +15,7 @@
 | [videolan](https://www.videolan.org/index.zh.html) | 播放器 | Y |
 | [XBMC](https://kodi.tv/download/) | 播放器 | Y |
 | [kmplayer](https://www.kmplayer.com/home) | 跨平台播放器 | Y |
-| []() | O_O | Y |
+| [gomlab](https://www.gomlab.com/download/) | 产品群 | Y |
 | lucy | 25 | X |
 
 > [电影-知乎](https://zhuanlan.zhihu.com/p/34028598)
