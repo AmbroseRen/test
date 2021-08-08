@@ -11,7 +11,7 @@
 | [IMbd影评·导航](https://m.imdb.com/?ref_=ft_mdot) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| []() | O_O | Y |
+| [potplayer](https://potplayer.daum.net/?lang=zh_CN) | 高渲染播放器 | Y |
 | lucy | 25 | X |
 
 > [电影-知乎](https://zhuanlan.zhihu.com/p/34028598)
