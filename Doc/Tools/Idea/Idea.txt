@@ -62,4 +62,26 @@ HighlightBracketPair -- 括号高亮显示
         </exclusion>
     </exclusions>
 </dependency>
-=====================
+========设置全局搜索文件类型=============
+> C:\Users\MSI-NB\AppData\Roaming\JetBrains\IntelliJIdea2020.1\options\find.xml
+```
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.vue</mask>
+    <mask>*.jsp</mask>
+    <mask>*.html</mask>
+    <mask>*.css</mask>
+    <mask>*.js</mask>
+    <mask>*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>*.properties</mask>
+    <mask>*.ftl</mask>
+    <mask>*.java</mask>
+  </component>
+</application>
+```
+======================================
