@@ -12,7 +12,7 @@
 
 ## Plugins Thene
 
-[TapTap Theme](https://marketplace.visualstudio.com/items?itemName=TDS.taptap-vscode-theme)
+[TapTap Theme](https://marketplace.visualstudio.com/items?itemName=TDS.taptap-vscode-theme)/[参考](https://www.v2ex.com/t/790541#reply20)
 
 ## FAQ
 
