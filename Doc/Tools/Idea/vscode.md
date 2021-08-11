@@ -10,6 +10,10 @@
 
 []()
 
+## Plugins Thene
+
+[TapTap Theme](https://marketplace.visualstudio.com/items?itemName=TDS.taptap-vscode-theme)
+
 ## FAQ
 
 [VS Code报错：Java 11 or more recent is required to run. Please download and install a recent JDK](https://blog.csdn.net/qq_27123591/article/details/108113571)
