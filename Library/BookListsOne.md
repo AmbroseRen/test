@@ -1,6 +1,6 @@
 # Tree_Librarys List  [←](index.md)
 
-<div><del>
+<div>
 
 <div style="position：relative;float:left;width:25%;height:35px;"><a href="https://ambroseren.github.io/test/Library/BookLists.html">Table_BookLists</a></div>
 
@@ -8,7 +8,7 @@
 
 <div style="position：relative;float:right;width:25%;height:50px;"><a href="https://ambroseren.github.io/test/Library/BookListsTwo.html">BookListsTwo</a></div>
 
-</del></div>
+</div>
 
 - - -
 
