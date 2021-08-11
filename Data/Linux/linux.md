@@ -77,6 +77,36 @@ history -c // 清空所有的历史记录
 
 查询出来记录后选中 :　!323
 ```
+
+- [X] 删除文件内容
+
+```
+#> access.log
+```
+
+- [X] 查看端口占用情况
+
+```
+lsof -i        //输出端口列表
+lsof -i:端口号 //查询端口号
+
+netstat -anp|grep 80
+netstat -tunlp | grep 端口号  //查看端口占用
+netstat -ntlp   //查看当前所有tcp端口
+netstat -ntulp | grep 80   //查看所有80端口使用情况
+netstat -ntulp | grep 3306   //查看所有3306端口使用情况
+
+kill -9 PID
+
+lsof abc.txt：显示开启文件abc.txt的进程
+lsof -c abc：显示abc进程现在打开的文件
+lsof -c -p 1234：列出进程号为1234的进程所打开的文件
+lsof -g gid：显示归属gid的进程情况
+lsof +d /usr/local/：显示目录下被进程开启的文件
+lsof +D /usr/local/：同上，但是会搜索目录下的目录，时间较长
+lsof -d 4：显示使用fd为4的进程
+lsof -i -U：显示所有打开的端口和UNIX domain文件
+```
  
  [参考](https://cloud.tencent.com/developer/article/1579977)
  
