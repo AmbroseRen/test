@@ -1,6 +1,6 @@
 # Linux Terminal CMD [←](index.md)
 
-- [X] 列出文件清单命令
+> [X] 列出文件清单命令
 
 ```
 ls -a
