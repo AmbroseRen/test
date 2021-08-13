@@ -2,7 +2,7 @@
 
 | 传送门 | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| ~~[dmca.gripe](https://dmca.gripe/) | O_O | [that girl](https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3)/[不谓侠-CRITTY](https://share.dmca.gripe/9VqlSAcChVHlQUJK.mp3)~~ |
+| ~~[dmca.gripe](https://dmca.gripe/)~~ | O_O | [that girl](https://share.dmca.gripe/N7aBQh8CGcuZQYax.mp3)/[不谓侠-CRITTY](https://share.dmca.gripe/9VqlSAcChVHlQUJK.mp3) |
 | 聚合平台 | O_O | Y |
 | [MyFeeMP3](http://tool.liumingye.cn/music/) | O_O | Y |
 | [歌曲大全](http://www.gequdaquan.net/gqss/) | O_O | Y |
