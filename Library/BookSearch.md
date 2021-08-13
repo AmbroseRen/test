@@ -26,7 +26,6 @@
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | [Zlibrary](https://b-ok.global/) | ebook | X | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
-| ~~[多看阅读](http://www.duokan.com/)~~ | 查阅 | [《人体的故事：进化、健康与疾病》](https://www.soepub.com/496252) | X | X |
 | [书单网](https://www.shudan.vip/) | 搜索引擎 | X | X | X |
 | [rukomos](http://cn-library.rukomos.ru/) | 导航无下载 | [Category](http://cn-library.rukomos.ru/list_categories.html) | X | X |
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
@@ -37,7 +36,7 @@
 | __literature__ | __文学__ | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | [我是余欢水（如果没有明天）](https://www.kunnu.com/yuhuanshui/)•[副链](https://www.51shucheng.net/shehui/ruguomeiyoumingtian)•[书评](https://www.enjing.com/wenxue/32589.htm) - [云边有个小卖部](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Poem/%E4%BA%91%E8%BE%B9%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%8D%96%E9%83%A8%20-%20%E5%BC%A0%E5%98%89%E4%BD%B3.pdf)•[书评](https://www.enjing.com/wenxue/31436.htm) - [至暗时刻•书评](https://www.enjing.com/wenxue/32393.htm) | [小书屋站长被抓](https://www.douban.com/group/topic/180075768/)2019.9及其[后续](https://www.zhihu.com/question/401236809)影响 | 此站于2021.2初已删库跑路•[评论](https://www.enjing.com/renwensheke/32613.htm)/[开放 动态 透明 便民](https://wenshu.court.gov.cn/)容我呵呵 |
 | ~~[电子书世界](https://www.dzssj.com/)~~ | 现代文学 | [读客书库](https://www.dukeshuku.com/) - [vip](https://www.dzssj.com/vip/) - [书籍互助查询](https://www.readersteam.com/) - [文学版块](https://www.dzssj.com/list.php?mod=forumdisplay&fid=39&typeid=1&filter=typeid&typeid=1&page=2) - [罗素文集简介](https://www.dzssj.com/book/353476/) - [上传入口](https://www.dzssj.com/forum.php?mod=post&action=newthread&fid=41) | X | X |
-| __[掌上书苑](https://www.soepub.com/)__ | 现代文学 | [我的分享](https://www.soepub.com/myspace/3) - [消息](https://www.soepub.com/discuzx33/home.php?mod=space&do=pm) | X | X |
+| __[掌上书苑](https://www.soepub.com/)__ | 现代文学 | [我的分享](https://www.soepub.com/myspace/3) - [消息](https://www.soepub.com/discuzx33/home.php?mod=space&do=pm) - [《人体的故事：进化、健康与疾病》](https://www.soepub.com/496252) | X | X |
 | [七秒读书](https://www.7sbook.com/) | 近代文学 | [阅读](https://www.7sbook.com/index/disk/index.html) - [豆瓣阅读](https://read.douban.com/bookshelf/) - [多看阅读](https://www.duokan.com/u/favourite) | X | X |
 | [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
 | [星空好书](http://www.goodepub.com/)太少 | 现代文学 | X | X | X |
