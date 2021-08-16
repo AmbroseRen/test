@@ -6,6 +6,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 | [旧约圣经](http://www.jdzhg.com/shengjing/djsj.htm)/[中文圣经](http://www.chinesebibleonline.com/)/[基督教圣经](http://www.godcom.net/) | bible | X | X | X |
 | [《毒木圣经》](https://www.pilibook.com/book_2851/) | O_O | X | X | X |
-| [南怀瑾著作](http://m.shixiu.net/nanshi/zhuzuo/) | 实修驿站 | X | X | X |
+| [南怀瑾著作](http://m.shixiu.net/nanshi/zhuzuo/) | 实修驿站 | [维摩诘的花雨满天](http://m.shixiu.net/nanshi/zhuzuo/wmsf/) - [圆觉经略说](http://m.shixiu.net/nanshi/zhuzuo/yjjls/) - []() | X | X |
 | []() | O_O | X | X | X |
 | []() | O_O | X | X | X |
