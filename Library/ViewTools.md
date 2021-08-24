@@ -15,7 +15,7 @@
 | [mobiviewer](https://imclient.herokuapp.com/mobiviewer/) | <font color="#ff0000"><b>mobi在线阅读器</b></font> | Y |
 | [Calibre](https://calibre-ebook.com/) | <font color="#ff0000"><b>客户端阅读器</b></font> | [去除DRM文章](https://thatinterpreter.net/kindle-drm/)/[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools/releases) |
 | [Sigil](https://github.com/Sigil-Ebook/Sigil/releases) | <font color="#ff0000"><b>epub编辑器</b></font> | [官方文档](https://sigil-ebook.com/) |
-| [sumatrapdfreader](https://www.sumatrapdfreader.org/download-free-pdf-viewer) | 阅读器 | Y |
+| [sumatrapdfreader](https://www.sumatrapdfreader.org/download-free-pdf-viewer) | 客户端阅读器 | Y |
 | ~~[Kindle for PC [Download]](https://www.amazon.com/Amazon-Digital-Services-LLC-Download/dp/B00UB76290) - [Kindle for mobile [Download]](https://www.amazon.com/b?ie=UTF8&node=16571048011) - [Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=GZSM7D8A85WKPYYD)~~| Kindle | [Kindle上传文件到账号](https://www.amazon.com/gp/sendtokindle) - [Kindle Book Push](https://book.einverne.info/) - [书伴](https://bookfere.com/ebook) - [kindle漫画](http://www.kindlecomic.net/) - [kindle漫画](http://vol.moe/) - [Amazon Book Store](https://www.amazon.cn/b?ie=UTF8&node=1987669071) - ([kindle178](http://www.kindle178.com/) - 少儿英语星) |
 | []() | O_O | Y |
 | []() | O_O | Y |
