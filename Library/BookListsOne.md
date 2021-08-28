@@ -200,6 +200,7 @@
                     <li><a href="https://www.kanunu8.com/book2/10883/">杀死一只知更鸟</a> - <a href=""></a> - <a href=""></a></li>
 		    <li><a href="https://www.kanunu8.com/files/world/201106/2867.html">飘</a> - <a href="https://www.kanunu8.com/files/writer/2865.html">玛格丽特·米切尔作品集</a></li>
 		    <li><a href="http://www.saohua.com/shuku/zhexue/mydoc138.htm">战争论第一卷</a>〔德〕克劳塞维茨 - <a href="http://www.saohua.com/shuku/zhexue/index.htm">哲学名著大全</a> - <a href="https://www.kanunu8.com/files/world/201102/1598.html">苏菲的世界</a> 乔斯坦·贾德 - <a href="http://www.dushu369.com/waiguomingzhu/pgsb/">培根随笔</a></li>
+		    <li><a href="https://www.kanunu8.com/book4/10251/">追忆似水年华</a> - 马塞尔·普鲁斯特</li>
                 </ul>
             </li>
             <li id="prose">Prose
