@@ -12,7 +12,7 @@
 
 - - -
 
-- [Finance](#finance)
+- [Finance](#finance) - [read notes](readNote/20210902.md)
 - [Politics](#politics)
 - [Law](#law)
 - [Art](#art)
