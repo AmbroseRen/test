@@ -124,6 +124,7 @@ sz fileName
 
 ```
 rz
+rz -y  //覆盖文件上传
 ```
 
  - [X] 
