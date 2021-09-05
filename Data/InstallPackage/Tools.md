@@ -40,7 +40,7 @@
 | [rescuetime](https://www.rescuetime.com/get_rescuetime) | 时间管理-网络浏览时间资源分析工具(一般吧) | Y |
 | [chrome](https://www.google.com/chrome/) | 浏览器 | Y |
 | [PicGo](https://molunerfinn.com/PicGo/)/[源码](https://github.com/Molunerfinn/PicGo) | 图床传图工具 | Y |
-| []() | O_O | Y |
+| [OBS Studio](https://obsproject.com/) | 推流工具 | Y |
 | []() | O_O | Y |
 | Linux | Linux操作系统 | Y |
 | Linux_Commander_shell | Linux cmd增强工具 | ([Oh-My-Zsh](https://blog.csdn.net/ishellhub/article/details/82381734) - [手册](https://blog.csdn.net/lxn9492878lbl/article/details/80795413) - [演示](https://github.com/shellhub/blog/issues/25)) |
