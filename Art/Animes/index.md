@@ -9,6 +9,7 @@
 | [风之动漫](https://manhua.fffdm.com/) | O_O | [死亡笔记](https://manhua.fffdm.com/11/)/[咒术回战](https://www.manhuacat.com/manga/32670.html)/[鬼灭之刃](https://manhua.fffdm.com/153/) | X | X |
 | [漫画猫](https://www.manhuacat.com/) | O_O | []() | X | X |
 | [mangabz](https://www.mangabz.com/) | O_O | []() | X | X |
+| [漫画疯](https://www.cocomanga.com/) | tw | []() | X | X |
 | [acfun](https://www.acfun.cn/)/[bilibili](https://www.bilibili.com) | 动漫视频站 | [神秘的程序员们](https://code2048.com/series/betacat/) | X | X |
 | [知音漫客](https://m.zymk.cn/) | 国内优质 | []() | 刊魂：年少有梦，青春有爱——“锐幻萌燃”四刊 | 大概高中的念念不忘-2010年节点 |
 | [漫客栈](https://www.mkzhan.com) | O_O | []() | X | X |
