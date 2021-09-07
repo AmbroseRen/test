@@ -11,7 +11,7 @@
 | [mangabz](https://www.mangabz.com/) | O_O | []() | X | X |
 | [cocomanga](https://www.cocomanga.com/) | O_O | []() | X | X |
 | [acfun](https://www.acfun.cn/)/[bilibili](https://www.bilibili.com) | 动漫视频站 | [神秘的程序员们](https://code2048.com/series/betacat/) | X | X |
-| [动画疯](https://ani.gamer.com.tw/) | tw-ip访问 | []() | X | X |
+| [动画疯](https://ani.gamer.com.tw/) | tw-ip访问 | [home](https://home.gamer.com.tw/) | X | X |
 | [知音漫客](https://m.zymk.cn/) | 国内优质 | []() | 刊魂：年少有梦，青春有爱——“锐幻萌燃”四刊 | 大概高中的念念不忘-2010年节点 |
 | [漫客栈](https://www.mkzhan.com) | O_O | []() | X | X |
 | [花火](https://www.zz-news.com/com/huahuo/)/[补充](https://mall.cnki.net/magazine/magalist/HUAH2020.htm) | 青春文学·期刊 | []() | X | [发展](https://www.zhihu.com/question/24907671) |
