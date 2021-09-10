@@ -11,7 +11,7 @@
 | [office-converter](https://cn.office-converter.com/ebook-converter) | 格式转换器 | Y |
 | __[epub](https://epub.liumingye.cn/)__/[epubee](http://cn.epubee.com/) | <font color="#ff0000"><b>epub在线阅读器</b></font> | [主页](https://tool.liumingye.cn/) |
 | [BookReader](https://ztftrue.github.io/BookReader/)/[Author](https://github.com/ztftrue/BookReader/) | epub在线阅读器 | Y |
-| [koodo-reader](https://koodo-reader.vercel.app/#/manager/home) | O_O | [主页](https://koodo.960960.xyz/) - []() |
+| [koodo-reader](https://koodo-reader.vercel.app/#/manager/home) | 在线阅读器 | [主页](https://koodo.960960.xyz/) - []() |
 | [neat-reader](https://www.neat-reader.cn/webapp#/) | epub在线阅读器 | Y |
 | [mobiviewer](https://imclient.herokuapp.com/mobiviewer/) | <font color="#ff0000"><b>mobi在线阅读器</b></font> | Y |
 | [Calibre](https://calibre-ebook.com/) | <font color="#ff0000"><b>客户端阅读器</b></font> | [官网插件](http://plugins.calibre-ebook.com/)/[去除DRM文章](https://thatinterpreter.net/kindle-drm/)/[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools/releases) |
