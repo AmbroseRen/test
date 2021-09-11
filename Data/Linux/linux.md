@@ -143,7 +143,17 @@ tar -zcvf /home/xahot.tar.gz /xahot
 tar -zcvf 打包后生成的文件名全路径 要打包的目录
 例子：把/xahot文件夹打包后生成一个/home/xahot.tar.gz的文件
 
+解压：
+tar zxvf pythontab.tar.gz
+解压文件到指定文件夹： 
+tar  -zxvf  fenci.py.tar.gz  -C  pythontab/
 
+zip压缩命令
+zip -r filename.zip filesdir
+zip解压缩命令
+unzip filename.zip
+zip -r filename.zip file1 file2 file3 /usr/work/school 
+上面的命令把 file1、file2、 file3、以及 /usr/work/school 目录的内容（假设这个目录存在）压缩起来，然后放入 filename.zip 文件中
 ```
 
  - [X] 
