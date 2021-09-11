@@ -1,5 +1,12 @@
 # Linux Terminal CMD [←](index.md)
 
+- [X] 目录操作
+
+```
+mkdir  --创建文件夹
+rm -r --移除文件夹
+```
+
 - [X] 列出文件清单命令
 
 ```
