@@ -84,4 +84,15 @@ HighlightBracketPair -- 括号高亮显示
   </component>
 </application>
 ```
-======================================
+=================Intellij IDEA运行报Command line is too long解法=====================
+报错内容:
+
+Error running 'ServiceStarter': Command line is too long. Shorten command line for ServiceStarter or also for Application default configuration.
+
+快速解法：进入Configurations/Environment/Shorten command line：
+设置参数为：class path /JAR mainfest
+解法:
+
+修改项目下 .idea\workspace.xml，找到标签 <component name="PropertiesComponent"> ， 在标签里加一行  <property name="dynamic.classpath" value="true" />
+
+=====================================
