@@ -10,6 +10,10 @@ publish：2021-9-22 23:19:47
 
 [Tor官网下载](https://www.torproject.org/zh-CN/download/languages/) - [网桥中继配置](https://bridges.torproject.org/bridges)
 
+## 翻译插件
+
+[To Google Translate](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [Simple Translate](https://addons.mozilla.org/zh-CN/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 # FAQ
 
 [中继连接失败](https://support.torproject.org/zh-CN/connecting/connecting-2/)
