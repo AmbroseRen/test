@@ -11,7 +11,9 @@ publish：2021-9-22 23:19:47
 [Tor官网下载](https://www.torproject.org/zh-CN/download/languages/) - [网桥中继配置](https://bridges.torproject.org/bridges)
 
 # FAQ
-> [中继连接失败](https://support.torproject.org/zh-CN/connecting/connecting-2/)
+
+[中继连接失败](https://support.torproject.org/zh-CN/connecting/connecting-2/)
+
 [Clash + Tor配置代理登陆](https://fanqiang.info/archives/vpn-tor-ssr-v2ray-clash.html#comment-31)
 
 [V2RayN + Tor配置代理登陆](https://github.com/2dust/v2rayN/issues/360)
