@@ -3,6 +3,7 @@
 publish：2021-9-22 23:19:47
 
 > [暗网青年毒枭 Shiny_Flakes: The Teenage Drug Lord (2021)](https://www.dandanzan.cc/dianying/90037.html)·德国
+
 > 剧情简介：麦克斯·施密特揭示了自己如何以儿时卧室为据点，建立起一个毒品帝国。本故事是剧集《如何在网上卖迷幻药》的灵感之源。
 
 ## 前置“梯子”，自行查找
