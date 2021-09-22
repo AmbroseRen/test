@@ -14,7 +14,7 @@ publish：2021-9-22 23:19:47
 
 [中继连接失败](https://support.torproject.org/zh-CN/connecting/connecting-2/)
 
-[Clash + Tor配置代理登陆](https://fanqiang.info/archives/vpn-tor-ssr-v2ray-clash.html#comment-31)
+[Clash + Tor配置代理登陆](https://fanqiang.info/archives/vpn-tor-ssr-v2ray-clash.html#comment-31)/[参考一](https://limbopro.com/archives/torproject.html)
 
 [V2RayN + Tor配置代理登陆](https://github.com/2dust/v2rayN/issues/360)
 
