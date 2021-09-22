@@ -12,7 +12,7 @@ publish：2021-9-22 23:19:47
 
 ## 翻译插件
 
-[To Google Translate](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [Simple Translate](https://addons.mozilla.org/zh-CN/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[To Google Translate](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [Simple Translate](https://addons.mozilla.org/zh-CN/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)√
 
 # FAQ
 
