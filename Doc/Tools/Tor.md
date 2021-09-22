@@ -20,3 +20,13 @@ publish：2021-9-22 23:19:47
 
 # Deep WebSite Lists
 
+> 搜索引擎
+
+[DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)/[2版-已弃用](https://3g2upl4pq6kufc4m.onion/)
+
+> 书站
+
+[Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
+
+> 
+
