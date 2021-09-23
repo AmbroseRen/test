@@ -16,7 +16,9 @@ publish date：2021-9-23 21:16:49
 
 [Etherscan](https://etherscan.io/)EOS/以太坊交易平台 - [个人账号中心](https://etherscan.io/myaccount)
 
-
+ [X] 文档参考
+ 
+[区块链开发参考·一](https://blog.csdn.net/bug_maker_9527/article/details/78741902)
 
 
 
