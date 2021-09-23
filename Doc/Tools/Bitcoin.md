@@ -12,9 +12,9 @@ publish date：2021-9-23 21:16:49
 
 # BlockChain
 
+[scatter download](https://get-scatter.com/download)Blockchain/EOS wallet
 
-
-
+[Etherscan](https://etherscan.io/)EOS/以太坊交易平台 - [个人账号中心](https://etherscan.io/myaccount)
 
 
 
