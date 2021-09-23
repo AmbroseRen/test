@@ -12,7 +12,7 @@ publish：2021-9-22 23:19:47
 
 ## 翻译插件
 
-[扩展搜索](https://addons.mozilla.org/zh-CN/firefox/search/?q=gTranslator) / [翻译网页](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [Simple Translate](https://addons.mozilla.org/zh-CN/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [To Google Translate](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[扩展搜索](https://addons.mozilla.org/zh-CN/firefox/search/?q=gTranslator) / [翻译网页](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - [Vimium C](https://addons.mozilla.org/zh-CN/firefox/addon/vimium-c/) / [Simple Translate](https://addons.mozilla.org/zh-CN/firefox/addon/simple-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [To Google Translate](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 # FAQ
 
