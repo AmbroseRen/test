@@ -71,6 +71,9 @@ lsb_release -a  //查看Linux版本信息
 cat /proc/version  //查看Linux版本信息
 cat /etc/redhat-release  //查看Linux版本信息(只适合Redhat系的Linux)
 uname -a  //查看Linux版本信息
+
+ip addr show  //查看Linux IP地址
+sudo /sbin/ifconfig -a  //查看Linux IP地址
 ```
 
 - [X] tac反向查看文件内容
