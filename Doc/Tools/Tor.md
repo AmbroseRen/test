@@ -43,8 +43,8 @@ publish：2021-9-22 23:19:47
 | [Grams](http://grams7enqfy4nieo.onion/) | 搜索引擎 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| [surfwax](http://lookahead.surfwax.com/) | O_O | Y |
-| [itemfix](https://www.itemfix.com/?r=ll) | O_O | Y |
+| [surfwax](http://lookahead.surfwax.com/) | web | Y |
+| [itemfix](https://www.itemfix.com/?r=ll) | web | Y |
 | []() | O_O | Y |
 | [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) | 书站 | Y |
 | [Riseup](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/)/[v2](http://76qugh5bey5gum7l.onion/) | Radio | Y |
