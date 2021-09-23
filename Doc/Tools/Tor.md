@@ -35,6 +35,7 @@ publish：2021-9-22 23:19:47
 | [darkweblist](https://www.darkweblist.com/) | O_O | Y |
 | [deepweblinks](https://deepweblinks.net/) | O_O | Y |
 | [One](http://torlinkbgs6aabns.onion/) | O_O | Y |
+| [暗网介绍](https://deemocean.com/2018/12/26/hidden-web/)/[网址集合](https://ibz.bz/2018/11/29/730087.html)/[网址汇编](https://uzzz.org/2018/08/29/5f76d7216ee1be2fefb2881d5ef55578.html) | O_O | Y |
 | DeepWebSearch | 搜索引擎 | Y |
 | [DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)/[2版-已弃用](https://3g2upl4pq6kufc4m.onion/) | 搜索引擎 | Y |
 | [torch](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega) | 搜索引擎 | Y |
