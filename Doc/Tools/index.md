@@ -16,7 +16,7 @@ Plugins
 |:---:|:---:|:---:|:---:|:---:|
 | [Build_Tools](Build_Tools/index.md) | [Tools](Tools.txt) | [Git](Git/index.md) | [Vimium](Vimium.txt) | [vim](vim.md) |
 | []() | [Idea](Idea/index.md) | [Tomcat](Tomcat.txt) | [Navicat](Navicat.md) | [Tor](Tor.md) |
-| []() | []() | []() | []() | []() |
+| []() | []() | []() | []() | [Bitcoin](Bitcoin.md) |
 | []() | []() | []() | []() | []() |
 | lucy | 25 | X |
 
