@@ -42,8 +42,8 @@ publish：2021-9-22 23:19:47
 | [itemfix](https://www.itemfix.com/?r=ll) | O_O | Y |
 | []() | O_O | Y |
 | [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) | 书站 | Y |
-| []() | O_O | Y |
-| []() | O_O | Y |
+| [Riseup](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/)/[v2](http://76qugh5bey5gum7l.onion/) | Radio | Y |
+| [Zerobin.net](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion/) | 加密文本 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
