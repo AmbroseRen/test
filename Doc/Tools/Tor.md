@@ -32,6 +32,11 @@ publish：2021-9-22 23:19:47
 | DeepWebSearch | 搜索引擎 | Y |
 | [DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)/[2版-已弃用](https://3g2upl4pq6kufc4m.onion/) | 搜索引擎 | Y |
 | [torch](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega) | 搜索引擎 | Y |
+| [AHMIA](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/search/) | O_O | Y |
+| []() | O_O | Y |
+| [surfwax](http://lookahead.surfwax.com/) | O_O | Y |
+| [itemfix](https://www.itemfix.com/?r=ll) | O_O | Y |
+| []() | O_O | Y |
 | [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) | 书站 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
