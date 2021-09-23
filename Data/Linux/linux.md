@@ -66,8 +66,10 @@ sed -n '5,10p' test.log 这样你就可以只查看文件的第5行到第10行�
 cat filename
 cat > filename   //创建一个文件
 cat file1 file2 > file  //合并文件
+
 lsb_release -a  //查看Linux版本信息
 cat /proc/version  //查看Linux版本信息
+cat /etc/redhat-release  //查看Linux版本信息(只适合Redhat系的Linux)
 uname -a  //查看Linux版本信息
 ```
 
