@@ -4,7 +4,7 @@ publish date：2021-9-23 21:16:49
 
 ## 客户端下载
 
-[比特币官方钱包客户端下载](https://bitcoin.org/zh_CN/download) 选择对应系统版本/[Blockchain Login](https://login.blockchain.com/#/login)
+[比特币官方钱包客户端下载](https://bitcoin.org/zh_CN/download)选择对应系统版本/[Blockchain Login](https://login.blockchain.com/#/login)
 
 [隐币](https://yin.bi/login)
 
@@ -12,9 +12,9 @@ publish date：2021-9-23 21:16:49
 
 # BlockChain
 
-[scatter download](https://get-scatter.com/download) Blockchain/EOS wallet
+[scatter download](https://get-scatter.com/download)Blockchain/EOS wallet
 
-[Etherscan](https://etherscan.io/) EOS/以太坊交易平台 - [个人账号中心](https://etherscan.io/myaccount)
+[Etherscan](https://etherscan.io/)EOS/以太坊交易平台 - [个人账号中心](https://etherscan.io/myaccount)
 
  [X] 文档参考
  
