@@ -28,7 +28,7 @@ publish：2021-9-22 23:19:47
 |:---:|:---:|:---:|
 | Navigation | 导航站 | Y |
 | [Daniel](http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/onions.php) | O_O | Y |
-| []() | O_O | Y |
+| [thehiddenwiki](https://thehiddenwiki.org/) | O_O | Y |
 | []() | O_O | Y |
 | [One](http://torlinkbgs6aabns.onion/) | O_O | Y |
 | DeepWebSearch | 搜索引擎 | Y |
