@@ -22,7 +22,7 @@ publish：2021-9-22 23:19:47
 
 [V2RayN + Tor配置代理登陆](https://github.com/2dust/v2rayN/issues/360)
 
-[fq_firefly](https://freefq.com/rj/2017/10/26/fireflyvpn049.html)/[firefly download](https://github.com/yinghuocho/firefly-proxy)
+[fq_firefly](https://freefq.com/rj/2017/10/26/fireflyvpn049.html)/[firefly download](https://github.com/yinghuocho/firefly-proxy)/[firefly-proxy](https://sourceforge.net/projects/fireflyproxy/files/)未测
 
 # Deep WebSite Lists
 
