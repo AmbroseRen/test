@@ -14,6 +14,7 @@
 | [国家知识产权局](https://www.cnipa.gov.cn/) | 专利相关查询 | Y |
 | [中国证监会](http://www.csrc.gov.cn) | 相关政策及招股书披露平台，以及拟上市公司排队每周披露 | Y |
 | [巨潮信息网](http://www.cninfo.com.cn) | 中国资本市场指定披露平台，上市公司相关年报、季报及公告披露信息 | Y |
+| [政府采购云平台](https://www.zcygov.cn/) | O_O | Y |
 | __data.security__ | __证券交易所数据__ | Y |
 | [上海证券交易所](http://www.sse.com.cn) | O_O | Y |
 | [深圳证券交易所](http://www.szse.cn) | O_O | Y |
@@ -23,3 +24,4 @@
 | [新加坡证券交易所](http://www.sgx.com/) | O_O | Y |
 | [纽约证券交易所](http://www.nyse.com) | O_O | Y |
 | [纳斯达克证券交易所](http://www.nasdaq.com) | O_O | Y |
+| []() | O_O | Y |
