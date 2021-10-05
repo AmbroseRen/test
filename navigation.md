@@ -26,20 +26,20 @@
 | 博客 | [掘金](https://juejin.cn/) | [优酷网](https://www.youku.com/) | []() |
 | []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://www.mgtv.com/) | []() |
 | []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://tv.sohu.com/) | []() |
-| []() | [链滴](https://ld246.com/) | []() | []() |
-| Google | [吾爱破解](https://www.52pojie.cn/) | []() | []() |
-| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | []() | []() |
-| [Twitter](https://twitter.com/home) | [找找看 - 博客园](https://zzk.cnblogs.com/s/blogpost) | []() | []() |
-| [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | []() | []() |
-| [Pinterest](https://www.pinterest.com/) | []() | []() | []() |
-| [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | 直播 | []() |
-| [wikileaks](https://wikileaks.org/What-is-WikiLeaks.html) | []() | [斗鱼](https://www.douyu.com/directory/myFollow) | []() |
-| []() | []() | [我的斗鱼直播](https://www.douyu.com/10150268) | []() |
-| []() | []() | [虎牙](https://www.huya.com/myfollow) | []() |
-| []() | []() | [我的虎牙直播](https://www.huya.com/25541428) | []() |
-| []() | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
-| []() | []() | [Tik Tok](https://www.tiktok.com/) | []() |
-| []() | []() | [抖音](https://www.douyin.com/recommend) | []() |
+| []() | [链滴](https://ld246.com/) | 直播 | []() |
+| Google | [吾爱破解](https://www.52pojie.cn/) | [斗鱼](https://www.douyu.com/directory/myFollow) | []() |
+| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | [我的斗鱼直播](https://www.douyu.com/10150268) | []() |
+| [Twitter](https://twitter.com/home) | [找找看 - 博客园](https://zzk.cnblogs.com/s/blogpost) | [虎牙](https://www.huya.com/myfollow) | []() |
+| [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | [我的虎牙直播](https://www.huya.com/25541428) | []() |
+| [Pinterest](https://www.pinterest.com/) | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
+| [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | [Tik Tok](https://www.tiktok.com/) | []() |
+| [wikileaks](https://wikileaks.org/What-is-WikiLeaks.html) | []() | [抖音](https://www.douyin.com/recommend) | []() |
+| []() | []() | []() | []() |
+| []() | []() | []() | []() |
+| []() | []() | []() | []() |
+| []() | []() | []() | []() |
+| []() | []() | []() | []() |
+| []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | 娱乐 | []() |
