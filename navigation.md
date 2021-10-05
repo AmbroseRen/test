@@ -28,7 +28,7 @@
 | []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://tv.sohu.com/) | [菜鸟教程](https://www.runoob.com/) |
 | []() | [链滴](https://ld246.com/) | 直播 | [w3school](https://www.w3school.com.cn/) |
 | Google | [吾爱破解](https://www.52pojie.cn/) | [斗鱼](https://www.douyu.com/directory/myFollow) | [w3cschool](https://www.w3cschool.cn/) |
-| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | [我的斗鱼直播](https://www.douyu.com/10150268) | ~~[WEB前端手册]()~~ |
+| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | [我的斗鱼直播](https://www.douyu.com/10150268) | ~~[WEB前端手册](#)~~ |
 | [Twitter](https://twitter.com/home) | [找找看 - 博客园](https://zzk.cnblogs.com/s/blogpost) | [虎牙](https://www.huya.com/myfollow) | [前端速查](http://f2er.club/) |
 | [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | [我的虎牙直播](https://www.huya.com/25541428) | []() |
 | [Pinterest](https://www.pinterest.com/) | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
