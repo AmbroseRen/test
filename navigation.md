@@ -1,8 +1,7 @@
-# 快速拨号页
+# 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)
 
-| _ | _ | _ | _ |
-|:---:|:---:|:---:|:---:|
 | Reader | 日常 | 网络公开课 | 算法社区 |
+|:---:|:---:|:---:|:---:|
 | [MBA智库百科](https://wiki.mbalib.com/wiki/首页) | [任思的公用空间](http://rensi.ys168.com/) | [imooc](https://www.imooc.com/course/list) | [LeetCode](https://leetcode.com/problemset/all/) |
 | [每日一文](https://meiriyiwen.com/random) | [今日热榜官网](https://tophub.today/) | [mooc.cn](https://www.cmooc.com/course) | [LeetCode-cn](https://leetcode-cn.com/problemset/all/) |
 | [书摘广场 - 书见](https://memo.bookfere.com/community/posts/all) | [果汁排行榜](http://guozhivip.com/rank/) | [实验楼](https://www.lanqiao.cn/courses/) | [Project Euler](https://projecteuler.net/archives) |
