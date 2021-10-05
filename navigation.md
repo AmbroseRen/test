@@ -8,12 +8,12 @@
 | [书摘广场 - 书见](https://memo.bookfere.com/community/posts/all) | [果汁排行榜](http://guozhivip.com/rank/) | []() | []() |
 | [名言通](https://www.mingyantong.com/) | [新榜-排名列表](https://www.newrank.cn/public/info/list.html) | []() | []() |
 | [清沫网](https://www.qingmo.net/) | [头榜数据TV](http://www.toubang.tv/anchor/mutile.html) | []() | []() |
-| []() | [印象笔记](https://app.yinxiang.com/Home.action) | []() | []() |
-| []() | [Feedly](https://feedly.com/) | []() | []() |
-| []() | [GitHub - Editor](https://github.com/AmbroseRen/test/blob/master/Library/BookListsOne.md) | []() | []() |
-| []() | [GitHub - Books](https://github.com/AmbroseRen/Picture/tree/master/book/Society) | []() | []() |
-| []() | [Gitee](https://gitee.com/) | []() | []() |
-| []() | [GitLab](https://gitlab.com/ambroserencn) | []() | []() |
+| 社区 | [印象笔记](https://app.yinxiang.com/Home.action) | []() | []() |
+| [知乎](https://www.zhihu.com/people/RS101202303/following) | [Feedly](https://feedly.com/) | []() | []() |
+| [豆瓣](https://www.douban.com/people/AmbroseRen/) | [GitHub - Editor](https://github.com/AmbroseRen/test/blob/master/Library/BookListsOne.md) | []() | []() |
+| [简书](https://www.jianshu.com/subscriptions#/timeline) | [GitHub - Books](https://github.com/AmbroseRen/Picture/tree/master/book/Society) | []() | []() |
+| [微博](https://weibo.com/3626507391/follow) | [Gitee](https://gitee.com/) | []() | []() |
+| [天涯论坛](https://bbs.tianya.cn/) | [GitLab](https://gitlab.com/ambroserencn) | []() | []() |
 | []() | [simplesite](http://ambroseren.simplesite.com/) | []() | []() |
 | []() | [uid.me](http://uid.me/ren_si1#) | []() | []() |
 | []() | []() | []() | []() |
