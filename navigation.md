@@ -16,24 +16,24 @@
 | [天涯论坛](https://bbs.tianya.cn/) | [GitLab](https://gitlab.com/ambroserencn) | [网易公开课](https://open.163.com/khan/) | [oneNote笔记本-微软](https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1) |
 | [Quora](https://www.quora.com/) | [simplesite](http://ambroseren.simplesite.com/) | [腾讯课堂](https://ke.qq.com/) | [catbox](https://catbox.moe/user/login.php) |
 | [Medium](https://medium.com/) | [uid.me](http://uid.me/ren_si1#) | [Khan Academy](https://www.khanacademy.org/) | [在线翻译](https://fanyi.youdao.com/) |
-| [Matters](https://matters.news/) | []() | [coursera](https://www.coursera.org/browse/computer-science) | [刘明野的工具箱](https://tool.liumingye.cn/) |
-| [虎嗅网](https://www.huxiu.com/) | []() | []() | [MD格式在线排版](https://md.phodal.com/) |
-| [小红书](https://www.xiaohongshu.com/explore) | []() | []() | [AnywhereAnything](http://lackar.com/aa/) |
-| [少数派](https://sspai.com/) | []() | []() | [QQ邮箱](https://mail.qq.com/) |
-| [贴吧](https://tieba.baidu.com/index.html) | []() | []() | []() |
-| [plurk](https://www.plurk.com/AmbroseRenCN) | []() | []() | [百度网盘](https://pan.baidu.com/disk/home) |
-| []() | []() | []() | [阿里云盘](https://www.aliyundrive.com/drive/) |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
+| [Matters](https://matters.news/) | IT社区 | [coursera](https://www.coursera.org/browse/computer-science) | [刘明野的工具箱](https://tool.liumingye.cn/) |
+| [虎嗅网](https://www.huxiu.com/) | [stackoverflow](https://stackoverflow.com/) | []() | [MD格式在线排版](https://md.phodal.com/) |
+| [小红书](https://www.xiaohongshu.com/explore) | [InfoQ](https://www.infoq.cn/) | []() | [AnywhereAnything](http://lackar.com/aa/) |
+| [少数派](https://sspai.com/) | [segmentfault](https://segmentfault.com/u/ambroseren/users/following) | []() | [QQ邮箱](https://mail.qq.com/) |
+| [贴吧](https://tieba.baidu.com/index.html) | [CSDN_Ambrose_Ren](https://blog.csdn.net/Ambrose_Ren) | []() | []() |
+| [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园_Ambrose_Ren](https://www.cnblogs.com/rensi/) | []() | [百度网盘](https://pan.baidu.com/disk/home) |
+| []() | [博客园-主页](https://home.cnblogs.com/u/rensi/) | []() | [阿里云盘](https://www.aliyundrive.com/drive/) |
+| 博客 | [掘金](https://juejin.cn/) | []() | []() |
+| []() | [奇客资讯](https://www.solidot.org/) | []() | []() |
+| []() | [V2EX](https://www.v2ex.com/?tab=tech) | []() | []() |
+| []() | [链滴](https://ld246.com/) | []() | []() |
+| Google | [吾爱破解](https://www.52pojie.cn/) | []() | []() |
+| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | []() | []() |
+| [Twitter](https://twitter.com/home) | [找找看 - 博客园](https://zzk.cnblogs.com/s/blogpost) | []() | []() |
+| [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | []() | []() |
+| [Pinterest](https://www.pinterest.com/) | []() | []() | []() |
+| [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | []() | []() |
+| [wikileaks](https://wikileaks.org/What-is-WikiLeaks.html) | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
