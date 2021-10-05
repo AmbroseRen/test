@@ -24,11 +24,11 @@
 | [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园_Ambrose_Ren](https://www.cnblogs.com/rensi/) | [腾讯视频](https://v.qq.com/) | [百度网盘](https://pan.baidu.com/disk/home) |
 | []() | [博客园-主页](https://home.cnblogs.com/u/rensi/) | [爱奇艺](https://www.iqiyi.com/) | [阿里云盘](https://www.aliyundrive.com/drive/) |
 | 博客 | [掘金](https://juejin.cn/) | [优酷网](https://www.youku.com/) | []() |
-| []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://www.mgtv.com/) | []() |
-| []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://tv.sohu.com/) | []() |
-| []() | [链滴](https://ld246.com/) | 直播 | []() |
-| Google | [吾爱破解](https://www.52pojie.cn/) | [斗鱼](https://www.douyu.com/directory/myFollow) | []() |
-| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | [我的斗鱼直播](https://www.douyu.com/10150268) | []() |
+| []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://www.mgtv.com/) | 新手基础自学 |
+| []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://tv.sohu.com/) | [菜鸟教程](https://www.runoob.com/) |
+| []() | [链滴](https://ld246.com/) | 直播 | [w3school](https://www.w3school.com.cn/) |
+| Google | [吾爱破解](https://www.52pojie.cn/) | [斗鱼](https://www.douyu.com/directory/myFollow) | [w3cschool](https://www.w3cschool.cn/) |
+| [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | [我的斗鱼直播](https://www.douyu.com/10150268) | [前端速查](http://f2er.club/) |
 | [Twitter](https://twitter.com/home) | [找找看 - 博客园](https://zzk.cnblogs.com/s/blogpost) | [虎牙](https://www.huya.com/myfollow) | []() |
 | [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | [我的虎牙直播](https://www.huya.com/25541428) | []() |
 | [Pinterest](https://www.pinterest.com/) | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
