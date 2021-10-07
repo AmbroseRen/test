@@ -34,7 +34,7 @@
 | [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | [我的虎牙直播](https://www.huya.com/25541428) | []() |
 | [Pinterest](https://www.pinterest.com/) | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
 | [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | [Tik Tok](https://www.tiktok.com/) | []() |
-| [wikileaks](https://wikileaks.org/What-is-WikiLeaks.html) | []() | [抖音](https://www.douyin.com/recommend) | []() |
+| [wikileaks](https://wikileaks.org/What-is-WikiLeaks.html) | []() | [抖音](https://www.douyin.com/recommend)/[快手](https://www.kuaishou.com/) | []() |
 | []() | []() | []() | []() |
 | []() | []() | __娱乐__ | []() |
 | []() | []() | []() | []() |
