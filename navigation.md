@@ -20,12 +20,12 @@
 | [小红书](https://www.xiaohongshu.com/explore) | [InfoQ](https://www.infoq.cn/) | [Youtube](https://www.youtube.com/)/[媒体库](https://www.youtube.com/feed/library) | [AnywhereAnything](http://lackar.com/aa/) |
 | [少数派](https://sspai.com/) | [segmentfault](https://segmentfault.com/u/ambroseren/users/following) | [AcFun](https://www.acfun.cn/)/[哔哩哔哩](https://space.bilibili.com/352834482/fans/follow)/[热榜](https://www.bilibili.com/v/popular/rank/all) | [QQ邮箱](https://mail.qq.com/)/[万年历](https://wannianrili.bmcx.com/) |
 | [贴吧](https://tieba.baidu.com/index.html) | [CSDN_Ambrose_Ren](https://blog.csdn.net/Ambrose_Ren) | [我的b站直播](https://live.bilibili.com/22653502) | [高德地图](https://www.amap.com/)/[百度地图](https://map.baidu.com/) |
-| [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园_Ambrose_Ren](https://www.cnblogs.com/rensi/) | [腾讯视频](https://v.qq.com/biu/u/playlist)/[热榜](https://v.qq.com/biu/ranks/?t=hotsearch) | [百度网盘](https://pan.baidu.com/disk/home) |
+| [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园_Ambrose_Ren](https://www.cnblogs.com/rensi/) | [腾讯视频](https://v.qq.com/biu/u/playlist)/[热榜](https://v.qq.com/biu/ranks/?t=hotsearch)/[体育](https://live.qq.com/)/[电竞](https://egame.qq.com/) | [百度网盘](https://pan.baidu.com/disk/home) |
 | []() | [博客园-主页](https://home.cnblogs.com/u/rensi/) | [爱奇艺](https://www.iqiyi.com/u/fav)/[风云榜](https://www.iqiyi.com/ranks1/home) | [阿里云盘](https://www.aliyundrive.com/drive/) |
 | __博客__ | [掘金](https://juejin.cn/) | [优酷网](https://user.youku.com/page/usc/fav?theme=) | []() |
 | []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://i.mgtv.com/my/looklist) | __新手基础自学__ |
 | []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://my.tv.sohu.com/i/bookmark) | [菜鸟教程](https://www.runoob.com/) |
-| []() | []() | [西瓜视频](https://www.ixigua.com/my/favorite)/[咪咕体育](https://www.miguvideo.com/mgs/website/prd/personalCenter.html#/collect)/[乐视](http://i.le.com/playrecord#favorite) | []() |
+| []() | []() | [西瓜视频](https://www.ixigua.com/my/favorite)/[咪咕体育](https://www.miguvideo.com/mgs/website/prd/personalCenter.html#/collect)/[乐视](http://i.le.com/playrecord#favorite) | [CCTV直播](https://tv.cctv.com/live/)/[电视直播](http://www.hao5.net/) |
 | [新视觉](https://www.ixinshijue.com/)/[草民电影](https://www.cmdy555.com/)/[看片狂人](https://www.kpkuang.com/)-[list发布](https://listed.to/p/l1PbMlAK7g)→ | [策驰影院](http://www.cechiyy5.com/)/[掏剧影院](https://www.taojuyb.com/)/[MVCAT](https://www.mvcat.com/)→ | [片库](https://www.mypianku.net/)/[努努影院](https://www.nunuyy.cc/)/[Gimy](https://gimy.app/)/[91美剧](https://91mjw.com/)/[99美剧](https://www.99meiju.org/) | →[美剧迷](https://www.meijumi.net/)/[韩剧网](https://www.tvn.cc/)/[蛋蛋赞](https://www.dandanzan.cc/) |
 | []() | [链滴](https://ld246.com/) | __直播__ | [w3school](https://www.w3school.com.cn/) |
 | __Google__ | [吾爱破解](https://www.52pojie.cn/) | [斗鱼](https://www.douyu.com/directory/myFollow) | [w3cschool](https://www.w3cschool.cn/) |
