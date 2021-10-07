@@ -9,7 +9,7 @@
 | [清沫网](https://www.qingmo.net/) | [头榜数据TV](http://www.toubang.tv/anchor/mutile.html) | [Meet Guru99](https://www.guru99.com/) | __工具__ |
 | __社区__ | [印象笔记](https://app.yinxiang.com/Home.action) | ~~[多贝公开课](http://www.duobei.com/)~~ | [epub.liumingye](https://epub.liumingye.cn/) |
 | [知乎](https://www.zhihu.com/people/RS101202303/following) | [Feedly](https://feedly.com/) | [极客学院](https://www.jikexueyuan.com/) | [MYFREEMP3](http://tool.liumingye.cn/music/?page=audioPage&type=migu&name=The%20Ludlows) |
-| [豆瓣](https://www.douban.com/people/AmbroseRen/) | [GitHub - Editor](https://github.com/AmbroseRen/test/blob/master/Library/BookListsOne.md) | [巧匠课堂-Adobe](https://www.2qj.com/) | [BookReader](https://ztftrue.github.io/BookReader/) |
+| [豆瓣](https://www.douban.com/people/AmbroseRen/)/[电影榜](https://movie.douban.com/)/[热剧](https://movie.douban.com/tv/#!type=tv&tag=%E7%83%AD%E9%97%A8&sort=recommend&page_limit=20&page_start=0) | [GitHub - Editor](https://github.com/AmbroseRen/test/blob/master/Library/BookListsOne.md) | [巧匠课堂-Adobe](https://www.2qj.com/) | [BookReader](https://ztftrue.github.io/BookReader/) |
 | [简书](https://www.jianshu.com/subscriptions#/timeline) | [GitHub - Books](https://github.com/AmbroseRen/Picture/tree/master/book/Society) | [easydrawingtutorials](https://www.easydrawingtutorials.com/index.php/disney/81-draw-mickey-mouse) | [Neat Reader](https://www.neat-reader.cn/webapp#/) |
 | [微博](https://weibo.com/3626507391/follow) | [Gitee](https://gitee.com/) | [创客贴_平面设计](https://www.chuangkit.com/designtools/designindex) | [PDF在线阅读器](https://web.jisupdf.com/) |
 | [天涯论坛](https://bbs.tianya.cn/) | [GitLab](https://gitlab.com/ambroserencn) | [网易公开课](https://open.163.com/khan/) | [oneNote笔记本-微软](https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1) |
@@ -18,9 +18,9 @@
 | [Matters](https://matters.news/) | __IT社区__ | [coursera](https://www.coursera.org/browse/computer-science) | [刘明野的工具箱](https://tool.liumingye.cn/) |
 | [虎嗅网](https://www.huxiu.com/) | [stackoverflow](https://stackoverflow.com/) | __视频__ | [MD格式在线排版](https://md.phodal.com/) |
 | [小红书](https://www.xiaohongshu.com/explore) | [InfoQ](https://www.infoq.cn/) | [Youtube](https://www.youtube.com/) | [AnywhereAnything](http://lackar.com/aa/) |
-| [少数派](https://sspai.com/) | [segmentfault](https://segmentfault.com/u/ambroseren/users/following) | [哔哩哔哩](https://space.bilibili.com/352834482/fans/follow) | [QQ邮箱](https://mail.qq.com/) |
+| [少数派](https://sspai.com/) | [segmentfault](https://segmentfault.com/u/ambroseren/users/following) | [哔哩哔哩](https://space.bilibili.com/352834482/fans/follow)/[热榜](https://www.bilibili.com/v/popular/rank/all) | [QQ邮箱](https://mail.qq.com/) |
 | [贴吧](https://tieba.baidu.com/index.html) | [CSDN_Ambrose_Ren](https://blog.csdn.net/Ambrose_Ren) | [我的b站直播](https://live.bilibili.com/22653502) | []() |
-| [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园_Ambrose_Ren](https://www.cnblogs.com/rensi/) | [腾讯视频](https://v.qq.com/biu/u/playlist) | [百度网盘](https://pan.baidu.com/disk/home) |
+| [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园_Ambrose_Ren](https://www.cnblogs.com/rensi/) | [腾讯视频](https://v.qq.com/biu/u/playlist)/[热榜](https://v.qq.com/biu/ranks/?t=hotsearch) | [百度网盘](https://pan.baidu.com/disk/home) |
 | []() | [博客园-主页](https://home.cnblogs.com/u/rensi/) | [爱奇艺](https://www.iqiyi.com/u/fav)/[风云榜](https://www.iqiyi.com/ranks1/home) | [阿里云盘](https://www.aliyundrive.com/drive/) |
 | __博客__ | [掘金](https://juejin.cn/) | [优酷网](https://user.youku.com/page/usc/fav?theme=) | []() |
 | []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://i.mgtv.com/my/looklist) | __新手基础自学__ |
