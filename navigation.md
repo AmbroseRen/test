@@ -25,8 +25,8 @@
 | __博客__ | [掘金](https://juejin.cn/) | [优酷网](https://user.youku.com/page/usc/fav?theme=) | []() |
 | []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://i.mgtv.com/my/looklist) | __新手基础自学__ |
 | []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://my.tv.sohu.com/i/bookmark) | [菜鸟教程](https://www.runoob.com/) |
-| []() | []() | [西瓜视频](https://www.ixigua.com/my/favorite)/[咪咕体育](https://www.miguvideo.com/mgs/website/prd/personalCenter.html#/collect) | []() |
-| []() | []() | [片库](https://www.mypianku.net/)/[努努影院](https://www.nunuyy.cc/)/[Gimy](https://gimy.app/)/[91美剧网](https://91mjw.com/)/[99美剧](https://www.99meiju.org/) | []() |
+| []() | []() | [西瓜视频](https://www.ixigua.com/my/favorite)/[咪咕体育](https://www.miguvideo.com/mgs/website/prd/personalCenter.html#/collect)/[乐视](http://i.le.com/playrecord#favorite) | []() |
+| []() | []()/[]()→ | [片库](https://www.mypianku.net/)/[努努影院](https://www.nunuyy.cc/)/[Gimy](https://gimy.app/)/[91美剧](https://91mjw.com/)/[99美剧](https://www.99meiju.org/) | →[韩剧网](https://www.tvn.cc/)/[]() |
 | []() | [链滴](https://ld246.com/) | __直播__ | [w3school](https://www.w3school.com.cn/) |
 | __Google__ | [吾爱破解](https://www.52pojie.cn/) | [斗鱼](https://www.douyu.com/directory/myFollow) | [w3cschool](https://www.w3cschool.cn/) |
 | [Facebook](https://www.facebook.com/) | [hacker_news](https://news.ycombinator.com/) | [我的斗鱼直播](https://www.douyu.com/10150268) | ~~[WEB前端手册](#)~~ |
