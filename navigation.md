@@ -16,7 +16,7 @@
 | [Quora](https://www.quora.com/) | [simplesite](http://ambroseren.simplesite.com/) | [腾讯课堂](https://ke.qq.com/) | [catbox](https://catbox.moe/user/login.php) |
 | [Medium](https://medium.com/) | [uid.me](http://uid.me/ren_si1#) | [Khan Academy](https://www.khanacademy.org/) | [在线翻译](https://fanyi.youdao.com/) |
 | [Matters](https://matters.news/) | __IT社区__ | [coursera](https://www.coursera.org/browse/computer-science) | [刘明野的工具箱](https://tool.liumingye.cn/) |
-| [虎嗅网](https://www.huxiu.com/) | [stackoverflow](https://stackoverflow.com/) | __视频__ | [MD格式在线排版](https://md.phodal.com/) |
+| [虎嗅网](https://www.huxiu.com/) | [stackoverflow](https://stackoverflow.com/) | __视频__/[IMDb](https://m.imdb.com/) | [MD格式在线排版](https://md.phodal.com/) |
 | [小红书](https://www.xiaohongshu.com/explore) | [InfoQ](https://www.infoq.cn/) | [Youtube](https://www.youtube.com/)/[媒体库](https://www.youtube.com/feed/library) | [AnywhereAnything](http://lackar.com/aa/) |
 | [少数派](https://sspai.com/) | [segmentfault](https://segmentfault.com/u/ambroseren/users/following) | [哔哩哔哩](https://space.bilibili.com/352834482/fans/follow)/[热榜](https://www.bilibili.com/v/popular/rank/all) | [QQ邮箱](https://mail.qq.com/) |
 | [贴吧](https://tieba.baidu.com/index.html) | [CSDN_Ambrose_Ren](https://blog.csdn.net/Ambrose_Ren) | [我的b站直播](https://live.bilibili.com/22653502) | []() |
