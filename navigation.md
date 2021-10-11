@@ -40,7 +40,7 @@
 | [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | [Tik Tok](https://www.tiktok.com/)/[抖音](https://www.douyin.com/recommend)/[快手](https://www.kuaishou.com/) | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
-| []() | []() | __娱乐__ | []() |
+| []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | lucy | 25 | X | X |
