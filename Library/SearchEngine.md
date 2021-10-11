@@ -1,6 +1,6 @@
 # Search Engine Record(搜索引擎收录)  [←](index.md)
 
-| 传送门 | 描述 | 特点 |
+| 传送门 - [拨号](../navigation.md) | 描述 | 特点 |
 |:---:|:---:|:---:|
 | __AggregateSearch__ | __聚合搜索__ | Y |
 | [毒蘑菇](https://search.dumogu.top/) | 搜索引擎查询接口 | Y |
