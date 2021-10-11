@@ -37,8 +37,8 @@
 | [Twitter](https://twitter.com/home) | [找找看 - 博客园](https://zzk.cnblogs.com/s/blogpost) | [虎牙](https://www.huya.com/myfollow)/[配置](https://i.huya.com/index.php?m=ProfileSetting#ktylts)/[我的虎牙直播](https://www.huya.com/25541428) | [前端速查](http://f2er.club/) |
 | [Instagram](https://www.instagram.com/ambroserencn/) | [科学网-889891](http://blog.sciencenet.cn/home.php?mod=spacecp&ac=friend&op=find) | []() | []() |
 | [Pinterest](https://www.pinterest.com/) | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
-| [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | [Tik Tok](https://www.tiktok.com/) | []() |
-| []() | []() | [抖音](https://www.douyin.com/recommend)/[快手](https://www.kuaishou.com/) | []() |
+| [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | [Tik Tok](https://www.tiktok.com/)/[抖音](https://www.douyin.com/recommend)/[快手](https://www.kuaishou.com/) | []() |
+| []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | __娱乐__ | []() |
 | []() | []() | []() | []() |
