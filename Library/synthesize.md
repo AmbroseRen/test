@@ -1,6 +1,6 @@
 # 综合门户导航  [←](index.md)
 
-| 传送门 - [T](../Data/TorrentKitty.md) - [R](../Data/DataRank.md) | 描述 | 特点 |
+| 传送门 - [T](../Data/TorrentKitty.md) - [D](../Data/DataRank.md) | 描述 | 特点 |
 |:---:|:---:|:---:|
 | [similarsites](https://www.similarsites.com/) | 搜同类网站 | Y |
 | [西林街](https://xilinjie.cc/) | 搜资源 | Y |
