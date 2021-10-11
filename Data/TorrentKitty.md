@@ -1,6 +1,6 @@
 # TorrentKitty Lists [←](index.md)
 
-| 传送门 - [N](https://ambroseren.github.io/test/Library/synthesize.html) | 描述 | 摘要 |
+| 传送门 - [N](../Library/synthesize.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [资源搜索](http://magnet.chongbuluo.com/) | 聚合搜素 | Y |
 | [zooqle](https://zooqle.com/) | en | Y |
