@@ -17,8 +17,8 @@
 | [简书](https://www.jianshu.com/subscriptions#/timeline) | [GitHub - Books](https://github.com/AmbroseRen/Picture/tree/master/book/Society) | [easydrawingtutorials](https://www.easydrawingtutorials.com/index.php/disney/81-draw-mickey-mouse) | [Neat Reader](https://www.neat-reader.cn/webapp#/) |
 | [微博](https://weibo.com/3626507391/follow)/[热搜榜](https://s.weibo.com/top/summary)/[超话社区](https://huati.weibo.cn/discovery/super) | [Gitee](https://gitee.com/) | [创客贴_平面设计](https://www.chuangkit.com/designtools/designindex) | [PDF在线阅读器](https://web.jisupdf.com/) |
 | [天涯论坛](https://bbs.tianya.cn/) | [GitLab](https://gitlab.com/ambroserencn) | [网易公开课](https://open.163.com/khan/) | [oneNote笔记本-微软](https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1) |
-| [Quora](https://www.quora.com/) | [simplesite](http://ambroseren.simplesite.com/) | [腾讯课堂](https://ke.qq.com/) | [catbox](https://catbox.moe/user/login.php) |
-| [Medium](https://medium.com/) | [uid.me](http://uid.me/ren_si1#) | [Khan Academy](https://www.khanacademy.org/) | [在线翻译](https://fanyi.youdao.com/) |
+| [Quora](https://www.quora.com/) | ~~[simplesite](http://ambroseren.simplesite.com/)/[uid.me](http://uid.me/ren_si1#)~~ | [腾讯课堂](https://ke.qq.com/) | [catbox](https://catbox.moe/user/login.php) |
+| [Medium](https://medium.com/) | []() | [Khan Academy](https://www.khanacademy.org/) | [在线翻译](https://fanyi.youdao.com/) |
 | [Matters](https://matters.news/) | __IT社区__ | [coursera](https://www.coursera.org/browse/computer-science) | [刘明野的工具箱](https://tool.liumingye.cn/) |
 | [虎嗅网](https://www.huxiu.com/) | [stackoverflow](https://stackoverflow.com/) | __视频__/[IMDb](https://m.imdb.com/) | [MD格式在线排版](https://md.phodal.com/) |
 | [小红书](https://www.xiaohongshu.com/explore) | [InfoQ](https://www.infoq.cn/) | [Youtube](https://www.youtube.com/)/[媒体库](https://www.youtube.com/feed/library) | [AnywhereAnything](http://lackar.com/aa/) |
