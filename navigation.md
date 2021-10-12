@@ -28,7 +28,7 @@
 | [plurk](https://www.plurk.com/AmbroseRenCN) | [博客园-主页](https://home.cnblogs.com/u/rensi/) | [爱奇艺](https://www.iqiyi.com/u/fav)/[风云榜](https://www.iqiyi.com/ranks1/home)/[国际站](https://www.iq.com/)/[收藏](https://www.iq.com/personal?type=favorite) | [阿里云盘](https://www.aliyundrive.com/drive/) |
 | __博客__ | [掘金](https://juejin.cn/) | [优酷网](https://user.youku.com/page/usc/fav?theme=) | []() |
 | []() | [奇客资讯](https://www.solidot.org/) | [芒果TV](https://i.mgtv.com/my/looklist) | __新手基础自学__ |
-| []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://my.tv.sohu.com/i/bookmark) | [菜鸟教程](https://www.runoob.com/) |
+| []() | [V2EX](https://www.v2ex.com/?tab=tech) | [搜狐](https://my.tv.sohu.com/i/bookmark)/[PPTV](https://www.pptv.com/) | [菜鸟教程](https://www.runoob.com/) |
 | []() | []() | [西瓜视频](https://www.ixigua.com/my/favorite)/[咪咕体育](https://www.miguvideo.com/mgs/website/prd/personalCenter.html#/collect)-~~[音乐](https://music.migu.cn/v3/my/playlist)-[播放](https://music.migu.cn/v3/music/player/audio)~~/[乐视](http://i.le.com/playrecord#favorite) | [CCTV直播](https://tv.cctv.com/live/)/[电视直播](http://www.hao5.net/) |
 | [新视觉](https://www.ixinshijue.com/)/[草民电影](https://www.cmdy555.com/)/[看片狂人](https://www.kpkuang.com/)-[list](https://listed.to/p/l1PbMlAK7g)→ | [策驰影院](http://www.cechiyy5.com/)/[掏剧影院](https://www.taojuyb.com/)/[MVCAT](https://www.mvcat.com/)→ | [唐人街](https://www.tangrenjie.tv/)/[片库](https://www.mypianku.net/)-[list](https://www.pianku.tv/)/[努努影院](https://www.nunuyy.cc/)/[Gimy](https://gimy.app/)/[91美剧](https://91mjw.com/)/[99美剧](https://www.99meiju.org/) | →[美剧迷](https://www.meijumi.net/)/[韩剧网](https://www.tvn.cc/)/[蛋蛋赞](https://www.dandanzan.cc/) |
 | []() | [链滴](https://ld246.com/) | __直播__ | [w3school](https://www.w3school.com.cn/) |
