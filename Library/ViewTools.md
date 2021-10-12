@@ -10,7 +10,7 @@
 | [alltoall](https://www.alltoall.net/%e7%94%b5%e5%ad%90%e4%b9%a6/) | azw3格式转换器 | Y |
 | [convertio.co](https://convertio.co/zh/djvu-mobi/) | djvu格式转换器 | Y |
 | [office-converter](https://cn.office-converter.com/ebook-converter) | 格式转换器 | Y |
-| __[epub](https://epub.liumingye.cn/)__/[epubee](http://cn.epubee.com/) | <font color="#ff0000"><b>epub在线阅读器</b></font> | [主页](https://tool.liumingye.cn/) |
+| __[epub](https://epub.liumingye.cn/)__/~~[epubee](http://cn.epubee.com/)~~ | <font color="#ff0000"><b>epub在线阅读器</b></font> | [主页](https://tool.liumingye.cn/)/[简繁体转换](https://lab.magiconch.com/v/epub-transform?from=v2ex) |
 | [BookReader](https://ztftrue.github.io/BookReader/)/[Author](https://github.com/ztftrue/BookReader/) | epub在线阅读器 | Y |
 | [koodo-reader](https://koodo-reader.vercel.app/#/manager/home) | 在线阅读器 | [主页](https://koodo.960960.xyz/) - []() |
 | [neat-reader](https://www.neat-reader.cn/webapp#/) | epub在线阅读器 | Y |
