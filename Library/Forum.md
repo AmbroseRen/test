@@ -14,7 +14,7 @@
 | [V2EX](https://www.v2ex.com/) | O_O | Y |
 | [卡饭论坛](https://bbs.kafan.cn/) | O_O | Y |
 | [吾爱破解](https://www.52pojie.cn/) | 破解论坛 | Y |
-| [虎扑](https://bbs.hupu.com/) | O_O | Y |
+| [虎扑](https://bbs.hupu.com/)/[36Kr](https://www.36kr.com/) | O_O | Y |
 | [果壳网](https://www.guokr.com/) | O_O | Y |
 | IT | 技术论坛 | Y |
 | [掘金](https://juejin.im/) | O_O | Y |
