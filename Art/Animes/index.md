@@ -1,5 +1,5 @@
 <style type="text/css">
-#content {margin-left: 10%;}
+#content {margin-left: 5%;}
 #content table {width:1200px;}
 </style>
 # Animes Website [←](../index.md)
