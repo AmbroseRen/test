@@ -1,7 +1,6 @@
 <style type="text/css">
 #content {margin-left: 10%;}
 #content table {width:1300px;}
-.main-content {padding-top: 0rem;padding-right: 0rem;}
 </style>
 # 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)
 
