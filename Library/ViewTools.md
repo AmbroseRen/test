@@ -20,6 +20,7 @@
 | [sumatrapdfreader](https://www.sumatrapdfreader.org/download-free-pdf-viewer) | 客户端阅读器 | Y |
 | [酷安](https://www.coolapk.com/apk/256030) | APP阅读器 | [源址](https://github.com/kaich/Yuedu) - 3.0 [官方下载](https://github.com/gedoor/legado/releases)/[蓝奏云下载](https://kunfei.lanzoui.com/b0f7pt4ja)/[测试版](https://kunfei.lanzoui.com/b0f810h4b) - 2.0 [官方下载](https://kunfei.lanzoui.com/b0f7pt4hi)/[蓝奏云下载](https://kunfei.lanzoui.com/b0f7pt4hi) |
 | ~~[Kindle for PC [Download]](https://www.amazon.com/Amazon-Digital-Services-LLC-Download/dp/B00UB76290) - [Kindle for mobile [Download]](https://www.amazon.com/b?ie=UTF8&node=16571048011) - [Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=GZSM7D8A85WKPYYD)~~| Kindle | [Kindle上传文件到账号](https://www.amazon.com/gp/sendtokindle) - [Kindle Book Push](https://book.einverne.info/) - [书伴](https://bookfere.com/ebook) - [kindle漫画](http://www.kindlecomic.net/) - [kindle漫画](http://vol.moe/) - [Amazon Book Store](https://www.amazon.cn/b?ie=UTF8&node=1987669071) - ([kindle178](http://www.kindle178.com/) - 少儿英语星) |
+| [send2boox](https://send2boox.com/#/push/file) | Boox | [WiFi](http://192.168.2.119:8083/) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
