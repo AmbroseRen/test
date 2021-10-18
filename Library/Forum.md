@@ -1,6 +1,6 @@
 # Forum Lists [←](index.md)
 
-| 传送门 | 描述 | 摘要 |
+| [传送门](../navigation.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Forum | 论坛 | Y |
 | [奇客](https://www.solidot.org/) | 科技讯息前沿 | Y |
