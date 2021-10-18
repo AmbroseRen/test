@@ -39,7 +39,7 @@
 | [Pinterest](https://www.pinterest.com/) | []() | [YY LIVE](https://www.yy.com/i/index/live) | []() |
 | [BIGO LIVE](https://www.bigo.tv/cn/show) | []() | [Tik Tok](https://www.tiktok.com/)/[抖音](https://www.douyin.com/recommend)/[快手](https://www.kuaishou.com/) | []() |
 | []() | []() | __游戏__ | []() |
-| []() | []() | 手游榜[TapTap](https://www.taptap.com/top/download) | []() |
+| []() | []() | 手游榜-[TapTap](https://www.taptap.com/top/played) | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
 | []() | []() | []() | []() |
