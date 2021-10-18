@@ -3,6 +3,7 @@
 | Protal(传送门) - [N](../Library/synthesize.md)/[拨号](../navigation.md) | Destription(描述) | Abstract(摘要) |
 |:---:|:---:|:---:|
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 内容产业服务平台 | [主站](https://newrank.cn/) |
+| [平台头榜数据TV](http://www.toubang.tv/anchor/mutile.html) | O_O | Y |
 | [新抖](https://xd.newrank.cn/home/index) | 抖音数据运营平台 | Y |
 | [死亡公司公墓](https://www.itjuzi.com/deathCompany) | 新经济死亡公司数据库 | [IT桔子-主站](https://www.itjuzi.com/) - [2017年30岁以下创业新贵](https://www.itjuzi.com/addedDataRankInfo?id=24&type=4&isExit=1) |
 | [鱼塘热榜](https://mo.fish/) | O_O | Y |
