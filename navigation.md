@@ -2,6 +2,24 @@
 #content {margin-left: -10px;}
 #content table {width:1500px;}
 </style>
+
+<script type="text/javascript" charset="utf-8">
+  // Creating custom :external selector
+  $.expr[':'].external = function(obj){
+      return !obj.href.match(/^mailto\:/)
+              && (obj.hostname != location.hostname);
+  };
+
+  $(function(){
+    // Add 'external' CSS class to all external links
+    $('a:external').addClass('external');
+
+    // turn target into target=_blank for elements w external class
+    $(".external").attr('target','_blank');
+
+  })
+</script>
+
 # 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)
 
 | [Reader](Library/BookListsOne.md)/[BS](Library/BookSearch.md)/[七阅](https://www.7sbook.com/index/disk/index.html) | [日常](https://ambroseren.github.io/test/indexes.html)/[D](Data/DataRank.md)/~~[S](https://shouku123.com/rensi)~~ | 网络公开课 | 算法社区 |
