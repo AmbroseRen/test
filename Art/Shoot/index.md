@@ -1,6 +1,6 @@
 # Shoot Websites [](../index.md) [←](../index.md)
 
-| 传送门 | 描述 | 摘要 |
+| [传送门](../../navigation.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [skylinewebcams](https://www.skylinewebcams.com/) | 全球高清实况摄像头 | Y |
 | [pinterest](https://www.pinterest.com/) | Figure(人物、生活) | Y |
