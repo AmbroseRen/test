@@ -6,6 +6,11 @@
 <script src="js/JQuery/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" charset="utf-8">
   // Creating custom :external selector
+  $.external = function(obj){
+      return !obj.href.match(/^mailto\:/)
+              && (obj.hostname != location.hostname);
+  };    
+  
   $(function(){
     // Add 'external' CSS class to all external links
     $('a').addClass('external');
@@ -14,11 +19,6 @@
     $(".external").attr('target','_blank');
 
   })
-  
-  $.expr[':'].external = function(obj){
-      return !obj.href.match(/^mailto\:/)
-              && (obj.hostname != location.hostname);
-  };  
 </script>
 
 # 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)
