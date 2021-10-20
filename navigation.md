@@ -1,6 +1,6 @@
 <style type="text/css">
-#content {margin-left: 2%;}
-#content table {width:1300px;}
+#content {margin-left: -20px;}
+#content table {width:1500px;}
 </style>
 # 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)
 
