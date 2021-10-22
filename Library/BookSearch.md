@@ -42,7 +42,7 @@
 | ~~[万卷天书-PDF](https://jrjpc.com/)~~ | 现代文学 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
-| [典籍导航](https://www.2345daohang.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) - [文心雕龙](https://www.2345daohang.com/dianji/63314/) - [梦溪笔谈](https://www.2345daohang.com/dianji/63285/) - [商君书](https://www.2345daohang.com/dianji/63313/) - [楚辞](https://www.2345daohang.com/shici/list_1_t_918.htm) - [乐府](https://www.2345daohang.com/shici/list_1_t_469.htm) - [金刚经](https://www.2345daohang.com/dianji/63334/) - [道德经](http://www.505dh.com/dianji/63299/) | X | X |
+| ~~[典籍导航](https://www.2345daohang.com/)~~/[副站](http://m.505dh.com/) | 中国古典文学 | [资治通鉴](https://www.2345daohang.com/dianji/63279/) - [诗词](https://www.2345daohang.com/shici/list.htm) - [文心雕龙](https://www.2345daohang.com/dianji/63314/) - [梦溪笔谈](https://www.2345daohang.com/dianji/63285/) - [商君书](https://www.2345daohang.com/dianji/63313/) - [楚辞](https://www.2345daohang.com/shici/list_1_t_918.htm) - [乐府](https://www.2345daohang.com/shici/list_1_t_469.htm) - [金刚经](https://www.2345daohang.com/dianji/63334/) - [道德经](http://www.505dh.com/dianji/63299/) | X | X |
 | [读典籍](https://web.dudianji.com/#/book-index) | 中国古典文学 | [史记](https://web.dudianji.com/#/book/shiji) - [论语](https://web.dudianji.com/#/book/lunyu) | X | X |
 | [上海图书馆](http://wrd2016.library.sh.cn/) | 近代古籍 | X | X | X |
 | [古籍网](http://www.bookinlife.net/) | 繁体竖排扫描版 | [中国历代人物图像数据库](http://diglweb.zjlib.cn:8081/zjtsg/mingren/index.htm) | X | X |
