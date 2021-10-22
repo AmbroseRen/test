@@ -4,7 +4,7 @@
 </style>
 # Animes Website [←](../index.md)
 
-| 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
+| [传送门](../../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | [风之动漫](https://manhua.fffdm.com/) | O_O | [死亡笔记](https://manhua.fffdm.com/11/)/[咒术回战](https://www.manhuacat.com/manga/32670.html)/[鬼灭之刃](https://manhua.fffdm.com/153/) | X | X |
 | [漫画猫](https://www.manhuacat.com/) | O_O | []() | X | X |
