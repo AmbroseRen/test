@@ -6,7 +6,7 @@
 | 国内云盘 | 26 | Y |
 | [百度网盘](https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#/all?path=%2F&vmode=list) | 26 | Y |
 | [七牛云](https://www.qiniu.com/) | 26 | Y |
-| [115云盘](https://yun.115.com/)/[组织云盘](https://115.com/) | 26 | Y |
+| [115云盘](https://115.com/)/[组织云盘](https://yun.115.com/) | 26 | Y |
 | [天翼云盘](https://cloud.189.cn/t/Av67NvmEJVBv) | 26 | Y |
 | [比特球云盘](https://pan.bitqiu.com/) | 26 | Y |
 | [蓝奏云](https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php) | 26 | Y |
