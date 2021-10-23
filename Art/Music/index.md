@@ -6,7 +6,7 @@
 | 聚合平台 | O_O | Y |
 | [MyFeeMP3](http://tool.liumingye.cn/music/) | O_O | Y |
 | [歌曲大全](http://www.gequdaquan.net/gqss/) | O_O | Y |
-| [疯狂音乐](http://music.ifkdy.com/) | O_O | Y |
+| ~~[疯狂音乐](http://music.ifkdy.com/)~~ | O_O | Y |
 | 主平台 | O_O | Y |
 | [QQ音乐](https://y.qq.com/n/yqq/playlist/1249952025.html) | O_O | Y |
 | [酷狗音乐](http://www.kugou.com/) | O_O | Y |
