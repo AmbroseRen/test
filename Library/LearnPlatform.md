@@ -1,6 +1,6 @@
 # 学习平台  [←](index.md)
 
-| 传送门 | 描述 | 摘要 |
+| [传送门](../navigation.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [mooc](https://www.mooc.cn/) | IT-慕课中国 | Y |
 | [imooc](https://www.imooc.com/course/list) | IT-慕课网 | Y |
