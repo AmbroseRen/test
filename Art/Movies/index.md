@@ -1,6 +1,24 @@
+<script src="../../js/JQuery/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  // Creating custom :external selector
+  $.expr[':'].external = function(obj){
+      return !obj.href.match(/^mailto\:/)
+              && (obj.hostname != location.hostname);
+  };    
+  
+  $(function(){
+    // Add 'external' CSS class to all external links
+    $('a:external').addClass('external');
+
+    // turn target into target=_blank for elements w external class
+    $(".external").attr('target','_blank');
+
+  })
+</script>
+
 # Movies Website [←](../index.md)
 
-| 传送门 | 描述 | 摘要 |
+| [传送门](../../navigation.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [电影网站导航·一](http://www.ziyuangou.com/tag/zaixiandianying/) | O_O | Y |
 | [电影网站导航·二](http://www.staycu.com/archives/237) | O_O | Y |
