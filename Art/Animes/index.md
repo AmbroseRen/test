@@ -26,7 +26,7 @@
 | [传送门](../../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | [风之动漫](https://manhua.fffdm.com/) | O_O | [死亡笔记](https://manhua.fffdm.com/11/)/[咒术回战](https://www.manhuacat.com/manga/32670.html)/[鬼灭之刃](https://manhua.fffdm.com/153/) | X | X |
-| [漫画猫](https://www.manhuacat.com/) | O_O | []() | X | X |
+| [漫画猫](https://www.manhuacat.com/) | O_O | [一](https://user.qzone.qq.com/1686278055) | X | X |
 | [mangabz](https://www.mangabz.com/) | O_O | []() | X | X |
 | [cocomanga](https://www.cocomanga.com/) | O_O | []() | X | X |
 | [acfun](https://www.acfun.cn/)/[bilibili](https://www.bilibili.com) | 动漫视频站 | [神秘的程序员们](https://code2048.com/series/betacat/) | X | X |
