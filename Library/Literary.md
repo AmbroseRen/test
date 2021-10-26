@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: 20px;}
+#content table {width:1300px;}
+</style>
+
 # Literary Read Online  [←](index.md)
 
 | 书名 | 介绍 | 摘文 |
