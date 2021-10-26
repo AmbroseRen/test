@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: 20px;}
+#content table {width:1300px;}
+</style>
+
 # 综合门户导航  [←](index.md)
 
 | 传送门 - [T](../Data/TorrentKitty.md) - [D](../Data/DataRank.md) | 描述 | 特点 |
