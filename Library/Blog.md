@@ -1,6 +1,8 @@
 <style type="text/css">
-#content table {width:1000px;}
+#content {margin-left: 20px;}
+#content table {width:1300px;}
 </style>
+
 # BlogList  [←](index.md)
 
 <b><font color="#00ffff" face="楷体">在网络中带有鲜活印记和成长的、关于我们的故事</font></b>
