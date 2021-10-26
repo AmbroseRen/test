@@ -3,7 +3,7 @@
 </style>
 # BlogList  [←](index.md)
 
-在网络中带有鲜活印记和成长的、关于我们的故事
+<b><font color="#00ffff" face="楷体">在网络中带有鲜活印记和成长的、关于我们的故事</font></b>
 
 | [传送门](../navigation.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
