@@ -23,7 +23,7 @@
 
 # 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)
 
-| [Reader](Library/BookListsOne.md)/[BS](Library/BookSearch.md)/[七阅](https://www.7sbook.com/index/disk/index.html) | [日常](https://ambroseren.github.io/test/indexes.html)/[D](Data/DataRank.md)/~~[S](https://shouku123.com/rensi)~~ | [网络公开课](Library/LearnPlatform.md) | 算法社区 |
+| [Reader](Library/BookListsOne.md)/[BS](Library/BookSearch.md)/[N](Library/Novel.md)/[七阅](https://www.7sbook.com/index/disk/index.html) | [日常](https://ambroseren.github.io/test/indexes.html)/[D](Data/DataRank.md)/~~[S](https://shouku123.com/rensi)~~ | [网络公开课](Library/LearnPlatform.md) | 算法社区 |
 |:---:|:---:|:---:|:---:|
 | [MBA智库百科](https://wiki.mbalib.com/wiki/首页) | [任思的公用空间](http://rensi.ys168.com/) | [imooc](https://www.imooc.com/course/list) | [LeetCode](https://leetcode.com/problemset/all/)/[LeetCode-cn](https://leetcode-cn.com/problemset/all/) |
 | [每日一文](https://meiriyiwen.com/random)/[书摘广场-书见](https://memo.bookfere.com/community/posts/all)/[名言通](https://www.mingyantong.com/)/[贝](Library/excerpt.md) | []() | [mooc.cn](https://www.cmooc.com/course) | []() |
