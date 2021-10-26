@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: 20px;}
+#content table {width:1300px;}
+</style>
+
 # ViewTools Lits  [←](index.md)
 
 | 传送门 | 描述 | 摘要 |
