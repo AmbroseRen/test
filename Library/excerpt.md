@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: 20px;}
+#content table {width:1300px;}
+</style>
+
 # 书摘拾贝  [←](index.md)
 
 - 隐私安全——监控、DNS劫持、数字集权;自由的代价——[王玄](https://blog.wangxuan.name/) - [数字移民](https://blog.shuziyimin.org/)
