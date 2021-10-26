@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: 20px;}
+#content table {width:1300px;}
+</style>
+
 # Read Online  [←](index.md)
 
 这些不同时光节点的事件，持续散发并影响着我们身处的世界，影响着我们周围的一切，并组成我们生命的不同部分
