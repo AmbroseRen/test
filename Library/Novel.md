@@ -6,7 +6,7 @@
 
 <b><font color="#00ffff" face="楷体">虽然现在不看了，但我经历了她的巅峰年代，虽然付出了代价，但她依然带给了很多快乐。无论是出于缅怀，或者什么，依旧值得铭记</font></b>
 
-| 传送门 | 描述 | 摘本 | 摘录 | 摘引 |
+| [传送门](../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | [Novel_2012](Novel/Q_bookmarks_2021_5_22.html) | 可下载此页书签导入QQ浏览器 | X | X | X |
 | [起点主页](https://www.qidian.com/search)/[书架](https://my.qidian.com/bookcase/)/[完本榜](https://www.qidian.com/finish/) | 起点中文网 | [新笔趣阁](https://www.xbiquge.la/xiaoshuodaquan/)/[顶点小说](https://www.booktxt.net/index.php)/[17K](https://search.17k.com/search.xhtml?c.q=)-[书架](https://user.17k.com/www/bookshelf/)/[纵横中文网](http://search.zongheng.com/s?keyword=%E7%89%B9%E6%88%98%E4%B9%8B%E7%8E%8B)-[书架](http://home.zongheng.com/bookshelf)/[]() | X | X |
