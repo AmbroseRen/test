@@ -7,7 +7,7 @@
 
 </div>
 
-[←](index.md)
+[←](index.md)  [N](navigation.md)
 
 <!-- Script pointing to search-script.js -->
 <script src="js/search-script.js" type="text/javascript"></script>
