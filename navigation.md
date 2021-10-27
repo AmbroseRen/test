@@ -21,7 +21,7 @@
   })
 </script>
 
-# 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)  [S](search.html)
+# 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)  [S](search.md)
 
 | [Reader](Library/BookListsOne.md)/[BS](Library/BookSearch.md)/[N](Library/Novel.md)/[七阅](https://www.7sbook.com/index/disk/index.html) | [日常](https://ambroseren.github.io/test/indexes.html)/[D](Data/DataRank.md)/~~[S](https://shouku123.com/rensi)~~ | [网络公开课](Library/LearnPlatform.md) | 算法社区 |
 |:---:|:---:|:---:|:---:|
