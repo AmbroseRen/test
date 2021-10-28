@@ -4,7 +4,7 @@
 </style>
 # Job lists
 
-| [传送门](../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
+| [传送门](../navigation.md#sp) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
 | [智联招聘](https://www.zhaopin.com/) | 智联 | [简历](https://i.zhaopin.com/resume)/[进展](https://i.zhaopin.com/schedule) | X | X |
 | [前程无忧](https://www.51job.com/) | 51job | [简历](https://i.51job.com/resume/resume_center.php)/[进展](https://i.51job.com/userset/resume_browsed.php) | X | X |
