@@ -1,3 +1,7 @@
+<style type="text/css">
+#content {margin-left: 20px;}
+#content table {width:1300px;}
+</style>
 # Shopping Lists
 
 | [传送门](../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
