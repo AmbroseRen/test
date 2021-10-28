@@ -6,5 +6,7 @@
 | [前程无忧](https://www.51job.com/) | 51job | [简历](https://i.51job.com/resume/resume_center.php)/[进展](https://i.51job.com/userset/resume_browsed.php) | X | X |
 | [BOSS直聘](https://www.zhipin.com/) | O_O | [简历](https://www.zhipin.com/web/geek/resume)/[消息中心](https://www.zhipin.com/web/geek/chat) | X | X |
 | [拉勾招聘](https://www.lagou.com/) | O_O | X | X | X |
+| GlobalJob | 全球市场 | X | X | X |
+| [领英](https://www.linkedin.com/) | O_O | X | X | X |
 | []() | O_O | X | X | X |
 | []() | O_O | X | X | X |
