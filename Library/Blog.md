@@ -7,7 +7,7 @@
 
 <b><font color="#00ffff" face="楷体">在网络中带有鲜活印记和成长的、关于我们的故事</font></b>
 
-| [传送门](../navigation.md) | 描述 | 摘要 |
+| [传送门](../navigation.md#bk) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Portal | 门户导航 | Y |
 | ~~[中国博客联盟](https://zgboke.org/)~~/[新版](https://blorg.cn/) | 信息陈旧、失效 | [国内博客](https://www.zhihu.com/question/19928148)/~~[极客兔兔外链](https://geektutu.com/post/link.html)~~/[mashiro外链](https://mashiro.best/links)/~~[橙光笔记](https://www.kai666666.top/links/)~~/[2013](https://feeds.pub/cn-indie)/[]() |
