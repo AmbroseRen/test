@@ -18,7 +18,7 @@
 
 # Movies Website [←](../index.md)
 
-| [传送门](../../navigation.md) | 描述 | 摘要 |
+| [传送门](../../navigation.md#sp) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [电影网站导航·一](http://www.ziyuangou.com/tag/zaixiandianying/) | O_O | Y |
 | [电影网站导航·二](http://www.staycu.com/archives/237) | O_O | Y |
