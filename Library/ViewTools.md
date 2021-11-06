@@ -20,7 +20,7 @@
 | [koodo-reader](https://koodo-reader.vercel.app/#/manager/home) | 在线阅读器 | [主页](https://koodo.960960.xyz/) - []() |
 | [neat-reader](https://www.neat-reader.cn/webapp#/) | epub在线阅读器 | Y |
 | [mobiviewer](https://imclient.herokuapp.com/mobiviewer/) | <font color="#ff0000"><b>mobi在线阅读器</b></font> | Y |
-| [Calibre](https://calibre-ebook.com/) | <font color="#ff0000"><b>客户端阅读器</b></font> | [官网插件](http://plugins.calibre-ebook.com/)/[去除DRM文章](https://thatinterpreter.net/kindle-drm/)/[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools/releases) |
+| [Calibre](https://calibre-ebook.com/) | <font color="#ff0000"><b>客户端阅读器</b></font> | [手册](https://zhuanlan.zhihu.com/p/34996144)/[官网插件](http://plugins.calibre-ebook.com/)/[去除DRM文章](https://thatinterpreter.net/kindle-drm/)/[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools/releases) |
 | [Sigil](https://github.com/Sigil-Ebook/Sigil/releases) | <font color="#ff0000"><b>epub编辑器</b></font> | [官方文档](https://sigil-ebook.com/) |
 | [sumatrapdfreader](https://www.sumatrapdfreader.org/download-free-pdf-viewer) | 客户端阅读器 | Y |
 | [酷安](https://www.coolapk.com/apk/256030) | APP阅读器 | [源址](https://github.com/kaich/Yuedu) - 3.0 [官方下载](https://github.com/gedoor/legado/releases)/[蓝奏云下载](https://kunfei.lanzoui.com/b0f7pt4ja)/[测试版](https://kunfei.lanzoui.com/b0f810h4b) - 2.0 [官方下载](https://kunfei.lanzoui.com/b0f7pt4hi)/[蓝奏云下载](https://kunfei.lanzoui.com/b0f7pt4hi) |
