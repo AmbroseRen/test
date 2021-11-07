@@ -1,6 +1,6 @@
 # DataRank List [←](index.md)
 
-| Protal(传送门) - [N](../Library/synthesize.md)/[拨号](../navigation.md) | Destription(描述) | Abstract(摘要) |
+| Protal(传送门) - [N](../Library/synthesize.md)/[T](TorrentKitty.md)/[拨号](../navigation.md) | Destription(描述) | Abstract(摘要) |
 |:---:|:---:|:---:|
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 内容产业服务平台 | [主站](https://newrank.cn/) |
 | [平台头榜数据TV](http://www.toubang.tv/anchor/mutile.html) | O_O | Y |
