@@ -1,3 +1,21 @@
+<script src="../../js/JQuery/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  // Creating custom :external selector
+  $.expr[':'].external = function(obj){
+      return !obj.href.match(/^mailto\:/)
+              && (obj.hostname != location.hostname);
+  };    
+  
+  $(function(){
+    // Add 'external' CSS class to all external links
+    $('a:external').addClass('external');
+
+    // turn target into target=_blank for elements w external class
+    $(".external").attr('target','_blank');
+
+  })
+</script>
+
 # VPN Guide
 
 由简单到复杂依次为：[插件端](#插件版安装)(轻量、只浏览器代理)、[桌面端](#桌面端)(全局代理)、[手机端](#手机端)
