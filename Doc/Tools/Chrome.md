@@ -1,6 +1,6 @@
 <style type="text/css">
-#content {margin-left: -10px;}
-#content table {width:1500px;}
+#content {margin-left: 5%px;}
+#content table {width:1200px;}
 </style>
 
 <script src="../../js/JQuery/jquery.min.js" type="text/javascript"></script>
