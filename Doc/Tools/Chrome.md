@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: -10px;}
+#content table {width:1500px;}
+</style>
+
 # Google云端硬盘不能访问解决备忘
 
 [参考](hosts.md)：修改C:\windows\system32\drivers\etc\hosts文件，最未尾加入
