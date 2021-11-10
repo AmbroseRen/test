@@ -45,7 +45,7 @@
 
 [Windows端▪使用手册](https://igghelper.com/helper/?p=413)
 
-注：电脑端填入URL时，订阅地址可能被墙了。解决：打开插件过墙，访问订阅地址，复制加载的全部内容存入新建的`igg.yaml`文件中，如图手动导入加载
+注：电脑端填入URL时，订阅地址可能被墙了而下载失败。解决：打开插件过墙，访问订阅地址，复制加载的全部内容存入新建的`igg.yaml`文件中，如图手动导入加载
 
 ![手动加载](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/05.jpg)
 
