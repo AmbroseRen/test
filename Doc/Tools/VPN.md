@@ -19,6 +19,8 @@
 6.按其注册流程完成注册(注意使用海外邮箱，验证码可能会在垃圾箱),付费完成，选择线路测试(打开海外网站，切换线路并刷新网页测试线路速度，
 依据个人地理位置选择线路)
 
+扩展：[Chrome其他生态插件](https://ambroseren.github.io/test/Doc/Tools/Chrome.html)
+
 ## 桌面端
 
 1.下载[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.18.4/Clash.for.Windows.Setup.0.18.4.exe)软件([软件介绍](https://docs.cfw.lbyczf.com/contents/quickstart.html))
@@ -32,5 +34,10 @@
 2.依次点击：配置→新配置→从URL导入→(名称：igg，URL：依次点击![一](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/02.jpg)，![二](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/03.jpg)，![三](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/04.jpg))获取`订阅地址`，传输到手机`剪切板`上，放入此处,点击右上角保存
 
 3.返回主界面：点击`启动`(会自动选择节点线路；点击`代理`可修改线路节点)
+
+## 备用供应商
+
+[glados](https://glados.rocks/)
+
 
 
