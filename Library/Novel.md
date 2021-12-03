@@ -8,7 +8,7 @@
 
 | [传送门](../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
-| [Novel_2012](Novel/Q_bookmarks_2021_5_22.html) | 可下载此页书签导入QQ浏览器 | X | X | X |
+| [Novel_2012](Novel/Q_bookmarks_2021_5_22.html) | 可下载此页书签导入QQ浏览器 | [刀片书评](http://www.daopianxiaoshuo.com/#/recom)/[简介](https://w2solo.com/topics/2972) | X | X |
 | [起点主页](https://www.qidian.com/search) | 起点中文网 | [书架](https://my.qidian.com/bookcase/)/[完本榜](https://www.qidian.com/finish/)/[新笔趣阁](https://www.xbiquge.la/xiaoshuodaquan/)-[书架](https://www.xbiquge.la/modules/article/bookcase.php)/[顶点小说](https://www.booktxt.net/xiaoshuodaquan/)/[17K](https://search.17k.com/search.xhtml?c.q=)-[书架](https://user.17k.com/www/bookshelf/)/[纵横中文网](http://search.zongheng.com/s?keyword=%E7%89%B9%E6%88%98%E4%B9%8B%E7%8E%8B)-[书架](http://home.zongheng.com/bookshelf)/[]() | X | X |
 | [晋江文学城](http://www.jjwxc.net/) | 女性网络文学 | [起点女生网](https://www.qdmm.com/)/[潇湘书院](https://www.xxsy.net/) | [作品库-积分排序](http://www.jjwxc.net/bookbase_slave.php?orderstr=2) - [浮生十二梦](http://www.jjwxc.net/onebook.php?novelid=1267798) | X |
 | [wuxiaworld](https://www.wuxiaworld.com/) | 武侠世界-英译本网站 | [SERIES](https://www.wuxiaworld.com/novels) - [A Will Eternal](https://www.wuxiaworld.com/novel/a-will-eternal) - [I Shall Seal the Heavens](https://www.wuxiaworld.com/novel/i-shall-seal-the-heavens) - [A Record of a Mortal’s Journey to Immortality](https://www.wuxiaworld.com/novel/rmji) | X | X |
