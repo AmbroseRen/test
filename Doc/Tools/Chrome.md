@@ -45,7 +45,7 @@ Chrome.Extensions:C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Default\Ex
 |:---:|:---:|:---:|
 | [总览](https://zhaoolee.com/ChromeAppHeroes/chrome_extended_resources_site.html)/[Chrome插件扩展网站](https://chrome.zzzmh.cn/index#ext)/[crx4chrome](https://www.crx4chrome.com/)/[chajian5](https://www.chajian5.com/tags)/[画夹](https://huajiakeji.com/) | [Chrome使用指南](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md) | X |
 | [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)/[源码](https://github.com/zhaoolee/ChromeAppHeroes) | [Chrome&MacOS](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md#mac) | [在线工具](https://github.com/zhaoolee/OnlineToolsBook) |
-| [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | onload any js for every websites | Y |
+| [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | onload any js for every websites | [BlockJs](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_(Search_Filter_Block_Sites)) |
 | [stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | onload any css for every websites | X |
 | [货币转换器 for Google Chrome™](https://chrome.google.com/webstore/detail/currency-converter/dkpedpjjafnceedhomeijlphmjbblmdj) | tools | X |
 | [Similar sites](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn) | find similar websites | X |
