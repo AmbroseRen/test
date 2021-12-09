@@ -20,7 +20,7 @@
 
 | [传送门](../../navigation.md#fodder) | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [优设导航](https://hao.uisdc.com/) | 素材站导航 | [Seeseed](https://www.seeseed.com/) |
+| [优设导航](https://hao.uisdc.com/) | 素材站导航 | [Seeseed](https://www.seeseed.com/)/[创造狮](http://chuangzaoshi.com/index) |
 | [smartresize](https://www.smartresize.com/) | 线上图片剪裁工具 | Y |
 | [bigbigwork](https://www.bigbigwork.com/) | 素材设计网站 | Y |
 | [优品PPT](http://www.ypppt.com/) | PPT设计网站 | Y |
