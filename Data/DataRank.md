@@ -8,6 +8,7 @@
 | [死亡公司公墓](https://www.itjuzi.com/deathCompany) | 新经济死亡公司数据库 | [IT桔子-主站](https://www.itjuzi.com/) - [2017年30岁以下创业新贵](https://www.itjuzi.com/addedDataRankInfo?id=24&type=4&isExit=1) |
 | [鱼塘热榜](https://mo.fish/) | O_O | Y |
 | [大数据导航](http://hao.199it.com/) | 工业数据 | Y |
+| [雪球](https://xueqiu.com/dh) | 财经网址 | Y |
 | [今日热榜](https://tophub.today/) | 论坛、热搜导航 | Y |
 | [果汁排行榜](http://guozhivip.com/rank/) | 娱乐风云榜 | Y |
 | [七麦数据](https://www.qimai.cn/rank) | App风云榜 | Y |
