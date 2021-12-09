@@ -26,4 +26,4 @@ icon：[阿里通信图标库](https://www.iconfont.cn/collections/detail?spm=a3
 
 LOGO：
 
-视频剪辑相关工具：[迅捷视频合并分割软件](https://www.xunjieshipin.com/download-videoeditor)- [找台词](http://zhaotaici.cn/index.html##)→[配音](http://33.agilestudio.cn/) - []()
+视频剪辑相关工具：[迅捷视频合并分割软件](https://www.xunjieshipin.com/download-videoeditor) - [找台词](http://zhaotaici.cn/index.html##)→[配音](http://33.agilestudio.cn/) - []()
