@@ -1,6 +1,6 @@
 # TorrentKitty Lists [←](index.md)
 
-| 传送门 - [N](../Library/synthesize.md) - [D](DataRank.md) | 描述 | 摘要 |
+| [传送门](../navigation.md) - [N](../Library/synthesize.md) - [D](DataRank.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | ~~[资源搜索](http://magnet.chongbuluo.com/)~~ | 聚合搜素 | Y |
 | [懒盘搜索](https://www.lzpan.com/) | 聚合搜素 | Y |
