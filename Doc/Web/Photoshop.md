@@ -16,6 +16,8 @@ Author：AmbroseRen
 
 素材站：[千图网](https://www.58pic.com/) - [千库网](https://588ku.com/) - [花瓣网](https://huaban.com/) - []()
 
+配音：[牛片网](https://www.6pian.cn/)
+
 原创设计参考：[大作](https://www.bigbigwork.com/) - []()
 
 字体站：[100font](https://www.100font.com/)免费商用字体
