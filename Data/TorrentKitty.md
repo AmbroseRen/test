@@ -2,8 +2,9 @@
 
 | 传送门 - [N](../Library/synthesize.md) - [D](DataRank.md) | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [资源搜索](http://magnet.chongbuluo.com/) | 聚合搜素 | Y |
-| [zooqle](https://zooqle.com/) | en | Y |
+| ~~[资源搜索](http://magnet.chongbuluo.com/)~~ | 聚合搜素 | Y |
+| [懒盘搜索](https://www.lzpan.com/) | 聚合搜素 | Y |
+| [zooqle](https://zooqle.com/) | en-书籍,期刊 | Y |
 | [海盗湾](https://thepiratebay.org/index.html) | O_O | Y |
 | [torrentkittyurl](http://torrentkittyurl.com/tk/) | O_O | Y |
 | [不死鸟](https://iao.su/) | O_O | [影视资源站](https://iao.su/531/) |
