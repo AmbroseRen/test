@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | [tampermonkey Install](https://www.tampermonkey.net/) | Chrome Js Loader | Y |
 | [markdownpad](http://markdownpad.com/download.html) | MD File Editor | [ Awesomium 1.6.6 SDK](http://markdownpad.com/faq.html)/[破解教程](https://www.jianshu.com/p/1745a7f53404) - table style：table { border-collapse: collapse; }|
-| [typora](https://typora.io/) | Higher MD File Editor | [下载](https://ghpym.lanzoui.com/b00zng7gd) |
+| [typora](https://typora.io/) | Higher MD File Editor | [下载](https://ghpym.lanzoui.com/b00zng7gd)/[Mac](https://wwe.lanzouo.com/i6s9exf3rib)破解·未验 |
 | [sigil-ebook](https://sigil-ebook.com/) | epub电子书制作器 | [下载](https://github.com/Sigil-Ebook/Sigil/releases/tag/1.5.1) - [epubBuilder](https://www.soepub.com/soft)书籍编辑器(国产-掌上书苑) |
 | [octotree](https://www.octotree.io/) | github project tree catalogue | Y |
 | [teamviewer](https://www.teamviewer.cn/cn/teamviewer-automatic-download/) | 远程协同控制软件 | Y |
