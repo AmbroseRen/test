@@ -18,7 +18,7 @@
 
 # Fodder Lists  [←](../index.md)
 
-| [传送门](../../navigation.md) | 描述 | 摘要 |
+| [传送门](../../navigation.md#fodder) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [优设导航](https://hao.uisdc.com/) | 素材站导航 | Y |
 | [smartresize](https://www.smartresize.com/) | 线上图片剪裁工具 | Y |
