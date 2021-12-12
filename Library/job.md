@@ -13,6 +13,6 @@
 | [拉勾网](https://www.lagou.com/) | O_O | X | X | X |
 | [猎聘网](https://c.liepin.com/) | O_O | [简历](https://c.liepin.com/resume/getdefaultresume/)/[进展](https://c.liepin.com/apply/applylist/) | X | X |
 | GlobalJob | 全球市场 | X | X | X |
-| [领英](https://www.linkedin.com/) | O_O | X | X | X |
+| [领英](https://www.linkedin.com/) | O_O | [glassdoor](https://www.glassdoor.com/) | X | X |
 | []() | O_O | X | X | X |
 | []() | O_O | X | X | X |
