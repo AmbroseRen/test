@@ -39,8 +39,8 @@
 | []() | O_O | Y |
 | 游戏平台 | O_O | Y |
 | [Steam](https://store.steampowered.com/about/) | O_O | [steam每日特惠](https://www.newyx.net/news/steammrth/) |
-| [暴雪战网](https://account.battlenet.com.cn/overview) | O_O | Y |
-| []() | O_O | Y |
+| [暴雪战网](https://account.battlenet.com.cn/overview) | 网易旗下 | Y |
+| [WeGame](https://www.wegame.com.cn/) | 腾讯旗下 | Y |
 | 下载站 | 30G+ | 大型PC游戏 |
 | [游民星空](https://www.gamersky.com/) | O_O | Y |
 | [游侠网](https://www.ali213.net/) | O_O | Y |
