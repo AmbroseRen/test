@@ -32,9 +32,10 @@
 | [华为应用](https://appgallery.huawei.com/app/C27162) | O_O | Y |
 | [apkpure](https://apkpure.com/cn/) | O_O | Y |
 | 游戏资讯 | O_O | Y |
+| [奶牛关](https://cowlevel.net/game) | O_O | Y |
+| [NGA](https://nga.178.com/thread.php?fid=-7955747) | O_O | Y |
 | [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | ~~[新游戏放号](https://igame.qq.com/games/grantaccount.php)~~ |
 | [ratel](https://github.com/ainilili/ratel) | cmd斗地主 | Y |
-| []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | smallGame | 小游戏 | Y |
