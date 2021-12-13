@@ -1,6 +1,6 @@
 # Tools Lists [←](../index.md)
 
-| [传送门](../navigaton.md#tools) | 描述 | 摘要 |
+| [传送门](../navigation.md#tools) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | Install | 安装工具 | Y |
 | [gifcam](http://blog.bahraniapps.com/gifcam/) | gif录制工具 | Y |
