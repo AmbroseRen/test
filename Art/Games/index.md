@@ -45,7 +45,7 @@
 | 游戏 | O_O | Y |
 | [dota2](https://www.dota2.com.cn/article/details/20180801/200161.html) | O_O | [账号中心](https://members.dota2.com.cn/info) |
 | [三国杀online](http://web.sanguosha.com/login/index.html) | O_O | [官网](https://www.sanguosha.com/) |
-| []() | O_O | Y |
+| 狼人杀 | O_O | Y |
 | [巫师之昆特牌](https://www.playgwent.cn/preregister) | O_O | [账号中心](http://account.gaeamobile.net/account/index) |
 | 下载站 | 30G+ | 大型PC游戏 |
 | [游民星空](https://www.gamersky.com/) | O_O | Y |
