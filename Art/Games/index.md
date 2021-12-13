@@ -42,6 +42,7 @@
 | [暴雪战网](https://account.battlenet.com.cn/overview) | 网易旗下 | Y |
 | [WeGame](https://www.wegame.com.cn/) | 腾讯旗下 | Y |
 | [橙光](http://www.66rpg.com/) | 橙光游戏 | [ranking](http://www.66rpg.com/list/ranking)/[favorites](http://www.66rpg.com/home/favorites)/[逆袭之星途闪耀](http://www.66rpg.com/game/61414)/[人生如戏全凭吻技](http://www.66rpg.com/game/1326295)/[应海看潮生](http://www.66rpg.com/monthly/t_21/2883.shtml) |
+| [dota2](https://www.dota2.com.cn/article/details/20180801/200161.html) | O_O | [账号中心](https://members.dota2.com.cn/info) |
 | [三国杀online](http://web.sanguosha.com/login/index.html) | O_O | Y |
 | []() | O_O | Y |
 | [巫师之昆特牌](https://www.playgwent.cn/preregister) | O_O | [账号中心](http://account.gaeamobile.net/account/index) |
