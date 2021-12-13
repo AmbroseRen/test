@@ -25,7 +25,6 @@
 | [传送门](../../navigation.md#games) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | APP Store | 手机APP下载平台 | Y |
-| []() | O_O | Y |
 | [豌豆荚](https://www.wandoujia.com/) | O_O | Y |
 | [pp助手](https://www.pp.cn/) | 阿里旗下布局 | Y |
 | [应用宝](https://sj.qq.com/) | 腾讯旗下 | Y |
