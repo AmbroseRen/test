@@ -3,7 +3,7 @@
 #content table {width:1300px;}
 </style>
 
-# 书摘拾贝  [←](index.md)
+# 书摘拾[贝](../navigation.md#seashell)  [←](index.md)
 
 - 隐私安全——监控、DNS劫持、数字集权;自由的代价——[王玄](https://blog.wangxuan.name/) - [数字移民](https://blog.shuziyimin.org/) - [老大哥馆](https://chinadigitaltimes.net/space/%E8%80%81%E5%A4%A7%E5%93%A5%E9%A6%86)
 
