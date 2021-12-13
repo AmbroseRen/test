@@ -35,7 +35,7 @@
 | [奶牛关](https://cowlevel.net/game) | O_O | [custom-interest](https://cowlevel.net/custom-interest) |
 | [NGA](https://nga.178.com/thread.php?fid=-7955747) | O_O | Y |
 | [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | ~~[新游戏放号](https://igame.qq.com/games/grantaccount.php)~~ |
-| [ratel](https://github.com/ainilili/ratel) | cmd斗地主 | Y |
+| ~~[ratel](https://github.com/ainilili/ratel)~~ | cmd斗地主 | Y |
 | []() | O_O | Y |
 | 下载站 | 30G+ | 大型PC游戏 |
 | [游民星空](https://www.gamersky.com/) | O_O | Y |
