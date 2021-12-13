@@ -28,6 +28,9 @@
 | [豌豆荚](https://www.wandoujia.com/) | O_O | Y |
 | [pp助手](https://www.pp.cn/) | 阿里旗下布局 | Y |
 | [应用宝](https://sj.qq.com/) | 腾讯旗下 | Y |
+| [Google Play](https://play.google.com/store/apps) | Global | Y |
+| [华为应用](https://appgallery.huawei.com/app/C27162) | O_O | Y |
+| [apkpure](https://apkpure.com/cn/) | O_O | Y |
 | 游戏资讯 | O_O | Y |
 | [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | [新游戏放号](https://igame.qq.com/games/grantaccount.php) |
 | [ratel](https://github.com/ainilili/ratel) | pkp | Y |
