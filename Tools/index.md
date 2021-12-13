@@ -9,7 +9,7 @@
 | [站长工具](http://tool.chinaz.com/js.aspx) | 前端格式转换 | Y |
 | [在线代码格式化](https://tool.oschina.net/codeformat/sql)二步辅助可阅读 | O_O | [主站](https://tool.oschina.net/) - [Unicode转中文](https://www.dute.org/unicode)一步辅助人可解析 |
 | [Json格式化](http://www.bejson.com/) | O_O | Y |
-| [在线工具](https://tool.lu/c/developer) | O_O | Y |
+| [在线工具](https://tool.lu/c/developer) | O_O | [加解密](https://tool.oschina.net/encrypt/) |
 | [文档格式转换](https://www.toolnb.com/toolslist/312.html) | O_O | Y |
 | [URL编解码](https://www.dute.org/url-encode) | O_O | Y |
 | [FreeDownloadManager](https://www.freedownloadmanager.org/zh/) | [多线程下载器](https://www.jianshu.com/p/412c0c3936ad) | [备份提取码: rsjb](https://pan.baidu.com/s/1Dt38zc3IQiMdnziUprLF0w) |
