@@ -37,6 +37,10 @@
 | [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | ~~[新游戏放号](https://igame.qq.com/games/grantaccount.php)~~ |
 | ~~[ratel](https://github.com/ainilili/ratel)~~ | cmd斗地主 | Y |
 | []() | O_O | Y |
+| 游戏平台 | O_O | Y |
+| []() | O_O | Y |
+| [暴雪战网](https://account.battlenet.com.cn/overview) | O_O | Y |
+| []() | O_O | Y |
 | 下载站 | 30G+ | 大型PC游戏 |
 | [游民星空](https://www.gamersky.com/) | O_O | Y |
 | [游侠网](https://www.ali213.net/) | O_O | Y |
