@@ -1,4 +1,4 @@
-<script src="js/JQuery/jquery.min.js" type="text/javascript"></script>
+<script src="../../js/JQuery/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" charset="utf-8">
   // Creating custom :external selector
   $.expr[':'].external = function(obj){
