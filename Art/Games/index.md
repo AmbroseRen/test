@@ -38,7 +38,7 @@
 | ~~[ratel](https://github.com/ainilili/ratel)~~ | cmd斗地主 | Y |
 | []() | O_O | Y |
 | 游戏平台 | O_O | Y |
-| []() | O_O | Y |
+| [Steam](https://store.steampowered.com/about/) | O_O | Y |
 | [暴雪战网](https://account.battlenet.com.cn/overview) | O_O | Y |
 | []() | O_O | Y |
 | 下载站 | 30G+ | 大型PC游戏 |
