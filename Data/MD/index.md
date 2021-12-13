@@ -1,3 +1,21 @@
+<script src="js/JQuery/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  // Creating custom :external selector
+  $.expr[':'].external = function(obj){
+      return !obj.href.match(/^mailto\:/)
+              && (obj.hostname != location.hostname);
+  };    
+  
+  $(function(){
+    // Add 'external' CSS class to all external links
+    $('a:external').addClass('external');
+
+    // turn target into target=_blank for elements w external class
+    $(".external").attr('target','_blank');
+
+  })
+</script>
+
 # [MD](../../navigation.md#md) File [←](../index.md)
 
 | [MD liquid模板库](https://launchpad.net/ubuntu/+source/liquid-dsp/1.3.1-1) | _ | _ |
