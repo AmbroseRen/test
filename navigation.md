@@ -21,7 +21,7 @@
   })
 </script>
 
-# 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)  [S](search.md)    &emsp;&emsp;<b><font color="#00ffff" face="楷体">作为写手,保持思考</font></b>
+# 快速拨号页  [←](https://ambroseren.github.io/test/indexes.html)  [S](search.md)    &emsp;&emsp;&emsp;<b><font color="#00ffff" face="楷体">作为写手,保持思考</font></b>
 
 | [Reader](Library/BookListsOne.md)/[BS](Library/BookSearch.md)/[N](Library/Novel.md)/[公告栏](https://ambroseren.github.io/test/sag3.html) | [日常](https://ambroseren.github.io/test/navigation.html#sp)/[D](Data/DataRank.md)/[T](Data/TorrentKitty.md)/[N](Library/synthesize.md)/[A](Art/index.md)/~~[S](https://shouku123.com/rensi)~~ | [网络公开课](Library/LearnPlatform.md) | 算法社区 |
 |:---:|:---:|:---:|:---:|
