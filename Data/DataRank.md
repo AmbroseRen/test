@@ -1,3 +1,8 @@
+<style type="text/css">
+#content {margin-left: 2%;}
+#content table {width:1300px;}
+</style>
+
 # DataRank List [←](index.md)
 
 | Protal([传送门](../navigation.md)) - [N](../Library/synthesize.md) - [T](TorrentKitty.md) | Destription(描述) | Abstract(摘要) |
