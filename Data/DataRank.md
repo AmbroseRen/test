@@ -10,6 +10,7 @@
 | [2021福布斯·全球富豪榜](https://www.forbeschina.com/lists/1757) | [lists](https://www.forbeschina.com/lists) | [奶头乐理论](https://wiki.mbalib.com/wiki/奶头乐理论) - [2021福布斯·中国](https://www.forbeschina.com/lists/1774) |
 | [雪球](https://xueqiu.com/dh) | 财经网址 | Y |
 | __APP__ | 手机应用数据 | Y |
+| [TapTap](https://www.taptap.com/top/played) | 手游榜 | Y |
 | [Quest Mobile](https://www.questmobile.com.cn/research/report-new) | 手机市场行业研究报告 | Y |
 | [七麦数据](https://www.qimai.cn/rank) | App Store+iPhone排行榜 | Y |
 | [dapp](https://www.dapp.com/) | 去中心化市场应用发布平台 - 优秀技术产品 | [白皮书介绍](https://www.dapp.com/token/Dapp_WhitePaper_cn.pdf) - [best Hive social dapps](https://www.dapp.com/store/hive-social) |
