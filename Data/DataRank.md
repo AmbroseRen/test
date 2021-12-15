@@ -19,7 +19,7 @@
 | [今日热榜](https://tophub.today/) | 论坛、热搜导航 | Y |
 | [果汁排行榜](http://guozhivip.com/rank/) | 娱乐风云榜 | Y |
 | [七麦数据](https://www.qimai.cn/rank) | App风云榜 | Y |
-| [神策数据](https://www.sensorsdata.cn/) | 企业数据分析产品 | Y |
+| [神策数据](https://www.sensorsdata.cn/demo/demo.html) | 企业数据分析产品 | Y |
 | ~~[西瓜数据](https://data.xiguaji.com/)~~ | 新媒体流量监测及精准营销服务 | Y |
 | [飞瓜数据](https://www.feigua.cn/)/[抖音](https://dy.feigua.cn/?chl=feigua2)/[快手](https://ks.feigua.cn/Member#/StaticPage/Workbench)/[B站](http://bz.feigua.cn/member#/Member/WorkBench) | 短视频&直播电商数据分析 | Y |
 | [Alexa](https://www.alexa.com/topsites) | 世界网站访问排行榜 | Y |
