@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|
 | [2021福布斯·全球富豪榜](https://www.forbeschina.com/lists/1757) | [lists](https://www.forbeschina.com/lists) | [奶头乐理论](https://wiki.mbalib.com/wiki/奶头乐理论) - [2021福布斯·中国](https://www.forbeschina.com/lists/1774) |
 | APP | 手机应用数据 | Y |
-| [Quest Mobile](https://www.questmobile.com.cn/research/report-new) | 手机移动市场研究报告 | Y |
+| [Quest Mobile](https://www.questmobile.com.cn/research/report-new) | 手机市场行业研究报告 | Y |
 | [七麦数据](https://www.qimai.cn/rank) | App风云榜 | Y |
 | 新媒体数据 | O_O | Y |
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 媒体平台 | [主站](https://newrank.cn/) |
