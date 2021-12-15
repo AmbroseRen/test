@@ -10,17 +10,17 @@
 | [2021福布斯·全球富豪榜](https://www.forbeschina.com/lists/1757) | [lists](https://www.forbeschina.com/lists) | [奶头乐理论](https://wiki.mbalib.com/wiki/奶头乐理论) - [2021福布斯·中国](https://www.forbeschina.com/lists/1774) |
 | APP | 手机应用数据 | Y |
 | [Quest Mobile](https://www.questmobile.com.cn/research/report-new) | O_O | Y |
+| [七麦数据](https://www.qimai.cn/rank) | App风云榜 | Y |
 | 新媒体数据 | O_O | Y |
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 媒体平台 | [主站](https://newrank.cn/) |
 | [头榜数据](http://www.toubang.tv/anchor/mutile.html) | 直播平台 | Y |
 | [新抖](https://xd.newrank.cn/home/index) | 抖音数据运营平台 | Y |
 | [死亡公司公墓](https://itjuzi.com/deathCompany) | 新经济死亡公司数据库 | [IT桔子-主站](https://itjuzi.com/) - [2017年30岁以下创业新贵](https://itjuzi.com/addedDataRankInfo?id=24&type=4&isExit=1) |
-| [鱼塘热榜](https://mo.fish/) | O_O | Y |
+| ~~[鱼塘热榜](https://mo.fish/)~~ | 论坛 | Y |
 | [大数据导航](http://hao.199it.com/) | 工业数据 | Y |
 | [雪球](https://xueqiu.com/dh) | 财经网址 | Y |
 | [今日热榜](https://tophub.today/) | 论坛、热搜导航 | Y |
 | [果汁排行榜](http://guozhivip.com/rank/) | 娱乐风云榜 | Y |
-| [七麦数据](https://www.qimai.cn/rank) | App风云榜 | Y |
 | [神策数据](https://www.sensorsdata.cn/demo/demo.html) | 企业数据分析产品 | Y |
 | ~~[西瓜数据](https://data.xiguaji.com/)~~ | 新媒体流量监测及精准营销服务 | Y |
 | [飞瓜数据](https://www.feigua.cn/)/[抖音](https://dy.feigua.cn/?chl=feigua2)/[快手](https://ks.feigua.cn/Member#/StaticPage/Workbench)/[B站](http://bz.feigua.cn/member#/Member/WorkBench) | 短视频&直播电商数据分析 | Y |
