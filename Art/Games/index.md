@@ -27,7 +27,7 @@
 | APP Store | 手机APP下载平台 | Y |
 | [豌豆荚](https://www.wandoujia.com/) | O_O | Y |
 | [pp助手](https://www.pp.cn/) | 阿里旗下布局 | Y |
-| [应用宝](https://sj.qq.com/) | 腾讯旗下 | Y |
+| [应用宝](https://sj.qq.com/) | 腾讯旗下 | [App列表](https://webcdn.m.qq.com/webapp_myapp/index.html#/) |
 | [酷安](https://www.coolapk.com/) | 数码科技爱好者 | Y |
 | [Google Play](https://play.google.com/store/apps/details?id=com.google.android.gms&hl=zh&gl=US) | Global | [Store](https://play.google.com/store/apps) |
 | [华为应用](https://appgallery.huawei.com/app/C27162) | O_O | Y |
