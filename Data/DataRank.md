@@ -27,7 +27,6 @@
 | [防病毒软件排行榜](https://www.antivirussoftwareguide.com/best-free-antivirus) | 你是否还在为(流氓软件 + 惊喜全家桶)开心呢 | Y |
 | [SEO](https://www.aizhan.com/cha/www.icantv.cn/) | 站长工具 | Y |
 | [dapp](https://www.dapp.com/) | 去中心化市场应用发布平台 - 优秀技术产品 | [白皮书介绍](https://www.dapp.com/token/Dapp_WhitePaper_cn.pdf) - [best Hive social dapps](https://www.dapp.com/store/hive-social) |
-| [腾讯应用宝-App列表](https://sj.qq.com/myapp/category.htm?orgame=1&categoryId=102) | O_O | Y |
 | [专利之星检索系统](http://www.patentstar.cn/frmLogin.aspx) | O_O | Y |
 | [中国及多国专利审查信息查询](http://cpquery.cnipa.gov.cn/) | O_O | Y |
 | [The 50 Best Blogs in the World](https://detailed.com/50/) | O_O | Y |
