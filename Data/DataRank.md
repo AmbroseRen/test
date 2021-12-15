@@ -8,8 +8,9 @@
 | Protal([传送门](../navigation.md)) - [N](../Library/synthesize.md) - [T](TorrentKitty.md) | Destription(描述) | Abstract(摘要) |
 |:---:|:---:|:---:|
 | [2021福布斯·全球富豪榜](https://www.forbeschina.com/lists/1757) | [lists](https://www.forbeschina.com/lists) | [奶头乐理论](https://wiki.mbalib.com/wiki/奶头乐理论) - [2021福布斯·中国](https://www.forbeschina.com/lists/1774) |
-| APP | 手机应用 | Y |
+| APP | 手机应用数据 | Y |
 | [Quest Mobile](https://www.questmobile.com.cn/research/report-new) | O_O | Y |
+| 新媒体数据 | O_O | Y |
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 内容产业服务平台 | [主站](https://newrank.cn/) |
 | [平台头榜数据TV](http://www.toubang.tv/anchor/mutile.html) | O_O | Y |
 | [新抖](https://xd.newrank.cn/home/index) | 抖音数据运营平台 | Y |
