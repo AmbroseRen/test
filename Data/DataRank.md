@@ -12,6 +12,7 @@
 | __APP__ | 手机应用数据 | Y |
 | [Quest Mobile](https://www.questmobile.com.cn/research/report-new) | 手机市场行业研究报告 | Y |
 | [七麦数据](https://www.qimai.cn/rank) | App Store+iPhone排行榜 | Y |
+| [dapp](https://www.dapp.com/) | 去中心化市场应用发布平台 - 优秀技术产品 | [白皮书介绍](https://www.dapp.com/token/Dapp_WhitePaper_cn.pdf) - [best Hive social dapps](https://www.dapp.com/store/hive-social) |
 | __新媒体数据__ | O_O | Y |
 | [新榜](https://www.newrank.cn/public/info/list.html?period=day&type=data) | 媒体平台 | [主站](https://newrank.cn/) |
 | [头榜数据](http://www.toubang.tv/anchor/mutile.html) | 直播平台 | Y |
@@ -31,7 +32,6 @@
 | [维基百科-最受欢迎网站列表](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8) | O_O | Y |
 | [防病毒软件排行榜](https://www.antivirussoftwareguide.com/best-free-antivirus) | 你是否还在为(流氓软件 + 惊喜全家桶)开心呢 | Y |
 | [SEO](https://www.aizhan.com/cha/www.icantv.cn/) | 站长工具 | Y |
-| [dapp](https://www.dapp.com/) | 去中心化市场应用发布平台 - 优秀技术产品 | [白皮书介绍](https://www.dapp.com/token/Dapp_WhitePaper_cn.pdf) - [best Hive social dapps](https://www.dapp.com/store/hive-social) |
 | [专利之星检索系统](http://www.patentstar.cn/frmLogin.aspx) | O_O | Y |
 | [中国及多国专利审查信息查询](http://cpquery.cnipa.gov.cn/) | O_O | Y |
 | [The 50 Best Blogs in the World](https://detailed.com/50/) | O_O | Y |
