@@ -24,6 +24,7 @@
 
 | [传送门](../../navigation.md#games) | 描述 | 摘要 |
 |:---:|:---:|:---:|
+| [TapTap](https://www.taptap.com/top/played) | 手游榜 | Y |
 | APP Store | 手机APP下载平台 | Y |
 | [豌豆荚](https://www.wandoujia.com/) | O_O | Y |
 | [pp助手](https://www.pp.cn/) | 阿里旗下布局 | Y |
