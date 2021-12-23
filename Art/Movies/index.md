@@ -36,7 +36,7 @@
 | []() | O_O | Y |
 | []() | O_O | Y |
 | __IMDB__ | 评分 | Y |
-| [IMbd影评·导航](https://m.imdb.com/?ref_=ft_mdot) | O_O | Y |
+| [IMbd](https://www.imdb.com/) | 影评·导航 | Y |
 | __Tools__ | 工具 | Y |
 | [potplayer](https://potplayer.daum.net/?lang=zh_CN) | 高渲染播放器 | Y |
 | [videolan](https://www.videolan.org/index.zh.html) | 播放器 | Y |
