@@ -24,17 +24,20 @@
 
 | [传送门](../../navigation.md#sp) | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| Navication | 导航 | Y |
+| __Navication__ | 导航 | Y |
 | [电影网站导航·一](http://www.ziyuangou.com/tag/zaixiandianying/) | O_O | Y |
 | [电影网站导航·二](http://www.staycu.com/archives/237) | O_O | Y |
-| website | 网站 | Y |
+| __website__ | 网站 | Y |
 | [mvcat](http://www.mvcat.com) | O_O | Y |
 | [片库](https://www.pianku.me/tv/wNiNWarFDM.html) | O_O | Y |
 | [新视觉影院](https://www.ixinshijue.com/) | O_O | Y |
 | [草民电影院](https://www.cmdy2020.com/kongbupian.html) | O_O | Y |
-| IMDB | 评分 | Y |
+| __KB片__ | 限制级 | Y |
+| []() | O_O | Y |
+| []() | O_O | Y |
+| __IMDB__ | 评分 | Y |
 | [IMbd影评·导航](https://m.imdb.com/?ref_=ft_mdot) | O_O | Y |
-| Tools | 工具 | Y |
+| __Tools__ | 工具 | Y |
 | [potplayer](https://potplayer.daum.net/?lang=zh_CN) | 高渲染播放器 | Y |
 | [videolan](https://www.videolan.org/index.zh.html) | 播放器 | Y |
 | [XBMC](https://kodi.tv/download/) | 播放器 | Y |
