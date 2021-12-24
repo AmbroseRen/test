@@ -32,7 +32,7 @@
 | [片库](https://www.pianku.me/tv/wNiNWarFDM.html) | O_O | Y |
 | [新视觉影院](https://www.ixinshijue.com/) | O_O | Y |
 | [草民电影院](https://www.cmdy2020.com/kongbupian.html) | O_O | Y |
-| __[KB](http://www.5kb000.com/)片__ | 限制级 | Y |
+| __[KB](http://www.5kb000.com/)[片](http://wap.5kb000.com/)__ | 限制级 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | __IMDB__ | 评分 | Y |
