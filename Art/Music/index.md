@@ -32,7 +32,7 @@
 | 主平台 | O_O | Y |
 | [QQ音乐](https://y.qq.com/n/yqq/playlist/1249952025.html) | O_O | Y |
 | [酷狗音乐](http://www.kugou.com/) | O_O | Y |
-| [网易云音乐](https://music.163.com/) | O_O | Y |
+| [网易云音乐](https://music.163.com/) | O_O | [cloud-music-tools](https://github.com/meng-chuan/Unlock-netease-cloud-music) |
 | 音乐网站 | O_O | Y |
 | [音乐圣经](https://www.musicbible.com/) | O_O | Y |
 | [新芭网](https://www.sin80.com/artist/beethoven) | O_O | Y |
@@ -46,7 +46,7 @@
 | [loft](https://loft.radio/) | en | Y |
 | []() | O_O | Y |
 | [自由钢琴](https://www.autopiano.cn/) | O_O | Y |
-| [cloud-music-tools](https://github.com/meng-chuan/Unlock-netease-cloud-music) | O_O | Y |
+| []() | O_O | Y |
 | lucy | 25 | X |
 
 
