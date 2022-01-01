@@ -1,6 +1,6 @@
 # DocList   [Home](../index.md)
 
-| __[list](list.md)__ | _ | _ |
+| __[LIST](list.md)__ | _ | _ |
 |:---:|:---:|:---:|
 | [News](News/index.md) | [Article](article/index.md) | [Diary](Diary/index.md) |
 | [Law](Law/index.md) | [Web](Web/index.md) | X |
