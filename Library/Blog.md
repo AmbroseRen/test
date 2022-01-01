@@ -57,7 +57,7 @@
 | []() | 0_0 | Y |
 | IT | 技术 | Y |
 | [博客构建框架](https://ambroseren.github.io/test/Data/InstallPackage/Plugins.html) | 自行选择 | Y |
-| [雷军的博客](https://www.ljcoder.com/) | 0_0 | [雷军](http://leijun.blog.techweb.com.cn/)-08→16/[新浪博客](http://blog.sina.com.cn/s/articlelist_1259217865_0_1.html)-08→12 |
+| [雷军的博客](https://www.ljcoder.com/) | 0_0 | [雷军](http://leijun.blog.techweb.com.cn/)-08→16/[techweb](http://blog.techweb.com.cn/)/[新浪博客](http://blog.sina.com.cn/s/articlelist_1259217865_0_1.html)-08→12 |
 | [云玩家](https://yunist.cn/) - [weiyuexin](https://weiyuexin.top/) | 优质博客搭建 | [配置你的 github pages](https://github.com/hoperyy/blog/issues/10) - [Working with GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages) - [最全hexo博客搭建](https://yunist.cn/hexo/Hexo_blog_build/#Jsdelivr-%E5%8A%A0%E9%80%9F) - [知乎相关搭建](https://zhuanlan.zhihu.com/p/111639860) |
 | []() | 0_0 | Y |
 | [韦阳博客](https://godweiyang.com/) | 算法 | [github+Hexo搭建手册](https://godweiyang.com/2018/04/13/hexo-blog/)(优质) - [相关搭建](https://zhuanlan.zhihu.com/p/35668237) - [相关主题](https://zhuanlan.zhihu.com/p/129618255) - [hexo插件优化](https://zhuanlan.zhihu.com/p/33616481) - [相关搭建手册一](https://sspai.com/post/59480) - [相关搭建手册二](https://hans2936.github.io/2018/06/06/HexoLog/) |
