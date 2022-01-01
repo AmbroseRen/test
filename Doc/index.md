@@ -1,4 +1,4 @@
-# DocList   [Home](../index.md)
+# [Doc](../navigation.md)List   [Home](../index.md)
 
 | __[List](list.md)__ | _ | _ |
 |:---:|:---:|:---:|
