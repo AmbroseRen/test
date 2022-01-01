@@ -42,6 +42,7 @@
 | []() | O_O | Y |
 | __游戏平台__ | O_O | Y |
 | [Steam](https://store.steampowered.com/about/) | O_O | [steam每日特惠](https://www.newyx.net/news/steammrth/) |
+| [GOG](https://www.gog.com/games?sort=popularity&page=1) | O_O | Y |
 | [暴雪战网](https://account.battlenet.com.cn/overview) | 网易旗下 | Y |
 | [WeGame](https://www.wegame.com.cn/) | 腾讯旗下 | Y |
 | [橙光](http://www.66rpg.com/) | 橙光游戏 | [ranking](http://www.66rpg.com/list/ranking)/[favorites](http://www.66rpg.com/home/favorites)/[逆袭之星途闪耀](http://www.66rpg.com/game/61414)/[人生如戏全凭吻技](http://www.66rpg.com/game/1326295)/[应海看潮生](http://www.66rpg.com/monthly/t_21/2883.shtml) |
