@@ -292,7 +292,7 @@
                     <li>《科幻世界》2018年 第12期</li>
                     <li>不合时宜的本能【钟推移】</li>
                     <li>重力矿场【史蒂芬·巴克斯特】</li>
-                    <li><a href="https://www.kanunu8.com/zt/zt_10919.html">《龙族系列》</a> - <a href="https://www.51shucheng.net/zh-tw/wangluo/longzu">副链</a> - <a href="https://www.101novel.com/ck101/4736/">英雄志</a> 孙晓</li>
+                    <li><a href="https://www.kanunu8.com/zt/zt_10919.html">《龙族系列》</a> - <a href="https://www.kanunu8.com/files/writer/4460.html">江南作品集</a> - <a href="https://www.51shucheng.net/zh-tw/wangluo/longzu">副链</a> - <a href="https://www.101novel.com/ck101/4736/">英雄志</a> 孙晓</li>
                     <li>《必然》（凯文·凯利）</li>
                     <li>弗里曼·戴森--戴森球构想
                         <ul>
