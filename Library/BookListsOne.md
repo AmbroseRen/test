@@ -243,6 +243,7 @@
                     <li><a href="https://www.tianyabooks.com/book/bailuyuan/">《白鹿原》</a>--陈忠实--从历史命运看人性悲剧</li>
                     <li><a href="https://www.pingfandeshijie.net/">《平凡的世界》</a>--路遥--</li>
                     <li><a href="https://files.catbox.moe/auj9nl.txt">《智慧之旅》</a></li>
+		    <li><a href="https://www.kanunu8.com/files/writer/121.html">六六作品集</a></li>
                     <li>-------------------</li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Literature/Novel/[美]尼尔路波兹曼：娱乐至死（广西师大.2004）.pdf">《娱乐至死》</a> 尼尔·波兹曼</li>
                     <li><a href="https://files.catbox.moe/2u8nxc.pdf">《被讨厌的勇气》</a> 岸见一郎</li>
