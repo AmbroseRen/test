@@ -278,6 +278,7 @@
                     <li><a href="https://tw.m.ixdzs.com/author/宇尘庸兰">宇尘庸兰作品集</a>/<a href="https://www.bxwxorg.com/author/宇尘庸兰.html">副链</a> - <a href="https://tw.ttkan.co/novel/chapters/lingmeidaoyou-yuchenyonglan">灵煤导游①白骨温泉②虎山尸踪③泪蚀青岩④天池祭典⑤彼岸双生</a> - <a href="https://www.zhaiyd9.com/book/537731/nvshengwenkesushe_mulu.html">女生文科宿舍</a>/<a href="https://www.sto.cx/book-163991-1.html">副链</a> - <a href="https://m.biaiks.com/kanwen/jjOa/indexlist.html">女生理科宿舍</a>/<a href="https://m.erqisw.com/yuedu/xKD/ml.html">副链</a> - <a href="https://www.zhaiyd9.com/book/537737/nvshengwaiyusushe_mulu.html">女生外语宿舍</a></li>
 		    <li><a href="http://www.diandianxs.com/nishizideshayi/">逆十字的杀意</a>▪何慕</li>
 		    <li><a href="https://www.kanunu8.com/files/writer/9497.html">阿加莎·克里斯蒂作品集</a></li>
+		    <li><a href="https://www.mengruan.com/fayi/">法医秦明作品集</a>/<a href="https://www.kanunu8.com/files/writer/10533.html">副链</a></li>
                 </ul>
             </li>		
             <li id="science"><a href="#top">Science</a>
