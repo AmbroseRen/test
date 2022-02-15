@@ -73,7 +73,7 @@
 | [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
 | __Cartoon__ | __绘本__ | X | X | X |
 | [Epic](https://www.getepic.com/app/) | en | [Storyline](https://storylineonline.net/library/) - [uniteforliteracy](https://www.uniteforliteracy.com/) - [bookdash](https://bookdash.org/books/) | X | X |
-| [Little Fox](https://chinese.littlefox.com/en/story) | cn | [PPT](https://www.1ppt.com/xiazai/huiben/)-[1](http://www.pptok.com/e/search/result/?searchid=404993) | X | X |
+| [Little Fox](https://chinese.littlefox.com/en/story) | cn | [我爱](http://www.woaihuiben.com/books) - [PPT](https://www.1ppt.com/xiazai/huiben/)-[1](http://www.pptok.com/e/search/result/?searchid=404993) | X | X |
 | __Other__ | __其他__ | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [苦瓜书盘](http://kgbook.com/) | 团队维护 | X | X | X |
