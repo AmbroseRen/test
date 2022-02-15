@@ -70,7 +70,6 @@
 | __Primer__ | __初级读本__ | X | X | [凌风云文库](https://wenku.lingfengyun.com/) |
 | [e-Reader](https://english-e-reader.net/level/pre-intermediate) | en | X | X | X |
 | [manybooks](https://manybooks.net/) | en-故事+传记 | [The Count of Monte Cristo](https://manybooks.net/book/123156/read#epubcfi(/6/4[item452]!/4/34[pgepubid00001]/1:0))•[PDF](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/The-Count-of-Monte-Cristo.pdf) | X | X |
-| [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
 | __Cartoon__ | __绘本__ | X | X | X |
 | [Epic](https://www.getepic.com/app/) | en | [Storyline](https://storylineonline.net/library/) - [uniteforliteracy](https://www.uniteforliteracy.com/) - [bookdash](https://bookdash.org/books/) | X | X |
 | [Little Fox](https://chinese.littlefox.com/en/story) | cn | [我爱](http://www.woaihuiben.com/books) - [PPT](https://www.1ppt.com/xiazai/huiben/)-[1](http://www.pptok.com/e/search/result/?searchid=404993) | X | X |
