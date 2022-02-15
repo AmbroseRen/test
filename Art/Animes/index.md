@@ -29,7 +29,7 @@
 | [漫画猫](https://www.manhuacat.com/) | O_O | [国王排名](https://www.maofly.com/manga/41341.html)/[QQ漫画](https://user.qzone.qq.com/1686278055) | X | X |
 | [mangabz](https://www.mangabz.com/) | O_O | []() | X | X |
 | [cocomanga](https://www.cocomanga.com/) | O_O | []() | X | X |
-| [acfun](https://www.acfun.cn/)/[bilibili](https://www.bilibili.com) | 动漫视频站 | [神秘的程序员们](https://code2048.com/series/betacat/) | X | X |
+| [acfun](https://www.acfun.cn/)/[bilibili](https://www.bilibili.com)-[漫](https://manga.bilibili.com/)-[中](https://manga.bilibili.com/account-center#/my-favourite) | 动漫视频站 | [神秘的程序员们](https://code2048.com/series/betacat/) | X | X |
 | [动画疯](https://ani.gamer.com.tw/) | tw-ip访问 | [home](https://home.gamer.com.tw/) | X | X |
 | [知音漫客](https://m.zymk.cn/) | 国内优质 | []() | 刊魂：年少有梦，青春有爱——“锐幻萌燃”四刊 | 大概高中的念念不忘-2010年节点 |
 | [漫客栈](https://www.mkzhan.com) | O_O | []() | X | X |
