@@ -72,8 +72,8 @@
 | [manybooks](https://manybooks.net/) | en-故事+传记 | [The Count of Monte Cristo](https://manybooks.net/book/123156/read#epubcfi(/6/4[item452]!/4/34[pgepubid00001]/1:0))•[PDF](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/The-Count-of-Monte-Cristo.pdf) | X | X |
 | [推荐书](https://www.tuijianshu.net/) | cn | [小学读本](https://www.tuijianshu.net/article-15509-1.html) | X | X |
 | __Cartoon__ | __绘本__ | X | X | X |
-| [Epic](https://www.getepic.com/app/) | en | [Storyline](https://storylineonline.net/library/) - [uniteforliteracy](https://www.uniteforliteracy.com/) | X | X |
-| []() | 25 | X | X | X |
+| [Epic](https://www.getepic.com/app/) | en | [Storyline](https://storylineonline.net/library/) - [uniteforliteracy](https://www.uniteforliteracy.com/) - [bookdash](https://bookdash.org/books/) | X | X |
+| [Little Fox](https://chinese.littlefox.com/en/story) | cn | [PPT](https://www.1ppt.com/xiazai/huiben/)-[1](http://www.pptok.com/e/search/result/?searchid=404993) | X | X |
 | __Other__ | __其他__ | X | X | X |
 | [IRead](http://www.iread.cf/) | 综合(个人维护站) | X | X | X |
 | [苦瓜书盘](http://kgbook.com/) | 团队维护 | X | X | X |
