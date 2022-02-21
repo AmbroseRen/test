@@ -18,7 +18,7 @@
 | [webnovel](https://www.webnovel.com/) | 起点国际 | X | X | [起点开放海外英文网站之影响](https://www.zhihu.com/question/56737119) |
 | [flying-lines](https://www.flying-lines.com/) | X | X | X | X |
 | [tapread](https://www.tapread.com/) | X | X | X | X |
-| [爱下电子书](https://www.aixdzs.com/) | 下载站 | X | X | X |
+| [爱下电子书](https://www.aixdzs.com/) | 下载站 | [知轩藏书](http://zxcs.me/) | X | X |
 | []() | X | X | X | X |
 | []() | X | X | X | X |
 
