@@ -34,7 +34,7 @@
 | [Google Play](https://play.google.com/store/apps/details?id=com.google.android.gms&hl=zh&gl=US) | Global | [Store](https://play.google.com/store/apps) |
 | [华为应用](https://appgallery.huawei.com/app/C27162) | O_O | Y |
 | [apkpure](https://apkpure.com/cn/) | O_O | Y |
-| __游戏资讯__ | O_O | Y |
+| __游戏资讯__ | O_O | [衫果游戏](https://www.sonkwo.cn/store/search) |
 | [奶牛关](https://cowlevel.net/game) | O_O | [custom-interest](https://cowlevel.net/custom-interest) |
 | [NGA](https://nga.178.com/thread.php?fid=-7955747) | O_O | Y |
 | [qq游戏导航](https://game.qzone.qq.com/?from=gameapp) | O_O | ~~[新游戏放号](https://igame.qq.com/games/grantaccount.php)~~ |
