@@ -212,7 +212,7 @@
             </li>
             <li id="novel">Novel
                 <ul>
-                    <li><b>主站<a href="https://www.kanunu8.com/">努努书坊</a> - <a href="https://www.youduzw.com/">悠读文学</a> - <a href="https://www.tianyabooks.com/">天涯书库</a> - <a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a></b></li>
+                    <li><b>主站<a href="https://www.kanunu8.com/">努努书坊</a> - <a href="https://www.youduzw.com/">悠读文学</a> - <a href="https://www.tianyabooks.com/">天涯书库</a> - <a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a> - <a href="https://www.52shuku.vip/">52书库</a></b></li>
 		    <li><a href="https://www.kanunu8.com/files/writer/">作家列表-努努书坊</a> - <a href="https://www.yooread.net/writer/">作家列表-悠读文学</a> - <a href=""></a></li>
                     <li>✔<a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/《世界尽头的咖啡馆》万洁 【美】约翰·史崔勒基【文字版_PDF电子书_下载】.pdf">世界尽头的咖啡馆</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/穷查理宝典.pdf">穷查理宝典</a></li>
