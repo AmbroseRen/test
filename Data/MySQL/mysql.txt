@@ -73,7 +73,9 @@ set global max_connections=256;
 ============当天时间=============
 SELECT DATE_FORMAT(CURDATE(),'%Y-%m-%d %H:%i:%s')
 SELECT DATE_SUB( DATE_ADD(CURDATE(), INTERVAL 1 DAY),INTERVAL 1 SECOND)
-
+        and ata > DATE_FORMAT(CURDATE(),'%Y-%m-%d %H:%i:%s')
+        and atd <![CDATA[ < ]]> NOW()
+        and atd <![CDATA[ < ]]> DATE_SUB( DATE_ADD(CURDATE(), INTERVAL 1 DAY),INTERVAL 1 SECOND)
 
 
 
