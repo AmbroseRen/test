@@ -14,8 +14,6 @@
 | [奶牛关云盘](https://zhaooolee.cowtransfer.com/) | 26 | Y |
 | [永硕E盘](http://rensi.ys168.com/) | 小文件转存 | Y |
 | [polyv保利威](https://my.polyv.net/v3/login/) | 教育视频平台 | Y |
-| [黑镜](http://anchor.avatarworks.com/anchor_yb/#/news) | 虚拟人物视频制作 | Y |
-| [速盘](https://www.speedpan.com/) | 26 | Y |
 | 国外云盘 | 26 | Y |
 | [Dropbox](https://www.dropbox.com/login?cont=https%3A%2F%2Fwww.dropbox.com%2Fh) | 26 | Y |
 | [onedrive](https://onedrive.live.com/?id=root&cid=D702FA97AA60D8CB) | 微软云盘 | Y |
