@@ -41,13 +41,15 @@ RGB(204,232,237) --电脑管家护眼色
 极光灰    #EAEAEF    RGB(234, 234, 239)
 
 ====#Plugins备忘录=========
+MyBatisX -- https://plugins.jetbrains.com/plugin/10119-mybatisx
+Lombok -- 自动生成实体类
 CodeGlance --sublime code view
-Power Mode Ⅱ--打字效果
-Background Image Plus + --Background Images
-Lombok --日志依赖库
 
 Rainbow Brackets
 HighlightBracketPair -- 括号高亮显示
+
+Power Mode Ⅱ--打字效果
+Background Image Plus + --Background Images
 
 参考:https://blog.csdn.net/sunny243788557/article/details/106011723
 ========#Idea中jar包冲突解决尝试============
