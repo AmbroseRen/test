@@ -44,6 +44,7 @@ RGB(204,232,237) --电脑管家护眼色
 MyBatisX -- https://plugins.jetbrains.com/plugin/10119-mybatisx
 Lombok -- 自动生成实体类
 CodeGlance --sublime code view
+Key Promoter X
 
 Rainbow Brackets
 HighlightBracketPair -- 括号高亮显示
