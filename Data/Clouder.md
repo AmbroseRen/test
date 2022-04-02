@@ -10,7 +10,7 @@
 | [天翼云盘](https://cloud.189.cn/t/Av67NvmEJVBv) | 26 | Y |
 | [比特球云盘](https://pan.bitqiu.com/) | 26 | Y |
 | [蓝奏云](https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php) | 26 | Y |
-| [坚果云](https://www.jianguoyun.com/p/DVcTl84Q98n8BRjFlx4) | 26 | Y |
+| [坚果云](https://www.jianguoyun.com/#/) | 26 | Y |
 | [奶牛关云盘](https://zhaooolee.cowtransfer.com/) | 26 | Y |
 | [永硕E盘](http://rensi.ys168.com/) | 小文件转存 | Y |
 | [polyv保利威](https://my.polyv.net/v3/login/) | 教育视频平台 | Y |
