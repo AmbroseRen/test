@@ -40,6 +40,7 @@
 | [Apple Music](https://music.apple.com/cn/browse) | O_O | Y |
 | [Deezer](https://www.deezer.com/) | O_O | Y |
 | [Spotify](https://open.spotify.com/?_ga=2.75141078.596545230.1607582361-711400396.1607582361) | O_O | Y |
+| [Last.fm](https://www.last.fm/user/AmbroseRen/playlists/12329258) | O_O | Y |
 | [英文歌曲网](http://www.ywg7.com/) | O_O | Y |
 | [影视英文歌](https://www.tunefind.com/movie/zootopia-2016) | O_O | Y |
 | FM | O_O | Y |
