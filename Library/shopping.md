@@ -12,6 +12,7 @@
 | [孔夫子旧书网](https://www.kongfz.com/) | 古旧书收藏品交易平台 | X | X | X |
 | [文轩网](https://www.winxuan.com/) | 书店 | X | X | X |
 | [当当购物](http://www.dangdang.com/)/[中图书店](http://www.bookschina.com/) | O_O | X | X | X |
+| [大众点评](https://www.dianping.com/)/[美团民宿](https://minsu.dianping.com/) | O_O | X | X | X |
 | GlobalShop | 全球商城 | X | X | X |
 | [亚马逊商城](https://www.amazon.cn/) | O_O | [书库](https://www.amazon.cn/b?ie=UTF8&node=1974754071) | X | X |
 | [eBay](https://www.ebay.com/) | O_O | X | X | X |
