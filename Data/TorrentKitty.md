@@ -14,7 +14,7 @@
 | [寄生虫磁力](http://cili.jscnl.com/) | O_O | Y |
 | [Nyaa](https://nyaa.si/) | 动漫下载 | Y |
 | [雨花阁](https://www.yuhuage53.xyz/) | O_O | [list](https://www.yuhuage.art/)/[G](https://github.com/yuhuage/dizhi/) |
-| [种子搜](https://m.zhongziso19.xyz/) | O_O | Y |
+| [种子搜](https://m.zhongziso19.xyz/) | O_O | [悠悠MP4](https://www.uump4.net/) |
 | [电影天堂](https://www.dydytt.net/index2.htm) | O_O | Y |
 | [磁力狗](http://clg88.cc/) | O_O | Y |
 | []() | O_O | Y |
