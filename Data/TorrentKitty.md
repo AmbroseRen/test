@@ -15,7 +15,7 @@
 | [Nyaa](https://nyaa.si/) | 动漫下载 | Y |
 | [雨花阁](https://www.yuhuage53.xyz/) | O_O | [list](https://www.yuhuage.art/)/[G](https://github.com/yuhuage/dizhi/) |
 | [种子搜](https://m.zhongziso19.xyz/) | O_O | Y |
-| []() | O_O | Y |
+| [电影天堂](https://www.dydytt.net/index2.htm) | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
 
