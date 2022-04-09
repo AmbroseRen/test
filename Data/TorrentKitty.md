@@ -13,7 +13,7 @@
 | [众人搜索网](http://wangpan.renrensousuo.com/) | O_O | Y |
 | [寄生虫磁力](http://cili.jscnl.com/) | O_O | Y |
 | [Nyaa](https://nyaa.si/) | 动漫下载 | Y |
-| [雨花阁](https://www.yuhuage53.xyz/) | O_O | [list](https://www.yuhuage.art/) |
+| [雨花阁](https://www.yuhuage53.xyz/) | O_O | [list](https://www.yuhuage.art/)/[G](https://github.com/yuhuage/dizhi/) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
