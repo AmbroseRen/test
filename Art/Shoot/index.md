@@ -26,6 +26,7 @@
 |:---:|:---:|:---:|
 | [skylinewebcams](https://www.skylinewebcams.com/) | 全球高清实况摄像头 | Y |
 | [pinterest](https://www.pinterest.com/) | Figure(人物、生活) | Y |
+| [Etsy](https://www.etsy.com/) | Art Print | Y |
 | [吐司数字艺术](https://www.tucia.net/shots) | 人物头像、素描 | Y |
 | [Airpano](http://www.airpano.com/) | 3D全景 | Y |
 | [地域风景图](http://ww4.tiki.ne.jp/~mmurakami/setoy/map.html) | 地域风景图 | Y |
