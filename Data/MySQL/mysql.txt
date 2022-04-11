@@ -78,5 +78,8 @@ SELECT DATE_SUB( DATE_ADD(CURDATE(), INTERVAL 1 DAY),INTERVAL 1 SECOND)
         and atd <![CDATA[ < ]]> DATE_SUB( DATE_ADD(CURDATE(), INTERVAL 1 DAY),INTERVAL 1 SECOND)
 
 and atd > DATE_SUB(CURDATE(), INTERVAL 7 DAY)  -- 七天前
+-- 取时间格式
+select date_format('1997-10-04 22:23:00','%y %M %b %D %W %a %Y-%m-%d %H:%i:%s %r %T');
+
 
 
