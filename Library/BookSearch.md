@@ -31,7 +31,7 @@
 | [书伴](https://bookfere.com/ebook) | Kindle 图书资源 | X | X | X |
 | __everything__ | __综合图书__ | X | X | X |
 | [Global Grey](https://www.globalgreyebooks.com/index.html) | en-ebooks | [gutenberg](https://www.gutenberg.org/)/[manybooks](https://manybooks.net/)/[pdfdrive](https://www.pdfdrive.com/) | X | X |
-| [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | X | X |
+| [amazon](https://www.amazon.com/b?node=283155) | 亚马逊图书 | X | [amazon.cn](https://www.amazon.cn/) | X |
 | [scribd](https://www.scribd.com/) | scribd | X | X | X |
 | __literature__ | __文学__ | X | X | X |
 | [恩京的书房](https://www.enjing.com/) | 传统文学 | [我是余欢水（如果没有明天）](https://www.kunnu.com/yuhuanshui/)•[副链](https://www.51shucheng.net/shehui/ruguomeiyoumingtian)•[书评](https://www.enjing.com/wenxue/32589.htm) - [云边有个小卖部](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Poem/%E4%BA%91%E8%BE%B9%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%8D%96%E9%83%A8%20-%20%E5%BC%A0%E5%98%89%E4%BD%B3.pdf)•[书评](https://www.enjing.com/wenxue/31436.htm) - [至暗时刻•书评](https://www.enjing.com/wenxue/32393.htm) | [小书屋站长被抓](https://www.douban.com/group/topic/180075768/)2019.9及其[后续](https://www.zhihu.com/question/401236809)影响 | 此站于2021.2初已删库跑路•[评论](https://www.enjing.com/renwensheke/32613.htm)/[开放 动态 透明 便民](https://wenshu.court.gov.cn/)容我呵呵 |
