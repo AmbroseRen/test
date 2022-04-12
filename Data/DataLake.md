@@ -6,7 +6,7 @@
 | Amazon | AWS | Y |
 | [amazon.com](https://www.amazon.com/) |  | X |
 | [amazon.cn](https://www.amazon.cn/) |  | X |
-| [Console](https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-2) | [AWS](https://aws.amazon.com/cn/cloudfront/) | ~~[snowflake](https://jj32077.ap-northeast-1.aws.snowflakecomputing.com/console/login#/)~~数据湖服务商/[]() |
+| [Console](https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-2) | [AWS](https://aws.amazon.com/cn/cloudfront/) | snowflake]数据湖服务商/[]() |
 | [Console](https://console.cloud.google.com/home/dashboard?project=proxyapp-214202) | [cloud.google](https://cloud.google.com/) | [开发者大会](https://developersummit.googlecnapps.cn/) |
 | []() |  | X |
 | [IBM](https://myibm.ibm.com/dashboard/) |  | X |
