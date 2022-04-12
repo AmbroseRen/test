@@ -6,7 +6,7 @@
 | Amazon | AWS | Y |
 | [amazon.com](https://www.amazon.com/) |  | X |
 | [amazon.cn](https://www.amazon.cn/) |  | X |
-| [AWS](https://aws.amazon.com/cn/cloudfront/?sc_channel=PS&sc_campaign=acquisition_HK&sc_publisher=google&sc_medium=cloudfront_b&sc_content=cloudfront_e&sc_detail=amazon%20cloudfront&sc_category=cloudfront&sc_segment=161357939017&sc_matchtype=e&sc_country=HK&s_kwcid=AL!4422!3!161357939017!e!!g!!amazon%20cloudfront&ef_id=WyiLzQAAAMBknAu9:20180628065536:s) | Cloud | [snowflake](https://jj32077.ap-northeast-1.aws.snowflakecomputing.com/console/login#/)数据湖服务商/[]() |
+| [Console](https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-2) | [AWS](https://aws.amazon.com/cn/cloudfront/) | ~~[snowflake](https://jj32077.ap-northeast-1.aws.snowflakecomputing.com/console/login#/)~~数据湖服务商/[]() |
 | [Console](https://console.cloud.google.com/home/dashboard?project=proxyapp-214202) | [cloud.google](https://cloud.google.com/) | [开发者大会](https://developersummit.googlecnapps.cn/) |
 | []() |  | X |
 | [IBM](https://myibm.ibm.com/dashboard/) |  | X |
