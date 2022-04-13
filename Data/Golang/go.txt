@@ -4,6 +4,8 @@ go env
 go tool
 -- setting
 go env -w GO111MODULE=on  -- 使用go moudles
+-- module初始化
+go mod init packagename
 -- 设置代理
 go env GOPROXY=https://proxy.golang.org,direct  -- 默认(被墙)
 go env GOPROXY=下面代理的其中一个：
