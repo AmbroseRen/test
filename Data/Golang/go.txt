@@ -2,7 +2,6 @@ cmd config
 
 go env
 go tool
-
 -- setting
 go env -w GO111MODULE=on  -- 使用go moudles
 -- 设置代理
@@ -11,11 +10,13 @@ go env GOPROXY=下面代理的其中一个：
 go env -w GOPROXY=https://goproxy.cn,direct
 htps://goproxy.io
 https://goproxy.cn （七牛云）
-https://mirrors.aliyun.com/go…（阿里云）
+https://mirrors.aliyun.com/goproxy（阿里云）
 https://mirrors.cloud.tencent…（腾讯云）
 https://athens.azurefd.net（微软）
 https://gocenter.io
-
+-- set gopath目录结构
+go env -w GOPATH=D:\workspace\Goland
+go env -w GOMODCACHE=D:\workspace\Goland\pkg\mod
 
 
 
