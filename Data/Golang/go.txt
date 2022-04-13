@@ -51,6 +51,60 @@ workspace
   |-- pkg
   |-- bin
 
+-- 官方依赖库管理命令
+ govendor依赖管理
+ govendor命令
+ // 创建vendor文件夹和vendor.json文件
+ govendor init
+// 从$GOPATH中添加依赖包,会加到vendor.json
+ govendor add
+ // 从vendo文件夹删除依赖
+ govendor remove
+ // 从$GOPATH升级依赖包
+ govendor update
+ // 列出已经存在的依赖包
+ govendor list
+ // 从远端库增加新的,或者更新vendor文件中的依赖包
+ govendor fetch
+ // 本地存在vendor.json时候拉取依赖包,匹配所记录的版本
+ govendor sync
+ // 列出本地丢失的,过期的和修改的 package
+ govendor status
+ // 类似go get,但是会把依赖包拷贝到vendor目录
+ govendor get
+ govendor依赖包类型
+ +local：本地包,及项目自身的包组织 l
+ +external：外部包,即被$GOPATH管理,但不在vendor目录下 e
+ +vendor：已被govendor管理,即在vendor目录下 v
+ +std：标准库中的包 s
+ +unused：未使用的包,即包在vendor目录下,但项目并没有使用 u
+ +missing：代码引用了依赖包,但该包并没有找到 m
+ +program：主程序包,意味着可以编译为执行文件 p
+ +outside：外部包和缺失的包
+ +all：所有的包
+
+ // 默认模式,当前目录在GOPATH/src目录之外而且包含go.mod文件才会启用
+ export GO111MODULE=auto
+ // GOPATH模式,在vendor目录下和GOPATH目录中查找依赖包
+ export GO111MODULE=off
+ // module-aware模式,使用modules功能,而不会访问GOPATH,依赖包放在GOPATH/pkg/mod目录下
+ export GO111MODULE=on
+ export GOPROXY='<https://goproxy.io>'
+ // 在当前目录下生成一个go.mod文件
+ go mod init
+ // 添加缺失的模块以及移除不需要的模块
+ go mod tidy -v
+ // 检查当前模块的依赖是否全部下载下来，是否下载下来被修改过
+ go mod verify
+ // 生成vendor文件夹,放置go.mod文件描述的依赖包
+ go mod vendor -v
+ // 获取依赖库
+ go mod download
+ // 修改依赖文件
+ go mod edit 
+ // 打印依赖图
+ go mod graph  
+
 
 
 
