@@ -7,7 +7,7 @@ go env -w GO111MODULE=on  -- 使用go moudles
 -- module初始化
 go mod init packagename
 
-go mod tidy //拉取缺少的模块，移除不用的模块。
+go mod tidy -v //拉取缺少的模块，移除不用的模块。并把依赖写入 go.mod 文件
 go mod download //下载依赖包
 go mod graph //打印模块依赖图
 go mod vendor //将依赖复制到vendor下
