@@ -10,7 +10,7 @@
 
 [官方文档](https://golang.org/doc/)/[语法手册](https://golang.org/ref/spec)/[]()
 
-[基础教程](https://www.jianshu.com/p/226c80c481a1)
+[基础教程](https://www.k8stech.net/go-book/ch2/readme2.html)
 
 [Example](https://gobyexample.com/)/[在线运行](https://tour.golang.org/welcome/1)/[在线运行·二](https://play.golang.org/)
 
