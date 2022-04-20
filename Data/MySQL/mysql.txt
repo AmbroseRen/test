@@ -82,5 +82,16 @@ and atd > DATE_SUB(CURDATE(), INTERVAL 7 DAY)  -- 七天前
 SELECT DATE_FORMAT(NOW(), '%m-%d') FROM DUAL
 select date_format('1997-10-04 22:23:00','%y %M %b %D %W %a %Y-%m-%d %H:%i:%s %r %T');
 
+==================MySQL 8.0 only full group by 问题处理=================
+	select @@global.sql_mode;
+	
+		
+	set @@global.sql_mode = "STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION";
+	
+		set sql_mode = "STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION";
+		
+		select @@sql_mode
+
+FLUSH PRIVILEGES;
 
 
