@@ -1,0 +1,7 @@
+=====Google Config=======
+-- location
+appdata/local/google/chrome/user data/default/indexeddb
+-- 缓存清理
+chrome://settings/content/all?search=site
+
+=======================
