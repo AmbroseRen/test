@@ -17,7 +17,7 @@ mysql(客户端程序) -u(用户) root -p(密码)
 mysql> use mysql;
 mysql> update mysql.user set authentication_string=password('rensi') where user='root'; -- 8.0之前改法
 mysql> ALTER USER 'root'@'localhost' IDENTIFIED  BY 'MYSQL_ROOT_PASSWORD'; --8.0之后改法 XX
-mysql> ALTER USER '用户名'@'localhost' IDENTIFIED WITH mysql_native_password BY 'MYSQL_ROOT_PASSWORD'; --8.0之后改法
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'MYSQL_ROOT_PASSWORD'; --8.0之后改法
 mysql> flush privileges;
 mysql> quit
 --查看所有用户
