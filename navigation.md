@@ -3,7 +3,7 @@
 #content table {width:1500px;}
 </style>
 
-<script src="js/JQuery/jquery.min.js" type="text/javascript"></script>
+<script src="https://ambroseren.github.io/test/js/JQuery/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" charset="utf-8">
   // Creating custom :external selector
   $.expr[':'].external = function(obj){
