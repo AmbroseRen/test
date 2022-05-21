@@ -46,7 +46,7 @@
 | ~~[典籍导航](https://www.2345daohang.com/)~~/[副站](http://m.505dh.com/) | 中国古典文学 | [资治通鉴](http://m.505dh.com//dianji/63279/) - [诗词](http://m.505dh.com/shici/list.htm) - [文心雕龙](http://m.505dh.com/dianji/63314/) - [梦溪笔谈](http://m.505dh.com/dianji/63285/) - [商君书](http://m.505dh.com/dianji/63313/) - [楚辞](http://m.505dh.com/shici/list_1_t_918.htm) - [乐府](http://m.505dh.com/shici/list_1_t_469.htm) - [金刚经](http://m.505dh.com/dianji/63334/) - [道德经](http://www.505dh.com/dianji/63299/) | X | X |
 | [读典籍](https://web.dudianji.com/#/book-index) | 中国古典文学 | [史记](https://web.dudianji.com/#/book/shiji) - [论语](https://web.dudianji.com/#/book/lunyu) | X | X |
 | [上海图书馆](http://wrd2016.library.sh.cn/) | 近代古籍 | X | X | X |
-| [古籍网](http://www.bookinlife.net/) | 繁体竖排扫描版 | [中国历代人物图像数据库](http://diglweb.zjlib.cn:8081/zjtsg/mingren/index.htm) | X | X |
+| ~~[古籍网](http://www.bookinlife.net/)~~ | 繁体竖排扫描版 | ~~[中国历代人物图像数据库](http://diglweb.zjlib.cn:8081/zjtsg/mingren/index.htm)~~ | X | X |
 | [中国古典文学·豆瓣](https://tushu.docin.com/) | 中国古典文学 | X | X | X |
 | [中国哲学书](https://ctext.org/zh) | 诸子百家 | X | X | X |
 | [唐宋古诗词](https://shici.store/huajianji/)/[源文](https://github.com/chinese-poetry/chinese-poetry) | 中文诗歌 | X | X | X |
