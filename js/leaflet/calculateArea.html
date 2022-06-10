@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <meta charset="UTF-8">
+    <title>图形绘制并计算面积</title>
+</head>
+ 
+<body style=" margin: 0;overflow: hidden;background: #fff;width: 100%;height:100%;position: absolute;top: 0;">
+    <div id="map" style="width: 100%;height:100%"></div>
+    <script type="text/javascript" include="turf,leaflet.draw" src="../../dist/include-leaflet.js"></script>
+ 
+    <script type="text/javascript">
+        var map, url = "http://support.supermap.com.cn:8090/iserver/services/map-china400/rest/maps/China";
+        map = L.map('map', {
+            center: [33, 114],
+            zoom: 4
+        });
+        L.supermap.tiledMapLayer(url).addTo(map);
+ 
+        var editableLayers = new L.FeatureGroup();
+        map.addLayer(editableLayers);
+ 
+        var drawControl = new L.Control.Draw({
+            position: 'topleft',
+            draw: {
+                polyline: false,
+                polygon: false,
+                circle: {},
+                rectangle: false,
+                marker: false,
+                remove: true
+            },
+            edit: {
+                featureGroup: editableLayers,
+                remove: true
+            }
+        });
+        map.addControl(drawControl);
+        handleMapEvent(drawControl._container, map);
+ 
+        map.on(L.Draw.Event.CREATED, function (e) {
+            var type = e.layerType,
+                layer = e.layer;
+            if (type === 'marker') {
+                layer.bindPopup('A popup!');
+            }
+            editableLayers.addLayer(layer);
+ 
+            //绘制完成后，获取圆形的半径和中心点坐标
+            var radius = layer._mRadius;
+            var lonlat = layer._latlng;
+            console.log(radius + ";  " + lonlat);
+ 
+            //点集
+            var parts = [];
+            //计算圆的边缘所有点
+            for (var i = 0; i < 360; i++) {
+                var radians = (i + 1) * Math.PI / 180;
+                var circlePoint = [Math.cos(radians) * radius + lonlat.lat, Math.sin(radians) * radius + lonlat
+                    .lng
+                ];
+                parts[i] = circlePoint;
+            }
+            //用点集来构造leaflet的面对象
+            var polygon1 = L.polygon(parts);
+ 
+            //服务端计算面积
+            //getAreaByServer(polygon1);
+            //数学公式计算面积
+            //getAreaByClient(radius);
+            //turf计算面积
+            getAreaByTurf(polygon1.toGeoJSON());
+        });
+ 
+        function getAreaByClient(radius) {
+            //使用数学公式或者用turf计算
+            var square = radius * radius * Math.PI;
+            alert("面积： " + square + "  平方米");
+        }
+ 
+        function getAreaByTurf(polygon) {
+            var area = turf.area(polygon);
+            alert("面积： " + area + "  平方米");
+        }
+ 
+        function getAreaByServer(polygon) {
+            //参数说明： SuperMap.MeasureParameters(geometry, options)
+            // distanceMode(指定量算的方式为按球面长度 'Geodesic' 或者平面长度 'Planar' 来计算，默认是球面)
+            // prjCoordSys（指定该量算操作所使用的投影）
+            // unit (量算单位。默认量算结果以米为单位)
+            var areaMeasureParam = new SuperMap.MeasureParameters(polygon, { distanceMode: 'Geodesic' });
+            L.supermap
+                .measureService(url)
+                .measureArea(areaMeasureParam, function (serviceResult) {
+                    alert("面积： " + serviceResult.result.area + "  平方米");
+                });
+        }
+ 
+        function handleMapEvent(div, map) {
+            if (!div || !map) {
+                return;
+            }
+            div.addEventListener('mouseover', function () {
+                map.scrollWheelZoom.disable();
+                map.doubleClickZoom.disable();
+            });
+            div.addEventListener('mouseout', function () {
+                map.scrollWheelZoom.enable();
+                map.doubleClickZoom.enable();
+            });
+        }
+    </script>
+</body>
+ 
+</html>
