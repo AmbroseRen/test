@@ -5,7 +5,7 @@
 | __AggregateSearch__ | __聚合搜索__ | Y |
 | [毒蘑菇](https://search.dumogu.top/) | 搜索引擎查询接口 | Y |
 | __SearchEngine__ | __搜索引擎__ | Y |
-| [google](https://www.google.com) | 谷歌搜索·美国 | 精度高 |
+| [google](https://www.google.com) - [scholar](https://scholar.google.com) | 谷歌搜索·美国 | 精度高 |
 | [微软bing](https://cn.bing.com) | 微软 | 万金油 |
 | [维基百科](https://www.wikipedia.org/) | 自由的全球百科全書 | Y |
 | [维基教科书](https://www.wikibooks.org/) | 26 | Y |
