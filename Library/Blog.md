@@ -12,7 +12,7 @@
 | Portal | 门户导航 | Y |
 | ~~[中国博客联盟](https://zgboke.org/)~~/[新版](https://blorg.cn/) | 信息陈旧、失效 | [国内博客](https://www.zhihu.com/question/19928148)/~~[极客兔兔外链](https://geektutu.com/post/link.html)~~/[mashiro外链](https://mashiro.best/links)/~~[橙光笔记](https://www.kai666666.top/links/)~~/[2013](https://feeds.pub/cn-indie)/[]() |
 | ~~[极客导航](https://www.jikedaohang.com/index/)~~ | 0_0 | [小霸王，其乐无穷](https://www.yikm.net/)/[我爱云的落花窗台](http://way1539.ys168.com/) |
-| [毒导航](https://www.toxic.ltd/) | 0_0 | [心理学](https://www.toxic.ltd/books/xinlixue) - [我是个算命先生](http://wo-xiaoshipin.test.upcdn.net/suanming.html) |
+| ~~[毒导航](https://www.toxic.ltd/)~~ | 0_0 | [心理学](https://www.toxic.ltd/books/xinlixue) - [我是个算命先生](http://wo-xiaoshipin.test.upcdn.net/suanming.html) |
 | ~~[tuna](https://github.com/tuna/blogroll)~~ | someOtherBlogLists | [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)/[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) |
 | []() | 0_0 | Y |
 | []() | 0_0 | Y |
