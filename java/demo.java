@@ -12,9 +12,11 @@ public class Main{
      
         DateTimeFormatter fmTime = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
         LocalDateTime now = LocalDateTime.now();
-        System.out.println("当前时间:"+now.format(fmTime));
+        String sDate = now.format(fmTime);
+        System.out.println("当前时间:"+ sDate);
         //2小时前
         LocalDateTime pro2hour = LocalDateTime.now().minus(2, ChronoUnit.HOURS);
-        System.out.println("2小时前:"+pro2hour.format(fmTime));     
+        String sp2Date = pro2hour.format(fmTime);
+        System.out.println("2小时前:"+ sp2Date);   
     } 
 }
