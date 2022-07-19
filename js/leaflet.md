@@ -6,6 +6,8 @@
 
 [Leaflet.label](https://github.com/Leaflet/Leaflet.label)
 
+[底图切换](https://github.com/clavijojuan/L.switchBasemap)
+
 轨迹动效[Leaflet.MovingMarker](https://github.com/ewoken/Leaflet.MovingMarker)/[中文示例](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/122412374)
 
 [polyline delete](https://gis.stackexchange.com/questions/333286/remove-a-drawn-polyline-from-leaflet-map)
