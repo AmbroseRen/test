@@ -4,7 +4,7 @@
 
 [cn Tutorials examples](https://leafletjs.cn/examples.html)/[Leaflet Origin](https://github.com/NICEXAI/leaflet_zh)
 
-[Leaflet.label](https://github.com/Leaflet/Leaflet.label)
+~~[Leaflet.label](https://github.com/Leaflet/Leaflet.label)~~
 
 [底图切换](https://github.com/clavijojuan/L.switchBasemap)
 
