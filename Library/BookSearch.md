@@ -24,7 +24,7 @@
 | [星际图书](http://test.xxce.top:7743/) | 搜索引擎 | X | X | [关于](http://test.xxce.top:7743/about) |
 | [sobooks](https://sobooks.cc/) | 搜索 | X | X | X |
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
-| [Zlibrary](https://b-ok.global/) | ebook | [zLibrary镜像站](https://1lib.limited/)/[二](http://libgen.rs/)/[三](https://zh.u1lib.org/) - [Bookle](http://x5v.net/) | [Library Genesis](http://libgen.rs/#nbwzcom) | X |
+| [Zlibrary](https://b-ok.global/) | ebook | [zLibrary镜像站](https://1lib.limited/)/[三](https://zh.u1lib.org/) - [Bookle](http://x5v.net/) | [Library Genesis](http://libgen.rs/) | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [书单网](https://www.shudan.vip/) | 搜索引擎 | X | X | X |
 | [rukomos](http://cn-library.rukomos.ru/) | 导航无下载 | [Category](http://cn-library.rukomos.ru/list_categories.html) | X | X |
