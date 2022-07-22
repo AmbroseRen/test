@@ -29,5 +29,5 @@
 | []() | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| [一](https://www.atg520.com/) | O_O | Y |
+| [导](https://www.nbwz.com/)/[一](https://www.atg520.com/) | O_O | Y |
 | lucy | 25 | X |
