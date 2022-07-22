@@ -6,6 +6,8 @@
 
 ~~[Leaflet.label](https://github.com/Leaflet/Leaflet.label)~~&emsp;[拖动插件](https://github.com/Leaflet/Path.Drag.js)-([主](https://www.javascriptcn.com/post/32271)-[Demo](https://www.javascriptcn.com/post/37557#examples))
 
+[通过在地图上绘制区域来选择要素的插件](https://github.com/sandropibia/Leaflet.SelectAreaFeature)
+
 [底图切换](https://github.com/clavijojuan/L.switchBasemap)
 
 轨迹动效[Leaflet.MovingMarker](https://github.com/ewoken/Leaflet.MovingMarker)/[中文示例](https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/122412374)
