@@ -4,7 +4,7 @@
 
 [cn Tutorials examples](https://leafletjs.cn/examples.html)/[Leaflet Origin](https://github.com/NICEXAI/leaflet_zh)
 
-~~[Leaflet.label](https://github.com/Leaflet/Leaflet.label)~~&emsp;[拖动插件](https://github.com/Leaflet/Path.Drag.js)
+~~[Leaflet.label](https://github.com/Leaflet/Leaflet.label)~~&emsp;[拖动插件](https://github.com/Leaflet/Path.Drag.js)-[Demo](https://www.javascriptcn.com/post/37557#examples)
 
 [底图切换](https://github.com/clavijojuan/L.switchBasemap)
 
