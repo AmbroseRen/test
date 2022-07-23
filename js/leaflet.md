@@ -17,3 +17,5 @@
 [船讯网](https://www.shipxy.com/Ship/Index) - [船达通](http://www.shipdt.com/shipdt/#/)
 
 [openstreetmap](https://www.openstreetmap.org/) - [示例](https://www.openstreetmap.org/traces)
+
+太乐地图下载器：[参考一](https://blog.csdn.net/wo_buzhidao/article/details/78813086)/[参考二](https://www.jianshu.com/p/ea35e8cc122a)
