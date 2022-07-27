@@ -30,6 +30,9 @@
 | [数学乐](https://www.shuxuele.com/sine-cosine-tangent.html) | 几何学 | [弧度](https://www.shuxuele.com/sine-cosine-tangent.html) |
 | []() | 25 | X |
 | []() | 25 | X |
+| ACM | IT期刊 | X |
+| [JACM](https://dl.acm.org/journal/jacm) | 25 | [S](https://dl.acm.org/) |
+| []() | 25 | X |
 | []() | 25 | X |
 | []() | 25 | X |
 | []() | 25 | X |
