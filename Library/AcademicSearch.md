@@ -31,7 +31,7 @@
 | []() | 25 | X |
 | []() | 25 | X |
 | ACM | IT期刊 | X |
-| [JACM](https://dl.acm.org/journal/jacm)/[M](https://dl.acm.org/magazines) | 25 | [main](https://cacm.acm.org/) - [S](https://dl.acm.org/) |
+| [JACM](https://dl.acm.org/journal/jacm) | 25 | [main](https://cacm.acm.org/) - [S](https://dl.acm.org/)/[M](https://dl.acm.org/magazines) |
 | [IEEE](https://www.ieee.org/) | 25 | [S](https://ieeexplore.ieee.org/Xplore/home.jsp) |
 | []() | 25 | X |
 | []() | 25 | X |
