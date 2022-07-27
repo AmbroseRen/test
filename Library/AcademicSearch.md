@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|
 | Platform | 平台 | X |
 | [科塔学术导航](https://site.sciping.com/) | 学术导航 | X |
-| [CNKI](http://new.oversea.cnki.net/index/) | 中国知网 | [阅读器下载](https://cajviewer.cnki.net/) |
+| [CNKI](https://www.cnki.net/) | 中国知网 | [阅读器下载](https://cajviewer.cnki.net/) |
 | [万方数据](http://www.wanfangdata.com.cn/index.html) | 会议、学术论文 | Y |
 | [elsevier](https://www.sciencedirect.com/) | 会议、学术论文 | [主站](https://www.elsevier.com/) |
 | [CNS](https://www.cns.org/Default.aspx) | 神经外科 | Y |
