@@ -32,7 +32,7 @@
 | []() | 25 | X |
 | ACM | IT期刊 | X |
 | [JACM](https://dl.acm.org/journal/jacm)/[M](https://dl.acm.org/magazines) | 25 | [main](https://cacm.acm.org/) - [S](https://dl.acm.org/) |
-| []() | 25 | X |
+| [IEEE](https://www.ieee.org/) | 25 | [S](https://ieeexplore.ieee.org/Xplore/home.jsp) |
 | []() | 25 | X |
 | []() | 25 | X |
 | []() | 25 | X |
