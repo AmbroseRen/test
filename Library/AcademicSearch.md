@@ -23,7 +23,7 @@
 | [考试资料网](https://www.ppkao.com/) | 搜题题库 | X |
 | [道客巴巴](https://www.doc88.com/) | 25 | X |
 | PDF | PDF存储及搜索 | X |
-| [蓝菊花](http://www.lanjuhua.com/) | 25 | X |
+| ~~[蓝菊花](http://www.lanjuhua.com/)~~ | 25 | X |
 | [城通网盘](https://home.ctfile.com/#item-files) | 25 | [国际版网盘](http://www.ctfile.net/) |
 | Assist | 辅助 | X |
 | [wolframalpha](https://www.wolframalpha.com/) | 计算辅助 | [problem](https://www.wolframalpha.com/problem-generator/)/[示例](https://www.wolframalpha.com/input/?i=plot%28+%2830+-+1%29+%2F+%28t+%2B+2%29%5E1.8%2C++%2860+-+1%29+%2F+%28t+%2B+2%29%5E1.8%2C+%28200+-+1%29+%2F+%28t+%2B+2%29%5E1.8+%29+where+t%3D0..24) |
