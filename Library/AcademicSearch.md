@@ -10,7 +10,7 @@
 | [CNS](https://www.cns.org/Default.aspx) | 神经外科 | Y |
 | [Library Genesis](http://gen.lib.rus.ec/) | 学术论文+书籍 | [备份LibGen](https://www.maguang.net/archives/6030)网站面临下线 |
 | [arxiv.org](https://arxiv.org/) | 学术论文搜索 | X |
-| [iData](https://www.cn-ki.net/) | 学术论文搜索 | X |
+| ~~[iData](https://www.cn-ki.net/)~~ | 学术论文搜索 | X |
 | [抗战文献数据平台](http://www.modernhistory.org.cn/index.htm) | 近代中日关系文献 | X |
 | Search | 搜索引擎 | X |
 | [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/) | 搜索引擎 | [wiley_library](https://onlinelibrary.wiley.com/) |
