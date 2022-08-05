@@ -196,7 +196,7 @@
                     <li><a href="http://www.newxue.com/waerdenghu/">瓦尔登湖</a> - <a href="http://www.newxue.com/chahuanv/">《茶花女》</a> - <a href="http://www.newxue.com/mingzhu/huxiaoshanzhuang/">《呼啸山庄》</a></li>
                     <li><a href="http://www.newxue.com/mingzhu/xiaowangzi/">《小王子》</a> - <a href="https://www.yooread.net/7/4978/">《斯通纳》</a> - <a href="http://www.newxue.com/mingzhu/annakalienina/">《安娜·卡列尼娜》</a></li>
                     <li><a href="https://raw.githubusercontent.com/AmbroseRen/Picture/master/book/Literature/Poem/%E6%82%89%E8%BE%BE%E5%A4%9A.txt">《悉达多》</a> - <a href="http://www.dushu369.com/waiguomingzhu/amypj/">《傲慢与偏见》</a> - <a href="https://www.kunnu.com/shileyuan/">《失乐园》</a></li>
-                    <li><a href="http://www.newxue.com/weicheng/">围城</a> - <a href="http://www.qxtxt.com/fushengwuyu/">浮生物语</a> - <del><a href="https://www.yooread.net/tags/23/">大秦帝国</a></del>/<a href="https://www.51shucheng.net/lishi/daqindiguo">副链</a></li>
+                    <li><a href="http://www.newxue.com/weicheng/">围城</a> - <a href="http://www.qxtxt.com/fushengwuyu/">浮生物语</a> - <a href="https://www.yodu.org/book/4997/?for-search">大秦帝国</a>/<a href="https://www.51shucheng.net/lishi/daqindiguo">副链</a></li>
                     <li><a href="https://www.kanunu8.com/book2/10883/">杀死一只知更鸟</a> - <a href=""></a> - <a href=""></a></li>
 		    <li><a href="https://www.kanunu8.com/files/world/201106/2867.html">飘</a> - <a href="https://www.kanunu8.com/files/writer/2865.html">玛格丽特·米切尔作品集</a></li>
 		    <li><a href="http://www.saohua.com/shuku/zhexue/mydoc138.htm">战争论第一卷</a>〔德〕克劳塞维茨 - <a href="http://www.saohua.com/shuku/zhexue/index.htm">哲学名著大全</a> - <a href="https://www.kanunu8.com/files/world/201102/1598.html">苏菲的世界</a> 乔斯坦·贾德 - <a href="http://www.dushu369.com/waiguomingzhu/pgsb/">培根随笔</a></li>
@@ -212,8 +212,8 @@
             </li>
             <li id="novel">Novel
                 <ul>
-                    <li><b>主站<a href="https://www.kanunu8.com/">努努书坊</a> - <a href="https://www.yodu.org/">悠读文学</a> - <a href="https://www.tianyabooks.com/">天涯书库</a> - <a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a> - <a href="https://www.52shuku.vip/">52书库</a></b></li>
-		    <li><a href="https://www.kanunu8.com/files/writer/">作家列表-努努书坊</a> - <a href="https://www.yooread.net/writer/">作家列表-悠读文学</a> - <a href=""></a></li>
+                    <li><b>主站<a href="https://www.kanunu8.com/">努努书坊</a> - <a href="https://www.yodu.org/">悠读文学</a> - <a href="https://www.yodu.org/modules/article/bookcase.php">悠读-书架</a> - <a href="https://www.tianyabooks.com/">天涯书库</a> - <a href="http://www.jjwxc.net/bookbase_slave.php?orderstr=2">晋江文学城</a> - <a href="https://www.52shuku.vip/">52书库</a></b></li>
+		    <li><a href="https://www.kanunu8.com/files/writer/">作家列表-努努书坊</a> - <a href=""></a></li>
                     <li>✔<a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/《世界尽头的咖啡馆》万洁 【美】约翰·史崔勒基【文字版_PDF电子书_下载】.pdf">世界尽头的咖啡馆</a></li>
                     <li><a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/穷查理宝典.pdf">穷查理宝典</a></li>
 		    <li>《洛丽塔》 - 《情人》 - <a href="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/Literature/Novel/霍乱时期的爱情.pdf">《霍乱时期的爱情》</a></li>
