@@ -199,7 +199,7 @@
                     <li><a href="http://www.newxue.com/weicheng/">围城</a> - <a href="http://www.qxtxt.com/fushengwuyu/">浮生物语</a> - <a href="https://www.yodu.org/authorarticle/孙皓晖.html">大秦帝国</a>/<a href="https://www.51shucheng.net/lishi/daqindiguo">副链</a></li>
                     <li><a href="https://www.kanunu8.com/book2/10883/">杀死一只知更鸟</a> - <a href=""></a> - <a href=""></a></li>
 		    <li><a href="https://www.kanunu8.com/files/world/201106/2867.html">飘</a> - <a href="https://www.kanunu8.com/files/writer/2865.html">玛格丽特·米切尔作品集</a></li>
-		    <li><a href="https://www.2002n.com/book/politics/onwar/">战争论第一卷</a>〔德〕克劳塞维茨 - <a href="http://www.saohua.com/shuku/zhexue/index.htm">哲学名著大全</a> - <a href="https://www.kanunu8.com/files/world/201102/1598.html">苏菲的世界</a> 乔斯坦·贾德 - <a href="http://www.dushu369.com/waiguomingzhu/pgsb/">培根随笔</a></li>
+		    <li><a href="https://www.2002n.com/book/politics/onwar/">战争论第一卷</a>-<a href="https://m.xstt5.com/waiwen/19189/">副链</a>〔德〕克劳塞维茨 - <a href="http://www.saohua.com/shuku/zhexue/index.htm">哲学名著大全</a> - <a href="https://www.kanunu8.com/files/world/201102/1598.html">苏菲的世界</a> 乔斯坦·贾德 - <a href="http://www.dushu369.com/waiguomingzhu/pgsb/">培根随笔</a></li>
 		    <li><a href="https://www.kanunu8.com/book4/10251/">追忆似水年华</a> - 马塞尔·普鲁斯特</li>
 		    <li><a href="https://www.kanunu8.com/book4/10249/">约翰·克利斯朵夫</a> - 罗曼·罗兰</li>
                 </ul>
