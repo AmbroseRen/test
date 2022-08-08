@@ -1,6 +1,6 @@
 # AcademicSearchWebsite  [←](index.md)
 
-| 传送门 | 描述 | 摘引 |
+| [传送门](../navigation.md) | 描述 | 摘引 |
 |:---:|:---:|:---:|
 | Platform | 平台 | X |
 | [科塔学术导航](https://site.sciping.com/) | 学术导航 | X |
