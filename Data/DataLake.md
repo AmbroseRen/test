@@ -2,7 +2,7 @@
 
 | Provider | Description | Abstract |
 |:---:|:---:|:---:|
-| [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/license=apache-license-2-0) | 云原生体系景观图 | X |
+| [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) | 云原生体系景观图 | X |
 | [Console](https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-2) | [AWS](https://aws.amazon.com/cn/cloudfront/) | snowflake数据湖服务商 |
 | [amazon.com](https://www.amazon.com/) |  | [amazon.cn](https://www.amazon.cn/) |
 | [Console](https://console.cloud.google.com/home/dashboard?project=proxyapp-214202) | [cloud.google](https://cloud.google.com/) | [开发者大会](https://developersummit.googlecnapps.cn/) |
