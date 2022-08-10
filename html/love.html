@@ -35,7 +35,7 @@
 	</style>
 </head>
 <body>
-	<audio id="bgm" src="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/music/english/love.mp3" type="audio/mpeg" loop="loop">无法加载音乐</audio>
+	<audio id="bgm" src="https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/music/english/love.mp3" autoplay="autoplay" type="audio/mpeg" loop="loop">无法加载音乐</audio>
 	<div id="main">
 		<div id="wrap">
 			<div id="text">
@@ -208,7 +208,7 @@
             $await(Jscex.Async.sleep(1000));
         }
     }));
-	document.addEventListener('DOMContentLoaded', function () {
+	/**document.addEventListener('DOMContentLoaded', function () {
 	  function audioAutoPlay() {
 		  bgm.play();
 		  document.addEventListener("WeixinJSBridgeReady", function () {
@@ -216,7 +216,7 @@
 		  }, false);
 	  }
 	  audioAutoPlay();
-	 });
+	 });**/
     var runAsync = eval(Jscex.compile("async",
     function() {
         $await(seedAnimate());
