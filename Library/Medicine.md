@@ -1,3 +1,7 @@
+<style type="text/css">
+#content {margin-left: 2%;}
+#content table {width:1300px;}
+</style>
 # Medicine List  [←](../navigation.md)
 
 | [<font color="#ff0000">传送门</font>](../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
