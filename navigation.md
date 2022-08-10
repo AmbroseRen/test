@@ -26,7 +26,7 @@
 | [Reader](Library/BookListsOne.md)/[BS](Library/BookSearch.md)/[N](Library/Novel.md)/[公告栏](https://ambroseren.github.io/test/sag3.html) | [日常](https://ambroseren.github.io/test/navigation.html#sp)/[D](Data/DataRank.md)/[T](Data/TorrentKitty.md)/[N](Library/synthesize.md)/[A](Art/index.md)/~~[S](https://shouku123.com/rensi)~~ | [网络公开课](Library/LearnPlatform.md) | 算法社区 |
 |:---:|:---:|:---:|:---:|
 | [MBA智库百科](https://wiki.mbalib.com/wiki/首页) | [任思的公用空间](http://rensi.ys168.com/) | [imooc](https://www.imooc.com/course/list) | [LeetCode](https://leetcode.com/problemset/all/)/[LeetCode-cn](https://leetcode-cn.com/problemset/all/) |
-| [每日一文](https://meiriyiwen.com/random)/[书摘广场-书见](https://memo.bookfere.com/community/posts/all)/[名言通](https://www.mingyantong.com/)/[<strong id="seashell">贝</strong>](Library/excerpt.md) | []() | [mooc.cn](https://www.cmooc.com/course) | []() |
+| [每日一文](https://meiriyiwen.com/random)/[书摘广场-书见](https://memo.bookfere.com/explore)/[名言通](https://www.mingyantong.com/)/[<strong id="seashell">贝</strong>](Library/excerpt.md) | []() | [mooc.cn](https://www.cmooc.com/course) | []() |
 | []() | []() | [实验楼](https://www.lanqiao.cn/courses/) | [Project Euler](https://projecteuler.net/archives) |
 | []() | []() | [脚本之家](https://www.jb51.net/list/index_1.htm) | [Programming Praxis](https://programmingpraxis.com/) |
 | [喜马拉雅](https://www.ximalaya.com/my/subscribed/)/[清沫网](https://www.qingmo.net/)/[情感FM](https://www.qingmo.net/qingganfm)/[Mc](Art/Music/index.md) | []() | [Meet Guru99](https://www.guru99.com/) | [<strong id="tools">工具</strong>](Tools/index.md) |
