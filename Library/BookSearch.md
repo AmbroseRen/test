@@ -21,7 +21,7 @@
 | [科学文库](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | 文/理书库-cn | [中国国家数字图书馆](http://www.nlc.cn/) | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
-| [星际图书](http://test.xxce.top:7743/) | 搜索引擎 | X | X | [关于](http://test.xxce.top:7743/about) |
+| ~~[星际图书](http://test.xxce.top:7743/)~~ | 搜索引擎 | X | X | [关于](http://test.xxce.top:7743/about) |
 | [sobooks](https://sobooks.cc/) | 搜索 | X | X | X |
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | [Zlibrary](https://b-ok.global/) | ebook | [zLibrary镜像站](https://1lib.limited/)/[三](https://zh.u1lib.org/) - [Bookle](http://x5v.net/) | [Library Genesis](http://libgen.rs/) | X |
