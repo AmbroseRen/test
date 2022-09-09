@@ -1,6 +1,6 @@
 # ImgList  [Home](../index.md)
 
-## 公共图床
+## 国籍公共图床
 
 [sm.ms](https://sm.ms/)稳定
 
@@ -14,7 +14,7 @@
 
 [MyFigureBed](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/)-[gold](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/gold.jpg)
 
-## 网站图床
+## 国内网站图床
 
 [aliyun_OSS](https://oss.console.aliyun.com/bucket)需绑定域名
 
