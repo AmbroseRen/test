@@ -1,6 +1,6 @@
 # ImgList  [Home](../index.md)
 
-## 国籍公共图床
+## 国际公共图床
 
 [sm.ms](https://sm.ms/)稳定
 
