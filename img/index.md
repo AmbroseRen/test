@@ -18,4 +18,4 @@
 
 ## 个人图床
 
-[ikurumi](https://ikurumi.com/wallpaper.php)
+[ikurumi](https://ikurumi.com/wallpaper.php)图片库引用
