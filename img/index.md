@@ -6,7 +6,7 @@
 
 [imgur](https://imgur.com/)稳定
 
-[catbox](https://catbox.moe/user/)不保证永久
+[catbox](https://catbox.moe/user/)稳定不保证永久
 
 [anonfiles](https://anonfiles.com/)匿名且不保证永久
 
