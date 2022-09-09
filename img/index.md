@@ -16,9 +16,9 @@
 
 ## 网站图床
 
-[aliyun_OSS](https://oss.console.aliyun.com/bucket)
+[aliyun_OSS](https://oss.console.aliyun.com/bucket)需绑定域名
 
-[七牛云OSS](https://portal.qiniu.com/kodo/bucket/resource?bucketName=ambroseren)
+[七牛云OSS](https://portal.qiniu.com/kodo/bucket/resource?bucketName=ambroseren)需绑定域名
 
 [又拍云OSS](https://console.upyun.com/services/homehub/filemanage/)☑️
 
