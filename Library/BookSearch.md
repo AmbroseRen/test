@@ -17,7 +17,6 @@
 | __BookSearch__ | __搜索引擎__ | X | X | X |
 | [书享家](http://shuxiangjia.cn/) | 导航 | X | 看来我在做的事情已经有人做的更好了啊 | X |
 | [熊猫·搜索](https://xmsoushu.com/#/) | 聚合搜索 | [sosuopan](https://m.sosuopan.cn/) - [波波有料](http://www.52xianua.info/) - [小白盘](https://www.xiaobaipan.com/) | ~~[Ebook Sreach](https://ebook.blinkol.com/#/)~~ | X |
-| ~~[万千合集站](http://www.hejizhan.com/bbs/)~~ | 聚合搜索 | X | X | X |
 | []() | 论坛 | [招财猫](https://52zcmm.com/forum.php?gid=60) | X | X |
 | [科学文库](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | 文/理书库-cn | [中国国家数字图书馆](http://www.nlc.cn/) | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
