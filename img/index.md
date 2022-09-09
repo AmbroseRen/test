@@ -2,7 +2,13 @@
 
 ## 公共图床
 
-[sm.ms](https://sm.ms/) - [imgur](https://imgur.com/) - [catbox](https://catbox.moe/user/)
+[sm.ms](https://sm.ms/)稳定
+
+[imgur](https://imgur.com/)稳定
+
+[catbox](https://catbox.moe/user/)不保证永久
+
+[anonfiles](https://anonfiles.com/)匿名且不保证永久
 
 ## CDN图床
 
