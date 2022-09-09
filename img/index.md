@@ -2,7 +2,7 @@
 
 ## 公共图床
 
-[sm.ms](https://sm.ms/) - []() - []()
+[sm.ms](https://sm.ms/) - [imgur](https://imgur.com/) - [catbox](https://catbox.moe/user/)
 
 ## CDN图床
 
