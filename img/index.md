@@ -22,6 +22,8 @@
 
 [又拍云OSS](https://console.upyun.com/services/homehub/filemanage/)☑️
 
+[tencent OSS](https://console.cloud.tencent.com/cos/bucket)☑️
+
 ## 个人图床
 
 [ikurumi](https://ikurumi.com/wallpaper.php)图片库引用
