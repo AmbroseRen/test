@@ -13,20 +13,20 @@
 
 ## CDN引用
 
-### unpkg
+### [unpkg](https://unpkg.com/)
 
 `https://unpkg.com/browse/jquery@3.6.0/dist/`
 
 `https://unpkg.com/jquery@3.6.0/dist/jquery.js`
 
-### NPM
+### [NPM](https://www.npmjs.com/)
 
 `https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js`
 
-### github
+### [jsdelivr](https://www.jsdelivr.com/) - github
 
 `https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/book/History/孙子兵法全集.pdf`
 
-
+- [参考](https://blog.csdn.net/Ambrose_Ren/article/details/108325119)
 
 
