@@ -15,7 +15,7 @@
 | []() |  | X |
 | [ecs.console](https://ecs.console.aliyun.com/#/home) | [阿里云主页](https://www.aliyun.com/) | [文档](https://help.aliyun.com/index.html?spm=5176.7937365.765261.484.76c75692Oarl3P&content=school) - [开发者社区](https://developer.aliyun.com/) |
 | []() |  | X |
-| []() | [百度智能云](https://cloud.baidu.com/) | [API](https://console.bce.baidu.com/ai/#/ai/speech/overview/index) - [人脸识别](https://cloud.baidu.com/doc/FACE/index.html) - [百度AI](http://ai.baidu.com/index/) |
+| [新手福利](https://console.bce.baidu.com/) | [百度智能云](https://cloud.baidu.com/) | [API](https://console.bce.baidu.com/ai/#/ai/speech/overview/index) - [人脸识别](https://cloud.baidu.com/doc/FACE/index.html) - [百度AI](http://ai.baidu.com/index/) |
 | []() |  | X |
 | []() |  | X |
 | lucy | 25 | X |
