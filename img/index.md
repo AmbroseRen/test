@@ -16,7 +16,7 @@
 
 ## 国内网站图床
 
-[aliyun_OSS](https://oss.console.aliyun.com/bucket)需绑定域名
+[aliyun_OSS](https://oss.console.aliyun.com/bucket)需绑定域名 [DMS](https://dms.aliyun.com/)
 
 [七牛云OSS](https://portal.qiniu.com/kodo/bucket/resource?bucketName=ambroseren)需绑定域名
 
