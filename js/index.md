@@ -15,7 +15,7 @@
 
 ### [unpkg](https://unpkg.com/)
 
-`https://unpkg.com/browse/jquery@3.6.0/dist/`
+https://unpkg.com/browse/jquery@3.6.0/dist/
 
 `https://unpkg.com/jquery@3.6.0/dist/jquery.js`
 
