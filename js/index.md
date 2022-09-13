@@ -11,7 +11,11 @@
 | []() | []() | []() |
 | lucy | 25 | X |
 
+## unpkg CDN引用
 
+https://unpkg.com/browse/jquery@3.6.0/dist/
+
+https://unpkg.com/jquery@3.6.0/dist/jquery.js
 
 
 
