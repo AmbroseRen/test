@@ -11,7 +11,7 @@
 | []() | []() | []() |
 | lucy | 25 | X |
 
-## CDN引用
+## [CDN](https://www.akamai.com/zh/our-thinking/cdn/what-is-a-cdn)引用
 
 ### [unpkg](https://unpkg.com/)
 
