@@ -1,4 +1,4 @@
-# Cloud or DataLake Services Lists  [←](index.md)
+# ~~Cloud or DataLake Services Lists~~  [←](index.md)
 
 | Provider | Description | Abstract |
 |:---:|:---:|:---:|
