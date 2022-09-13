@@ -9,7 +9,7 @@
 | []() |  | X |
 | [IBM](https://myibm.ibm.com/dashboard/) |  | X |
 | []() |  | X |
-| [Console](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#) | [Microsoft Azure](https://azure.microsoft.com/en-us/) | [开发文档](https://docs.microsoft.com/zh-cn/) |
+| []() | [Microsoft Azure](https://azure.microsoft.com/en-us/) | [开发文档](https://docs.microsoft.com/zh-cn/) |
 | []() |  | X |
 | [Bucket](https://console.cloud.tencent.com/cos/bucket) | [Tencent Cloud](https://cloud.tencent.com/) | [腾讯数字生态大会2020.9.9](https://des.cloud.tencent.com/#/) - [人脸识别](https://cloud.tencent.com/act/event/iaidemo)-[对象存储](https://cloud.tencent.com/document/product/436/6240)-[云服务器](https://buy.cloud.tencent.com/cvm?tab=lite)-[配置说明](https://cloud.tencent.com/document/product/228/41622) |
 | []() |  | X |
