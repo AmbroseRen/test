@@ -2,13 +2,15 @@
 
 ## 国际公共图床
 
-[sm.ms](https://sm.ms/home/picture)稳定 []()
+[sm.ms](https://sm.ms/home/picture)稳定
 
 [imgur](https://ambroseren.imgur.com/all)稳定
 
 [catbox](https://catbox.moe/user/)稳定不保证永久
 
 [anonfiles](https://anonfiles.com/)匿名且不保证永久
+
+> [Telegraph](https://telegra.ph)匿名发文平台
 
 ## CDN图床
 
