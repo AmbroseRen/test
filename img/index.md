@@ -4,7 +4,7 @@
 
 [sm.ms](https://sm.ms/home/picture)稳定
 
-[imgur](https://imgur.com/)稳定
+[imgur](https://ambroseren.imgur.com/all)稳定
 
 [catbox](https://catbox.moe/user/)稳定不保证永久
 
