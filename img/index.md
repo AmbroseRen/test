@@ -6,6 +6,8 @@
 
 [imgur](https://ambroseren.imgur.com/all)稳定
 
+[Google OSS](https://console.cloud.google.com/storage/browser)
+
 [catbox](https://catbox.moe/user/)稳定不保证永久
 
 [anonfiles](https://anonfiles.com/)匿名且不保证永久
