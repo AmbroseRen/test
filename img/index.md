@@ -2,7 +2,7 @@
 
 ## 国际公共图床
 
-[sm.ms](https://sm.ms/home/picture)稳定
+[sm.ms](https://sm.ms/home/picture)稳定 []()
 
 [imgur](https://ambroseren.imgur.com/all)稳定
 
