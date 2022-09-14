@@ -10,7 +10,7 @@
 
 [anonfiles](https://anonfiles.com/)匿名且不保证永久
 
-> [Telegraph](https://telegra.ph)匿名发文平台
+> [Telegraph](https://telegra.ph)匿名发文平台 [MD格式参考](https://ambroseren.github.io/test/Data/MD/Guide.txt) - [对应效果](https://ambroseren.github.io/test/Data/MD/Guide.html)
 
 ## CDN图床
 
