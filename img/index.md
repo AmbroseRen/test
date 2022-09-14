@@ -37,3 +37,6 @@
 [ikurumi](https://ikurumi.com/wallpaper.php)图片库引用
 
 ## [辅助工具](../Data/InstallPackage/Tools.md)
+
+[PicGo](https://molunerfinn.com/PicGo/)图床批量上传管理工具
+
