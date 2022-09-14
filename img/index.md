@@ -14,7 +14,7 @@
 
 ## CDN图床
 
-[MyFigureBed](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/)-[gold](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/gold.jpg)
+~~[MyFigureBed](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/)~~ - [gold](https://cdn.jsdelivr.net/gh/AmbroseRen/Picture@master/img/default/gold.jpg)
 
 ## 国内网站图床
 
