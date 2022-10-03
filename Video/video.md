@@ -25,6 +25,8 @@
 
 | [<font color="#ff0000">传送门</font>](../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
+| [低端影视](https://ddys.tv/) | O_O | Y | Y | Y |
+| [韩剧tv](https://tgbook.coolkv.com/) | O_O | Y | Y | Y |
 | []() | O_O | Y | Y | Y |
 | []() | O_O | Y | Y | Y |
 | []() | O_O | Y | Y | Y |
