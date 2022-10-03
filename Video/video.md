@@ -28,7 +28,9 @@
 | [低端影视](https://ddys.tv/) | O_O | Y | Y | Y |
 | [韩剧tv](https://tgbook.coolkv.com/) | O_O | Y | Y | Y |
 | [泥巴影院](https://www.mudvod1.tv/) | O_O | Y | Y | Y |
-| []() | O_O | Y | Y | Y |
+| [浮生半曰](https://movie.fush8.com/) | O_O | Y | Y | Y |
+| [大师兄影视](https://www.zzxwmp.com/) | O_O | [镜像站](http://www.bra35.com/) | Y | Y |
+| [555](https://www.555dy.me/) | O_O | Y | Y | Y |
 | []() | O_O | Y | Y | Y |
 | lucy | 25 | X | X | X |
 
