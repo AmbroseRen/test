@@ -26,6 +26,7 @@
 [参考](hosts.md)：修改C:\windows\system32\drivers\etc\hosts文件，最未尾加入
 
 74.125.71.94 drive.google.com
+203.208.39.226 translate.googleapis.com
 
 # Config
 ## chrome://flags/
