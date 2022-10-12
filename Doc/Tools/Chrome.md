@@ -27,7 +27,7 @@
 
 74.125.71.94 drive.google.com
 
-203.208.39.226 translate.googleapis.com
+203.208.39.226 translate.googleapis.com  [参考](https://www.williamlong.info/archives/6939.html)
 
 # Config
 ## chrome://flags/
