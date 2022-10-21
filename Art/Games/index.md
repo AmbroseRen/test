@@ -56,7 +56,7 @@
 | [游民星空](https://www.gamersky.com/) | O_O | Y |
 | [游侠网](https://www.ali213.net/) | O_O | Y |
 | []() | O_O | Y |
-| __smallGame__ | 小游戏 | [crazygames](https://www.crazygames.com/) |
+| __smallGame__ | 小游戏 | [crazygames](https://www.crazygames.com/)/[pacogames](https://www.pacogames.com/) |
 | [小霸王，其乐无穷](https://www.yikm.net/) | O_O | Y |
 | [4399](http://www.4399.com/) | O_O | Y |
 | [7k7k](http://www.7k7k.com/) | O_O | Y |
