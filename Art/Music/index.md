@@ -32,7 +32,7 @@
 | 主平台 | O_O | Y |
 | [QQ音乐](https://y.qq.com/n/ryqq/profile/create) | O_O | [player](https://y.qq.com/n/ryqq/player) |
 | [酷狗音乐](http://www.kugou.com/) | O_O | Y |
-| [网易云音乐](https://music.163.com/) | O_O | [cloud-music-tools](https://github.com/meng-chuan/Unlock-netease-cloud-music) |
+| [网易云音乐](https://music.163.com/) | O_O | [脚本](https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/Clash/UnblockNeteaseMusic.yaml)-[用法](https://desperadoj.com/16.html) |
 | 音乐网站 | O_O | Y |
 | [音乐圣经](https://www.musicbible.com/) | O_O | Y |
 | [新芭网](https://www.sin80.com/artist/beethoven) | O_O | Y |
