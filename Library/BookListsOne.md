@@ -257,13 +257,13 @@
                     <li><a href="https://www.kanunu8.com/book3/7357/">《人面桃花》</a> 格菲</li>
                     <li><a href="https://www.yodu.org/authorarticle/村上春树.html">村上春树作品集</a>——<a href="https://www.aixdzs.com/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91">副链</a>
                         <ul>
-                            <li><a href="https://www.yooread.net/2/4891/">《挪威的森林》</a></li>
+                            <li><a href="https://www.yodu.org/book/1391/?for-author">《挪威的森林》</a></li>
                         </ul>
                     </li>                        
                     <li><a href="https://www.yodu.org/authorarticle/东野圭吾.html">东野圭吾作品集</a>
                         <ul>
                             <li><a href="https://www.kunnu.com/jieyou/">《解忧杂货铺》</a></li>
-                            <li><a href="https://www.youduzw.com/3/3309/">白夜行</a></li>
+                            <li><a href="https://www.yodu.org/book/1828/?for-author">白夜行</a></li>
                         </ul>
                     </li>                        
                     <li><a href="https://www.kanunu8.com/files/writer/7470.html">芥川龙之介作品集</a></li>
