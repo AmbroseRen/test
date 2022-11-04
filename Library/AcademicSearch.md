@@ -2,7 +2,7 @@
 
 | [传送门](../navigation.md) | 描述 | 摘引 |
 |:---:|:---:|:---:|
-| Platform | 平台 | X |
+| Platform | 平台 | [sci-hub](https://www.sci-hub.se/)/[一链](http://sci-hub.st)/[二链](https://sci-hub.ru) |
 | [科塔学术导航](https://site.sciping.com/) | 学术导航 | X |
 | [CNKI](https://www.cnki.net/) - [导](http://new.oversea.cnki.net/index/) | 中国知网 | [阅读器下载](https://cajviewer.cnki.net/) |
 | [万方数据](http://www.wanfangdata.com.cn/index.html) | 会议、学术论文 | Y |
