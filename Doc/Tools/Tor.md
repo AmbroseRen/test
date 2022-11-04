@@ -52,7 +52,7 @@ publish：2021-9-22 23:19:47
 | [Zerobin.net](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion/) | 加密文本 | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
-| [zlibrary](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion) | O_O | onion |
+| [zlibrary](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion) | onion | ~~[z-library](z-lib.org)~~表网 |
 | lucy | 25 | X |
 
 
