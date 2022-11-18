@@ -43,7 +43,7 @@
 
 1.下载[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.18.4/Clash.for.Windows.Setup.0.18.4.exe)软件([软件介绍](https://docs.cfw.lbyczf.com/contents/quickstart.html))
 
-[Windows端▪使用手册](https://igghelper.com/helper/?p=413)
+[Windows端▪使用手册](https://igghelper.com/helper/?p=413)-[一链](https://docs.cfw.lbyczf.com/contents/ui/profiles/rules.html)
 
 注：电脑端填入URL时，订阅地址可能被墙了而下载失败。解决：打开插件过墙，访问订阅地址，复制加载的全部内容存入新建的`igg.yaml`文件中，如图手动导入加载
 
