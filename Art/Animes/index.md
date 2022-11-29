@@ -35,6 +35,7 @@
 | [漫客栈](https://www.mkzhan.com) | O_O | []() | X | X |
 | [花火](https://www.zz-news.com/com/huahuo/)/[补充](https://mall.cnki.net/magazine/magalist/HUAH2020.htm) | 青春文学·期刊 | []() | X | [发展](https://www.zhihu.com/question/24907671) |
 | [意林](https://www.yilinzazhi.com/)/[读者](https://www.dzwzzz.com/)/[故事会](https://www.92gushi.com/) | 杂志 | []() | X | X |
+| [连环画](http://www.laohuabao.com/index.html) | O_O | []() | X | X |
 | [漫画柜](https://www.manhuagui.com/) | O_O | []() | X | X |
 | [动漫之家](https://www.dmzj.com/)/[分类](http://manhua.dmzj.com/tags/category_search/0-0-0-all-0-1-0-1.shtml) | 动漫本 | []() | X | X |
 | [爱看番](http://www.ikanfan.com/) | 动漫本 | []() | X | X |
