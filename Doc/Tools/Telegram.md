@@ -1,10 +1,10 @@
 # Telegram Channel Guide [←](index.md)
 
-Navigation Channel
+## Navigation Channel
 
-Forum Channel
+## Forum Channel
 
-Book Library Channel
+## Book Library Channel
 
 [VK Music Bot](https://t.me/vkmusic_bot)音乐机器人
 
@@ -20,14 +20,14 @@ Book Library Channel
 
 []()
 
-Data Channel
+## Data Channel
 
-Message Channel
+## Message Channel
 
-Personal Channel
+## Personal Channel
 
-Political Channel
+## Political Channel
 
-Bot Channel
+## Bot Channel
 
-A Channel
+## A Channel
