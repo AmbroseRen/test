@@ -20,6 +20,6 @@
 | [onedrive](https://onedrive.live.com/?id=root&cid=D702FA97AA60D8CB) | 微软云盘 | Y |
 | [MEGA](https://mega.nz/fm/XoFHjarT) | 多设备加密 | Y |
 | [imgchr](https://imgchr.com/ambroseren) | 26 | Y |
-| []() | 26 | Y |
+| [PikPak](https://mypikpak.com/) | 26 | Y |
 | []() | 26 | Y |
 | lucy | 25 | X |
