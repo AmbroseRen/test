@@ -18,7 +18,7 @@
 | [电影天堂](https://www.dydytt.net/index2.htm) | O_O | Y |
 | [磁力狗](http://clg88.cc/) | O_O | Y |
 | [YTS](https://yts.mx/) | en | [1337x](https://1337x.to/home/) - [RARBG](https://rarbgunblocked.org/torrents.php) - [TorrentGalaxy](https://torrentgalaxy.to/) - [eztv.re](https://eztv.re/) |
-| [IGGGAMES](https://igg-games.com/) | Game | [FitGirl](https://fitgirl-repacks.site/) |
+| [IGGGAMES](https://igg-games.com/) | Game | [Skidrow & Reloaded](https://www.skidrowreloaded.com/) - [FitGirl](https://fitgirl-repacks.site/) |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
