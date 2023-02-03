@@ -65,7 +65,7 @@
 				</div>
 			</div>
 			<div id="clock-box">
-				<span><font color="#666666">亲爱的***，我们相识已经是</font></span>
+				<span><font color="#666666">亲爱的陈志丹，我们相识已经是</font></span>
 				<div id="clock"></div>
 			</div>
             <canvas id="canvas" width="1100" height="680"></canvas>
@@ -196,7 +196,8 @@
     var textAnimate = eval(Jscex.compile("async",
     function() {
         var together = new Date();
-        together.setFullYear(year, (month - 1), (day - 1));
+        //together.setFullYear(year, (month - 1), (day - 1));
+	together.setFullYear(2023, 1, 27);
         together.setHours(hour);
         together.setMinutes(minute);
         together.setSeconds(second);
