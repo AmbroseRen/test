@@ -21,7 +21,7 @@
 | [科学文库](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | 文/理书库-cn | [中国国家数字图书馆](http://www.nlc.cn/) | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
-| [sobooks](https://sobooks.cc/) | 搜索 | X | X | X |
+| [sobooks](https://sobooks.net/) | 搜索 | X | X | X |
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | ~~[Zlibrary](https://b-ok.global/)~~ | ebook | [Tor](../Doc/Tools/Tor.md) - [镜像站](https://mirror.yibook.org/) - apk | [Library Genesis](http://libgen.rs/) | [libcats](https://libcats.org/)-Ru |
 | [Anna's Archive](https://annas-archive.org) | [IPFS](../Doc/article/IPFS.md)搜索 | [cydiar](https://zlib.cydiar.com/)/[易书](https://search.yibook.org/)/[hallowlib](https://bk.hallowlib.org/)/[clibrary](https://clibrary.cn/#/)/[knat](https://zlib.knat.network/) | X | X |
