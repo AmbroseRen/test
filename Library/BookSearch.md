@@ -23,7 +23,7 @@
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
 | [sobooks](https://sobooks.cc/) | 搜索 | X | X | X |
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
-| ~~[Zlibrary](https://b-ok.global/)~~ | ebook | [Tor](../Doc/Tools/Tor.md) - ~~[检测](https://find.looks.wang/)/[镜像站](https://1lib.limited/)/[三](https://zh.u1lib.org/)~~ | [Library Genesis](http://libgen.rs/) | [libcats](https://libcats.org/)-Ru |
+| ~~[Zlibrary](https://b-ok.global/)~~ | ebook | [Tor](../Doc/Tools/Tor.md) - [镜像站](https://mirror.yibook.org/) - apk | [Library Genesis](http://libgen.rs/) | [libcats](https://libcats.org/)-Ru |
 | [Anna's Archive](https://annas-archive.org) | [IPFS](../Doc/article/IPFS.md)搜索 | [cydiar](https://zlib.cydiar.com/)/[knat](https://zlib.knat.network/)/[易书](https://search.yibook.org/)/[hallowlib](https://bk.hallowlib.org/) | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [书单网](https://www.shudan.vip/) | 搜索引擎 | X | X | X |
