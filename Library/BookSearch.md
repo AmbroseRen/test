@@ -21,10 +21,10 @@
 | [科学文库](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | 文/理书库-cn | [中国国家数字图书馆](http://www.nlc.cn/) | X | X |
 | [鸠摩智](https://www.jiumodiary.com/) | 图书搜索引擎 | X | X | X |
 | [lorefree](https://ebook2.lorefree.com/) | 搜索引擎 | [Learn in](https://ebook2.lorefree.com/site/index?s=Lean%20in) | X | X |
-| ~~[星际图书](http://test.xxce.top:7743/)~~ | 搜索引擎 | X | X | [关于](http://test.xxce.top:7743/about) |
 | [sobooks](https://sobooks.cc/) | 搜索 | X | X | X |
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | ~~[Zlibrary](https://b-ok.global/)~~ | ebook | [中继](https://zlib.cydiar.com/)/[参考](https://iui.su/380/)/[Tor](../Doc/Tools/Tor.md) - ~~[检测](https://find.looks.wang/)/[zLibrary镜像站](https://1lib.limited/)/[三](https://zh.u1lib.org/)~~ | [Library Genesis](http://libgen.rs/) | [libcats](https://libcats.org/)-Ru |
+| ~~[星际图书](http://test.xxce.top:7743/)~~ | IPFS搜索 | X | X | [关于](http://test.xxce.top:7743/about) |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [书单网](https://www.shudan.vip/) | 搜索引擎 | X | X | X |
 | [rukomos](http://cn-library.rukomos.ru/) | 导航无下载 | [Category](http://cn-library.rukomos.ru/list_categories.html) | X | X |
