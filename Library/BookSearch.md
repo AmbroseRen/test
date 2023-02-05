@@ -39,8 +39,6 @@
 | __[掌上书苑](https://www.soepub.com/)__ | 现代文学 | [我的分享](https://www.soepub.com/myspace/3) - [消息](https://www.soepub.com/discuzx33/home.php?mod=space&do=pm) - [《人体的故事：进化、健康与疾病》](https://www.soepub.com/496252) | X | X |
 | [七秒读书](https://www.7sbook.com/) | 近代文学 | ~~[阅读](https://www.7sbook.com/disk/index.html)~~ - [豆瓣阅读](https://read.douban.com/bookshelf/) - [微信阅读](https://weread.qq.com/) - [网易云-书架](https://yuedu.163.com/shelf.do?operation=query_current) - [多看阅读](https://www.duokan.com/u/favourite) - [得到](https://www.dedao.cn/) | [三秋书屋](https://www.sanqiu.cc/) | X |
 | [好读](http://www.haodoo.net/) | 现代文学·轻小说 | X | X | X |
-| ~~[星空好书](http://www.goodepub.com/)太少~~ | 现代文学 | X | X | X |
-| ~~[万卷天书-PDF](https://jrjpc.com/)~~ | 现代文学 | X | X | X |
 | [Kindle Push](https://book.einverne.info/) | 传记文学 | X | X | X |
 | [书阁](https://new.shuge.org/collections/) | 中国古典文学 | X | X | X |
 | ~~[典籍导航](https://www.2345daohang.com/)~~/[副站](http://m.505dh.com/) | 中国古典文学 | [资治通鉴](http://m.505dh.com//dianji/63279/) - [诗词](http://m.505dh.com/shici/list.htm) - [文心雕龙](http://m.505dh.com/dianji/63314/) - [梦溪笔谈](http://m.505dh.com/dianji/63285/) - [商君书](http://m.505dh.com/dianji/63313/) - [楚辞](http://m.505dh.com/shici/list_1_t_918.htm) - [乐府](http://m.505dh.com/shici/list_1_t_469.htm) - [金刚经](http://m.505dh.com/dianji/63334/) - [道德经](http://www.505dh.com/dianji/63299/) | X | X |
