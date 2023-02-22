@@ -2,15 +2,15 @@
 #content {margin-left: -10px;}
 #content table {width:1500px;}
   
-.cm-table-widget table thead tr {
+#content table thead tr {
     background-color: var(--dark3);
 }
 
-.cm-table-widget table tbody tr:nth-child(even) {
+#content table tbody tr:nth-child(even) {
     background-color: var(--background-primary);
 }
 
-.cm-table-widget table tbody tr:nth-child(even) {
+#content table tbody tr:nth-child(even) {
     background-color: var(--background-secondary);
 }
 </style>
