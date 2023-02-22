@@ -1,6 +1,10 @@
 <style type="text/css">
 #content {margin-left: -10px;}
 #content table {width:1500px;}
+  
+.main-content table td {
+   border: 1px solid #d14;
+}
 </style>
 
 <script src="js/JQuery/jquery.min.js" type="text/javascript"></script>
