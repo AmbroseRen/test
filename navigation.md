@@ -1,6 +1,10 @@
 <style type="text/css">
 #content {margin-left: -10px;}
 #content table {width:1400px;}
+
+ .main-content table td {
+   border: 1px solid #d14;
+}
   
 #content table tbody tr {
       //background-color: var(--background-primary);
