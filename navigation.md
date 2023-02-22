@@ -1,9 +1,14 @@
 <style type="text/css">
 #content {margin-left: -10px;}
-#content table {width:1500px;}
+#content table {width:1400px;}
   
-.main-content table td {
-   border: 1px solid #d14;
+#content table tbody tr {
+      //background-color: var(--background-primary);
+        background-color: #e6e6e6;
+}
+
+#content table tbody tr:nth-child(even) {
+      background-color: var(--background-secondary);
 }
 </style>
 
