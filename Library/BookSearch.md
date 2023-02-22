@@ -24,7 +24,7 @@
 | [sobooks](https://sobooks.net/) | 搜索 | X | X | X |
 | ~~[ePUBee](http://cn.epubee.com/books/?action=addbooks)~~ | 综合搜索 |  | X | [在线格式转换](https://www.aconvert.com/cn/ebook/epub-to-mobi/) - [转换二](http://cn.epubee.com/) |
 | ~~[Zlibrary](https://b-ok.global/)~~ | ebook | [Tor](../Doc/Tools/Tor.md) - [镜像站](https://mirror.yibook.org/) - apk | [Library Genesis](http://libgen.rs/) | [libcats](https://libcats.org/)-Ru |
-| [Anna's Archive](https://annas-archive.org) | [IPFS](../Doc/article/IPFS.md)搜索 | [cydiar](https://zlib.cydiar.com/)/[易书](https://search.yibook.org/)/[hallowlib](https://bk.hallowlib.org/)/[clibrary](https://clibrary.cn/#/)/[knat](https://zlib.knat.network/) | X | X |
+| [Anna's Archive](https://annas-archive.org) | [IPFS](../Doc/article/IPFS.md)搜索 | [cydiar](https://x.zeuslib.com/)/[易书](https://search.yibook.org/)/[hallowlib](https://bk.hallowlib.org/)/[clibrary](https://clibrary.cn/#/)/[knat](https://zlib.knat.network/) | X | X |
 | [全国图书馆](http://www.ucdrs.superlib.net/) | 聚合搜索 | X | X | X |
 | [书单网](https://www.shudan.vip/) | 搜索引擎 | X | X | X |
 | [rukomos](http://cn-library.rukomos.ru/) | 导航无下载 | [Category](http://cn-library.rukomos.ru/list_categories.html) | X | X |
