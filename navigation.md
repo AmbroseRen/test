@@ -1,6 +1,6 @@
 <style type="text/css">
-#content {margin-left: -10px;}
-#content table {width:1400px;}
+#content {margin-left: -50px;}
+#content table {width:1450px;}
 
  .main-content table td {
    border: 1px solid #d14;
