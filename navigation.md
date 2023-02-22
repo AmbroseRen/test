@@ -7,7 +7,7 @@
 }
  
 #sq {
-  background-color: orange; 
+  //background-color: orange; 
 }
   
 #content table tbody tr {
