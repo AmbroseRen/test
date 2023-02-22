@@ -1,6 +1,18 @@
 <style type="text/css">
 #content {margin-left: -10px;}
 #content table {width:1500px;}
+  
+.cm-table-widget table thead tr {
+    background-color: var(--dark3);
+}
+
+.cm-table-widget table tbody tr:nth-child(even) {
+    background-color: var(--background-primary);
+}
+
+.cm-table-widget table tbody tr:nth-child(even) {
+    background-color: var(--background-secondary);
+}
 </style>
 
 <script src="js/JQuery/jquery.min.js" type="text/javascript"></script>
