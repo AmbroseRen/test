@@ -66,9 +66,6 @@
 | [PM](https://dh.woshipm.com/)/[addog](https://www.addog.vip/) | []() | []() | []() |
 | __算法社区__ | [LeetCode](https://leetcode.com/problemset/all/)/[LeetCode-cn](https://leetcode-cn.com/problemset/all/) | [Project Euler](https://projecteuler.net/archives) | [Programming Praxis](https://programmingpraxis.com/) |
 | [__网络公开课__](Library/LearnPlatform.md) | [imooc](https://www.imooc.com/course/list) | [mooc.cn](https://www.cmooc.com/course) | [实验楼](https://www.lanqiao.cn/courses/) |
-| [脚本之家](https://www.jb51.net/list/index_1.htm) | [Meet Guru99](https://www.guru99.com/) | ~~[多贝公开课](http://www.duobei.com/)~~ | [极客学院](https://www.jikexueyuan.com/) |
-| [巧匠课堂-Adobe](https://www.2qj.com/) | [easydrawingtutorials](https://www.easydrawingtutorials.com/index.php/disney/81-draw-mickey-mouse) | [创客贴_平面设计](https://www.chuangkit.com/designtools/designindex) | [网易公开课](https://open.163.com/khan/) |
-| [腾讯课堂](https://ke.qq.com/) | [Khan Academy](https://www.khanacademy.org/) | [coursera](https://www.coursera.org/browse/computer-science) | []() |
 | [<strong id="bk">博客</strong>](Library/Blog.md) | []() | []() | []() |
 | __直播__ | [斗鱼](https://www.douyu.com/directory/myFollow)/[配置](https://mp.douyu.com/live/main)/[我的斗鱼直播](https://www.douyu.com/10150268) | [虎牙](https://www.huya.com/myfollow)/[配置](https://i.huya.com/index.php?m=ProfileSetting#ktylts)/[我的虎牙直播](https://www.huya.com/25541428) | []() |
 | [YY LIVE](https://www.yy.com/i/index/live) | [Tik Tok](https://www.tiktok.com/)/[抖音](https://www.douyin.com/recommend)/[快手](https://www.kuaishou.com/) | []() | []() |
