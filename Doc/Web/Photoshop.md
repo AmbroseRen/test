@@ -14,7 +14,7 @@ Author：AmbroseRen
 
 操作网站：[PS家园](https://www.psjia.com/) - [PS学堂](https://www.ren3.cn/) -  []()
 
-素材站：[千图网](https://www.58pic.com/) - [千库网](https://588ku.com/) - [花瓣网](https://huaban.com/) - []()
+素材站：[千图网](https://www.58pic.com/) - [千库网](https://588ku.com/) - [花瓣网](https://huaban.com/) - [pixabay](https://pixabay.com/)
 
 配音：[牛片网](https://www.6pian.cn/)
 
