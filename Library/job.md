@@ -12,6 +12,7 @@
 | [BOSS直聘](https://www.zhipin.com/) | O_O | [简历](https://www.zhipin.com/web/geek/resume)/[消息中心](https://www.zhipin.com/web/geek/chat) | X | X |
 | [拉勾网](https://www.lagou.com/) | O_O | X | X | X |
 | [猎聘网](https://c.liepin.com/) | O_O | [简历](https://c.liepin.com/resume/getdefaultresume/)/[进展](https://c.liepin.com/apply/applylist/) | X | X |
+| [牛客网](https://www.nowcoder.com/jobs/recommend/campus) | O_O | X | X | X |
 | GlobalJob | 全球市场 | X | X | X |
 | [领英](https://www.linkedin.com/) | O_O | [glassdoor](https://www.glassdoor.com/) | X | X |
 | []() | O_O | X | X | X |
