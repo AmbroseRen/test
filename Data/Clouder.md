@@ -13,6 +13,7 @@
 | [坚果云](https://www.jianguoyun.com/#/) | 26 | Y |
 | [奶牛关云盘](https://zhaooolee.cowtransfer.com/) | 26 | Y |
 | [永硕E盘](http://rensi.ys168.com/) | 小文件转存 | Y |
+| [迅雷云盘](https://pan.xunlei.com/) | 26 | Y |
 | [polyv保利威](https://my.polyv.net/v3/login/) | 教育视频平台 | Y |
 | [139](https://yun.139.com/w/#/main) | 移动云盘 | [139邮箱](https://appmail.mail.10086.cn/m6/html/index.html)/[积分商城](https://jf.10086.cn/#/) |
 | 国外云盘 | 26 | Y |
