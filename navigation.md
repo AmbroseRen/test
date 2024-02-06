@@ -65,7 +65,7 @@
 | []() | []() | [斗鱼](https://www.douyu.com/directory/myFollow)/[配置](https://mp.douyu.com/live/main)/[我的斗鱼直播](https://www.douyu.com/10150268) | []() |
 | []() | []() | [虎牙](https://www.huya.com/myfollow)/[配置](https://i.huya.com/index.php?m=ProfileSetting#ktylts)/[我的虎牙直播](https://www.huya.com/25541428) | [PM](https://dh.woshipm.com/)/[addog](https://www.addog.vip/) |
 | []() | []() | [YY LIVE](https://www.yy.com/i/index/live) | __新手基础自学__ |
-| []() | []() | [Tik Tok](https://www.tiktok.com/)/[抖音](https://www.douyin.com/recommend)-[创](https://creator.douyin.com/creator-micro/content/manage)/[快手](https://www.kuaishou.com/)-[创](https://cp.kuaishou.com/article/publish/video) | [菜鸟教程](https://www.runoob.com/) |
+| []() | []() | [短剧](Video/playlet.md)/[Tik Tok](https://www.tiktok.com/)/[抖音](https://www.douyin.com/recommend)-[创](https://creator.douyin.com/creator-micro/content/manage)/[快手](https://www.kuaishou.com/)-[创](https://cp.kuaishou.com/article/publish/video) | [菜鸟教程](https://www.runoob.com/) |
 | []() | []() | [BIGO LIVE](https://www.bigo.tv/cn/show) | [w3school](https://www.w3school.com.cn/) |
 | []() | []() | [Twitch](https://www.twitch.tv/) | [w3cschool](https://www.w3cschool.cn/) |
 
