@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: zymk",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.zymk",
+    "apk": "tachiyomi-zh.copymanga-v1.4.53.apk",
+    "lang": "zh",
+    "code": 53,
+    "version": "1.4.53",
+    "nsfw": 1,
+    "sources": [
+      {
+        "id": "6696312508930833307",
+        "lang": "zh",
+        "name": "知音漫客",
+        "baseUrl": "https://www.zymk.cn"
+      }
+    ]
+  }
+]
