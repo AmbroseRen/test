@@ -36,6 +36,7 @@
 | 音乐网站 | O_O | Y |
 | ~~[音乐圣经](https://www.musicbible.com/)~~ | 古典音乐 | [MuzikAir](https://listen.muzikair.com/cn/)-[musopen](https://musopen.org/music/)-*[naxosmusiclibrary](https://www.naxosmusiclibrary.com)* |
 | [radiotunes](https://www.radiotunes.com/) | Radio | [tunein](https://tunein.com/search/?query=classical)-[soundcloud](https://soundcloud.com/search/sets?q=classic%20music)-[CRadio](https://www.accuradio.com/classical/) |
+| [古筝网](https://www.guzheng.cn/qudan/) | 古筝 | [名曲](http://www.guzhengw.cn/list.php?fid=148) |
 | [新芭网](https://www.sin80.com/artist/beethoven) | O_O | Y |
 | 英文歌曲 | O_O | Y |
 | [Apple Music](https://music.apple.com/cn/browse) | O_O | Y |
