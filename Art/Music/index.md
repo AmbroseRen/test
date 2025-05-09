@@ -34,7 +34,7 @@
 | [酷狗音乐](http://www.kugou.com/) | O_O | Y |
 | [网易云音乐](https://music.163.com/) | O_O | [项目](https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic)-[脚本](https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/Clash/UnblockNeteaseMusic.yaml)-[用法](https://desperadoj.com/16.html) |
 | 音乐网站 | O_O | Y |
-| ~~[音乐圣经](https://www.musicbible.com/)~~ | 古典音乐 | [MuzikAir](https://listen.muzikair.com/cn/)/[CRadio](https://www.accuradio.com/classical/) |
+| ~~[音乐圣经](https://www.musicbible.com/)~~ | 古典音乐 | [MuzikAir](https://listen.muzikair.com/cn/)/[musopen](https://musopen.org/music/)/[CRadio](https://www.accuradio.com/classical/) |
 | [radiotunes](https://www.radiotunes.com/) | Radio | [tunein](https://tunein.com/search/?query=classical)/[soundcloud](https://soundcloud.com/search/sets?q=classic%20music) |
 | [新芭网](https://www.sin80.com/artist/beethoven) | O_O | Y |
 | 英文歌曲 | O_O | Y |
