@@ -25,9 +25,8 @@
 
 | [<font color="#ff0000">传送门</font>](../navigation.md#playlet) | 描述 | 摘要 |
 |:---:|:---:|:---:|
-| [榜一短剧](https://duanju.one/) | O_O | Y |
+| [短剧网](https://www.duanju2.com/) | O_O | Y |
 | [影视村](http://www.yingshicun.com/) | O_O | Y |
-| [我爱短剧](https://www.woaiduanju.com/) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
 | lucy | 25 | X |
