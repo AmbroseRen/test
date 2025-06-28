@@ -26,7 +26,7 @@
 | [<font color="#ff0000">传送门</font>](../navigation.md#playlet) | 描述 | 摘要 |
 |:---:|:---:|:---:|
 | [短剧网](https://www.duanju2.com/) | O_O | Y |
-| [立视](https://www.litv.tv/drama/search-program/country-id/KR) | O_O | Y |
+| [立视](https://www.litv.tv/drama/search-program/country-id/KR) | 韩短剧 | [ofiii](https://www.ofiii.com/subject/country/116?content-type=drama) |
 | [影视村](http://www.yingshicun.com/) | O_O | Y |
 | []() | O_O | Y |
 | []() | O_O | Y |
