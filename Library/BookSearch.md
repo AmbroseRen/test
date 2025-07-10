@@ -10,8 +10,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | __Library__ | __书库__ | [goodreads](https://www.goodreads.com/)Mark | X | X |
 | ~~[每日书单](https://pan.shudan.vip/)/[书伴网](https://www.shuban.net/)~~ | 书库 | [搜书网](https://www.soushu.vip/) | X | [rejoice](http://www.rejoiceblog.com/)pay |
-| [zure](https://zure.fun/) | 好 | [星辰的繼承者](https://zure.fun/book/fc466fba-b68d-11e8-8364-560001a72e1e/) | X | X |
-| [haoyuli](http://book.haoyuli.cn/Z.1.%E7%9B%AE%E5%BD%95%E7%B4%A2%E5%BC%95/%E5%85%A8%E9%83%A8.html) | 综合 | [佚名](https://http561856124.wordpress.com/) - [心理学书籍](http://www.ixinqing.com/) | X | X |
+| ~~[zure](https://zure.fun/)~~ | 好 | [星辰的繼承者](https://zure.fun/book/fc466fba-b68d-11e8-8364-560001a72e1e/) | X | X |
+| [haoyuli](http://book.haoyuli.cn/) | 综合 | [佚名](https://http561856124.wordpress.com/) - [心理学书籍](http://www.ixinqing.com/) | X | X |
 | [hk.edu.library](http://www.usc.cuhk.edu.hk/) | 文献 | X | X | X |
 | ~~[医学电子书](https://yixueshu.gitee.io/)~~/[源址](https://github.com/scienceasdf/medical-books/releases) | 医学书籍 | X | X | X |
 | __BookSearch__ | __搜索引擎__ | X | X | X |
