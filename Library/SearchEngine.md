@@ -15,7 +15,7 @@
 | ~~[多吉搜索](https://www.dogedoge.com)~~ | 凉了 | 隐匿 |
 | [Qwant](https://www.qwant.com) | France | Y |
 | [Ecosia](https://www.ecosia.org) | Germany | Y |
-| [Yandex](https://yandex.com) | Russia | Y |
+| [Yandex](https://yandex.com) | Russia | [KinoGo](https://kinogo-films.biz/) |
 | []() | 26 | Y |
 | []() | 26 | Y |
 | [百度](https://www.baidu.com/) | China | [慎用](https://kenengba.com/post/3414.html) |
