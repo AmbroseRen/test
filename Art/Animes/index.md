@@ -25,6 +25,7 @@
 
 | [传送门](../../navigation.md#sp) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
+| [webtoons](https://www.webtoons.com/zh-hant/) | O_O | []() | X | X |
 | [风之动漫](https://manhua.fffdm.com/) | O_O | [死亡笔记](https://manhua.fffdm.com/11/)/[咒术回战](https://www.manhuacat.com/manga/32670.html)/[鬼灭之刃](https://manhua.fffdm.com/153/) | X | X |
 | [漫画猫](https://www.manhuacat.com/) | O_O | [国王排名](https://www.maofly.com/manga/41341.html)/[QQ漫画](https://user.qzone.qq.com/1686278055) | X | X |
 | [mangabz](https://www.mangabz.com/) | O_O | []() | X | X |
