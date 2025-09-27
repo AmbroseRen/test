@@ -23,6 +23,7 @@
 | [Chat GPT](https://chat.openai.com/auth/login) | O_O | [openai](https://openai.com/) - [forum](https://forum.openai.com/) - [learning prompt](https://learningprompt.wiki/) | Y | Y |
 | [gemini](https://gemini.google.com/) | O_O | Y | Y | Y |
 | [Midjourney](https://www.midjourney.com/) | AI绘画 | [Prompts Tool](https://prompt.noonshot.com/)/[Prompt Hero](https://prompthero.com/) | Y | Y |
+| [文心一言](https://yiyan.baidu.com/) | O_O | [天工](https://search.tiangong.cn/) - [通义千问](https://tongyi.aliyun.com/qianwen/) - [SparkDesk](https://xinghuo.xfyun.cn/desk) | Y | Y |
 | [DeepSeek](https://www.deepseek.com/) | O_O | Y | Y | Y |
 | [豆包](https://www.doubao.com/chat/) | ByteDance | Y | Y | Y |
 | []() | O_O | Y | Y | Y |
