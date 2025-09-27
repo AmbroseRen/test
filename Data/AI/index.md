@@ -22,5 +22,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | [Chat GPT](https://chat.openai.com/auth/login) | O_O | [learning prompt](https://learningprompt.wiki/) | Y | Y |
 | [Midjourney](https://www.midjourney.com/) | AI绘画 | [Prompts Tool](https://prompt.noonshot.com/)/[Prompt Hero](https://prompthero.com/) | Y | Y |
+| [DeepSeek](https://chat.deepseek.com/) | O_O | Y | Y | Y |
+| [豆包](https://www.doubao.com/chat/) | ByteDance | Y | Y | Y |
 | []() | O_O | Y | Y | Y |
 | lucy | 25 | X | X | X |
