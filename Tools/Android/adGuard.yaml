@@ -1,0 +1,81 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+dns:
+  enable: true
+  listen: 0.0.0.0:1053
+  enhanced-mode: fake-ip
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+    - 8.8.8.8
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+
+# ========== 订阅节点（可选） ==========
+# 如果你有机场订阅，把 url 改成你的订阅地址；如果没有，可以先留空
+proxy-providers:
+  mysub:
+    type: http
+    url: "https://你的订阅地址"   # 👉 填你的订阅链接
+    interval: 86400
+    path: ./proxies/mysub.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+
+# ========== 节点分组 ==========
+proxy-groups:
+  # 主代理选择组
+  - name: "🚀 节点选择"
+    type: select
+    use:
+      - mysub
+    proxies:
+      - DIRECT   # 没有订阅节点时也能运行
+
+  # 自动选择最快节点
+  - name: "自动选择"
+    type: url-test
+    use:
+      - mysub
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - DIRECT
+
+  # 广告拦截组
+  - name: "🛑 广告拦截"
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+# ========== 规则集 在线更新维护 ==========
+rule-providers:
+  # 本地引用：将当前文件和 AWAvenue-Ads-Rule-Clash.yaml 文件放在同一个文件夹
+#  awa-ads:
+#    type: file
+#    behavior: domain
+#    format: yaml
+#    path: ./AWAvenue-Ads-Rule-Clash.yaml
+    
+  # 在线引用：注释上面参数，放开下面#号相同参数
+  awa-ads:
+    type: http
+    behavior: domain
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Tools/Android/AWAvenue-Ads-Rule-Clash.yaml
+    path: ./rules/awa-ads.yaml
+    interval: 86400
+
+# ========== 规则 ==========
+rules:
+  - RULE-SET,awa-ads,🛑 广告拦截
+  - MATCH,🚀 节点选择
