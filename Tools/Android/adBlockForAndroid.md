@@ -13,3 +13,5 @@
 
 * 注：此`广告拦截规则`基于[秋风广告规则](https://awavenue.top/Start.html#📥-订阅指南)而来(鉴于[链接文档](https://awavenue.top/Sub.html)-[文档二](https://awavenue.top/Knowledge.html)写的不够通用和简洁进行的规整)，目前只适用于Clash Meta.其他环境有需要再说……
 
+* 在线引用会有延迟不及时生效（启动时多刷两次就生效了），本地引用反应和效果更快.
+
