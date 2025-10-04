@@ -72,10 +72,11 @@ rule-providers:
     behavior: domain
     format: yaml
     url: https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Tools/Android/AWAvenue-Ads-Rule-Clash.yaml
-    path: ./rules/awa-ads.yaml
+    path: ./AWAvenue-Ads-Rule-Clash.yaml
     interval: 86400
 
 # ========== 规则 ==========
 rules:
   - RULE-SET,awa-ads,🛑 广告拦截
   - MATCH,🚀 节点选择
+
