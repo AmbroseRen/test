@@ -26,5 +26,6 @@
 | [文心一言](https://yiyan.baidu.com/) | O_O | [天工](https://search.tiangong.cn/) - [通义千问](https://tongyi.aliyun.com/qianwen/) - [SparkDesk](https://xinghuo.xfyun.cn/desk) | Y | Y |
 | [DeepSeek](https://www.deepseek.com/) | O_O | Y | Y | Y |
 | [豆包](https://www.doubao.com/chat/) | ByteDance | Y | Y | Y |
+| [扣子空间](https://space.coze.cn/) | O_O | [主页](https://www.coze.cn/home) | Y | Y |
 | []() | O_O | Y | Y | Y |
 | lucy | 25 | X | X | X |
