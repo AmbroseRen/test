@@ -23,6 +23,7 @@
 | [Chat GPT](https://chat.openai.com/auth/login) | O_O | [Codex](https://chatgpt.com/codex/cloud) - [openai](https://openai.com/) - [forum](https://forum.openai.com/) - [learning prompt](https://learningprompt.wiki/) | Y | Y |
 | []() | O_O | [cursor](https://cursor.com/cn/dashboard) - [Claude](https://claude.ai/new) | Y | Y |
 | [gemini](https://gemini.google.com/) | O_O | [grok](https://grok.com/) | Y | Y |
+| []() | 辅助修正AI编程 | [langchain](https://www.langchain.com/langgraph) | Y | Y |
 | [Midjourney](https://www.midjourney.com/) | AI绘画 | [Prompts Tool](https://prompt.noonshot.com/)/[Prompt Hero](https://prompthero.com/) | Y | Y |
 | [文心一言](https://yiyan.baidu.com/) | O_O | [天工](https://search.tiangong.cn/) - [通义千问](https://tongyi.aliyun.com/qianwen/) - [SparkDesk](https://xinghuo.xfyun.cn/desk) | Y | Y |
 | [DeepSeek](https://www.deepseek.com/) | O_O | Y | Y | Y |
