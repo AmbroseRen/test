@@ -7,10 +7,18 @@ mkdir  //创建文件夹
 rmdir  //删除空文件夹
 \rm -rf dirname //删除文件夹
 ```
-- [X] 查找相关文件
+- [X] 查找相关文件/后端JAR/完整路径
 
 ```
 find / -iname "*1panel*" 2>/dev/null
+```
+
+```
+find / -type f -name "*.jar" 2>/dev/null
+```
+
+```
+readlink -f install_final_fixed.sh
 ```
 
 - [X] 列出文件清单命令
