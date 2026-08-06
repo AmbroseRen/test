@@ -7,6 +7,11 @@ mkdir  //创建文件夹
 rmdir  //删除空文件夹
 \rm -rf dirname //删除文件夹
 ```
+- [X] 查找相关文件
+
+```
+find / -iname "*1panel*" 2>/dev/null
+```
 
 - [X] 列出文件清单命令
 
