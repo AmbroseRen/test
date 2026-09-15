@@ -20,7 +20,7 @@
 
 | [<font color="#ff0000">传送门</font>](../../navigation.md) | 描述 | 摘本 | 摘录 | 摘引 |
 |:---:|:---:|:---:|:---:|:---:|
-| [Chat GPT](https://chat.openai.com/auth/login) | O_O | [Codex](https://chatgpt.com/codex/cloud) - [openai](https://openai.com/) - [forum](https://forum.openai.com/) - [learning prompt](https://learningprompt.wiki/) | Y | Y |
+| [Chat GPT](https://chat.openai.com/auth/login) | O_O | [Codex](https://chatgpt.com/codex/cloud) - [openai](https://openai.com/) - [forum](https://forum.openai.com/)/[community](https://community.openai.com/) - [learning prompt](https://learningprompt.wiki/) | Y | Y |
 | []() | O_O | [copilot](https://github.com/copilot) - [cursor](https://cursor.com/cn/dashboard) - [Claude](https://claude.ai/new) | Y | Y |
 | [gemini](https://gemini.google.com/) | O_O | [grok](https://grok.com/) | Y | Y |
 | []() | 辅助修正AI编程 | [langchain](https://www.langchain.com/langgraph) | Y | Y |
